@@ -164,6 +164,62 @@ def html_to_text(html: str) -> str:
     return text.strip()
 
 
+ARTICLE_SELECTORS = [
+    "article",
+    "main",
+    "[role='main']",
+    ".post-content",
+    ".post-body",
+    ".entry-content",
+    ".article-content",
+    ".content",
+]
+
+
+def extract_article_payload(url: str) -> tuple[str, str]:
+    """記事ページから本文HTMLとテキストをできるだけ抽出する。"""
+    try:
+        resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ! article fetch failed ({e})", flush=True)
+        return "", ""
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+    for tag in soup.find_all(["script", "style", "noscript", "svg", "canvas", "iframe", "form", "nav", "header", "footer", "aside"]):
+        tag.decompose()
+
+    candidates = []
+    for selector in ARTICLE_SELECTORS:
+        candidates.extend(soup.select(selector))
+    if soup.body:
+        candidates.append(soup.body)
+    else:
+        candidates.append(soup)
+
+    best = None
+    best_len = 0
+    seen: set[int] = set()
+    for candidate in candidates:
+        marker = id(candidate)
+        if marker in seen:
+            continue
+        seen.add(marker)
+        fragment = "".join(str(child) for child in candidate.children).strip()
+        text = html_to_text(fragment)
+        length = len(text)
+        if length > best_len:
+            best = candidate
+            best_len = length
+
+    if best is None or best_len == 0:
+        return "", ""
+
+    fragment = "".join(str(child) for child in best.children).strip()
+    text = html_to_text(fragment)
+    return fragment, text
+
+
 def text_to_html(text: str) -> str:
     """翻訳済み plain text を簡易な HTML に戻す（改行 → <br>）。"""
     return xml_escape(text).replace("\n", "<br>\n")
@@ -210,19 +266,34 @@ def process_feed(fd: FeedDef) -> tuple[bool, str]:
         ekey = hashlib.sha256(eid.encode("utf-8")).hexdigest()[:20]
 
         title_en = entry.get("title", "") or ""
-        # content は content[0].value または summary
-        content_en = ""
+        # まず feed 側の本文を取り、足りなければ記事ページを見に行く
+        content_html = ""
         if entry.get("content"):
-            content_en = entry.content[0].get("value", "") or ""
-        if not content_en:
-            content_en = entry.get("summary", "") or ""
+            content_html = entry.content[0].get("value", "") or ""
+        if not content_html:
+            content_html = entry.get("summary", "") or ""
+
+        content_text = html_to_text(content_html)
+        source_html = content_html
+        source_text = content_text
+        source_is_html = bool(entry.get("content"))
+
+        article_link = entry.get("link") or ""
+        if article_link:
+            page_html, page_text = extract_article_payload(article_link)
+            if page_text and (not source_text or len(page_text) > len(source_text) + 150):
+                source_html = page_html or source_html
+                source_text = page_text
+                source_is_html = bool(page_html)
+
+        original_body = source_html if source_is_html else xml_escape(source_html or source_text)
 
         cached = cache.get(ekey)
         # 元タイトル/本文に変更がなければキャッシュを使う
         if (
             cached
             and cached.get("title_en") == title_en
-            and cached.get("content_en_hash") == hashlib.md5(content_en.encode("utf-8")).hexdigest()
+            and cached.get("content_en_hash") == hashlib.md5(source_text.encode("utf-8")).hexdigest()
         ):
             title_ja = cached["title_ja"]
             content_ja_html = cached["content_ja_html"]
@@ -230,21 +301,20 @@ def process_feed(fd: FeedDef) -> tuple[bool, str]:
             print(f"  -> translating: {title_en[:80]}", flush=True)
             try:
                 title_ja = translate(title_en) if title_en else title_en
-                text_only = html_to_text(content_en)
-                if text_only:
-                    content_ja_text = translate(text_only)
+                if source_text:
+                    content_ja_text = translate(source_text)
                     content_ja_html = (
                         '<div lang="ja"><h3>日本語訳</h3>'
                         f"<div>{text_to_html(content_ja_text)}</div></div>"
                         '<hr><div lang="en"><h3>Original (English)</h3>'
-                        f"{content_en}</div>"
+                        f"{original_body}</div>"
                     )
                 else:
-                    content_ja_html = content_en
+                    content_ja_html = original_body
                 cache[ekey] = {
                     "title_en": title_en,
                     "title_ja": title_ja,
-                    "content_en_hash": hashlib.md5(content_en.encode("utf-8")).hexdigest(),
+                    "content_en_hash": hashlib.md5(source_text.encode("utf-8")).hexdigest(),
                     "content_ja_html": content_ja_html,
                     "translated_at": datetime.now(timezone.utc).isoformat(),
                 }
@@ -252,7 +322,7 @@ def process_feed(fd: FeedDef) -> tuple[bool, str]:
             except Exception as e:
                 print(f"  ! translation error: {e}", flush=True)
                 title_ja = title_en
-                content_ja_html = content_en
+                content_ja_html = original_body
 
         fe = fg.add_entry()
         fe.id(eid)
