@@ -297,21 +297,21 @@ INDEX_TEMPLATE = """<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>翻訳済み RSS フィード</title>
 <style>
-  :root { color-scheme: light; }
-  body { font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic UI", sans-serif;
-         max-width: 720px; margin: 40px auto; padding: 0 20px; color: #1a1a1a; line-height: 1.6; }
-  h1 { font-size: 22px; margin-bottom: 4px; }
-  .sub { color: #666; font-size: 13px; margin-bottom: 24px; }
-  .feed { border: 1px solid #ece8de; border-radius: 8px; padding: 14px 18px; margin-bottom: 12px; background: #fff; }
-  .feed h2 { font-size: 15px; margin: 0 0 6px; }
-  .feed .src { color: #888; font-size: 12px; }
-  .feed code { background: #f3efe7; padding: 4px 8px; border-radius: 4px;
+  :root {{ color-scheme: light; }}
+  body {{ font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic UI", sans-serif;
+         max-width: 720px; margin: 40px auto; padding: 0 20px; color: #1a1a1a; line-height: 1.6; }}
+  h1 {{ font-size: 22px; margin-bottom: 4px; }}
+  .sub {{ color: #666; font-size: 13px; margin-bottom: 24px; }}
+  .feed {{ border: 1px solid #ece8de; border-radius: 8px; padding: 14px 18px; margin-bottom: 12px; background: #fff; }}
+  .feed h2 {{ font-size: 15px; margin: 0 0 6px; }}
+  .feed .src {{ color: #888; font-size: 12px; }}
+  .feed code {{ background: #f3efe7; padding: 4px 8px; border-radius: 4px;
                font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 12px;
-               display: inline-block; margin-top: 6px; word-break: break-all; }
-  .feed .status { font-size: 12px; padding: 2px 8px; border-radius: 3px; }
-  .ok { background: #e3f4ea; color: #1d6f3a; }
-  .err { background: #fff4f0; color: #8a3219; }
-  .footer { color: #888; font-size: 12px; margin-top: 32px; }
+               display: inline-block; margin-top: 6px; word-break: break-all; }}
+  .feed .status {{ font-size: 12px; padding: 2px 8px; border-radius: 3px; }}
+  .ok {{ background: #e3f4ea; color: #1d6f3a; }}
+  .err {{ background: #fff4f0; color: #8a3219; }}
+  .footer {{ color: #888; font-size: 12px; margin-top: 32px; }}
 </style>
 </head>
 <body>
