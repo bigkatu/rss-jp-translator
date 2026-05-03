@@ -24,14 +24,4 @@ feeds:
     url: https://openai.com/news/rss.xml
     title: OpenAI News（日本語）
 
-  # Anthropic は公式RSSがないため、RSSHubの非公式ルートを使用。
-  # 公開インスタンス rsshub.app はレート制限が厳しめなので、もし不安定なら
-  # 下のコメントアウト案（taobojlen の GitHub-hosted RSS）に切り替えてください。
-  - name: anthropic-news
-    url: https://rsshub.app/anthropic/news
-    title: Anthropic News（日本語）
-
-  # 代替案：個人メンテのGitHub-hosted RSS（rsshub.appが不安定なときのフォールバック）
-  # - name: anthropic-news
-  #   url: https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml
-  #   title: Anthropic News（日本語・非公式ミラー経由）
+  # An

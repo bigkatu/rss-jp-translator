@@ -1,0 +1,7 @@
+feedparser>=6.0.10
+feedgen>=1.0.0
+deep-translator>=1.11.4
+beautifulsoup4>=4.12.0
+PyYAML>=6.0
+lxml>=5.0.0
+requests>=2.31.0
