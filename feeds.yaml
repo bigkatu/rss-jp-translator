@@ -1,0 +1,37 @@
+# 翻訳したいRSS/Atomフィードのリスト
+# name:  出力ファイル名 (output/<name>.xml として配信される)
+# url:   ソースフィードのURL
+# title: (任意) 表示タイトルの上書き
+#
+# 動作確認状況（2026-05時点）：
+#   ✅ Claude Code releases.atom    : 公式・直接確認済み
+#   ✅ OpenAI Codex releases.atom   : 公式・直接確認済み
+#   ✅ openai.com/news/rss.xml      : 公式RSS（最近復活）
+#   ❌ anthropic.com の RSS         : 公式RSSは提供されていません（/rss.xml,
+#                                     /news/rss.xml, /feed.xml, /atom.xml すべて404確認済み）
+#                                     → RSSHubの非公式ルートを使用
+
+feeds:
+  - name: claude-code
+    url: https://github.com/anthropics/claude-code/releases.atom
+    title: Claude Code リリース（日本語）
+
+  - name: openai-codex
+    url: https://github.com/openai/codex/releases.atom
+    title: OpenAI Codex リリース（日本語）
+
+  - name: openai-news
+    url: https://openai.com/news/rss.xml
+    title: OpenAI News（日本語）
+
+  # Anthropic は公式RSSがないため、RSSHubの非公式ルートを使用。
+  # 公開インスタンス rsshub.app はレート制限が厳しめなので、もし不安定なら
+  # 下のコメントアウト案（taobojlen の GitHub-hosted RSS）に切り替えてください。
+  - name: anthropic-news
+    url: https://rsshub.app/anthropic/news
+    title: Anthropic News（日本語）
+
+  # 代替案：個人メンテのGitHub-hosted RSS（rsshub.appが不安定なときのフォールバック）
+  # - name: anthropic-news
+  #   url: https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml
+  #   title: Anthropic News（日本語・非公式ミラー経由）
