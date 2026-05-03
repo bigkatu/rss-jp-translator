@@ -1,0 +1,177 @@
+{
+  "b0caa1ec272460929a17": {
+    "title_en": "Introducing Advanced Account Security",
+    "title_ja": "高度なアカウント セキュリティの導入",
+    "content_en_hash": "0c0009b7a710110d71dc305cf11b8fe3",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>高度なアカウント セキュリティの導入: フィッシング耐性のあるログイン、強力な回復、機密データを保護し、アカウントの乗っ取りを防ぐための強化された保護。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.</div>",
+    "translated_at": "2026-05-03T16:28:33.483409+00:00"
+  },
+  "8b7276cd935e31848cb5": {
+    "title_en": "Where the goblins came from",
+    "title_ja": "ゴブリンはどこから来たのか",
+    "content_en_hash": "87ce53ec78f8ecb2d6503801d18c9256",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>ゴブリンの出力が AI モデルにどのように広がるか: タイムライン、根本原因、GPT-5 の動作における性格に基づく癖の背後にある修正。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.</div>",
+    "translated_at": "2026-05-03T16:28:34.597627+00:00"
+  },
+  "6b8c46a3e355b7789250": {
+    "title_en": "Building the compute infrastructure for the Intelligence Age",
+    "title_ja": "インテリジェンス時代のコンピューティング インフラストラクチャの構築",
+    "content_en_hash": "89276918eeb0363e6391e0b1ede3c295",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>OpenAI は Stargate を拡張して、AGI を強化するコンピューティング インフラストラクチャを構築し、増大する AI 需要に対応する新しいデータセンター容量を追加します。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.</div>",
+    "translated_at": "2026-05-03T16:28:35.692213+00:00"
+  },
+  "180302e63d71fe712432": {
+    "title_en": "Cybersecurity in the Intelligence Age",
+    "title_ja": "インテリジェンス時代のサイバーセキュリティ",
+    "content_en_hash": "ef0077f02c134df549437d21bf9905dc",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>OpenAI は、AI を活用したサイバー防御の民主化と重要なシステムの保護に焦点を当てた、インテリジェンス時代のサイバーセキュリティを強化するための 5 部構成の行動計画の概要を示しています。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.</div>",
+    "translated_at": "2026-05-03T16:28:36.817598+00:00"
+  },
+  "a15adbd33f2781761720": {
+    "title_en": "Our commitment to community safety",
+    "title_ja": "地域の安全に対する私たちの取り組み",
+    "content_en_hash": "2350341fa144fd40ef086e3f183136ae",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>OpenAI がモデルの保護、誤用の検出、ポリシーの施行、安全専門家とのコラボレーションを通じて、ChatGPT でコミュニティの安全をどのように保護しているかを学びましょう。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.</div>",
+    "translated_at": "2026-05-03T16:28:37.908410+00:00"
+  },
+  "0ff444850a32f480e770": {
+    "title_en": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "title_ja": "OpenAI モデル、Codex、およびマネージド エージェントが AWS に登場",
+    "content_en_hash": "18bdad7cba1c65c27be2f9cd1b5a65d9",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>OpenAI GPT モデル、Codex、およびマネージド エージェントが AWS で利用できるようになり、企業は AWS 環境で安全な AI を構築できるようになります。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.</div>",
+    "translated_at": "2026-05-03T16:28:39.017879+00:00"
+  },
+  "b5d18c04f7f67bab650d": {
+    "title_en": "OpenAI available at FedRAMP Moderate",
+    "title_ja": "OpenAI は FedRAMP Moderate で利用可能",
+    "content_en_hash": "d639684ab9911ca4ad63e059e7739fef",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>OpenAI は、FedRAMP で利用できます。ChatGPT Enterprise および OpenAI API に対する中程度の承認により、米国連邦機関による安全な AI 導入が可能になります。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.</div>",
+    "translated_at": "2026-05-03T16:28:40.156966+00:00"
+  },
+  "414538245782acfe775a": {
+    "title_en": "The next phase of the Microsoft OpenAI partnership",
+    "title_ja": "Microsoft OpenAI パートナーシップの次の段階",
+    "content_en_hash": "c89f78deeb3129fb31afef4863678970",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>OpenAI と Microsoft は、パートナーシップを簡素化し、長期的な明確性を加え、大規模な AI イノベーションの継続をサポートする修正契約を発表しました。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.</div>",
+    "translated_at": "2026-05-03T16:28:41.460991+00:00"
+  },
+  "f9ff221789e0942ded4a": {
+    "title_en": "An open-source spec for orchestration: Symphony",
+    "title_ja": "オーケストレーションのオープンソース仕様: Symphony",
+    "content_en_hash": "8f24e929a959fd5c3fd3a6aa1c24086e",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>Codex オーケストレーションのオープンソース仕様である Symphony が、問題トラッカーを常時稼働のエージェント システムに変え、エンジニアリングの成果を高め、コンテキストの切り替えを減らす方法を学びましょう。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.</div>",
+    "translated_at": "2026-05-03T16:28:42.574976+00:00"
+  },
+  "d385c9eee6daddf42dca": {
+    "title_en": "Choco automates food distribution with AI agents",
+    "title_ja": "Choco は AI エージェントを使用して食品流通を自動化します",
+    "content_en_hash": "5eb5292498e5f8e015ff3dc6008b89a1",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>Choco が OpenAI API を使用して食品流通を合理化し、生産性を高め、成長を実現した方法 - 現実世界の AI への影響に関する詳細な顧客ストーリー。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.</div>",
+    "translated_at": "2026-05-03T16:28:43.786829+00:00"
+  },
+  "1113ba57f4bdb988e0b4": {
+    "title_en": "Our principles",
+    "title_ja": "私たちの原則",
+    "content_en_hash": "47b24837226b3c8d6c916633b63cfe0f",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>私たちの使命は、AGI が全人類に利益をもたらすことを保証することです。サム・アルトマンは、私たちの仕事の指針となる 5 つの原則を共有しています。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.</div>",
+    "translated_at": "2026-05-03T16:28:44.915615+00:00"
+  },
+  "dfe7e0c6ff3981408b54": {
+    "title_en": "Introducing GPT-5.5",
+    "title_ja": "GPT-5.5の紹介",
+    "content_en_hash": "aa203fe88335781dcbe4d721de30a9e9",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>GPT-5.5 は、これまでで最もスマートなモデルであり、より高速かつ高機能で、複数のツールにわたるコーディング、調査、データ分析などの複雑なタスク向けに構築されています。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.</div>",
+    "translated_at": "2026-05-03T16:28:46.029240+00:00"
+  },
+  "a07eb39dec044669d8f4": {
+    "title_en": "GPT-5.5 System Card",
+    "title_ja": "GPT-5.5 システムカード",
+    "content_en_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_ja_html": "",
+    "translated_at": "2026-05-03T16:28:46.574854+00:00"
+  },
+  "34f009d107cc6ed8ac29": {
+    "title_en": "What is Codex?",
+    "title_ja": "コーデックスとは何ですか?",
+    "content_en_hash": "e07b9c5605645872cb62345ee659ee40",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>Codex がタスクの自動化、ツールの接続、ドキュメントやダッシュボードなどの実際の出力の生成によって、チャットを超えてどのように役立つかを学びましょう。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.</div>",
+    "translated_at": "2026-05-03T16:28:47.718777+00:00"
+  },
+  "0bd514e3244e4be319c6": {
+    "title_en": "How to get started with Codex",
+    "title_ja": "Codex の使用を開始する方法",
+    "content_en_hash": "016c5ac0d8d23d0ad5796f73d6a275e4",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>ステップバイステップのガイダンスに従って、プロジェクトを設定し、スレッドを作成し、最初のタスクを完了することで、Codex を開始する方法を学びます。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.</div>",
+    "translated_at": "2026-05-03T16:28:48.835402+00:00"
+  },
+  "72f200cf8d8a54af84fa": {
+    "title_en": "Codex settings",
+    "title_ja": "コーデックス設定",
+    "content_en_hash": "e3db4ee5b51afcfc07b9ab041425ebc2",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>カスタマイズ、詳細レベル、権限などの Codex 設定を構成して、タスクをスムーズに実行し、ワークフローをカスタマイズする方法を学びます。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.</div>",
+    "translated_at": "2026-05-03T16:28:49.954938+00:00"
+  },
+  "40d5894d1daf7129134c": {
+    "title_en": "Working with Codex",
+    "title_ja": "コーデックスの使用",
+    "content_en_hash": "c5fe97ba07dee526be2896924be5cb9b",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>Codex ワークスペースの設定、スレッドとプロジェクトの作成、ファイルの管理、およびステップバイステップのガイダンスに従ってタスクの完了を開始する方法を学びます。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.</div>",
+    "translated_at": "2026-05-03T16:28:51.163501+00:00"
+  },
+  "277cf65bf8c8d0a794c9": {
+    "title_en": "Plugins and skills",
+    "title_ja": "プラグインとスキル",
+    "content_en_hash": "7884bd1c59aa1c16427f38ff35c82756",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>Codex プラグインとスキルを使用してツールを接続し、データにアクセスし、反復可能なワークフローに従ってタスクを自動化し、結果を向上させる方法を学びます。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.</div>",
+    "translated_at": "2026-05-03T16:28:52.267412+00:00"
+  },
+  "533227aa43914c8ed452": {
+    "title_en": "Top 10 uses for Codex at work",
+    "title_ja": "仕事での Codex の使用法トップ 10",
+    "content_en_hash": "10668817e796e9e44322876cfdb9845c",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>タスクを自動化し、成果物を作成し、ツール、ファイル、ワークフロー全体で実際の入力を出力に変えるための 10 の Codex の実践的な使用例を調べてください。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.</div>",
+    "translated_at": "2026-05-03T16:28:53.385179+00:00"
+  },
+  "9fab69c8c968c73d3db4": {
+    "title_en": "Automations",
+    "title_ja": "自動化",
+    "content_en_hash": "4a7951302f476c8c6d1342d90ef28f5b",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>スケジュールとトリガーを使用して Codex のタスクを自動化し、手作業なしでレポート、概要、定期的なワークフローを作成する方法を学びます。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.</div>",
+    "translated_at": "2026-05-03T16:28:54.493688+00:00"
+  },
+  "d2f04a645a936fa0cd8e": {
+    "title_en": "GPT-5.5 Bio Bug Bounty",
+    "title_ja": "GPT-5.5 バイオバグ報奨金",
+    "content_en_hash": "a47809bea963914f08a8937eac1a3c31",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>GPT-5.5 バイオ バグ バウンティを探索してください。バイオ セーフティ リスクに対する普遍的なジェイルブレイクを見つけるためのレッド チーム チャレンジで、最大 25,000 ドルの報酬が得られます。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.</div>",
+    "translated_at": "2026-05-03T16:28:55.613795+00:00"
+  },
+  "8cad933a121d8b62c9d4": {
+    "title_en": "Making ChatGPT better for clinicians",
+    "title_ja": "ChatGPT を臨床医にとってより良いものにする",
+    "content_en_hash": "733aa2f3ce1e11c9680928281bc67677",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>OpenAI は、認定された米国の医師、看護師、薬剤師向けに ChatGPT for Clinicians を無料で提供し、臨床ケア、文書化、研究をサポートします。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.</div>",
+    "translated_at": "2026-05-03T16:28:56.760125+00:00"
+  },
+  "469345dd38743a921434": {
+    "title_en": "Workspace agents",
+    "title_ja": "ワークスペースエージェント",
+    "content_en_hash": "4a482172d29c373743c81fc2be08bdb6",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>ChatGPT でワークスペース エージェントを構築、使用、拡張して、反復可能なワークフローを自動化し、ツールを接続し、チームの運用を合理化する方法を学びます。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.</div>",
+    "translated_at": "2026-05-03T16:28:57.967627+00:00"
+  },
+  "8f555fe918e1ef562b9b": {
+    "title_en": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "title_ja": "Responses API の WebSocket を使用してエージェント ワークフローを高速化する",
+    "content_en_hash": "b32423df907c06811be5791a80314a09",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>Codex エージェント ループを詳しく掘り下げ、WebSocket と接続スコープのキャッシュが API オーバーヘッドを削減し、モデルの遅延を改善する方法を示します。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.</div>",
+    "translated_at": "2026-05-03T16:28:59.185608+00:00"
+  },
+  "c71ef79e3212dc880b6b": {
+    "title_en": "Introducing workspace agents in ChatGPT",
+    "title_ja": "ChatGPT でのワークスペース エージェントの紹介",
+    "content_en_hash": "1e21f086129f32a20626aef8373cb0de",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>ChatGPT のワークスペース エージェントは、複雑なワークフローを自動化し、クラウドで実行し、チームがツール間で作業を安全にスケールできるようにする Codex を利用したエージェントです。</div></div><hr><div lang=\"en\"><h3>Original (English)</h3>Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.</div>",
+    "translated_at": "2026-05-03T16:29:00.300376+00:00"
+  }
+}

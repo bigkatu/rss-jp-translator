@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+  <id>https://openai.com/news/rss.xml</id>
+  <title>OpenAI News（日本語）</title>
+  <updated>2026-05-03T16:28:32.265464+00:00</updated>
+  <link href="https://openai.com/news" rel="alternate"/>
+  <link href="https://openai.com/news/rss.xml" rel="via"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>日本語訳: The OpenAI blog</subtitle>
+  <entry>
+    <id>https://openai.com/index/introducing-workspace-agents-in-chatgpt</id>
+    <title>ChatGPT でのワークスペース エージェントの紹介</title>
+    <updated>2026-04-22T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;ChatGPT のワークスペース エージェントは、複雑なワークフローを自動化し、クラウドで実行し、チームがツール間で作業を安全にスケールできるようにする Codex を利用したエージェントです。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/introducing-workspace-agents-in-chatgpt"/>
+    <published>2026-04-22T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/speeding-up-agentic-workflows-with-websockets</id>
+    <title>Responses API の WebSocket を使用してエージェント ワークフローを高速化する</title>
+    <updated>2026-04-22T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;Codex エージェント ループを詳しく掘り下げ、WebSocket と接続スコープのキャッシュが API オーバーヘッドを削減し、モデルの遅延を改善する方法を示します。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/speeding-up-agentic-workflows-with-websockets"/>
+    <published>2026-04-22T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/workspace-agents</id>
+    <title>ワークスペースエージェント</title>
+    <updated>2026-04-22T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;ChatGPT でワークスペース エージェントを構築、使用、拡張して、反復可能なワークフローを自動化し、ツールを接続し、チームの運用を合理化する方法を学びます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.&lt;/div&gt;</content>
+    <link href="https://openai.com/academy/workspace-agents"/>
+    <published>2026-04-22T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/making-chatgpt-better-for-clinicians</id>
+    <title>ChatGPT を臨床医にとってより良いものにする</title>
+    <updated>2026-04-22T15:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;OpenAI は、認定された米国の医師、看護師、薬剤師向けに ChatGPT for Clinicians を無料で提供し、臨床ケア、文書化、研究をサポートします。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/making-chatgpt-better-for-clinicians"/>
+    <published>2026-04-22T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/gpt-5-5-bio-bug-bounty</id>
+    <title>GPT-5.5 バイオバグ報奨金</title>
+    <updated>2026-04-23T00:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;GPT-5.5 バイオ バグ バウンティを探索してください。バイオ セーフティ リスクに対する普遍的なジェイルブレイクを見つけるためのレッド チーム チャレンジで、最大 25,000 ドルの報酬が得られます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/gpt-5-5-bio-bug-bounty"/>
+    <published>2026-04-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/codex-automations</id>
+    <title>自動化</title>
+    <updated>2026-04-23T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;スケジュールとトリガーを使用して Codex のタスクを自動化し、手作業なしでレポート、概要、定期的なワークフローを作成する方法を学びます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.&lt;/div&gt;</content>
+    <link href="https://openai.com/academy/codex-automations"/>
+    <published>2026-04-23T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/top-10-use-cases-codex-for-work</id>
+    <title>仕事での Codex の使用法トップ 10</title>
+    <updated>2026-04-23T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;タスクを自動化し、成果物を作成し、ツール、ファイル、ワークフロー全体で実際の入力を出力に変えるための 10 の Codex の実践的な使用例を調べてください。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.&lt;/div&gt;</content>
+    <link href="https://openai.com/academy/top-10-use-cases-codex-for-work"/>
+    <published>2026-04-23T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/codex-plugins-and-skills</id>
+    <title>プラグインとスキル</title>
+    <updated>2026-04-23T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;Codex プラグインとスキルを使用してツールを接続し、データにアクセスし、反復可能なワークフローに従ってタスクを自動化し、結果を向上させる方法を学びます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.&lt;/div&gt;</content>
+    <link href="https://openai.com/academy/codex-plugins-and-skills"/>
+    <published>2026-04-23T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/working-with-codex</id>
+    <title>コーデックスの使用</title>
+    <updated>2026-04-23T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;Codex ワークスペースの設定、スレッドとプロジェクトの作成、ファイルの管理、およびステップバイステップのガイダンスに従ってタスクの完了を開始する方法を学びます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.&lt;/div&gt;</content>
+    <link href="https://openai.com/academy/working-with-codex"/>
+    <published>2026-04-23T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/codex-settings</id>
+    <title>コーデックス設定</title>
+    <updated>2026-04-23T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;カスタマイズ、詳細レベル、権限などの Codex 設定を構成して、タスクをスムーズに実行し、ワークフローをカスタマイズする方法を学びます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.&lt;/div&gt;</content>
+    <link href="https://openai.com/academy/codex-settings"/>
+    <published>2026-04-23T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/codex-how-to-start</id>
+    <title>Codex の使用を開始する方法</title>
+    <updated>2026-04-23T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;ステップバイステップのガイダンスに従って、プロジェクトを設定し、スレッドを作成し、最初のタスクを完了することで、Codex を開始する方法を学びます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.&lt;/div&gt;</content>
+    <link href="https://openai.com/academy/codex-how-to-start"/>
+    <published>2026-04-23T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/what-is-codex</id>
+    <title>コーデックスとは何ですか?</title>
+    <updated>2026-04-23T10:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;Codex がタスクの自動化、ツールの接続、ドキュメントやダッシュボードなどの実際の出力の生成によって、チャットを超えてどのように役立つかを学びましょう。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.&lt;/div&gt;</content>
+    <link href="https://openai.com/academy/what-is-codex"/>
+    <published>2026-04-23T10:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/gpt-5-5-system-card</id>
+    <title>GPT-5.5 システムカード</title>
+    <updated>2026-04-23T11:00:00+00:00</updated>
+    <content type="html"/>
+    <link href="https://openai.com/index/gpt-5-5-system-card"/>
+    <published>2026-04-23T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/introducing-gpt-5-5</id>
+    <title>GPT-5.5の紹介</title>
+    <updated>2026-04-23T11:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;GPT-5.5 は、これまでで最もスマートなモデルであり、より高速かつ高機能で、複数のツールにわたるコーディング、調査、データ分析などの複雑なタスク向けに構築されています。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/introducing-gpt-5-5"/>
+    <published>2026-04-23T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/our-principles</id>
+    <title>私たちの原則</title>
+    <updated>2026-04-26T16:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;私たちの使命は、AGI が全人類に利益をもたらすことを保証することです。サム・アルトマンは、私たちの仕事の指針となる 5 つの原則を共有しています。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/our-principles"/>
+    <published>2026-04-26T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/choco</id>
+    <title>Choco は AI エージェントを使用して食品流通を自動化します</title>
+    <updated>2026-04-27T00:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;Choco が OpenAI API を使用して食品流通を合理化し、生産性を高め、成長を実現した方法 - 現実世界の AI への影響に関する詳細な顧客ストーリー。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/choco"/>
+    <published>2026-04-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/open-source-codex-orchestration-symphony</id>
+    <title>オーケストレーションのオープンソース仕様: Symphony</title>
+    <updated>2026-04-27T00:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;Codex オーケストレーションのオープンソース仕様である Symphony が、問題トラッカーを常時稼働のエージェント システムに変え、エンジニアリングの成果を高め、コンテキストの切り替えを減らす方法を学びましょう。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/open-source-codex-orchestration-symphony"/>
+    <published>2026-04-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/next-phase-of-microsoft-partnership</id>
+    <title>Microsoft OpenAI パートナーシップの次の段階</title>
+    <updated>2026-04-27T06:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;OpenAI と Microsoft は、パートナーシップを簡素化し、長期的な明確性を加え、大規模な AI イノベーションの継続をサポートする修正契約を発表しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/next-phase-of-microsoft-partnership"/>
+    <published>2026-04-27T06:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/openai-available-at-fedramp-moderate</id>
+    <title>OpenAI は FedRAMP Moderate で利用可能</title>
+    <updated>2026-04-27T14:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;OpenAI は、FedRAMP で利用できます。ChatGPT Enterprise および OpenAI API に対する中程度の承認により、米国連邦機関による安全な AI 導入が可能になります。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/openai-available-at-fedramp-moderate"/>
+    <published>2026-04-27T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/openai-on-aws</id>
+    <title>OpenAI モデル、Codex、およびマネージド エージェントが AWS に登場</title>
+    <updated>2026-04-28T00:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;OpenAI GPT モデル、Codex、およびマネージド エージェントが AWS で利用できるようになり、企業は AWS 環境で安全な AI を構築できるようになります。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/openai-on-aws"/>
+    <published>2026-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/our-commitment-to-community-safety</id>
+    <title>地域の安全に対する私たちの取り組み</title>
+    <updated>2026-04-28T00:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;OpenAI がモデルの保護、誤用の検出、ポリシーの施行、安全専門家とのコラボレーションを通じて、ChatGPT でコミュニティの安全をどのように保護しているかを学びましょう。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/our-commitment-to-community-safety"/>
+    <published>2026-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/cybersecurity-in-the-intelligence-age</id>
+    <title>インテリジェンス時代のサイバーセキュリティ</title>
+    <updated>2026-04-29T04:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;OpenAI は、AI を活用したサイバー防御の民主化と重要なシステムの保護に焦点を当てた、インテリジェンス時代のサイバーセキュリティを強化するための 5 部構成の行動計画の概要を示しています。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/cybersecurity-in-the-intelligence-age"/>
+    <published>2026-04-29T04:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age</id>
+    <title>インテリジェンス時代のコンピューティング インフラストラクチャの構築</title>
+    <updated>2026-04-29T15:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;OpenAI は Stargate を拡張して、AGI を強化するコンピューティング インフラストラクチャを構築し、増大する AI 需要に対応する新しいデータセンター容量を追加します。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"/>
+    <published>2026-04-29T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/where-the-goblins-came-from</id>
+    <title>ゴブリンはどこから来たのか</title>
+    <updated>2026-04-29T20:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;ゴブリンの出力が AI モデルにどのように広がるか: タイムライン、根本原因、GPT-5 の動作における性格に基づく癖の背後にある修正。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/where-the-goblins-came-from"/>
+    <published>2026-04-29T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/advanced-account-security</id>
+    <title>高度なアカウント セキュリティの導入</title>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;高度なアカウント セキュリティの導入: フィッシング耐性のあるログイン、強力な回復、機密データを保護し、アカウントの乗っ取りを防ぐための強化された保護。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.&lt;/div&gt;</content>
+    <link href="https://openai.com/index/advanced-account-security"/>
+    <published>2026-04-30T00:00:00+00:00</published>
+  </entry>
+</feed>
