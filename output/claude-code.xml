@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-06T18:57:49.722703+00:00</updated>
+  <updated>2026-05-06T20:45:20.911623+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -5522,7 +5522,7 @@ Bash(mkdir *)&lt;br&gt;
  &lt;br&gt;
 &lt;br&gt;
  &lt;br&gt;
-10人が反応しました&lt;br&gt;
+11人が反応しました&lt;br&gt;
 &lt;br&gt;
     現時点ではそのアクションを実行できません。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;div class="logged-out env-production page-responsive" data-turbo-body="" style="word-wrap: break-word;"&gt;
 &lt;div data-turbo-permanent="" id="__primerPortalRoot__" role="region" style="z-index: 1000; position: absolute; width: 100%;"&gt;&lt;/div&gt;
@@ -5531,7 +5531,7 @@ Bash(mkdir *)&lt;br&gt;
 &lt;span class="progress-pjax-loader Progress position-fixed width-full" data-view-component="true"&gt;
 &lt;span class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis" data-view-component="true" style="width: 0%;"&gt;&lt;/span&gt;
 &lt;/span&gt;
-&lt;link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react-css.284b508046914c02.module.css" media="all" rel="stylesheet"&gt;
+&lt;link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react-css.67ce5bfeb067a35a.module.css" media="all" rel="stylesheet"&gt;
 &lt;link crossorigin="anonymous" href="https://github.githubassets.com/assets/keyboard-shortcuts-dialog.094b740f3c5e4a11.module.css" media="all" rel="stylesheet"&gt;
 &lt;react-partial data-attempted-ssr="false" data-react-profiling="false" data-ssr="false" partial-name="keyboard-shortcuts-dialog"&gt;
 
@@ -5547,8 +5547,8 @@ Bash(mkdir *)&lt;br&gt;
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-b8cad92b-e800-4c56-9f71-9d44fe6b9ec1" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-9c42f668-f94c-4afb-a953-74929853925c" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-9c42f668-f94c-4afb-a953-74929853925c" id="tooltip-b8cad92b-e800-4c56-9f71-9d44fe6b9ec1" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-a14e2154-93a8-4604-8b6f-4065a24bb63c" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-1d34d8d2-119d-431b-9ffb-59e6fa4dcbb7" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-1d34d8d2-119d-431b-9ffb-59e6fa4dcbb7" id="tooltip-a14e2154-93a8-4604-8b6f-4065a24bb63c" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -5589,18 +5589,18 @@ Bash(mkdir *)&lt;br&gt;
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.129","user_id":null}}' data-hydro-click-hmac="89340c943a94a446d9c4b4701ee29ee08b726cc635f9b5d0ce1c8426f0ae1b08" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-8b4591ac-3211-48c5-b21e-edfae41b1410" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-b51a405e-e508-47ff-97f0-2c40fbe23770" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":937253475,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.129","user_id":null}}' data-hydro-click-hmac="8a3988dc820b299d9e178bf1cfdebeea21a228bdd3769435a008e0a0303a8f88" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="20,020"&gt;20k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="20,025"&gt;20k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":937253475,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.129","user_id":null}}' data-hydro-click-hmac="4d8a516c83c014e4594b292f52cebc2af91dcd13beef01cac7713e656d5d1ef7" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="120934 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="120,934"&gt;121k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="120966 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="120,966"&gt;121k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -5631,25 +5631,25 @@ Bash(mkdir *)&lt;br&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -5663,9 +5663,9 @@ Bash(mkdir *)&lt;br&gt;
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-filter" id="label-06b5d632-7075-4fc2-a047-e473f1794301"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-filter" id="label-88b47ae7-e9e7-4efd-814a-b7dd266a43e8"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -5675,9 +5675,9 @@ Bash(mkdir *)&lt;br&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-06b5d632-7075-4fc2-a047-e473f1794301" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-88b47ae7-e9e7-4efd-814a-b7dd266a43e8" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-06b5d632-7075-4fc2-a047-e473f1794301"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-88b47ae7-e9e7-4efd-814a-b7dd266a43e8"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -5688,9 +5688,9 @@ Bash(mkdir *)&lt;br&gt;
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:0f5908ce-8917-9e97-41dd-262c55814ae4" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/anthropics/claude-code/refs?tag_name=v2.1.129&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-0eb9eddc-acd4-4765-a728-05a71f27aa98-list"&gt;
+&lt;div id="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:9e6dff58-3d3e-ef43-9b6c-a62ad6d86f32" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/anthropics/claude-code/refs?tag_name=v2.1.129&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-1cb35f6e-7801-4080-8af5-43763a27eddd-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -5799,7 +5799,7 @@ Bash(mkdir *)&lt;br&gt;
 &lt;span class="Counter" data-view-component="true" title="12"&gt;12&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:0f5908ce-8917-9e97-41dd-262c55814ae4" data-view-component="true" loading="lazy" src="https://github.com/anthropics/claude-code/releases/expanded_assets/v2.1.129"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:9e6dff58-3d3e-ef43-9b6c-a62ad6d86f32" data-view-component="true" loading="lazy" src="https://github.com/anthropics/claude-code/releases/expanded_assets/v2.1.129"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -5818,7 +5818,7 @@ Bash(mkdir *)&lt;br&gt;
 &lt;/div&gt;
 &lt;div class="d-flex flex-row flex-wrap flex-justify-between js-comment"&gt;
 &lt;div class="comment-reactions js-reactions-container js-reaction-buttons-container social-reactions reactions-container has-reactions d-flex" data-view-component="true"&gt;
-&lt;!-- '"` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt; &lt;div class="color-fg-muted mt-1 tmp-mt-1" data-view-component="true"&gt;10 people reacted&lt;/div&gt;
+&lt;!-- '"` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt; &lt;div class="color-fg-muted mt-1 tmp-mt-1" data-view-component="true"&gt;11 people reacted&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
