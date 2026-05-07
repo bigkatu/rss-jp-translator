@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-06T23:05:41.709622+00:00</updated>
+  <updated>2026-05-07T00:03:01.654931+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -5945,7 +5945,7 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 読み込み中にエラーが発生しました。 &lt;br&gt;
 このページをリロードしてください&lt;br&gt;
 。&lt;br&gt;
-2人が反応しました&lt;br&gt;
+4人が反応しました&lt;br&gt;
 &lt;br&gt;
     現時点ではそのアクションを実行できません。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;div class="logged-out env-production page-responsive" data-turbo-body="" style="word-wrap: break-word;"&gt;
 &lt;div data-turbo-permanent="" id="__primerPortalRoot__" role="region" style="z-index: 1000; position: absolute; width: 100%;"&gt;&lt;/div&gt;
@@ -5970,8 +5970,8 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-6be8936d-65f3-40bc-abf3-1e7fefb0ade7" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-bd54ada7-3aba-439d-b6f8-31bdbb60dc0b" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-bd54ada7-3aba-439d-b6f8-31bdbb60dc0b" id="tooltip-6be8936d-65f3-40bc-abf3-1e7fefb0ade7" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-3e37d686-f3c8-41e1-9f4d-9811bf58d11b" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-6c22de5b-5c98-4a05-bafd-ebc19d2fc148" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-6c22de5b-5c98-4a05-bafd-ebc19d2fc148" id="tooltip-3e37d686-f3c8-41e1-9f4d-9811bf58d11b" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -6012,7 +6012,7 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.132","user_id":null}}' data-hydro-click-hmac="9df7643830858341d90e068e1effb80fb9a25bf79f3aeddbf4e62f4ae3a88d43" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-9e21b402-06ba-4d94-ac30-740a8edeb125" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-66d1a8f0-946d-45c1-8901-004ef9aa2875" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":937253475,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.132","user_id":null}}' data-hydro-click-hmac="1503af371d734ffd71d3633c63e62160cf8713ac795b6aabd816a5d5c6dbb248" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
@@ -6023,7 +6023,7 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":937253475,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.132","user_id":null}}' data-hydro-click-hmac="db8a2cb91cf3fbcdd4b5f99e8e0fe9886d237c7834afe0eb7e1c89af8084450c" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="120984 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="120,984"&gt;121k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="120989 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="120,989"&gt;121k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -6056,25 +6056,25 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -6088,9 +6088,9 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-filter" id="label-d64c118c-ca8b-40bb-846b-0fd9f5c9efd8"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-filter" id="label-0e27dd47-e8a1-4111-b2f6-62f5cc326235"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -6100,9 +6100,9 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-d64c118c-ca8b-40bb-846b-0fd9f5c9efd8" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-0e27dd47-e8a1-4111-b2f6-62f5cc326235" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-d64c118c-ca8b-40bb-846b-0fd9f5c9efd8"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-0e27dd47-e8a1-4111-b2f6-62f5cc326235"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -6113,9 +6113,9 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:8fa90a89-f03d-e9de-3e47-99f863b37c39" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/anthropics/claude-code/refs?tag_name=v2.1.132&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-ce464922-9b40-4b65-8efc-d0f7f04bd54f-list"&gt;
+&lt;div id="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:af47488d-b787-b44f-5c03-b4e90318196d" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/anthropics/claude-code/refs?tag_name=v2.1.132&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-ed063cb6-e280-4827-8a40-65823e9f7270-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -6217,7 +6217,7 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 &lt;span class="Counter" data-view-component="true" title="12"&gt;12&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:8fa90a89-f03d-e9de-3e47-99f863b37c39" data-view-component="true" loading="lazy" src="https://github.com/anthropics/claude-code/releases/expanded_assets/v2.1.132"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:af47488d-b787-b44f-5c03-b4e90318196d" data-view-component="true" loading="lazy" src="https://github.com/anthropics/claude-code/releases/expanded_assets/v2.1.132"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -6236,7 +6236,7 @@ ENABLE_PROMPT_CACHING_1H&lt;br&gt;
 &lt;/div&gt;
 &lt;div class="d-flex flex-row flex-wrap flex-justify-between js-comment"&gt;
 &lt;div class="comment-reactions js-reactions-container js-reaction-buttons-container social-reactions reactions-container has-reactions d-flex" data-view-component="true"&gt;
-&lt;!-- '"` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt; &lt;div class="color-fg-muted mt-1 tmp-mt-1" data-view-component="true"&gt;2 people reacted&lt;/div&gt;
+&lt;!-- '"` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt; &lt;div class="color-fg-muted mt-1 tmp-mt-1" data-view-component="true"&gt;4 people reacted&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
