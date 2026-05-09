@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-09T16:08:18.068956+00:00</updated>
+  <updated>2026-05-09T17:11:14.206715+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -4386,7 +4386,7 @@ settings.autoMode.hard_deny&lt;br&gt;
 認証情報の同時書き込みにより新しくローテーションされた OAuth トークンが上書きされ、再ログインが強制される可能性があるまれなログイン ループを修正しました。&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
-複数のサーバーが同時に更新されるときに失われる MCP OAuth 更新トークンを修正しました。複数のリモート MCP サーバーを持つユーザーは、毎日の再認証を必要としなくなりました。&lt;br&gt;
+複数のサーバーが同時に更新されるときに失われる MCP OAuth リフレッシュ トークンを修正しました。複数のリモート MCP サーバーを持つユーザーは、毎日の再認証を必要としなくなりました。&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 拡張思考がツール呼び出し後に編集された思考ブロックを生成したときの API エラー (400) を修正しました&lt;br&gt;
@@ -4414,7 +4414,7 @@ WSL2: Windows クリップボードからの画像の貼り付けは、xclip/wl-
  実行中のセッションでまだ使用されているバージョンがキャッシュのクリーンアップによって削除されるとフックが失敗する&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
-スラッシュ コマンド ダイアログ間の視覚的な一貫性が向上しました。フッター ヒント、ダイアログの間隔、矢印キーのスタイルが標準化され、ダイアログ フレームはロード後にポップインするのではなく、ロード中に即座に表示されるようになりました。&lt;br&gt;
+スラッシュ コマンド ダイアログ全体での視覚的な一貫性が向上しました。フッター ヒント、ダイアログの間隔、矢印キーのスタイルが標準化され、ダイアログ フレームがロード後にポップインするのではなく、ロード中に即座に表示されるようになりました。&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 bash コマンド出力およびマークダウン コード ブロックで間違った位置に表示される色を修正しました&lt;br&gt;
@@ -4556,7 +4556,7 @@ Esc キーを押してもダイアログが閉じない問題を修正しまし�
 最初のスラッシュ コマンドの後に入力途中のスラッシュ コマンドのオートコンプリートが機能しない問題を修正しました。&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
-自動フォローを再実行する一番下までスクロールする問題を修正しました。 &lt;br&gt;
+自動フォローを再連動させるために一番下までスクロールする問題を修正しました。 &lt;br&gt;
 autoScrollEnabled: false&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
@@ -4618,7 +4618,7 @@ r&lt;br&gt;
  &lt;br&gt;
 &lt;br&gt;
  &lt;br&gt;
-15人が反応しました&lt;br&gt;
+16人が反応しました&lt;br&gt;
 &lt;br&gt;
     現時点ではそのアクションを実行できません。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;div class="logged-out env-production page-responsive" data-turbo-body="" style="word-wrap: break-word;"&gt;
 &lt;div data-turbo-permanent="" id="__primerPortalRoot__" style="z-index: 1000; position: absolute; width: 100%;"&gt;&lt;/div&gt;
@@ -4643,8 +4643,8 @@ r&lt;br&gt;
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-2526167f-f6df-4a23-b5a2-9c580b200eac" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-e7ccbc86-283e-4125-9884-5209ec145dc0" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-e7ccbc86-283e-4125-9884-5209ec145dc0" id="tooltip-2526167f-f6df-4a23-b5a2-9c580b200eac" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-ecdb5f45-b367-42c7-9b25-5527e8220058" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-864f9880-4102-4684-ab02-3f72ddfedb8c" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-864f9880-4102-4684-ab02-3f72ddfedb8c" id="tooltip-ecdb5f45-b367-42c7-9b25-5527e8220058" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -4685,18 +4685,18 @@ r&lt;br&gt;
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.136","user_id":null}}' data-hydro-click-hmac="50998c83251b0d0fc040b644994918d0e8d64190641ab8a0603760c152211b1a" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-9fe8f172-77e6-4b76-918a-b6ebd5f13629" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-9400078b-94a5-41f4-9d94-0d7fae53cbcf" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":937253475,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.136","user_id":null}}' data-hydro-click-hmac="d126e07be6a04bc1c92fe87080e6ad8083864fe2e2b5f1f867cac9af1beaccfc" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="20,156"&gt;20.2k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="20,161"&gt;20.2k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":937253475,"auth_type":"LOG_IN","originating_url":"https://github.com/anthropics/claude-code/releases/tag/v2.1.136","user_id":null}}' data-hydro-click-hmac="62d64f73c918bf1fad9ae8323064b942b8ecba0e764f90a1c343b65f1926dad6" data-view-component="true" href="/login?return_to=%2Fanthropics%2Fclaude-code" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="121946 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="121,946"&gt;122k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="121976 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="121,976"&gt;122k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -4727,25 +4727,25 @@ r&lt;br&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -4759,9 +4759,9 @@ r&lt;br&gt;
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-filter" id="label-6d4e5309-30e3-49c9-8bfa-2ae6ff81484e"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-filter" id="label-ca7d4753-b26a-4d07-a099-668b0fbc3e77"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -4771,9 +4771,9 @@ r&lt;br&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-6d4e5309-30e3-49c9-8bfa-2ae6ff81484e" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-ca7d4753-b26a-4d07-a099-668b0fbc3e77" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-6d4e5309-30e3-49c9-8bfa-2ae6ff81484e"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-ca7d4753-b26a-4d07-a099-668b0fbc3e77"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -4784,9 +4784,9 @@ r&lt;br&gt;
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:52432830-b386-6f97-7c48-bcfa48ee3d7e" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/anthropics/claude-code/refs?tag_name=v2.1.136&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-b6117cdd-29dc-4c94-a981-ad6119b1a15e-list"&gt;
+&lt;div id="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:f3a47821-be51-af58-29d6-7ca9d53e5e85" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/anthropics/claude-code/refs?tag_name=v2.1.136&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-66abd858-01b7-4129-a8b2-716aed57fa25-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -4920,7 +4920,7 @@ r&lt;br&gt;
 &lt;span class="Counter" data-view-component="true" title="12"&gt;12&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:52432830-b386-6f97-7c48-bcfa48ee3d7e" data-view-component="true" loading="lazy" src="https://github.com/anthropics/claude-code/releases/expanded_assets/v2.1.136"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:f3a47821-be51-af58-29d6-7ca9d53e5e85" data-view-component="true" loading="lazy" src="https://github.com/anthropics/claude-code/releases/expanded_assets/v2.1.136"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -4939,7 +4939,7 @@ r&lt;br&gt;
 &lt;/div&gt;
 &lt;div class="d-flex flex-row flex-wrap flex-justify-between js-comment"&gt;
 &lt;div class="comment-reactions js-reactions-container js-reaction-buttons-container social-reactions reactions-container has-reactions d-flex" data-view-component="true"&gt;
-&lt;!-- '"` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt; &lt;div class="color-fg-muted mt-1 tmp-mt-1" data-view-component="true"&gt;15 people reacted&lt;/div&gt;
+&lt;!-- '"` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt; &lt;div class="color-fg-muted mt-1 tmp-mt-1" data-view-component="true"&gt;16 people reacted&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
