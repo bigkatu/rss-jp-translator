@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/openai/codex/releases.atom</id>
   <title>OpenAI Codex リリース（日本語）</title>
-  <updated>2026-05-10T19:31:54.560756+00:00</updated>
+  <updated>2026-05-10T21:05:38.979496+00:00</updated>
   <link href="https://github.com/openai/codex/releases" rel="alternate"/>
   <link href="https://github.com/openai/codex/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -741,7 +741,7 @@
 &lt;br&gt;
  &lt;br&gt;
 &lt;br&gt;
-ギットハブアクション&lt;br&gt;
+github-アクション&lt;br&gt;
 &lt;br&gt;
     これをリリースしました&lt;br&gt;
 &lt;br&gt;
@@ -753,7 +753,7 @@
           ·&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
-            29 コミット&lt;br&gt;
+            30 コミット&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
           メインへ&lt;br&gt;
@@ -814,8 +814,8 @@ aca7a60&lt;br&gt;
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-cbfc7a25-4a50-4af5-bb37-3be7f01731a1" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-8eb536f4-388a-446f-8419-ea7761b17996" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-8eb536f4-388a-446f-8419-ea7761b17996" id="tooltip-cbfc7a25-4a50-4af5-bb37-3be7f01731a1" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-18a821b1-8dca-4ddb-bc3d-f5c90e57d328" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-cb93f847-2429-467d-89d8-647cb0374831" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-cb93f847-2429-467d-89d8-647cb0374831" id="tooltip-18a821b1-8dca-4ddb-bc3d-f5c90e57d328" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -856,18 +856,18 @@ aca7a60&lt;br&gt;
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0-alpha.10","user_id":null}}' data-hydro-click-hmac="c8dc24c4aed9b5db49f3f3a4809df7d6423588838f8f9dbf7a60b867986f445d" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-4f1b41da-6ef1-4fab-829b-85ffea870a54" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-61d352eb-b3e9-4d27-9fd6-0fac6a9f0ef6" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0-alpha.10","user_id":null}}' data-hydro-click-hmac="d72933abcf7ef3adc004c591ff8a2d34002fd794ab6e34c513840542f71a04af" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,785"&gt;11.8k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,788"&gt;11.8k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0-alpha.10","user_id":null}}' data-hydro-click-hmac="898e435f0661dd2420b6c5f14a07f61bfceb51adefa63ba369e5a3a437bfa56e" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="81558 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,558"&gt;81.6k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="81575 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,575"&gt;81.6k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -900,25 +900,25 @@ aca7a60&lt;br&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -932,9 +932,9 @@ aca7a60&lt;br&gt;
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-filter" id="label-9fdf1313-35f1-4143-ae61-87378014aaa4"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-filter" id="label-790c07bd-e32d-4f51-8526-da211522acc6"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -944,9 +944,9 @@ aca7a60&lt;br&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-9fdf1313-35f1-4143-ae61-87378014aaa4" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-790c07bd-e32d-4f51-8526-da211522acc6" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-9fdf1313-35f1-4143-ae61-87378014aaa4"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-790c07bd-e32d-4f51-8526-da211522acc6"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -957,9 +957,9 @@ aca7a60&lt;br&gt;
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:ba0fdd61-e437-f308-8c6e-fc04eccbd727" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.130.0-alpha.10&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-0c1d8dda-baef-4884-ad76-866a01e8316c-list"&gt;
+&lt;div id="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:9d1046e9-f7bc-863d-2c0c-fa7bc4edb609" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.130.0-alpha.10&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-e390abcf-2864-4d02-87a8-40b701b76bf5-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -1009,7 +1009,7 @@ aca7a60&lt;br&gt;
 &lt;div class="tmp-mr-4 mb-2"&gt;
           ·
           &lt;a href="/openai/codex/compare/rust-v0.130.0-alpha.10...main"&gt;
-            29 commits
+            30 commits
           &lt;/a&gt;
           to main
           since this release
@@ -1039,7 +1039,7 @@ aca7a60&lt;br&gt;
 &lt;span class="Counter" data-view-component="true" title="109"&gt;109&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:ba0fdd61-e437-f308-8c6e-fc04eccbd727" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.130.0-alpha.10"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:9d1046e9-f7bc-863d-2c0c-fa7bc4edb609" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.130.0-alpha.10"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -1848,7 +1848,7 @@ aca7a60&lt;br&gt;
 &lt;br&gt;
  &lt;br&gt;
 &lt;br&gt;
-ギットハブアクション&lt;br&gt;
+github-アクション&lt;br&gt;
 &lt;br&gt;
     これをリリースしました&lt;br&gt;
 &lt;br&gt;
@@ -1860,7 +1860,7 @@ aca7a60&lt;br&gt;
           ·&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
-            54 コミット&lt;br&gt;
+            55 コミット&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
           メインへ&lt;br&gt;
@@ -1923,7 +1923,7 @@ view_image&lt;br&gt;
 )&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
-スレッドの概要、名前変更、再開、パスのフォークがより適切に機能します。 &lt;br&gt;
+スレッドの概要、名前変更、再開、およびパスのフォークがより適切に機能します。 &lt;br&gt;
 スレッドストア&lt;br&gt;
 、ローカル ロールアウト パスのないスレッドを含みます。 (&lt;br&gt;
 #21264&lt;br&gt;
@@ -2006,7 +2006,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 )&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
-構成可能な OpenTelemetry トレース メタデータと、デバッグと優先順位付けを改善するためのより豊富なレビュー/フィードバック分析が追加されました。 (&lt;br&gt;
+構成可能な OpenTelemetry トレース メタデータと、デバッグとトリアージを改善するためのより豊富なレビュー/フィードバック分析が追加されました。 (&lt;br&gt;
 #21556&lt;br&gt;
 、 &lt;br&gt;
 #18747&lt;br&gt;
@@ -2044,7 +2044,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 • &lt;br&gt;
 #21498&lt;br&gt;
  [コーデックス] フィードバックのアップロードにアカウント ID を追加します &lt;br&gt;
-@pakrymoai&lt;br&gt;
+@pakrym-oai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21487&lt;br&gt;
@@ -2069,7 +2069,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 • &lt;br&gt;
 #21454&lt;br&gt;
  [コーデックス] 文字列キーの MCP ツール マップを削除する &lt;br&gt;
-@pakrymoai&lt;br&gt;
+@pakrym-oai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21424&lt;br&gt;
@@ -2084,7 +2084,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 • &lt;br&gt;
 #21461&lt;br&gt;
  [コーデックス] ツール仕様をハンドラーに移動 &lt;br&gt;
-@pakrymoai&lt;br&gt;
+@pakrym-oai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21547&lt;br&gt;
@@ -2187,14 +2187,14 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 • &lt;br&gt;
 #21642&lt;br&gt;
  応答を送信します。リモート圧縮 v2 後に処理されます &lt;br&gt;
-@pakrymoai&lt;br&gt;
+@pakrym-oai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21646&lt;br&gt;
  元に戻す「使用」 &lt;br&gt;
 --ロックされています&lt;br&gt;
  カーゴビルドと lint 呼び出しで &lt;br&gt;
-@pakrymoai&lt;br&gt;
+@pakrym-oai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21434&lt;br&gt;
@@ -2333,8 +2333,8 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-186d4de1-2c16-441c-b426-1062e1b37f27" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-3527d3f6-aee6-4e6a-94e3-117c4a24178e" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-3527d3f6-aee6-4e6a-94e3-117c4a24178e" id="tooltip-186d4de1-2c16-441c-b426-1062e1b37f27" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-445e8ca5-a2d7-4cd2-8553-a2e184af3ba6" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-7da255b5-2ed9-4b10-be6a-f78ac96335a4" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-7da255b5-2ed9-4b10-be6a-f78ac96335a4" id="tooltip-445e8ca5-a2d7-4cd2-8553-a2e184af3ba6" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -2375,18 +2375,18 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0","user_id":null}}' data-hydro-click-hmac="9ca6843367fa60b730b5f238f56392c099d2ad6a7efb3f5c6f85b52032331516" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-2958a052-2a68-492c-81ab-f8cf9247d559" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-b4a744cf-70e7-4a4a-8ce7-50325ba6df6b" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0","user_id":null}}' data-hydro-click-hmac="f2b45357128c48ded57d73d599672e6649ece21f2f91252e0edf0fd1742cdfc5" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,785"&gt;11.8k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,788"&gt;11.8k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0","user_id":null}}' data-hydro-click-hmac="fd4b843026ca47c86664cb2b403734b2b3efc2ddd4a03014576c943f867ed9ed" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="81558 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,558"&gt;81.6k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="81575 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,575"&gt;81.6k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2419,25 +2419,25 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -2451,9 +2451,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-filter" id="label-99ea5a6b-ff93-436c-b3fe-cf86f1386419"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-filter" id="label-bc64f492-cf26-4b85-aed1-ce88d487d5ab"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -2463,9 +2463,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-99ea5a6b-ff93-436c-b3fe-cf86f1386419" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-bc64f492-cf26-4b85-aed1-ce88d487d5ab" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-99ea5a6b-ff93-436c-b3fe-cf86f1386419"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-bc64f492-cf26-4b85-aed1-ce88d487d5ab"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -2476,9 +2476,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:7015efe5-bf2f-37ea-b307-5865c2acb4a7" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.130.0&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-161a7210-d2a2-4d07-a5a5-a4e7ea6aad5d-list"&gt;
+&lt;div id="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:7ea9148c-193a-87c1-8655-b5a88628e37d" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.130.0&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-4b433dcc-8ea1-4ab2-b2c8-81fa763e2fed-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -2528,7 +2528,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;div class="tmp-mr-4 mb-2"&gt;
           ·
           &lt;a href="/openai/codex/compare/rust-v0.130.0...main"&gt;
-            54 commits
+            55 commits
           &lt;/a&gt;
           to main
           since this release
@@ -2735,7 +2735,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;span class="Counter" data-view-component="true" title="109"&gt;109&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:7015efe5-bf2f-37ea-b307-5865c2acb4a7" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.130.0"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:7ea9148c-193a-87c1-8655-b5a88628e37d" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.130.0"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -2918,7 +2918,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;br&gt;
  &lt;br&gt;
 &lt;br&gt;
-ギットハブアクション&lt;br&gt;
+github-アクション&lt;br&gt;
 &lt;br&gt;
     これをリリースしました&lt;br&gt;
 &lt;br&gt;
@@ -2930,7 +2930,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
           ·&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
-            19 コミット&lt;br&gt;
+            20 コミット&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
           メインへ&lt;br&gt;
@@ -2991,8 +2991,8 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-0cacf553-b289-4a02-9e14-77ac5daaa24d" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-497df7e4-b0da-4ace-828f-09366b67b50d" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-497df7e4-b0da-4ace-828f-09366b67b50d" id="tooltip-0cacf553-b289-4a02-9e14-77ac5daaa24d" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-7bfdde0b-9889-4b6d-90e9-09845572f8cc" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-6343c714-910e-464c-bbf8-25d8a8a118c4" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-6343c714-910e-464c-bbf8-25d8a8a118c4" id="tooltip-7bfdde0b-9889-4b6d-90e9-09845572f8cc" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -3033,18 +3033,18 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.1","user_id":null}}' data-hydro-click-hmac="00729589bd26a454bfc5ad456f753c93f1a3c90aea4cff348a46c89a43b68aa7" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-8be7e203-d3ff-4c40-8a00-6748c432165e" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-07a647e5-7ccd-454c-8b83-c1a127e32818" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.1","user_id":null}}' data-hydro-click-hmac="1a40c8150da1b4b97b345f77d0c86c5d8a7aae0425c584dceb49ae698c5a1bc3" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,785"&gt;11.8k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,788"&gt;11.8k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.1","user_id":null}}' data-hydro-click-hmac="f6f191fc524b9365f25871081dc11d3770e5bfe6c54fe4007cabc47d786034aa" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="81558 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,558"&gt;81.6k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="81575 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,575"&gt;81.6k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -3077,25 +3077,25 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-235d1147-dde6-4cda-afb8-288491feed6d"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -3109,9 +3109,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-filter" id="label-c79b5bea-3a91-4aa0-b06a-f73faf5ff8d4"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-filter" id="label-3ad5f4d2-2721-4d43-ae11-beeb57141908"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -3121,9 +3121,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-c79b5bea-3a91-4aa0-b06a-f73faf5ff8d4" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-3ad5f4d2-2721-4d43-ae11-beeb57141908" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-c79b5bea-3a91-4aa0-b06a-f73faf5ff8d4"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-3ad5f4d2-2721-4d43-ae11-beeb57141908"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -3134,9 +3134,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:650d7555-ff28-4d57-56da-b64236a54d5e" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.131.0-alpha.1&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-235d1147-dde6-4cda-afb8-288491feed6d-list"&gt;
+&lt;div id="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:494bf881-f1de-b6f7-dda1-1d2e7359c792" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.131.0-alpha.1&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-9b385d2f-21fc-494c-93ae-79cd31add40a-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -3186,7 +3186,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;div class="tmp-mr-4 mb-2"&gt;
           ·
           &lt;a href="/openai/codex/compare/rust-v0.131.0-alpha.1...main"&gt;
-            19 commits
+            20 commits
           &lt;/a&gt;
           to main
           since this release
@@ -3216,7 +3216,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;span class="Counter" data-view-component="true" title="109"&gt;109&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:650d7555-ff28-4d57-56da-b64236a54d5e" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.131.0-alpha.1"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:494bf881-f1de-b6f7-dda1-1d2e7359c792" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.131.0-alpha.1"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -3399,7 +3399,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;br&gt;
  &lt;br&gt;
 &lt;br&gt;
-ギットハブアクション&lt;br&gt;
+github-アクション&lt;br&gt;
 &lt;br&gt;
     これをリリースしました&lt;br&gt;
 &lt;br&gt;
@@ -3411,7 +3411,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
           ·&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
-            155 コミット&lt;br&gt;
+            156 コミット&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
           メインへ&lt;br&gt;
@@ -3472,8 +3472,8 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-c1f53d2b-7f91-466b-b2c3-00c2ddcfe2cb" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-10b91836-a599-4baf-ba3f-0ef88017e3ba" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-10b91836-a599-4baf-ba3f-0ef88017e3ba" id="tooltip-c1f53d2b-7f91-466b-b2c3-00c2ddcfe2cb" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-e4f52b8e-e32c-4e5e-acda-39c9c0ad8dd4" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-f49196e9-d8db-44f7-95b4-ea79e3ecf8e7" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-f49196e9-d8db-44f7-95b4-ea79e3ecf8e7" id="tooltip-e4f52b8e-e32c-4e5e-acda-39c9c0ad8dd4" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -3514,18 +3514,18 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rusty-v8-v147.4.0","user_id":null}}' data-hydro-click-hmac="56f3be72b8a8ca49524d455dfb6a1e96a5ad5b3a5f86e159e86e3a5bc6fd1250" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-c7a22550-7891-4c50-bc9f-ff2f23217026" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-656e445f-14fd-4a2a-a2c3-223b449ae7bb" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rusty-v8-v147.4.0","user_id":null}}' data-hydro-click-hmac="cfc68146f02b89b311c400018537e8c5054d0bb2e3b6723698d32679e05d43cf" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,785"&gt;11.8k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,788"&gt;11.8k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rusty-v8-v147.4.0","user_id":null}}' data-hydro-click-hmac="c35189f2573ae31270e1b25f644d3c5289c070553fafb8bb936d1c8d24308f67" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="81558 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,558"&gt;81.6k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="81575 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,575"&gt;81.6k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -3558,25 +3558,25 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-78033345-11e8-4228-9d0e-136ce59a2583"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -3590,9 +3590,9 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-filter" id="label-7091e74d-c8e8-4238-bd8c-5631d484e26b"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-filter" id="label-1b43daa4-6aea-4580-baaa-dc365a5217a4"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -3602,9 +3602,9 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-7091e74d-c8e8-4238-bd8c-5631d484e26b" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-1b43daa4-6aea-4580-baaa-dc365a5217a4" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-7091e74d-c8e8-4238-bd8c-5631d484e26b"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-1b43daa4-6aea-4580-baaa-dc365a5217a4"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -3615,9 +3615,9 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:548e6c1b-b90a-73e9-5186-7db953c06740" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rusty-v8-v147.4.0&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-78033345-11e8-4228-9d0e-136ce59a2583-list"&gt;
+&lt;div id="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:ef323098-827d-2a27-8a59-e97b4ba64641" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rusty-v8-v147.4.0&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-ad51f30c-228c-44cc-882b-c12c7c5b0a3c-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -3667,7 +3667,7 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;div class="tmp-mr-4 mb-2"&gt;
           ·
           &lt;a href="/openai/codex/compare/rusty-v8-v147.4.0...main"&gt;
-            155 commits
+            156 commits
           &lt;/a&gt;
           to main
           since this release
@@ -3697,7 +3697,7 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;span class="Counter" data-view-component="true" title="32"&gt;32&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:548e6c1b-b90a-73e9-5186-7db953c06740" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rusty-v8-v147.4.0"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:ef323098-827d-2a27-8a59-e97b4ba64641" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rusty-v8-v147.4.0"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -3880,7 +3880,7 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;br&gt;
  &lt;br&gt;
 &lt;br&gt;
-ギットハブアクション&lt;br&gt;
+github-アクション&lt;br&gt;
 &lt;br&gt;
     これをリリースしました&lt;br&gt;
 &lt;br&gt;
@@ -3892,7 +3892,7 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
           ·&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
-            13 コミット&lt;br&gt;
+            14 コミット&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
           メインへ&lt;br&gt;
@@ -3953,8 +3953,8 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-6f527744-a5b3-442b-a32e-4063a065d890" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-5e302342-61d7-4e9e-bd95-0a5ea2d829a6" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-5e302342-61d7-4e9e-bd95-0a5ea2d829a6" id="tooltip-6f527744-a5b3-442b-a32e-4063a065d890" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-99027506-1373-41ed-972e-82654e3255e8" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-11d50b5b-130c-4235-90e5-f40e8831491f" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-11d50b5b-130c-4235-90e5-f40e8831491f" id="tooltip-99027506-1373-41ed-972e-82654e3255e8" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -3995,18 +3995,18 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.2","user_id":null}}' data-hydro-click-hmac="3f54447ab8e355e34c4c246985fbb6e8d81186b25c19484567b5d88f837730b0" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-c79d4e74-5505-4605-a64d-8a60f5e922ac" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-29952b04-ec34-4801-8b73-41fc5d805f04" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.2","user_id":null}}' data-hydro-click-hmac="7ba142756896a8ce3cdb916d56db17011d2b9f367000530c1cc6a81d76267f9e" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,785"&gt;11.8k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,788"&gt;11.8k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.2","user_id":null}}' data-hydro-click-hmac="cd59069aeddee0d5eac42beff27d17b4ef01564819a85ce38bde422c2a340d41" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="81558 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,558"&gt;81.6k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="81575 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,575"&gt;81.6k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -4039,25 +4039,25 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -4071,9 +4071,9 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-filter" id="label-a2873b17-83e6-4df9-83a9-93eae5dc6d14"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-filter" id="label-54db21e4-5018-44c2-b147-5f3f618190b0"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -4083,9 +4083,9 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-a2873b17-83e6-4df9-83a9-93eae5dc6d14" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-54db21e4-5018-44c2-b147-5f3f618190b0" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-a2873b17-83e6-4df9-83a9-93eae5dc6d14"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-54db21e4-5018-44c2-b147-5f3f618190b0"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -4096,9 +4096,9 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:2d4436dc-7471-7b8f-2d88-48f2718332b7" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.131.0-alpha.2&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-b0001c12-0c6b-4f6b-9176-862b3e550bfa-list"&gt;
+&lt;div id="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:abf3fa0d-6260-d442-bed7-daa6f245c9f9" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.131.0-alpha.2&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-8a36e9b8-f5fc-4905-9bc5-412df119fd1b-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -4148,7 +4148,7 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;div class="tmp-mr-4 mb-2"&gt;
           ·
           &lt;a href="/openai/codex/compare/rust-v0.131.0-alpha.2...main"&gt;
-            13 commits
+            14 commits
           &lt;/a&gt;
           to main
           since this release
@@ -4178,7 +4178,7 @@ Darwin Rusty-v8 ランタイム ステージングを修正&lt;br&gt;
 &lt;span class="Counter" data-view-component="true" title="109"&gt;109&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:2d4436dc-7471-7b8f-2d88-48f2718332b7" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.131.0-alpha.2"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:abf3fa0d-6260-d442-bed7-daa6f245c9f9" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.131.0-alpha.2"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -4999,7 +4999,7 @@ github-アクション&lt;br&gt;
           ·&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
-            12 コミット&lt;br&gt;
+            13 コミット&lt;br&gt;
           &lt;br&gt;
 &lt;br&gt;
           メインへ&lt;br&gt;
@@ -5060,8 +5060,8 @@ d6db534&lt;br&gt;
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-e7497a4e-a4d3-41e5-ae13-5566c5085859" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-0a764e1d-0801-4b65-bff7-a3118f1db225" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-0a764e1d-0801-4b65-bff7-a3118f1db225" id="tooltip-e7497a4e-a4d3-41e5-ae13-5566c5085859" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-fa3dd10f-8161-4b17-91ed-6e58ea4a88c8" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-ce38522e-6b42-4560-a0a9-b4ceb910f4ab" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-ce38522e-6b42-4560-a0a9-b4ceb910f4ab" id="tooltip-fa3dd10f-8161-4b17-91ed-6e58ea4a88c8" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -5102,18 +5102,18 @@ d6db534&lt;br&gt;
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.4","user_id":null}}' data-hydro-click-hmac="1fa7bff1992d3776bfcd7b9ad4a2d0e719c3b7d861d38942ce2db29c2db3cb7a" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-4deba5b7-ca12-48c7-905f-c563a0bbd6f7" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-190a0596-477e-47dc-a434-1e899bd40617" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.4","user_id":null}}' data-hydro-click-hmac="9dbbf733b5273fa7d477d3904232928f13009e382a82afb42fe66cff79e122d3" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,787"&gt;11.8k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,788"&gt;11.8k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.131.0-alpha.4","user_id":null}}' data-hydro-click-hmac="3d0c9458dd3d0a8bfc743608f688568352290c04f85c148f1cad48bb58aac303" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="81566 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,566"&gt;81.6k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="81575 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,575"&gt;81.6k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -5146,25 +5146,25 @@ d6db534&lt;br&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-71ea9010-e825-481e-906f-197e8c30cc64"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -5178,9 +5178,9 @@ d6db534&lt;br&gt;
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-filter" id="label-a811bb27-8cca-4670-aa00-b27718cbe307"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-filter" id="label-f1493451-4e9e-4381-b1b4-639e6c8e8280"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -5190,9 +5190,9 @@ d6db534&lt;br&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-a811bb27-8cca-4670-aa00-b27718cbe307" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-f1493451-4e9e-4381-b1b4-639e6c8e8280" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-a811bb27-8cca-4670-aa00-b27718cbe307"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-f1493451-4e9e-4381-b1b4-639e6c8e8280"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -5203,9 +5203,9 @@ d6db534&lt;br&gt;
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:38801b96-dabc-499a-2909-905a12d59a11" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.131.0-alpha.4&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-19837b87-a3c2-401b-929c-65f80edf30dc-list"&gt;
+&lt;div id="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:90e9eef7-5422-7d19-cb51-daa966578a52" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.131.0-alpha.4&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-71ea9010-e825-481e-906f-197e8c30cc64-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -5255,7 +5255,7 @@ d6db534&lt;br&gt;
 &lt;div class="tmp-mr-4 mb-2"&gt;
           ·
           &lt;a href="/openai/codex/compare/rust-v0.131.0-alpha.4...main"&gt;
-            12 commits
+            13 commits
           &lt;/a&gt;
           to main
           since this release
@@ -5285,7 +5285,7 @@ d6db534&lt;br&gt;
 &lt;span class="Counter" data-view-component="true" title="115"&gt;115&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:38801b96-dabc-499a-2909-905a12d59a11" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.131.0-alpha.4"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:90e9eef7-5422-7d19-cb51-daa966578a52" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.131.0-alpha.4"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
