@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/openai/codex/releases.atom</id>
   <title>OpenAI Codex リリース（日本語）</title>
-  <updated>2026-05-10T12:01:50.843136+00:00</updated>
+  <updated>2026-05-10T13:54:27.661172+00:00</updated>
   <link href="https://github.com/openai/codex/releases" rel="alternate"/>
   <link href="https://github.com/openai/codex/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1847,7 +1847,7 @@ aca7a60&lt;br&gt;
 &lt;br&gt;
  &lt;br&gt;
 &lt;br&gt;
-ギットハブアクション&lt;br&gt;
+github-アクション&lt;br&gt;
 &lt;br&gt;
     これをリリースしました&lt;br&gt;
 &lt;br&gt;
@@ -1922,7 +1922,7 @@ view_image&lt;br&gt;
 )&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
-スレッドの概要、名前変更、再開、およびパスのフォークがより適切に機能します。 &lt;br&gt;
+スレッドの概要、名前変更、再開、パスのフォークがより適切に機能します。 &lt;br&gt;
 スレッドストア&lt;br&gt;
 、ローカル ロールアウト パスのないスレッドを含みます。 (&lt;br&gt;
 #21264&lt;br&gt;
@@ -2005,7 +2005,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 )&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
-構成可能な OpenTelemetry トレース メタデータと、デバッグとトリアージを改善するためのより豊富なレビュー/フィードバック分析が追加されました。 (&lt;br&gt;
+構成可能な OpenTelemetry トレース メタデータと、デバッグと優先順位付けを改善するためのより豊富なレビュー/フィードバック分析が追加されました。 (&lt;br&gt;
 #21556&lt;br&gt;
 、 &lt;br&gt;
 #18747&lt;br&gt;
@@ -2043,7 +2043,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 • &lt;br&gt;
 #21498&lt;br&gt;
  [コーデックス] フィードバックのアップロードにアカウント ID を追加します &lt;br&gt;
-@pakrym-oai&lt;br&gt;
+@pakrymoai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21487&lt;br&gt;
@@ -2068,7 +2068,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 • &lt;br&gt;
 #21454&lt;br&gt;
  [コーデックス] 文字列キーの MCP ツール マップを削除する &lt;br&gt;
-@pakrym-oai&lt;br&gt;
+@pakrymoai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21424&lt;br&gt;
@@ -2083,7 +2083,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 • &lt;br&gt;
 #21461&lt;br&gt;
  [コーデックス] ツール仕様をハンドラーに移動 &lt;br&gt;
-@pakrym-oai&lt;br&gt;
+@pakrymoai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21547&lt;br&gt;
@@ -2186,14 +2186,14 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 • &lt;br&gt;
 #21642&lt;br&gt;
  応答を送信します。リモート圧縮 v2 後に処理されます &lt;br&gt;
-@pakrym-oai&lt;br&gt;
+@pakrymoai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21646&lt;br&gt;
  元に戻す「使用」 &lt;br&gt;
 --ロックされています&lt;br&gt;
  カーゴビルドと lint 呼び出しで &lt;br&gt;
-@pakrym-oai&lt;br&gt;
+@pakrymoai&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 #21434&lt;br&gt;
@@ -2307,7 +2307,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
  &lt;br&gt;
 &lt;br&gt;
  &lt;br&gt;
-10人が反応しました&lt;br&gt;
+12人が反応しました&lt;br&gt;
 &lt;br&gt;
     現時点ではそのアクションを実行できません。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;div class="logged-out env-production page-responsive" data-turbo-body="" style="word-wrap: break-word;"&gt;
 &lt;div data-turbo-permanent="" id="__primerPortalRoot__" style="z-index: 1000; position: absolute; width: 100%;"&gt;&lt;/div&gt;
@@ -2332,8 +2332,8 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;span class="js-stale-session-flash-signed-in" hidden=""&gt;You signed in with another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-signed-out" hidden=""&gt;You signed out in another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
 &lt;span class="js-stale-session-flash-switched" hidden=""&gt;You switched accounts on another tab or window. &lt;a class="Link--inTextBlock" href=""&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
-&lt;button aria-labelledby="tooltip-63b208c7-2443-4ed3-b2b1-a6bf0dba87dd" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-93c556a7-a53e-4a30-90cb-194f0f357803" type="button"&gt; 
-&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-93c556a7-a53e-4a30-90cb-194f0f357803" id="tooltip-63b208c7-2443-4ed3-b2b1-a6bf0dba87dd" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
+&lt;button aria-labelledby="tooltip-fbd235de-62da-44ff-9efe-c8511f8a760d" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-97de0739-0839-4aa6-a989-384d20adbd9b" type="button"&gt; 
+&lt;/button&gt;&lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-97de0739-0839-4aa6-a989-384d20adbd9b" id="tooltip-fbd235de-62da-44ff-9efe-c8511f8a760d" popover="manual"&gt;Dismiss alert&lt;/tool-tip&gt;
 &lt;/div&gt;
 &lt;/link&gt;&lt;/link&gt;&lt;/div&gt;
 &lt;div class="show-on-focus" id="start-of-content"&gt;&lt;/div&gt;
@@ -2374,18 +2374,18 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;"&gt;
 &lt;li&gt;
 &lt;a aria-label="You must be signed in to change notification settings" class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"notification subscription menu watch","repository_id":null,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0","user_id":null}}' data-hydro-click-hmac="9ca6843367fa60b730b5f238f56392c099d2ad6a7efb3f5c6f85b52032331516" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" id="repository-details-watch-button" rel="nofollow"&gt; Notifications
-&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-f17bb5bf-440a-4c46-a750-91aa794540c2" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
+&lt;/a&gt; &lt;tool-tip class="sr-only position-absolute" data-direction="s" data-type="description" data-view-component="true" for="repository-details-watch-button" id="tooltip-2f4866e3-2760-4e0f-9df7-59910095694a" popover="manual"&gt;You must be signed in to change notification settings&lt;/tool-tip&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a class="btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"repo details fork button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0","user_id":null}}' data-hydro-click-hmac="f2b45357128c48ded57d73d599672e6649ece21f2f91252e0edf0fd1742cdfc5" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" icon="repo-forked" id="fork-button" rel="nofollow"&gt; Fork
-    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,773"&gt;11.8k&lt;/span&gt;
+    &lt;span class="Counter" data-pjax-replace="true" data-turbo-replace="true" data-view-component="true" id="repo-network-counter" title="11,775"&gt;11.8k&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;div class="BtnGroup d-flex" data-view-component="true"&gt;
 &lt;a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":965415649,"auth_type":"LOG_IN","originating_url":"https://github.com/openai/codex/releases/tag/rust-v0.130.0","user_id":null}}' data-hydro-click-hmac="fd4b843026ca47c86664cb2b403734b2b3efc2ddd4a03014576c943f867ed9ed" data-view-component="true" href="/login?return_to=%2Fopenai%2Fcodex" rel="nofollow"&gt; &lt;span class="d-inline" data-view-component="true"&gt;
           Star
-&lt;/span&gt; &lt;span aria-label="81464 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,464"&gt;81.5k&lt;/span&gt;
+&lt;/span&gt; &lt;span aria-label="81514 users starred this repository" class="Counter js-social-count" data-plural-suffix="users starred this repository" data-singular-suffix="user starred this repository" data-turbo-replace="true" data-view-component="true" id="repo-stars-counter-star" title="81,514"&gt;81.5k&lt;/span&gt;
 &lt;/a&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2418,25 +2418,25 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame"&gt;
-&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484"&gt;
+&lt;select-panel anchor-align="start" anchor-side="outside-bottom" data-fetch-strategy="eventually_local" data-open-on-load="false" data-select-variant="single" data-view-component="true" id="select-panel-5dd206e2-f725-497c-bcdc-268fec498334"&gt;
 &lt;dialog-helper&gt;
-&lt;button aria-controls="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-button" type="button"&gt; &lt;span class="Button-content"&gt;
+&lt;button aria-controls="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-dialog" aria-expanded="false" aria-haspopup="dialog" class="Button--secondary Button--small Button" data-view-component="true" id="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-button" type="button"&gt; &lt;span class="Button-content"&gt;
 &lt;span class="Button-label"&gt;Compare&lt;/span&gt;
 &lt;span class="Button-visual Button-trailingVisual"&gt;
 
 &lt;/span&gt;
 &lt;/span&gt;
 &lt;/button&gt;
-&lt;dialog aria-labelledby="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-dialog" style="position: absolute;"&gt;
+&lt;dialog aria-labelledby="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-dialog-title" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait" data-target="select-panel.dialog" data-view-component="true" id="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-dialog" style="position: absolute;"&gt;
 &lt;div class="Overlay-header Overlay-header--divided" data-view-component="true"&gt;
 &lt;div class="Overlay-headerContentWrap"&gt;
 &lt;div class="Overlay-titleWrap"&gt;
-&lt;h1 class="Overlay-title" id="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-dialog-title"&gt;
+&lt;h1 class="Overlay-title" id="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-dialog-title"&gt;
         Choose a tag to compare
       &lt;/h1&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-actionWrap"&gt;
-&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
+&lt;button aria-label="Close" class="close-button Overlay-closeButton" data-close-dialog-id="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-dialog" data-view-component="true" type="button"&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="Overlay-headerFilter" data-view-component="true"&gt; &lt;div data-target="select-panel.bannerErrorElement" hidden=""&gt;
@@ -2450,9 +2450,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;h2 class="f6 text-normal"&gt;Sorry, something went wrong.&lt;/h2&gt;
 &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/x-banner&gt; &lt;/div&gt;
-&lt;remote-input aria-owns="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
+&lt;remote-input aria-owns="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-body" data-target="select-panel.remoteInput" data-view-component="true"&gt;
 &lt;primer-text-field class="FormControl width-full FormControl--fullWidth"&gt;
-&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-filter" id="label-cd094752-3a05-4f49-bccf-4eeed403091b"&gt;
+&lt;label class="sr-only FormControl-label position-absolute sr-only FormControl-label" for="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-filter" id="label-fa50ba7b-7708-46e5-96cc-2f43bffd79e8"&gt;
         Filter
 &lt;/label&gt;
 &lt;div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual"&gt;
@@ -2462,9 +2462,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
 &lt;/span&gt;
-&lt;input aria-describedby="validation-cd094752-3a05-4f49-bccf-4eeed403091b" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-filter" name="filter" type="search"&gt;
+&lt;input aria-describedby="validation-fa50ba7b-7708-46e5-96cc-2f43bffd79e8" autofocus="autofocus" class="form-control FormControl-input FormControl-medium" data-target="primer-text-field.inputElement select-panel.filterInputTextField" id="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-filter" name="filter" type="search"&gt;
 &lt;/input&gt;&lt;/div&gt;
-&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-cd094752-3a05-4f49-bccf-4eeed403091b"&gt;
+&lt;div class="FormControl-inlineValidation" hidden="hidden" id="validation-fa50ba7b-7708-46e5-96cc-2f43bffd79e8"&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden=""&gt;&lt;/span&gt;
 &lt;span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"&gt;&lt;/span&gt;
 &lt;span&gt;&lt;/span&gt;
@@ -2475,9 +2475,9 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;focus-group direction="vertical" mnemonics="" retain=""&gt;
 &lt;live-region data-target="select-panel.liveRegion"&gt;&lt;/live-region&gt;
 &lt;div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true"&gt;
-&lt;div id="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-body"&gt;
-&lt;include-fragment accept="text/fragment+html" data-nonce="v2:61fadae4-56f2-526c-c723-0c29b6cea167" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.130.0&amp;amp;experimental=1"&gt;
-&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-86563b5e-998c-4f5d-a315-fff9decd0484-list"&gt;
+&lt;div id="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-body"&gt;
+&lt;include-fragment accept="text/fragment+html" data-nonce="v2:9abcbbf0-2c86-61f9-e6ac-fba5d3901300" data-target="select-panel.includeFragment" data-view-component="true" loading="lazy" src="/openai/codex/refs?tag_name=rust-v0.130.0&amp;amp;experimental=1"&gt;
+&lt;div aria-busy="true" aria-disabled="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center" data-view-component="true" id="select-panel-5dd206e2-f725-497c-bcdc-268fec498334-list"&gt;
 &lt;div class="pt-2" data-hide-on-error=""&gt;
 &lt;span data-target="select-panel.bodySpinner" data-view-component="true"&gt;
 &lt;/span&gt;
@@ -2734,7 +2734,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;span class="Counter" data-view-component="true" title="109"&gt;109&lt;/span&gt;
 &lt;/span&gt;
 &lt;/summary&gt;
-&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:61fadae4-56f2-526c-c723-0c29b6cea167" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.130.0"&gt;
+&lt;div data-view-component="true"&gt; &lt;include-fragment data-nonce="v2:9abcbbf0-2c86-61f9-e6ac-fba5d3901300" data-view-component="true" loading="lazy" src="https://github.com/openai/codex/releases/expanded_assets/rust-v0.130.0"&gt;
 &lt;span data-view-component="true"&gt;
  &lt;span class="sr-only"&gt;Loading&lt;/span&gt;
 &lt;/span&gt;
@@ -2753,7 +2753,7 @@ Rust 開発ループを高速化するために、より高速な Cargo profilin
 &lt;/div&gt;
 &lt;div class="d-flex flex-row flex-wrap flex-justify-between js-comment"&gt;
 &lt;div class="comment-reactions js-reactions-container js-reaction-buttons-container social-reactions reactions-container has-reactions d-flex" data-view-component="true"&gt;
-&lt;!-- '"` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt; &lt;div class="color-fg-muted mt-1 tmp-mt-1" data-view-component="true"&gt;10 people reacted&lt;/div&gt;
+&lt;!-- '"` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt; &lt;div class="color-fg-muted mt-1 tmp-mt-1" data-view-component="true"&gt;12 people reacted&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
