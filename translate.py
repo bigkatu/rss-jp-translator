@@ -21,6 +21,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
+from urllib.parse import urlparse
 from xml.sax.saxutils import escape as xml_escape
 
 import feedparser
@@ -165,15 +166,40 @@ def html_to_text(html: str) -> str:
 
 
 ARTICLE_SELECTORS = [
+    '[data-test-selector="body-content"]',
+    ".markdown-body",
     "article",
-    "main",
     "[role='main']",
     ".post-content",
     ".post-body",
     ".entry-content",
     ".article-content",
-    ".content",
 ]
+
+TAG_LIKE_TITLE_RE = re.compile(
+    r"^(?:[A-Za-z0-9_.-]+-)?v?\d+(?:\.\d+){1,3}(?:[-+][A-Za-z0-9_.-]+)?$"
+)
+
+
+def should_translate_title(title: str) -> bool:
+    """リリースタグ名のような機械的なタイトルは翻訳しない。"""
+    return not TAG_LIKE_TITLE_RE.match((title or "").strip())
+
+
+def is_low_signal_entry(title: str, text: str) -> bool:
+    """タグ名だけ、または内部修正のみのリリースは配信しない。"""
+    compact = re.sub(r"\s+", " ", (text or "")).strip()
+    compact = compact.replace("• ", "").strip()
+    title = (title or "").strip()
+    if not TAG_LIKE_TITLE_RE.match(title):
+        return False
+    if not compact:
+        return True
+    if re.fullmatch(r"Release\s+\S+", compact, flags=re.IGNORECASE):
+        return True
+    if compact.lower() in {"internal fixes", "what's changed internal fixes", "whats changed internal fixes"}:
+        return True
+    return len(compact) < 40
 
 
 def extract_article_payload(url: str) -> tuple[str, str]:
@@ -189,13 +215,14 @@ def extract_article_payload(url: str) -> tuple[str, str]:
     for tag in soup.find_all(["script", "style", "noscript", "svg", "canvas", "iframe", "form", "nav", "header", "footer", "aside"]):
         tag.decompose()
 
+    host = urlparse(url).netloc.lower()
+    selectors = ARTICLE_SELECTORS
+    if host == "github.com" or host.endswith(".github.com"):
+        selectors = ['[data-test-selector="body-content"]', ".markdown-body"]
+
     candidates = []
-    for selector in ARTICLE_SELECTORS:
+    for selector in selectors:
         candidates.extend(soup.select(selector))
-    if soup.body:
-        candidates.append(soup.body)
-    else:
-        candidates.append(soup)
 
     best = None
     best_len = 0
@@ -259,6 +286,7 @@ def process_feed(fd: FeedDef) -> tuple[bool, str]:
     print(f"  entries: {len(entries)}", flush=True)
 
     translated_count = 0
+    skipped_count = 0
     for entry in entries:
         eid = entry.get("id") or entry.get("link") or entry.get("title", "")
         if not eid:
@@ -287,6 +315,10 @@ def process_feed(fd: FeedDef) -> tuple[bool, str]:
                 source_is_html = bool(page_html)
 
         original_body = source_html if source_is_html else xml_escape(source_html or source_text)
+        if is_low_signal_entry(title_en, source_text):
+            print(f"  -> skipping low-signal release: {title_en[:80]}", flush=True)
+            skipped_count += 1
+            continue
 
         cached = cache.get(ekey)
         # 元タイトル/本文に変更がなければキャッシュを使う
@@ -300,7 +332,7 @@ def process_feed(fd: FeedDef) -> tuple[bool, str]:
         else:
             print(f"  -> translating: {title_en[:80]}", flush=True)
             try:
-                title_ja = translate(title_en) if title_en else title_en
+                title_ja = translate(title_en) if title_en and should_translate_title(title_en) else title_en
                 if source_text:
                     content_ja_text = translate(source_text)
                     content_ja_html = (
@@ -351,7 +383,8 @@ def process_feed(fd: FeedDef) -> tuple[bool, str]:
     fg.atom_file(str(out_path), pretty=True)
     save_cache(fd.name, cache)
 
-    msg = f"OK: {len(entries)} entries ({translated_count} translated, {len(entries) - translated_count} cached)"
+    emitted_count = len(entries) - skipped_count
+    msg = f"OK: {emitted_count} entries ({translated_count} translated, {emitted_count - translated_count} cached, {skipped_count} skipped)"
     print(f"  {msg}", flush=True)
     return True, msg
 
