@@ -2,215 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-12T20:49:13.786829+00:00</updated>
+  <updated>2026-05-12T22:22:40.776117+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.126</id>
-    <title>v2.1.126</title>
-    <updated>2026-05-01T03:11:36+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-の &lt;br&gt;
-/モデル&lt;br&gt;
- ピッカーはゲートウェイのモデルをリストするようになりました。 &lt;br&gt;
-/v1/モデル&lt;br&gt;
- エンドポイントの場合 &lt;br&gt;
-ANTHROPIC_BASE_URL&lt;br&gt;
- Anthropic 互換ゲートウェイをポイントする&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-クロード プロジェクトのパージ [パス]&lt;br&gt;
- プロジェクトのすべてのクロード コードの状態 (トランスクリプト、タスク、ファイル履歴、構成エントリ) を削除する - をサポート &lt;br&gt;
---ドライラン&lt;br&gt;
-、 &lt;br&gt;
--はい/-はい&lt;br&gt;
-、 &lt;br&gt;
--i/--対話型&lt;br&gt;
-、そして &lt;br&gt;
---すべて&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
---dangerously-skip-権限&lt;br&gt;
- への書き込みのプロンプトがバイパスされるようになりました。 &lt;br&gt;
-.クロード/&lt;br&gt;
-、 &lt;br&gt;
-.git/&lt;br&gt;
-、 &lt;br&gt;
-.vscode/&lt;br&gt;
-、シェル設定ファイル、およびその他の以前に保護されたパス (致命的な削除コマンドは引き続きセーフティ ネットとしてプロンプトを表示します)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロード認証ログイン&lt;br&gt;
- ブラウザーのコールバックがローカルホスト (WSL2、SSH、コンテナー) に到達できない場合に、ターミナルに貼り付けられた OAuth コードを受け入れるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-claude_code.skill_activated&lt;br&gt;
- OpenTelemetry イベントは、ユーザーが入力したスラッシュ コマンドに対して起動し、新しいイベントを実行するようになりました。 &lt;br&gt;
-呼び出しトリガー&lt;br&gt;
- 属性 (&lt;br&gt;
-「ユーザースラッシュ」&lt;br&gt;
-、 &lt;br&gt;
-「クロード・プロアクティブ」&lt;br&gt;
-、または &lt;br&gt;
-「ネストされたスキル」&lt;br&gt;
-)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動モード: 権限チェックが停止すると、ツールが実行されているように見えるのではなく、スピナーが赤に変わります。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ホスト管理の展開 (&lt;br&gt;
-CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST&lt;br&gt;
-) Bedrock/Vertex/Foundry での分析が自動的に無効にならなくなりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows: Microsoft Store 経由でインストールされた PowerShell 7、PATH のない MSI、または &lt;br&gt;
-.NETグローバルツール&lt;br&gt;
- 現在検出されています&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows: PowerShell ツールが有効になっている場合、Claude はデフォルトの Bash ではなく、PowerShell をプライマリ シェルとして扱うようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-読み取りツール: 従来のモデルで偽の拒否と「これはマルウェアではありません」というコメントを引き起こす可能性があるファイルごとのマルウェア評価リマインダーを削除しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-セキュリティ:&lt;br&gt;
- 修正済み &lt;br&gt;
-管理対象ドメインのみを許可&lt;br&gt;
- / &lt;br&gt;
-管理対象読み取りパスのみを許可&lt;br&gt;
- 優先度の高い管理設定ソースに &lt;br&gt;
-サンドボックス&lt;br&gt;
- ブロック&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-2000 ピクセルを超える画像を貼り付けるとセッションが中断される問題を修正しました。画像は貼り付け時に縮小され、履歴内のサイズを超える画像は自動的に削除され、リクエストが再試行されます。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-「組織では OAuth が許可されていません」エラーのログイン画面が表示される問題を修正しました。管理者に連絡するためのガイダンスが表示されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-IPv6 のみの開発コンテナで、ブラウザのコールバックがローカルホストに到達できない場合に、遅い接続またはプロキシ接続でタイムアウトが発生して OAuth ログインが失敗する問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-認証情報の同時書き込みにより有効な OAuth リフレッシュ トークンがクリアされる可能性があるまれな競合を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-API の再試行カウントダウンが試行間のカウントダウンではなく「0s」のままになる問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-リクエスト中に Mac をスリープから復帰させた後の「ストリーム アイドル タイムアウト」エラーを修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-モデルの思考の長い一時停止中に「ストリーム アイドル タイムアウト」が発生してバックグラウンド セッションとリモート セッションが誤って中止される問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-アシスタントが思考を終了しても、空のターンが続いた後に出力が表示されないハングを修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Cursor および VS Code 1.92 ～ 1.104 統合端末でのトラックパッドの過度に速いスクロールを修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-手動サーバーによって claude.ai MCP コネクタが抑制され、ニーズ認証状態にスタックする問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows のちらつきなしモードで日本語/韓国語/中国語のテキストが文字化けとして表示される問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-Ctrl+L&lt;br&gt;
- プロンプト入力をクリアします。現在は、readline の動作に合わせて、画面の再描画のみを強制します。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-遅延ツール (WebSearch、WebFetch など) がスキルで使用できない問題を修正しました。 &lt;br&gt;
-コンテキスト: フォーク&lt;br&gt;
- と他のサブエージェントの最初のターン&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-で起動された対話型セッションでプラン モード ツールが利用できない問題を修正しました。 &lt;br&gt;
---チャンネル&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/プラグイン&lt;br&gt;
- アンインストールのレポートは「アンインストール済み」ではなく「有効」になっています&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-リンターが一度に多くのファイルにアクセスする場合のファイル変更リマインダーの制限付き合計サイズ&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/リモートコントロール&lt;br&gt;
- 再試行が「接続中…」でスタックしているように見える - 各再試行の結果が表示されるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-初期接続失敗のエラー理由が表示されないリモート コントロールの失敗通知を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows: クリップボードの書き込みにより、EDR/SIEM テレメトリに表示されるプロセス コマンド ライン引数でコピーされたコンテンツが公開されなくなりました。 22KBを超える選択範囲がクリップボードに到達しない問題も修正&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-PowerShell ツール: ベア &lt;br&gt;
---&lt;br&gt;
- (例: &lt;br&gt;
-git diff -- ファイル&lt;br&gt;
-) として誤ってフラグが立てられなくなりました。 &lt;br&gt;
---%&lt;br&gt;
- 解析停止トークン&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-モデルが並列ツール呼び出しバッチで不正な形式のツール名を出力すると、エージェント SDK がハングする問題を修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The &lt;code&gt;/model&lt;/code&gt; picker now lists models from your gateway's &lt;code&gt;/v1/models&lt;/code&gt; endpoint when &lt;code&gt;ANTHROPIC_BASE_URL&lt;/code&gt; points at an Anthropic-compatible gateway&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;claude project purge [path]&lt;/code&gt; to delete all Claude Code state for a project (transcripts, tasks, file history, config entry) — supports &lt;code&gt;--dry-run&lt;/code&gt;, &lt;code&gt;-y/--yes&lt;/code&gt;, &lt;code&gt;-i/--interactive&lt;/code&gt;, and &lt;code&gt;--all&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;--dangerously-skip-permissions&lt;/code&gt; now bypasses prompts for writes to &lt;code&gt;.claude/&lt;/code&gt;, &lt;code&gt;.git/&lt;/code&gt;, &lt;code&gt;.vscode/&lt;/code&gt;, shell config files, and other previously-protected paths (catastrophic removal commands still prompt as a safety net)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;claude auth login&lt;/code&gt; now accepts the OAuth code pasted into the terminal when the browser callback can't reach localhost (WSL2, SSH, containers)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;claude_code.skill_activated&lt;/code&gt; OpenTelemetry event now fires for user-typed slash commands and carries a new &lt;code&gt;invocation_trigger&lt;/code&gt; attribute (&lt;code&gt;"user-slash"&lt;/code&gt;, &lt;code&gt;"claude-proactive"&lt;/code&gt;, or &lt;code&gt;"nested-skill"&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Auto mode: the spinner now turns red when a permission check stalls, instead of looking like the tool is running&lt;/li&gt;
-&lt;li&gt;Host-managed deployments (&lt;code&gt;CLAUDE_CODE_PROVIDER_MANAGED_BY_HOST&lt;/code&gt;) no longer auto-disable analytics on Bedrock/Vertex/Foundry&lt;/li&gt;
-&lt;li&gt;Windows: PowerShell 7 installed via the Microsoft Store, MSI without PATH, or &lt;code&gt;.NET global tool&lt;/code&gt; is now detected&lt;/li&gt;
-&lt;li&gt;Windows: when the PowerShell tool is enabled, Claude now treats PowerShell as the primary shell instead of defaulting to Bash&lt;/li&gt;
-&lt;li&gt;Read tool: removed the per-file malware-assessment reminder that could cause spurious refusals and "this is not malware" commentary on legacy models&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Security:&lt;/strong&gt; Fixed &lt;code&gt;allowManagedDomainsOnly&lt;/code&gt; / &lt;code&gt;allowManagedReadPathsOnly&lt;/code&gt; being ignored when a higher-priority managed-settings source lacked a &lt;code&gt;sandbox&lt;/code&gt; block&lt;/li&gt;
-&lt;li&gt;Fixed pasting an image larger than 2000px breaking the session — images are now downscaled on paste, and oversized images in history are automatically removed and the request retried&lt;/li&gt;
-&lt;li&gt;Fixed showing the login screen for "OAuth not allowed for organization" errors — now shows guidance to contact your admin&lt;/li&gt;
-&lt;li&gt;Fixed OAuth login failing with timeout on slow or proxied connections, in IPv6-only devcontainers, and when the browser callback can't reach localhost&lt;/li&gt;
-&lt;li&gt;Fixed a rare race where a concurrent credential write could clear a valid OAuth refresh token&lt;/li&gt;
-&lt;li&gt;Fixed API retry countdown sticking at "0s" instead of counting down between attempts&lt;/li&gt;
-&lt;li&gt;Fixed "Stream idle timeout" error after waking Mac from sleep mid-request&lt;/li&gt;
-&lt;li&gt;Fixed background and remote sessions falsely aborting with "Stream idle timeout" during long model thinking pauses&lt;/li&gt;
-&lt;li&gt;Fixed a hang where the assistant could finish thinking but show no output after a run of empty turns&lt;/li&gt;
-&lt;li&gt;Fixed overly fast trackpad scrolling in Cursor and VS Code 1.92–1.104 integrated terminals&lt;/li&gt;
-&lt;li&gt;Fixed claude.ai MCP connectors being suppressed by manual servers stuck in needs-auth state&lt;/li&gt;
-&lt;li&gt;Fixed Japanese/Korean/Chinese text rendering as garbled characters on Windows in no-flicker mode&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;Ctrl+L&lt;/code&gt; clearing the prompt input — it now only forces a screen redraw, matching readline behavior&lt;/li&gt;
-&lt;li&gt;Fixed deferred tools (WebSearch, WebFetch, etc.) not being available to skills with &lt;code&gt;context: fork&lt;/code&gt; and other subagents on their first turn&lt;/li&gt;
-&lt;li&gt;Fixed plan-mode tools being unavailable in interactive sessions launched with &lt;code&gt;--channels&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/plugin&lt;/code&gt; Uninstall reporting "Enabled" instead of "Uninstalled"&lt;/li&gt;
-&lt;li&gt;Bounded total size of file-modified reminders when a linter touches many files at once&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/remote-control&lt;/code&gt; retries appearing stuck on "connecting…" — each retry now shows its result&lt;/li&gt;
-&lt;li&gt;Fixed Remote Control failure notification not showing the error reason for initial connection failures&lt;/li&gt;
-&lt;li&gt;Windows: clipboard writes no longer expose copied content in process command-line arguments visible to EDR/SIEM telemetry; also fixes &amp;gt;22KB selections not reaching the clipboard&lt;/li&gt;
-&lt;li&gt;PowerShell tool: bare &lt;code&gt;--&lt;/code&gt; (e.g. &lt;code&gt;git diff -- file&lt;/code&gt;) is no longer mis-flagged as the &lt;code&gt;--%&lt;/code&gt; stop-parsing token&lt;/li&gt;
-&lt;li&gt;Fixed Agent SDK hang when the model emits a malformed tool name in a parallel tool call batch&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.126"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.128</id>
     <title>v2.1.128</title>
@@ -1583,5 +1379,110 @@ claudeCode.enableReopenClosedSessionShortcut&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&l
 &lt;li&gt;[VSCode] Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab, configurable via &lt;code&gt;claudeCode.enableReopenClosedSessionShortcut&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.139"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.140</id>
+    <title>v2.1.140</title>
+    <updated>2026-05-12T21:09:45+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改良されたエージェントツール &lt;br&gt;
+サブエージェントの種類&lt;br&gt;
+ 大文字と小文字と区切り文字を区別しない値を受け入れるためのマッチング (例: &lt;br&gt;
+「コードレビューアー」&lt;br&gt;
+ に解決します &lt;br&gt;
+コードレビュー担当者&lt;br&gt;
+)&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェントのカラーパレットを更新しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/目標&lt;br&gt;
+ 静かにぶら下がっているとき &lt;br&gt;
+すべてのフックを無効にする&lt;br&gt;
+ または &lt;br&gt;
+管理対象フックのみを許可&lt;br&gt;
+ が設定されています - 決して解決されないインジケーターの代わりに明確なメッセージが表示されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+シンボリックリンクされた設定ファイルによって誤って属性変更イベントが発生し、偽の変更イベントが発生する、設定のホットリロードにおける回帰を修正しました。 &lt;br&gt;
+構成変更&lt;br&gt;
+ フック&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロード --bg&lt;br&gt;
+ バックグラウンド サービスがアイドル状態で終了しようとしたときに、「要求中に接続が切断されました」というメッセージが表示されて失敗する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エンタープライズ エンドポイント セキュリティを備えたマシンでバックグラウンド サービスの起動が失敗する問題を、時間を長くすることで修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+401 でリモート管理設定が再試行されない問題を修正しました。強制的に更新されたトークンを使用して 1 回再試行されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定管理 &lt;br&gt;
+追加の有名なマーケットプレイス&lt;br&gt;
+ 自動更新ポリシーが永続化されない &lt;br&gt;
+既知のマーケットプレイス.json&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/ループ&lt;br&gt;
+ すでに完了時に通知されているバックグラウンド タスクをポーリングするために冗長ウェイクアップをスケジュールする&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+実行可能ファイル（例: &lt;br&gt;
+うーん&lt;br&gt;
+) 同期トリガー &lt;br&gt;
+ここで.exe&lt;br&gt;
+ チェックするたびに再出現します&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+読む&lt;br&gt;
+ ツールは次の場合に失敗した検証を呼び出します。 &lt;br&gt;
+オフセット&lt;br&gt;
+ 空白が埋め込まれたものとして渡されるか、 &lt;br&gt;
++&lt;br&gt;
+-接頭辞付きの文字列&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+端末がフォーカスを失ったときに、ネイティブ端末カーソルが入力キャレットに留まらない問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+プラグインは、デフォルトのコンポーネントフォルダー (例: &lt;br&gt;
+コマンド/&lt;br&gt;
+) は黙って無視されます。 &lt;br&gt;
+プラグイン.json&lt;br&gt;
+ 一致するキーを設定します。に表示されます &lt;br&gt;
+/ドクター&lt;br&gt;
+、 &lt;br&gt;
+クロードプラグインリスト&lt;br&gt;
+、そして &lt;br&gt;
+/プラグイン&lt;br&gt;
+。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved Agent tool &lt;code&gt;subagent_type&lt;/code&gt; matching to accept case- and separator-insensitive values (e.g. &lt;code&gt;"Code Reviewer"&lt;/code&gt; resolves to &lt;code&gt;code-reviewer&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Updated agent color palette&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/goal&lt;/code&gt; silently hanging when &lt;code&gt;disableAllHooks&lt;/code&gt; or &lt;code&gt;allowManagedHooksOnly&lt;/code&gt; is set — now shows a clear message instead of an indicator that never resolves&lt;/li&gt;
+&lt;li&gt;Fixed a regression in settings hot-reload where symlinked settings files caused misattributed change events and spurious &lt;code&gt;ConfigChange&lt;/code&gt; hooks&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude --bg&lt;/code&gt; failing with "connection dropped mid-request" when the background service was about to idle-exit&lt;/li&gt;
+&lt;li&gt;Fixed background service startup failing on machines with enterprise endpoint security by allowing more time&lt;/li&gt;
+&lt;li&gt;Fixed remote managed settings not retrying on 401 — now retries once with a force-refreshed token&lt;/li&gt;
+&lt;li&gt;Fixed managed &lt;code&gt;extraKnownMarketplaces&lt;/code&gt; auto-update policy not being persisted to &lt;code&gt;known_marketplaces.json&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/loop&lt;/code&gt; scheduling redundant wakeups to poll for background tasks that already notify on completion&lt;/li&gt;
+&lt;li&gt;Fixed a recurring event-loop stall on Windows when a missing executable (e.g. &lt;code&gt;gh&lt;/code&gt;) triggered synchronous &lt;code&gt;where.exe&lt;/code&gt; re-spawns on every check&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;Read&lt;/code&gt; tool calls failing validation when &lt;code&gt;offset&lt;/code&gt; is passed as a whitespace-padded or &lt;code&gt;+&lt;/code&gt;-prefixed string&lt;/li&gt;
+&lt;li&gt;Fixed native terminal cursor not staying at the input caret when the terminal loses focus&lt;/li&gt;
+&lt;li&gt;Plugins now warn when a default component folder (e.g. &lt;code&gt;commands/&lt;/code&gt;) is silently ignored because &lt;code&gt;plugin.json&lt;/code&gt; sets the matching key. Shown in &lt;code&gt;/doctor&lt;/code&gt;, &lt;code&gt;claude plugin list&lt;/code&gt;, and &lt;code&gt;/plugin&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.140"/>
   </entry>
 </feed>
