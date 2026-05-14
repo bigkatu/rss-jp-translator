@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/openai/codex/releases.atom</id>
   <title>OpenAI Codex リリース（日本語）</title>
-  <updated>2026-05-14T20:01:26.404066+00:00</updated>
+  <updated>2026-05-14T21:22:18.737621+00:00</updated>
   <link href="https://github.com/openai/codex/releases" rel="alternate"/>
   <link href="https://github.com/openai/codex/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/965415649/rusty-v8-v147.4.0</id>
-    <title>rusty-v8-v147.4.0</title>
-    <updated>2026-05-11T06:26:25+00:00</updated>
-    <author>
-      <name>github-actions[bot]</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;修正(v8): リリースチェックサムを使用して musl アーティファクトを検証する&lt;br&gt;
-&lt;br&gt;
-MODULE.bazel チェックサム マニフェスト コントラクトを再展開することなく、Cargo musl ジョブが動作し続けるように、公開されたターゲットごとのチェックサム アセットを musl アーカイブおよびバインディングとともにフェッチします。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;p&gt;fix(v8): verify musl artifacts with release checksums&lt;/p&gt;
-
-&lt;p&gt;Fetch the published per-target checksum asset alongside the musl archive and binding so Cargo musl jobs keep working without re-expanding the MODULE.bazel checksum manifest contract.&lt;/p&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/openai/codex/releases/tag/rusty-v8-v147.4.0"/>
-  </entry>
 </feed>
