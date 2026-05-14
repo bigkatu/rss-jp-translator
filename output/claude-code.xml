@@ -2,198 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-14T21:22:12.277424+00:00</updated>
+  <updated>2026-05-14T23:11:07.197394+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.129</id>
-    <title>v2.1.129</title>
-    <updated>2026-05-06T01:40:18+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
---plugin-url &amp;lt;url&amp;gt;&lt;br&gt;
- プラグインを取得するためのフラグ &lt;br&gt;
-.zip&lt;br&gt;
- 現在のセッションの URL からのアーカイブ&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-CLAUDE_CODE_FORCE_SYNC_OUTPUT=1&lt;br&gt;
- env var は、自動検出が失敗した端末での同期出力を強制的に有効にします (例: Emacs) &lt;br&gt;
-食べる&lt;br&gt;
-)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE&lt;br&gt;
-: Homebrew または WinGet インストールで設定すると、Claude Code はバックグラウンドでアップグレード コマンドを実行し、再起動を求めるプロンプトを表示します。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-プラグインマニフェスト: &lt;br&gt;
-テーマ&lt;br&gt;
- そして &lt;br&gt;
-モニター&lt;br&gt;
- 以下で宣言する必要があります &lt;br&gt;
-「実験的」: { ... }&lt;br&gt;
-。最上位の宣言は引き続き機能しますが、 &lt;br&gt;
-クロードプラグインの検証&lt;br&gt;
- 警告します&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ゲートウェイ &lt;br&gt;
-/v1/モデル&lt;br&gt;
- のための発見 &lt;br&gt;
-/モデル&lt;br&gt;
- ピッカーは現在オプトインされています &lt;br&gt;
-CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY=1&lt;br&gt;
- (2.1.126 ～ 2.1.128 では自動でした)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Ctrl+R 履歴ピッカーは、デフォルトですべてのプロジェクトのすべてのプロンプトを検索するようになり、2.1.124 より前の動作と一致します。 Ctrl+S を押して、現在のプロジェクトまたはセッションに絞り込みます&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サードパーティの導入 (Bedrock、Vertex、Foundry、または &lt;br&gt;
-ANTHROPIC_BASE_URL&lt;br&gt;
- ゲートウェイ)、ファーストパーティの Anthropic サーフェスを指しているスピナー チップが表示されなくなりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-スキルオーバーライド&lt;br&gt;
- 設定が機能するようになりました。 &lt;br&gt;
-オフ&lt;br&gt;
- モデルから隠れて、 &lt;br&gt;
-/&lt;br&gt;
-、 &lt;br&gt;
-ユーザー呼び出し専用&lt;br&gt;
- モデルからのみ非表示にします。 &lt;br&gt;
-名前のみ&lt;br&gt;
- 説明を折りたたむ&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-の &lt;br&gt;
-claude_code.pull_request.count&lt;br&gt;
- OTel メトリックでは、シェル コマンドだけでなく、MCP ツール経由で作成された PR/MR もカウントされるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サポートのデバッグを容易にするために、ポリシー拒否エラー メッセージに API リクエスト ID が含まれるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-認識できない 400 ステータス コードで、基礎となるエラー メッセージではなく生の JSON が表示される API エラーを修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/クリア&lt;br&gt;
- 会話後にターミナルタブのタイトルがリセットされない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-からのセッション タイトル チップを修正 &lt;br&gt;
-/名前の変更&lt;br&gt;
- 権限またはその他のダイアログがアクティブなときに消える&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サブエージェントの実行中にプロンプトの下にあるエージェント パネルが非表示になる問題を修正しました (2.1.122 でのリグレッション)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-外部エディターのハンドオフ (Ctrl+G) によってプロンプトの上の会話履歴が空白になる問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/コンテキスト&lt;br&gt;
- レンダリングされた ASCII 視覚化グリッドを会話にダンプし、通話ごとに最大 1.6,000 のトークンを無駄にします&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/エージェント&lt;br&gt;
- ライブラリ リストの矢印キー ナビゲーション: リストがビューポートを超えても、強調表示されたエージェントが表示されたままになるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/ブランチ&lt;br&gt;
- 成功メッセージには新しいブランチのセッション ID が含まれていません &lt;br&gt;
-/再開&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-全画面モードでキーキャップ/ZWJ/スキントーン絵文字を含む太字のヘッダーで末尾の文字が失われる問題を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-保存されている OAuth 資格情報が不足しているエンタープライズ/チーム ユーザーにはサーバー管理の設定ポリシーが適用されない問題を修正しました。 &lt;br&gt;
-ユーザー:推論&lt;br&gt;
- 範囲&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-実行中のすべてのセッションがログアウトされる可能性があるスリープから復帰後の OAuth リフレッシュ レースを修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-1 時間のプロンプト キャッシュ TTL がサイレントに 5 分にダウングレードされる問題を修正&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-後に誤って表示されるキャッシュミス警告を修正しました。 &lt;br&gt;
-/クリア&lt;br&gt;
- または変更時の圧縮 &lt;br&gt;
-/努力&lt;br&gt;
- または &lt;br&gt;
-/モデル&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-Bash(mkdir *)&lt;br&gt;
-、 &lt;br&gt;
-バッシュ(タッチ*)&lt;br&gt;
- および同様の許可ルールがプロジェクト内のパスに対して尊重されない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-拒否されたMcpサーバー&lt;br&gt;
- のパターン &lt;br&gt;
-*://&lt;br&gt;
- スキームのワイルドカードが大文字と小文字が混在するホスト名と一致しない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-無害な WebSocket 警告がエラーとして記録される問題を修正しました。 &lt;br&gt;
---デバッグ&lt;br&gt;
- ボイスモード時&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-[VSCode]修正 &lt;br&gt;
-/クリア&lt;br&gt;
- 会話のコンテキストと表示されたトランスクリプトがクリアされない&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;--plugin-url &amp;lt;url&amp;gt;&lt;/code&gt; flag to fetch a plugin &lt;code&gt;.zip&lt;/code&gt; archive from a URL for the current session&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;CLAUDE_CODE_FORCE_SYNC_OUTPUT=1&lt;/code&gt; env var to force-enable synchronized output on terminals that auto-detection misses (e.g. Emacs &lt;code&gt;eat&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE&lt;/code&gt;: when set on Homebrew or WinGet installations, Claude Code runs the upgrade command in the background and prompts to restart&lt;/li&gt;
-&lt;li&gt;Plugin manifests: &lt;code&gt;themes&lt;/code&gt; and &lt;code&gt;monitors&lt;/code&gt; should now be declared under &lt;code&gt;"experimental": { ... }&lt;/code&gt;. Top-level declarations still work but &lt;code&gt;claude plugin validate&lt;/code&gt; will warn&lt;/li&gt;
-&lt;li&gt;Gateway &lt;code&gt;/v1/models&lt;/code&gt; discovery for the &lt;code&gt;/model&lt;/code&gt; picker is now opt-in via &lt;code&gt;CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY=1&lt;/code&gt; (was automatic in 2.1.126–2.1.128)&lt;/li&gt;
-&lt;li&gt;Ctrl+R history picker now defaults to searching all prompts across all projects, matching pre-2.1.124 behavior. Press Ctrl+S to narrow to the current project or session&lt;/li&gt;
-&lt;li&gt;Third-party deployments (Bedrock, Vertex, Foundry, or &lt;code&gt;ANTHROPIC_BASE_URL&lt;/code&gt; gateway) no longer see spinner tips pointing at first-party Anthropic surfaces&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;skillOverrides&lt;/code&gt; setting now works: &lt;code&gt;off&lt;/code&gt; hides from model and &lt;code&gt;/&lt;/code&gt;, &lt;code&gt;user-invocable-only&lt;/code&gt; hides from model only, &lt;code&gt;name-only&lt;/code&gt; collapses description&lt;/li&gt;
-&lt;li&gt;The &lt;code&gt;claude_code.pull_request.count&lt;/code&gt; OTel metric now counts PRs/MRs created via MCP tools, not just shell commands&lt;/li&gt;
-&lt;li&gt;Policy refusal error messages now include the API Request ID for easier support debugging&lt;/li&gt;
-&lt;li&gt;Fixed API errors with unrecognized 400 status codes showing raw JSON instead of the underlying error message&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/clear&lt;/code&gt; not resetting the terminal tab title after a conversation&lt;/li&gt;
-&lt;li&gt;Fixed session title chip from &lt;code&gt;/rename&lt;/code&gt; disappearing while a permission or other dialog is active&lt;/li&gt;
-&lt;li&gt;Fixed agent panel below the prompt being hidden when subagents are running (regression in 2.1.122)&lt;/li&gt;
-&lt;li&gt;Fixed external-editor handoff (Ctrl+G) blanking the conversation history above the prompt&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/context&lt;/code&gt; dumping its rendered ASCII visualization grid into the conversation, wasting ~1.6k tokens per call&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/agents&lt;/code&gt; Library list arrow-key navigation: the highlighted agent now stays visible when the list exceeds the viewport&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/branch&lt;/code&gt; success message not including the new branch's session id for &lt;code&gt;/resume&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed bold headers with keycap/ZWJ/skin-tone emoji losing trailing characters in fullscreen mode&lt;/li&gt;
-&lt;li&gt;Fixed server-managed settings policy not applying for enterprise/team users whose stored OAuth credentials lacked the &lt;code&gt;user:inference&lt;/code&gt; scope&lt;/li&gt;
-&lt;li&gt;Fixed OAuth refresh race after wake-from-sleep that could log out all running sessions&lt;/li&gt;
-&lt;li&gt;Fixed 1-hour prompt cache TTL being silently downgraded to 5 minutes&lt;/li&gt;
-&lt;li&gt;Fixed cache-miss warning appearing spuriously after &lt;code&gt;/clear&lt;/code&gt; or compaction when changing &lt;code&gt;/effort&lt;/code&gt; or &lt;code&gt;/model&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;Bash(mkdir *)&lt;/code&gt;, &lt;code&gt;Bash(touch *)&lt;/code&gt; and similar allow rules not being honored for in-project paths&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;deniedMcpServers&lt;/code&gt; patterns with a &lt;code&gt;*://&lt;/code&gt; scheme wildcard not matching mixed-case hostnames&lt;/li&gt;
-&lt;li&gt;Fixed harmless WebSocket warning being logged as an error in &lt;code&gt;--debug&lt;/code&gt; during voice mode&lt;/li&gt;
-&lt;li&gt;[VSCode] Fixed &lt;code&gt;/clear&lt;/code&gt; not clearing the conversation context and displayed transcript&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.129"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.131</id>
     <title>v2.1.131</title>
@@ -1603,5 +1416,177 @@ sox libsox-fmt-pulse&lt;br&gt;
 &lt;li&gt;Empty idle background sessions left over from &lt;code&gt;←&lt;/code&gt; are now automatically retired by the daemon after 5 minutes&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.141"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.142</id>
+    <title>v2.1.142</title>
+    <updated>2026-05-14T22:55:10+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+新しく追加されました &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ フラグ: &lt;br&gt;
+--追加ディレクトリ&lt;br&gt;
+、 &lt;br&gt;
+--設定&lt;br&gt;
+、 &lt;br&gt;
+--mcp-config&lt;br&gt;
+、 &lt;br&gt;
+--プラグインディレクトリ&lt;br&gt;
+、 &lt;br&gt;
+--許可モード&lt;br&gt;
+、 &lt;br&gt;
+--モデル&lt;br&gt;
+、 &lt;br&gt;
+--努力&lt;br&gt;
+、そして &lt;br&gt;
+--dangerously-skip-権限&lt;br&gt;
+ ディスパッチされたバックグラウンド セッションを構成するには&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Fast モードはデフォルトで Opus 4.7 を使用するようになりました (以前は Opus 4.6)。セット &lt;br&gt;
+CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE=1&lt;br&gt;
+ 高速モードを Opus 4.6 に固定する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ルートレベルのプラグイン &lt;br&gt;
+スキル.md&lt;br&gt;
+ そしていいえ &lt;br&gt;
+スキル/&lt;br&gt;
+ サブディレクトリがスキルとして表示されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+の &lt;br&gt;
+/プラグイン&lt;br&gt;
+ 詳細ペインと &lt;br&gt;
+クロードプラグインの詳細&lt;br&gt;
+ プラグインが提供する LSP サーバーを表示します&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+/web-setup&lt;br&gt;
+ 既存の GitHub アプリ接続を置き換える前に警告します&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+MCP_TOOL_TIMEOUT&lt;br&gt;
+ リモート HTTP および SSE MCP サーバーのリクエストごとのフェッチ タイムアウトを上げません。設定された値に関係なく、ツール呼び出しの上限は 60 秒です。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンド セッションが既存の git ワークツリーを認識せず、EnterWorktree が複製の作成を拒否している間編集をブロックする問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+macOS のスリープ/ウェイク後にバックグラウンド セッションが消失し、デーモンの再接続が失敗する問題を修正しました。デーモンは、経過したアイドル時間として処理するのではなく、クロック ジャンプを検出するようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バイナリのアップグレード後にデーモンが正常に終了しない問題を修正しました (例: &lt;br&gt;
+ビールのアップグレード&lt;br&gt;
+)、ディスパッチされたエージェントが削除されたパスでクラッシュ ループを引き起こす&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Claude-in-Chrome 拡張機能が共有タブなしで接続されている場合に発生するバックグラウンド エージェントのクラッシュ ループを修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+添付ファイル内のリンクをクリックする問題を修正しました &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ セッション — バックグラウンド ワーカーのヘッドレス ブラウザ シムが接続中に適用されなくなりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ シェルの代わりにデーモンのデフォルトのエディタを使用して「v エディタで開く」 &lt;br&gt;
+$エディター&lt;br&gt;
+/&lt;br&gt;
+$ビジュアル&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ ネットワーク ドライブの作業ディレクトリを使用する Windows でのデッドロック。 Ctrl+C が起動時に機能するようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+にアタッチするときの背景色のにじみを修正しました。 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ Apple ターミナルまたはその他の 256 色専用ターミナルからのセッション&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロード --bg --dangerously-skip-permissions&lt;br&gt;
+ リタイア/ウェイク間で持続しない&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+最初のメッセージがリンクの場合、セッション タイトルが URL から派生する問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定冗長 &lt;br&gt;
+セットモデル&lt;br&gt;
+ 重複を挿入するリモートクライアントからのリクエスト &lt;br&gt;
+/モデル&lt;br&gt;
+ トランスクリプトにブレッドクラムを追加する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+使用しているプラグインを修正しました &lt;br&gt;
+スキル: ["./"]&lt;br&gt;
+ 誤った「パスがプラグイン ディレクトリをエスケープしている」エラーが表示される&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+インストールメタデータが存在しない場合にアクティブなプラグインバージョンディレクトリを削除するプラグインキャッシュのクリーンアップを修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/プラグイン&lt;br&gt;
+ 新しく公開されたプラグインに対して「インストール数 0」と表示される参照ペイン&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+プラグインのアドバイザリにすべての名前が付けられていない問題を修正 &lt;br&gt;
+プラグイン.json&lt;br&gt;
+ デフォルトのフォルダーをシャドウするキー&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善されたリアクティブ圧縮: 最初の要約試行は、元のリクエストのオーバーフロー サイズからシードされるようになり、無駄なほぼフルコンテキストの再試行が回避されます。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+フック設定エラーの改善: プロンプトまたはエージェント タイプのフックの設定 &lt;br&gt;
+セッション開始&lt;br&gt;
+/&lt;br&gt;
+セットアップ&lt;br&gt;
+/&lt;br&gt;
+サブエージェント開始&lt;br&gt;
+ 「代わりにコマンドタイプのフックを使用してください」という明確なエラーが表示されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+古いものを削除しました &lt;br&gt;
+/モデル クロード-ソネット-4-20250514&lt;br&gt;
+ 利用ポリシー拒否メッセージからの提案&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added new &lt;code&gt;claude agents&lt;/code&gt; flags: &lt;code&gt;--add-dir&lt;/code&gt;, &lt;code&gt;--settings&lt;/code&gt;, &lt;code&gt;--mcp-config&lt;/code&gt;, &lt;code&gt;--plugin-dir&lt;/code&gt;, &lt;code&gt;--permission-mode&lt;/code&gt;, &lt;code&gt;--model&lt;/code&gt;, &lt;code&gt;--effort&lt;/code&gt;, and &lt;code&gt;--dangerously-skip-permissions&lt;/code&gt; to configure dispatched background sessions&lt;/li&gt;
+&lt;li&gt;Fast mode now uses Opus 4.7 by default (previously Opus 4.6). Set &lt;code&gt;CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE=1&lt;/code&gt; to pin fast mode to Opus 4.6&lt;/li&gt;
+&lt;li&gt;Plugins with a root-level &lt;code&gt;SKILL.md&lt;/code&gt; and no &lt;code&gt;skills/&lt;/code&gt; subdirectory are now surfaced as a skill&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;/plugin&lt;/code&gt; details pane and &lt;code&gt;claude plugin details&lt;/code&gt; now show LSP servers a plugin provides&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/web-setup&lt;/code&gt; warns before replacing an existing GitHub App connection&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;MCP_TOOL_TIMEOUT&lt;/code&gt; not raising the per-request fetch timeout for remote HTTP and SSE MCP servers, which capped tool calls at 60 seconds regardless of the configured value&lt;/li&gt;
+&lt;li&gt;Fixed background sessions not recognizing pre-existing git worktrees, blocking Edit while EnterWorktree refused to create a duplicate&lt;/li&gt;
+&lt;li&gt;Fixed background sessions disappearing and daemon reconnect failing after macOS sleep/wake — the daemon now detects clock jumps instead of treating them as elapsed idle time&lt;/li&gt;
+&lt;li&gt;Fixed daemon not exiting cleanly after the binary is upgraded (e.g. &lt;code&gt;brew upgrade&lt;/code&gt;), causing dispatched agents to crash-loop on the deleted path&lt;/li&gt;
+&lt;li&gt;Fixed background agents crash-looping when the Claude-in-Chrome extension is connected without a shared tab&lt;/li&gt;
+&lt;li&gt;Fixed clicking links in an attached &lt;code&gt;claude agents&lt;/code&gt; session — the background worker's headless browser shim no longer applies while attached&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; "v to open in editor" using the daemon's default editor instead of your shell's &lt;code&gt;$EDITOR&lt;/code&gt;/&lt;code&gt;$VISUAL&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; deadlocking on Windows with network-drive working directories; Ctrl+C now works during startup&lt;/li&gt;
+&lt;li&gt;Fixed background-color bleed when attaching to a &lt;code&gt;claude agents&lt;/code&gt; session from Apple Terminal or other 256-color-only terminals&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude --bg --dangerously-skip-permissions&lt;/code&gt; not persisting across retire/wake&lt;/li&gt;
+&lt;li&gt;Fixed session titles being derived from the URL when the first message is a link&lt;/li&gt;
+&lt;li&gt;Fixed redundant &lt;code&gt;set_model&lt;/code&gt; requests from remote clients injecting duplicate &lt;code&gt;/model&lt;/code&gt; breadcrumbs into the transcript&lt;/li&gt;
+&lt;li&gt;Fixed plugins using &lt;code&gt;skills: ["./"]&lt;/code&gt; showing a false "path escapes plugin directory" error&lt;/li&gt;
+&lt;li&gt;Fixed plugin cache cleanup deleting the active plugin version directory when no installation metadata is present&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/plugin&lt;/code&gt; browse pane showing "0 installs" for newly published plugins&lt;/li&gt;
+&lt;li&gt;Fixed plugin advisories not naming every &lt;code&gt;plugin.json&lt;/code&gt; key that shadows a default folder&lt;/li&gt;
+&lt;li&gt;Improved reactive compaction: the first summarize attempt now seeds from the original request's overflow size, avoiding a wasted near-full-context retry&lt;/li&gt;
+&lt;li&gt;Improved hook configuration error: configuring a prompt- or agent-type hook for &lt;code&gt;SessionStart&lt;/code&gt;/&lt;code&gt;Setup&lt;/code&gt;/&lt;code&gt;SubagentStart&lt;/code&gt; now shows a clear "use a command-type hook instead" error&lt;/li&gt;
+&lt;li&gt;Removed stale &lt;code&gt;/model claude-sonnet-4-20250514&lt;/code&gt; suggestion from Usage Policy refusal messages&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.142"/>
   </entry>
 </feed>
