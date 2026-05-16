@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-16T04:00:14.969054+00:00</updated>
+  <updated>2026-05-16T06:33:59.703543+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000121013:03c63f06ec608c03</id>
-    <title>ゾンビ恋愛：アンデッドアニメ美少年変身 (Zombie Hearts: Turn the Undead into Anime Boys) 60%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ゾンビ恋愛：アンデッドアニメ美少年変身 (Zombie Hearts: Turn the Undead into Anime Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw64aac016/products/D70010000121013/squareHeroBanner/94c8b669a2a4b615e4a9fba2a10a4c8da0b0cf490cf579d85ac14850a9234cb9.jpg?sw=346&amp;amp;strip=false" alt="ゾンビ恋愛：アンデッドアニメ美少年変身 (Zombie Hearts: Turn the Undead into Anime Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121013"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121013"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000117284:a8dfcb3bd2345829</id>
     <title>ボクらの消しゴム落とし4 時空バトル 27%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-16T04:00:14.969054+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121482:da8f3dab668d2532</id>
+    <title>作って！餃子 28%OFF</title>
+    <updated>2026-05-16T06:33:59.703543+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;作って！餃子&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc747d597/products/D70010000121482/squareHeroBanner/78ae0cf34a2ba2b0daf7d683e98e2340bb3a9ffe3608eb82b30ffae7c4c6dbbc.jpg?sw=346&amp;amp;strip=false" alt="作って！餃子"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121482"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121482"/>
   </entry>
 </feed>
