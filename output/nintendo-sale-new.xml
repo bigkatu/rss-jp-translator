@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-16T01:15:22.924823+00:00</updated>
+  <updated>2026-05-16T04:00:14.969054+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000125689:9ba2e09c8aaf6c20</id>
-    <title>飛空艇クエスト島 – Nintendo Switch 2 Edition 10%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;飛空艇クエスト島 – Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,800 円&lt;/p&gt;&lt;p&gt;メーカー: カイロソフト&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb9a8dc82/products/D70010000125689/squareHeroBanner/e747776379803a9128de400ed8fcf36fe35c1192dfe47154a1e599042c8b2be1.jpg?sw=346&amp;amp;strip=false" alt="飛空艇クエスト島 – Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125689"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125689"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000121013:03c63f06ec608c03</id>
     <title>ゾンビ恋愛：アンデッドアニメ美少年変身 (Zombie Hearts: Turn the Undead into Anime Boys) 60%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-16T01:15:22.924823+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;CoffeeFox: Kim Samwol&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,920 円&lt;/p&gt;&lt;p&gt;メーカー: GaniTani&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa6f24af5/products/D70010000122334/squareHeroBanner/9cd5a1333975878144d43e1e4d66648d08b442b7056fb06cfb3f1bfd0eab33f9.jpg?sw=346&amp;amp;strip=false" alt="CoffeeFox: Kim Samwol"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122334"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000122334"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113026:b4f8289fa30505c6</id>
+    <title>人喰ノ檻 - KLETKA 10%OFF</title>
+    <updated>2026-05-16T04:00:14.969054+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
   </entry>
 </feed>
