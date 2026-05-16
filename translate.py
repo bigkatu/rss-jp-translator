@@ -21,7 +21,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
-from urllib.parse import unquote, urljoin, urlparse
+from urllib.parse import parse_qsl, urlencode, unquote, urljoin, urlparse, urlunparse
 from xml.sax.saxutils import escape as xml_escape
 
 import feedparser
@@ -38,6 +38,8 @@ CONFIG_PATH = ROOT / "feeds.yaml"
 
 CHUNK_SIZE = 4500            # GoogleTranslator は 5000 文字制限
 MAX_ENTRIES_PER_FEED = 25    # 1 フィードあたりの最大エントリ数
+NINTENDO_SALE_PAGES = 5
+NINTENDO_SALE_HISTORY_LIMIT = 50
 TRANSLATE_RETRIES = 2
 
 USER_AGENT = (
@@ -369,13 +371,36 @@ def fetch_nintendo_sale_products(url: str) -> list[SaleProduct]:
     return extract_sale_products(extract_initial_json(resp.text))
 
 
+def url_with_page(url: str, page: int) -> str:
+    parsed = urlparse(url)
+    query = dict(parse_qsl(parsed.query, keep_blank_values=True))
+    query["page"] = str(page)
+    return urlunparse(parsed._replace(query=urlencode(query)))
+
+
+def fetch_nintendo_sale_pages(url: str, pages: int = NINTENDO_SALE_PAGES) -> list[SaleProduct]:
+    products: list[SaleProduct] = []
+    seen_ids: set[str] = set()
+    for page in range(1, pages + 1):
+        page_url = url_with_page(url, page)
+        page_products = fetch_nintendo_sale_products(page_url)
+        print(f"  page {page}: {len(page_products)} products", flush=True)
+        for product in page_products:
+            if product.product_id in seen_ids:
+                continue
+            seen_ids.add(product.product_id)
+            products.append(product)
+        time.sleep(0.5)
+    return products
+
+
 def process_nintendo_sale_feed(fd: FeedDef) -> tuple[bool, str]:
     print(f"\n=== {fd.name}: {fd.url}", flush=True)
     cache = load_cache(fd.name)
     seen: dict[str, str] = cache.get("seen", {})
     history: list[dict] = cache.get("history", [])
 
-    products = fetch_nintendo_sale_products(fd.url)
+    products = fetch_nintendo_sale_pages(fd.url)
     if not products:
         msg = "商品が取得できませんでした"
         print(f"  ! {msg}", flush=True)
@@ -406,7 +431,7 @@ def process_nintendo_sale_feed(fd: FeedDef) -> tuple[bool, str]:
     if changes:
         old_ids = {entry.get("id") for entry in changes}
         history = changes + [entry for entry in history if entry.get("id") not in old_ids]
-        history = history[:50]
+        history = history[:NINTENDO_SALE_HISTORY_LIMIT]
 
     fg = FeedGenerator()
     fg.id(fd.url)
@@ -416,7 +441,7 @@ def process_nintendo_sale_feed(fd: FeedDef) -> tuple[bool, str]:
     fg.language("ja")
     fg.updated(now)
 
-    for entry in history:
+    for entry in history[:NINTENDO_SALE_HISTORY_LIMIT]:
         fe = fg.add_entry()
         fe.id(f"nintendo-sale:{entry['id']}")
         fe.title(entry["title"])
