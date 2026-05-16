@@ -2,134 +2,358 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-16T01:07:10.544314+00:00</updated>
+  <updated>2026-05-16T01:15:22.924823+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
   <entry>
-    <id>nintendo-sale:D70010000113570:69ab3cb8abd9bbee</id>
+    <id>nintendo-sale:D70010000125689:9ba2e09c8aaf6c20</id>
+    <title>飛空艇クエスト島 – Nintendo Switch 2 Edition 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;飛空艇クエスト島 – Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,800 円&lt;/p&gt;&lt;p&gt;メーカー: カイロソフト&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb9a8dc82/products/D70010000125689/squareHeroBanner/e747776379803a9128de400ed8fcf36fe35c1192dfe47154a1e599042c8b2be1.jpg?sw=346&amp;amp;strip=false" alt="飛空艇クエスト島 – Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125689"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125689"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121013:03c63f06ec608c03</id>
+    <title>ゾンビ恋愛：アンデッドアニメ美少年変身 (Zombie Hearts: Turn the Undead into Anime Boys) 60%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ゾンビ恋愛：アンデッドアニメ美少年変身 (Zombie Hearts: Turn the Undead into Anime Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw64aac016/products/D70010000121013/squareHeroBanner/94c8b669a2a4b615e4a9fba2a10a4c8da0b0cf490cf579d85ac14850a9234cb9.jpg?sw=346&amp;amp;strip=false" alt="ゾンビ恋愛：アンデッドアニメ美少年変身 (Zombie Hearts: Turn the Undead into Anime Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121013"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121013"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000117284:a8dfcb3bd2345829</id>
+    <title>ボクらの消しゴム落とし4 時空バトル 27%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ボクらの消しゴム落とし4 時空バトル&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;27%OFF&lt;/p&gt;&lt;p&gt;価格: 1,200 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw89cb3e94/products/D70010000117284/squareHeroBanner/9d607788d75818b49706892baf554dbee21d313dbdc834e00e272b76dd972461.jpg?sw=346&amp;amp;strip=false" alt="ボクらの消しゴム落とし4 時空バトル"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117284"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000117284"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122042:9050691ca7b4eca7</id>
+    <title>ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition 25%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 1,300 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5a721eae/products/D70010000122042/squareHeroBanner/50c26150ec833b8402314bfe4a138eabc73b93ba7eb9bee785e89e68cada1968.jpeg?sw=346&amp;amp;strip=false" alt="ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122042"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122042"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119557:9a2ee3eed063b2cb</id>
+    <title>Bad Girls: Sweet Trouble 80%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Bad Girls: Sweet Trouble&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa64fef02/products/D70010000119557/squareHeroBanner/94e89f464e4885193170e337cd3eb886ac2d529dc86280826b6c414395819ea6.jpg?sw=346&amp;amp;strip=false" alt="Bad Girls: Sweet Trouble"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119557"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119557"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119420:f3ccfd91ecac83ab</id>
+    <title>プログラミング脳を育む 小学生IQクイズー10歳までに鍛える論理的思考力系列テストー 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;プログラミング脳を育む 小学生IQクイズー10歳までに鍛える論理的思考力系列テストー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe466c507/products/D70010000119420/squareHeroBanner/93001e52e9632dbe82897b21f11699725d562de3d9e602f806b3a259536bf105.jpg?sw=346&amp;amp;strip=false" alt="プログラミング脳を育む 小学生IQクイズー10歳までに鍛える論理的思考力系列テストー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119420"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119420"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123257:ee1631e7b45f86ba</id>
+    <title>Antique Backgammon 80%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Antique Backgammon&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 191 円&lt;/p&gt;&lt;p&gt;メーカー: Soroka Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0c9b647d/products/D70010000123257/squareHeroBanner/cd26950eea29f508f65c435783217a6c1a44bd06800eeedb9570c2ec1077607d.jpg?sw=346&amp;amp;strip=false" alt="Antique Backgammon"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123257"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123257"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121007:282eee3fad3b6949</id>
+    <title>病院恋愛：アニメ看護師ラブ (Hospital Romance: Anime Nurse Crush) 60%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;病院恋愛：アニメ看護師ラブ (Hospital Romance: Anime Nurse Crush)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw321638e0/products/D70010000121007/squareHeroBanner/b62554fbaec1ac2fdb0082863c394a1b64dfdc9411b0386d03a66e452c154113.jpg?sw=346&amp;amp;strip=false" alt="病院恋愛：アニメ看護師ラブ (Hospital Romance: Anime Nurse Crush)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121007"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121007"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120995:e9fc4b7eee356523</id>
+    <title>Unbox the Room 68%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Unbox the Room&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;68%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwf89be069/products/D70010000120995/squareHeroBanner/be6829cfa321f840f41a3563bffcad9e73d324cbbdc7cb0bd3a343c3b5fe1c96.jpg?sw=346&amp;amp;strip=false" alt="Unbox the Room"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120995"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120995"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113918:18b141e504e0de64</id>
+    <title>Mixtape 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Mixtape&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Annapurna Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5cf0ce30/products/D70010000113918/squareHeroBanner/067770c287b6d5cde23d251681fd2898b54fff12b9297c5eee818fd921d66587.jpg?sw=346&amp;amp;strip=false" alt="Mixtape"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113918"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113918"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118869:868e3526746dfa61</id>
+    <title>Doll Defenders 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Doll Defenders&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 400 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw62825e93/products/D70010000118869/squareHeroBanner/0157b903f04ce8c61e30b1c5d24197a84a46f9b55b6b489f603961789d18b858.jpg?sw=346&amp;amp;strip=false" alt="Doll Defenders"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118869"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118869"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124770:7c20fc8ac8a2ccb1</id>
+    <title>知ってびっくり！世界のことわざマルバツクイズ 〜楽しく学べる雑学〇×ゲーム〜 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;知ってびっくり！世界のことわざマルバツクイズ 〜楽しく学べる雑学〇×ゲーム〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw76b7152e/products/D70010000124770/squareHeroBanner/2d0df125f3ca65ae892862f0bb60adfbdc690f2db3c16aedac7d85aa405fa168.jpg?sw=346&amp;amp;strip=false" alt="知ってびっくり！世界のことわざマルバツクイズ 〜楽しく学べる雑学〇×ゲーム〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124770"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124770"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121001:225ab543767a4f23</id>
+    <title>病院恋愛：アニメ医者ラブ (Hospital Romance: Anime Doctor Crush) 60%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;病院恋愛：アニメ医者ラブ (Hospital Romance: Anime Doctor Crush)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb1caf413/products/D70010000121001/squareHeroBanner/e2d3a0b96dcec2a40c8a9369ccbbbe095647c0c0083a6797172b459fc29e701d.jpg?sw=346&amp;amp;strip=false" alt="病院恋愛：アニメ医者ラブ (Hospital Romance: Anime Doctor Crush)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121001"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121001"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000114624:5ee807476fc11ff5</id>
+    <title>Versebound 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Versebound&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 790 円&lt;/p&gt;&lt;p&gt;メーカー: Silesia Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwf02dad54/products/D70010000114624/squareHeroBanner/f0ada47223d32a71781735d89570e742fc61077801fed2ef4e3091ce5fde5ae3.jpg?sw=346&amp;amp;strip=false" alt="Versebound"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114624"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000114624"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113097:ccd5585be1e46106</id>
+    <title>TetherGeist 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;TetherGeist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,159 円&lt;/p&gt;&lt;p&gt;メーカー: Viridian Software&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6e0ebcb1/products/D70010000113097/squareHeroBanner/8329fee9fbb386560e072432362b4477132360b921c1adc5394ae596512ffc6b.jpg?sw=346&amp;amp;strip=false" alt="TetherGeist"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113097"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113097"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000099936:38a9fe32709afc37</id>
+    <title>Duck Side of the Moon 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Duck Side of the Moon&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,115 円&lt;/p&gt;&lt;p&gt;メーカー: Starbrew Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw30cf2ef4/products/D70010000099936/squareHeroBanner/61055e2044b92b470379d24212acf5f792076c2093e3e8d64d30e02066943996.jpg?sw=346&amp;amp;strip=false" alt="Duck Side of the Moon"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000099936"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000099936"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118529:8595531a99dc3dd9</id>
+    <title>Codename: Black Crow 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Codename: Black Crow&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 960 円&lt;/p&gt;&lt;p&gt;メーカー: ラタライカゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbdd0a7eb/products/D70010000118529/squareHeroBanner/41ad7a166524d32b8304247d78d424f1875b99baeb1fda69be101d0e917e5ea8.jpg?sw=346&amp;amp;strip=false" alt="Codename: Black Crow"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118529"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118529"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000066434:4e8d76f55ff01e18</id>
+    <title>KILL IT WITH FIRE! 2 35%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;KILL IT WITH FIRE! 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;35%OFF&lt;/p&gt;&lt;p&gt;価格: 1,495 円&lt;/p&gt;&lt;p&gt;メーカー: tinyBuild Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8890be36/products/D70010000066434/squareHeroBanner/baa3ca1179d1c322e54295feefac02fa0e05aa6b53b7edb190b6ab060372dd4a.jpg?sw=346&amp;amp;strip=false" alt="KILL IT WITH FIRE! 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000066434"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000066434"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118308:6b67d647c421ea95</id>
+    <title>あく★パラ ～Akuma's Paradise～ 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;あく★パラ ～Akuma's Paradise～&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,386 円&lt;/p&gt;&lt;p&gt;メーカー: ケムコ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8b2a3e4c/products/D70010000118308/squareHeroBanner/4065e853979757cea38b8fbb0db0839303eb82cbc9f90915482675a1f04b2cb8.jpg?sw=346&amp;amp;strip=false" alt="あく★パラ ～Akuma's Paradise～"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118308"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118308"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000099886:68df59bc98d54d1c</id>
+    <title>Call of the Elder Gods 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Call of the Elder Gods&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 2,240 円&lt;/p&gt;&lt;p&gt;メーカー: Kwalee&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbaaef393/products/D70010000099886/squareHeroBanner/382b277b2e241d02073e69da7ba330da17e039eaa2590d8ee09c33dd6306dde1.jpg?sw=346&amp;amp;strip=false" alt="Call of the Elder Gods"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000099886"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000099886"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000095803:9d40314ff96b5d10</id>
+    <title>Call of the Elder Gods 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Call of the Elder Gods&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 2,240 円&lt;/p&gt;&lt;p&gt;メーカー: Kwalee&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw535b82c0/products/D70010000095803/squareHeroBanner/382b277b2e241d02073e69da7ba330da17e039eaa2590d8ee09c33dd6306dde1.jpg?sw=346&amp;amp;strip=false" alt="Call of the Elder Gods"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000095803"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000095803"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124690:35e53b2730a0bb96</id>
+    <title>世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw94e56a90/products/D70010000124690/squareHeroBanner/9cc62da46b64c6e036474f396cf54223384d985f4da0d7592c9e840b291fff13.jpg?sw=346&amp;amp;strip=false" alt="世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124690"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124690"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118901:bcce774d0b90fded</id>
+    <title>Outbound（アウトバウンド） 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Outbound（アウトバウンド）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,673 円&lt;/p&gt;&lt;p&gt;メーカー: Silver Lining&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw38906099/products/D70010000118901/squareHeroBanner/e437d1968488b148c7aae84cf150d5bba08a273bd6199a1388b88b2c39ac9b6c.jpg?sw=346&amp;amp;strip=false" alt="Outbound（アウトバウンド）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118901"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118901"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000079686:4e2ec52952105c72</id>
+    <title>Underling Uprising 15%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Underling Uprising&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,683 円&lt;/p&gt;&lt;p&gt;メーカー: Abylight&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw07d84ddf/products/D70010000079686/squareHeroBanner/ce09675a29bb9ad6725d8d75c3e6febe0db7bc9c2ded8ba7aab8b3b6153aa5f8.jpg?sw=346&amp;amp;strip=false" alt="Underling Uprising"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000079686"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000079686"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000077010:dac5556df5bc31d2</id>
+    <title>RoadOut 15%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;RoadOut&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,615 円&lt;/p&gt;&lt;p&gt;メーカー: DANGEN Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw76149964/products/D70010000077010/squareHeroBanner/18d20c402685a3dd19c16facdd800ed881250395ba1498ef9712cfde379a6fd6.jpg?sw=346&amp;amp;strip=false" alt="RoadOut"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000077010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000077010"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000094578:2ff672650c29165e</id>
+    <title>ゼルドナーエックス２ 〜ディフィニティブ・エディション〜 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ゼルドナーエックス２ 〜ディフィニティブ・エディション〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,780 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw12ff032d/products/D70010000094578/squareHeroBanner/bbdbe3925dbb558c73760e64e7ad829c52304780cc4a1122771074efee603731.jpg?sw=346&amp;amp;strip=false" alt="ゼルドナーエックス２ 〜ディフィニティブ・エディション〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000094578"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000094578"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000115967:49ad30ddf82a94b3</id>
+    <title>ワンオペ！コンビニ 33%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ワンオペ！コンビニ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 650 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw30ba49c4/products/D70010000115967/squareHeroBanner/f2f26018300fcb03ed9ad666a86570a5f9f492a96fe1bdfceeaa23895c330775.jpg?sw=346&amp;amp;strip=false" alt="ワンオペ！コンビニ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000115967"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000115967"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000017899:75c07bfc09347f70</id>
+    <title>ゾンビ ローラーズ・最後の戦艦 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ゾンビ ローラーズ・最後の戦艦&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,840 円&lt;/p&gt;&lt;p&gt;メーカー: Zing Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwd8b203bc/products/D70010000017899/squareHeroBanner/e1b86f385e597ae0de54ecf1de184ef9a107b585b3bb19cf751f9f31a449a296.jpg?sw=346&amp;amp;strip=false" alt="ゾンビ ローラーズ・最後の戦艦"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000017899"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000017899"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000104053:9506abe30df49679</id>
+    <title>Outbound（アウトバウンド） 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Outbound（アウトバウンド）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,673 円&lt;/p&gt;&lt;p&gt;メーカー: Silver Lining&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa884003a/products/D70010000104053/squareHeroBanner/f415323e7b89338d5bfd18534c650d6ddc5a66d7a5a9845b3a1a5f301bc3d6b8.jpg?sw=346&amp;amp;strip=false" alt="Outbound（アウトバウンド）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000104053"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000104053"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123921:8b7c1e55fa8f808e</id>
+    <title>本気で挑む 超難関常識チェックー全問正解できる人はほぼいないー 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;本気で挑む 超難関常識チェックー全問正解できる人はほぼいないー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw58dfbf4b/products/D70010000123921/squareHeroBanner/6fe6222ffde2da6bf6c481a4df356be5833c6d388ab9bc5758e1521c769eb733.jpg?sw=346&amp;amp;strip=false" alt="本気で挑む 超難関常識チェックー全問正解できる人はほぼいないー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123921"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123921"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000110249:a59400c14a055d03</id>
+    <title>忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition) 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,249 円&lt;/p&gt;&lt;p&gt;メーカー: Feardemic&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw163dd063/products/D70010000110249/squareHeroBanner/d16aa27ae48104b9c9eb4d058f2838783c074cf5c1d75f73a9c79f769c941110.jpg?sw=346&amp;amp;strip=false" alt="忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110249"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000110249"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121272:15b8538d856cb077</id>
+    <title>Pawbay (ポーベイ) 74%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Pawbay (ポーベイ)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;74%OFF&lt;/p&gt;&lt;p&gt;価格: 749 円&lt;/p&gt;&lt;p&gt;メーカー: COMMANDO PANDA&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdde75b50/products/D70010000121272/squareHeroBanner/d34f6afbd871a06a8de2b6d18fe29c78be925d6efe6e5d2f62bf68df774f6230.jpeg?sw=346&amp;amp;strip=false" alt="Pawbay (ポーベイ)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121272"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121272"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119542:ce86b70537bc42ef</id>
+    <title>Good Girls: Temptation in Disguise 80%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Good Girls: Temptation in Disguise&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw69c448a7/products/D70010000119542/squareHeroBanner/60ff2bdb4505fd612c12bf49915df8cc5e72b77f7df0bbcd39cda04d960da906.jpg?sw=346&amp;amp;strip=false" alt="Good Girls: Temptation in Disguise"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119542"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119542"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123827:f83e2e8e29ad81ba</id>
+    <title>大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfec36455/products/D70010000123827/squareHeroBanner/cc88c1ebe9718053a409fc42a19849f47edd5a9fd27e91913a9108ebabd2eb4e.jpg?sw=346&amp;amp;strip=false" alt="大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123827"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123827"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122126:e70bf99bf45c9142</id>
+    <title>FPS Dinosaurs 72%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;FPS Dinosaurs&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;72%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: GAME NACIONAL&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc0232262/products/D70010000122126/squareHeroBanner/098ab251970ebd1c4ea0a07b84bd8b550f5ba13da45f57579777233e38cae57d.jpg?sw=346&amp;amp;strip=false" alt="FPS Dinosaurs"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122126"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122126"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000110338:3ac194d2ad5eef75</id>
+    <title>Smalland: Survive the Wilds 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Smalland: Survive the Wilds&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 3,640 円&lt;/p&gt;&lt;p&gt;メーカー: Maximum Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5ce17945/products/D70010000110338/squareHeroBanner/bf6655493954fea8cf8b5deacbf964dc3b32050b9be7e76b4d7f533bb378a04b.jpg?sw=346&amp;amp;strip=false" alt="Smalland: Survive the Wilds"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110338"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000110338"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000117545:921c2fce811c36aa</id>
+    <title>Middle Evil: The Priest 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Middle Evil: The Priest&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 792 円&lt;/p&gt;&lt;p&gt;メーカー: ラタライカゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8db822f4/products/D70010000117545/squareHeroBanner/c73eb666f0b749630ac12e3fafe4afe08b62930c025af419d7bad2fcf064da75.jpg?sw=346&amp;amp;strip=false" alt="Middle Evil: The Priest"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117545"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000117545"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121775:6094e8976e44f8ce</id>
+    <title>UFOPHILIA 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;UFOPHILIA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,200 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4107ead1/products/D70010000121775/squareHeroBanner/689376c545e2a5a892acbab082e364c7557dd5748eb79cdebc495c414bdc68b3.jpg?sw=346&amp;amp;strip=false" alt="UFOPHILIA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121775"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121775"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000115165:8339337ee1fd9afd</id>
+    <title>Farming Simulator 26: Nintendo Switch™ Edition 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Farming Simulator 26: Nintendo Switch™ Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 4,482 円&lt;/p&gt;&lt;p&gt;メーカー: GIANTS Software&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5bb79245/products/D70010000115165/squareHeroBanner/bc47203106a3d5fe852263b331ef3540b68b850f90390dc84537331965451c2a.jpg?sw=346&amp;amp;strip=false" alt="Farming Simulator 26: Nintendo Switch™ Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000115165"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000115165"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123188:29761d64abd1305f</id>
+    <title>みんなで空気読み。ワールド タイVer. 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;みんなで空気読み。ワールド タイVer.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 882 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwf41142cb/products/D70010000123188/squareHeroBanner/a37b6bc34d23a1144644a46d5607623633db21dd6c22e88560748f403693f961.jpg?sw=346&amp;amp;strip=false" alt="みんなで空気読み。ワールド タイVer."&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123188"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123188"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125369:39e938345b446c3f</id>
+    <title>The Frog’s Adventure 86%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;The Frog’s Adventure&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;86%OFF&lt;/p&gt;&lt;p&gt;価格: 199 円&lt;/p&gt;&lt;p&gt;メーカー: Nerd Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw01422f45/products/D70010000125369/squareHeroBanner/51c471a1dba710066e67e7f2e644f531f1d9c32b098c8304b161e47aa367aec4.jpg?sw=346&amp;amp;strip=false" alt="The Frog’s Adventure"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125369"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125369"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124661:d0e885083cfafbf1</id>
+    <title>Sapphire Tempest(サファイアの嵐) 50%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Sapphire Tempest(サファイアの嵐)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 749 円&lt;/p&gt;&lt;p&gt;メーカー: GazeGames Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwacbf59ac/products/D70010000124661/squareHeroBanner/54822f3ac7e8bca1cd744e49cd90d28113412575476a8f96cf162c018a3bc847.jpg?sw=346&amp;amp;strip=false" alt="Sapphire Tempest(サファイアの嵐)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124661"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124661"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000100413:5b66d69e7f52d1b8</id>
+    <title>FZ: Formation Z 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;FZ: Formation Z&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 3,960 円&lt;/p&gt;&lt;p&gt;メーカー: シティコネクション&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9207d186/products/D70010000100413/squareHeroBanner/ad46e11591b2fc222565265d8add24a21da790de1b2711d927b93497ed7830a9.jpg?sw=346&amp;amp;strip=false" alt="FZ: Formation Z"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000100413"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000100413"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121641:9bcec5012ec4df75</id>
+    <title>Dice Goblins Clicker 15%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Dice Goblins Clicker&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 769 円&lt;/p&gt;&lt;p&gt;メーカー: Croix Apps&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw06f82817/products/D70010000121641/squareHeroBanner/87e8785304d99bbddc98d7bfca171556de0aefebdd31e2fad43057da76d0afec.jpg?sw=346&amp;amp;strip=false" alt="Dice Goblins Clicker"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121641"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121641"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000112361:0ccdda2b1c20e8a9</id>
     <title>Psyvariar3 20%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Psyvariar3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 5,104 円&lt;/p&gt;&lt;p&gt;メーカー: サクセス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca2a2d38/products/D70010000113570/squareHeroBanner/82da3ce79b294048d343f0177a29d182498e0fb5b2d087d2622628da81e9a66d.jpg?sw=346&amp;amp;strip=false" alt="Psyvariar3"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113570"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113570"/>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Psyvariar3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 4,224 円&lt;/p&gt;&lt;p&gt;メーカー: サクセス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwd99991e7/products/D70010000112361/squareHeroBanner/82da3ce79b294048d343f0177a29d182498e0fb5b2d087d2622628da81e9a66d.jpg?sw=346&amp;amp;strip=false" alt="Psyvariar3"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000112361"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000125120:9b4923c937ccd4fc</id>
-    <title>おくだけスタディカタカナ 10%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;おくだけスタディカタカナ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5606d704/products/D70010000125120/squareHeroBanner/7b2c3c2ac3829ea848eb0bffe8dec9ad943044af9d43c216523d550a91ca4cc6.jpg?sw=346&amp;amp;strip=false" alt="おくだけスタディカタカナ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125120"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125120"/>
+    <id>nintendo-sale:D70010000125375:d2ba124938a88a0e</id>
+    <title>K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa91c39ec/products/D70010000125375/squareHeroBanner/f608327257c188df4a87af30bf7898f33f582c84cacbcca3002ab11151fde7d4.jpg?sw=346&amp;amp;strip=false" alt="K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125375"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125375"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000122081:d1f6b28918d3fd2a</id>
-    <title>わかれば一流！難読漢字穴埋めクイズ 10%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;わかれば一流！難読漢字穴埋めクイズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw458b019e/products/D70010000122081/squareHeroBanner/16075e00f5e494faec224015526acd171f70da01e7edfc4f3be09d9d0b041d1a.jpg?sw=346&amp;amp;strip=false" alt="わかれば一流！難読漢字穴埋めクイズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122081"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122081"/>
+    <id>nintendo-sale:D70010000124937:1ca020c945499840</id>
+    <title>脳トレ！並べ替えクイズーその順番、正しいのかな？ー 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;脳トレ！並べ替えクイズーその順番、正しいのかな？ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw09b78489/products/D70010000124937/squareHeroBanner/e1940d136ef23532e38a3a2a0a3104abf54864805a5a000bcf9ebae8d70de521.jpg?sw=346&amp;amp;strip=false" alt="脳トレ！並べ替えクイズーその順番、正しいのかな？ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124937"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124937"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000104839:d265b5625cf95eab</id>
-    <title>Relic Digger レリック・ディガー 89%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Relic Digger レリック・ディガー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;89%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: Nerd Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw10d570a9/products/D70010000104839/squareHeroBanner/6be7465b87f591d3fd97e52f6a6091902707fc11258affc4709ad19aaa1a7d43.jpg?sw=346&amp;amp;strip=false" alt="Relic Digger レリック・ディガー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000104839"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000104839"/>
+    <id>nintendo-sale:D70010000126183:51d1fe531b93ba2e</id>
+    <title>日常に潜む違和感ミステリーー事件は日常の中にあるー 10%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;日常に潜む違和感ミステリーー事件は日常の中にあるー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6adc1167/products/D70010000126183/squareHeroBanner/ba3dca3865790940715ed4124eaf996077c67183fb9546a4be3264ec09298451.jpg?sw=346&amp;amp;strip=false" alt="日常に潜む違和感ミステリーー事件は日常の中にあるー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126183"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126183"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000105503:57f7bc880eb12ee2</id>
-    <title>Bubsy 4D (やまねこバブジー 4D) 10%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Bubsy 4D (やまねこバブジー 4D)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Atari&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw802ce6f3/products/D70010000105503/squareHeroBanner/410a06947a5cd21c8093cbed998269af03ecf87dbc21ac80cd61f2b2d528b191.jpg?sw=346&amp;amp;strip=false" alt="Bubsy 4D (やまねこバブジー 4D)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000105503"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000105503"/>
+    <id>nintendo-sale:D70010000116523:2cc1840c1edfa9d4</id>
+    <title>GooNECT√2 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;GooNECT√2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,584 円&lt;/p&gt;&lt;p&gt;メーカー: Phoenixx&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8ed0b2bc/products/D70010000116523/squareHeroBanner/236177604b5ae1247e61fef55dae95bbaa4df0924bc06fdcb55feca2e9b1916c.jpg?sw=346&amp;amp;strip=false" alt="GooNECT√2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000116523"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000116523"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000121688:e022d70ed21eea9e</id>
-    <title>恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls) 60%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw650b4ae1/products/D70010000121688/squareHeroBanner/bce9fd6ca97c7c1fb07926221647e6a37957b1f52ead1dd501adf653160a70b1.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121688"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121688"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000113489:892129f64b492d83</id>
-    <title>ニコロデオン・エクストリーム・テニス：ネクスト！ 10%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ニコロデオン・エクストリーム・テニス：ネクスト！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 3,762 円&lt;/p&gt;&lt;p&gt;メーカー: ゲームロフト&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw130c4a20/products/D70010000113489/squareHeroBanner/35520e22137ff85c2ed6d8f6a539d54c451a69793d9bac4d36e74dc3435c6b9a.jpg?sw=346&amp;amp;strip=false" alt="ニコロデオン・エクストリーム・テニス：ネクスト！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113489"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113489"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000112997:ac0d0070c769300e</id>
-    <title>Night Swarm 20%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Night Swarm&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 920 円&lt;/p&gt;&lt;p&gt;メーカー: NAISU&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe37e8a35/products/D70010000112997/squareHeroBanner/88404eb3c3362bf27c38c510d9e977b605e58e64db7ce87c94efaa57fa691f1d.jpg?sw=346&amp;amp;strip=false" alt="Night Swarm"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112997"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000112997"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000112464:10bbd6267f61cf37</id>
-    <title>Midnight Swamp 20%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Midnight Swamp&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 792 円&lt;/p&gt;&lt;p&gt;メーカー: Sometimes You&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw789f914b/products/D70010000112464/squareHeroBanner/c52bac2f88d9513fc231963492affea0f46eb4c763205c4f8456c0e29b2ffbe3.jpg?sw=346&amp;amp;strip=false" alt="Midnight Swamp"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112464"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000112464"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000111302:a1a19ea5cb0e3761</id>
-    <title>Judero 20%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Judero&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 920 円&lt;/p&gt;&lt;p&gt;メーカー: NAISU&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4b41706b/products/D70010000111302/squareHeroBanner/594df37169ce6a67f2a33bbc0b62a19992a1afd118634c2158c97f885637942b.jpg?sw=346&amp;amp;strip=false" alt="Judero"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000111302"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000111302"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000105508:b4119256b738356b</id>
-    <title>Bubsy 4D (やまねこバブジー 4D) 10%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Bubsy 4D (やまねこバブジー 4D)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Atari&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb1c8b6c2/products/D70010000105508/squareHeroBanner/410a06947a5cd21c8093cbed998269af03ecf87dbc21ac80cd61f2b2d528b191.jpg?sw=346&amp;amp;strip=false" alt="Bubsy 4D (やまねこバブジー 4D)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000105508"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000105508"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000122641:46e3787167f9f285</id>
-    <title>バレずにギリギリミッション！ 28%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;バレずにギリギリミッション！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa76b7dac/products/D70010000122641/squareHeroBanner/0d7d5cc7c9522083a448a5c200e550afa99e683c3c2c779ed25afd95f551b6e4.jpg?sw=346&amp;amp;strip=false" alt="バレずにギリギリミッション！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122641"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122641"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000113885:d80716b9e51b6582</id>
-    <title>Starry☆Sky～Spring Memories～ 10%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Starry☆Sky～Spring Memories～&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 6,730 円&lt;/p&gt;&lt;p&gt;メーカー: ヒューネックス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe48ab15d/products/D70010000113885/squareHeroBanner/9e32d0e1a4abd301245d484aa1c54952ac02dcca354c08a40514ea26ed6bb26a.jpg?sw=346&amp;amp;strip=false" alt="Starry☆Sky～Spring Memories～"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113885"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113885"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121694:e8bc6e2d828252db</id>
-    <title>恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys) 60%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb61f49b1/products/D70010000121694/squareHeroBanner/00cf5158d8e0992a6021007657b1fb3788d33bd2f9761ad1ec105feed9fd54cf.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121694"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121694"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123301:f120f29f063a9f6b</id>
-    <title>One Military Camp 10%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;One Military Camp&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,610 円&lt;/p&gt;&lt;p&gt;メーカー: Abylight&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb1dbe0cf/products/D70010000123301/squareHeroBanner/68080b88be213575141128c3071f6be8c59c2c25bb3f1a81ae8323302ecf0263.jpg?sw=346&amp;amp;strip=false" alt="One Military Camp"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123301"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123301"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000112479:dbdfbe22123ae025</id>
-    <title>FINAL FANTASY VII REBIRTH 20%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;FINAL FANTASY VII REBIRTH&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 5,262 円&lt;/p&gt;&lt;p&gt;メーカー: スクウェア・エニックス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbfae824a/products/D70010000112479/squareHeroBanner/ad34bbc808ae47f42a4bf5da85a09227bfee3871548303fbc921987d021d1ced.jpg?sw=346&amp;amp;strip=false" alt="FINAL FANTASY VII REBIRTH"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112479"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000112479"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121320:06b522e5df339e1c</id>
-    <title>Police Simulator: Patrol Officers 20%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Police Simulator: Patrol Officers&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 3,680 円&lt;/p&gt;&lt;p&gt;メーカー: astragon&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe13ede93/products/D70010000121320/squareHeroBanner/a40acb806dba656d724e982add742c6eaecd5da6c26f24c5cc7180d13ee59ac6.jpg?sw=346&amp;amp;strip=false" alt="Police Simulator: Patrol Officers"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121320"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121320"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000095701:2620b909b9c29f40</id>
-    <title>がんばれゴエモン大集合！ 10%OFF</title>
-    <updated>2026-05-16T01:07:10.544314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;がんばれゴエモン大集合！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 4,930 円&lt;/p&gt;&lt;p&gt;メーカー: KONAMI&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw92229b5c/products/D70010000095701/squareHeroBanner/4e666ad13fdc5c3a1897ffde7881d92742ba701f738fd25e747ec2948026389e.jpg?sw=346&amp;amp;strip=false" alt="がんばれゴエモン大集合！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000095701"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000095701"/>
+    <id>nintendo-sale:D70010000122334:3e4f6a1aab56627c</id>
+    <title>CoffeeFox: Kim Samwol 20%OFF</title>
+    <updated>2026-05-16T01:15:22.924823+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;CoffeeFox: Kim Samwol&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,920 円&lt;/p&gt;&lt;p&gt;メーカー: GaniTani&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa6f24af5/products/D70010000122334/squareHeroBanner/9cd5a1333975878144d43e1e4d66648d08b442b7056fb06cfb3f1bfd0eab33f9.jpg?sw=346&amp;amp;strip=false" alt="CoffeeFox: Kim Samwol"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122334"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122334"/>
   </entry>
 </feed>
