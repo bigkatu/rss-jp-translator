@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-16T16:12:06.936278+00:00</updated>
+  <updated>2026-05-16T17:14:38.759782+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -280,13 +280,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000122334"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000113026:b4f8289fa30505c6</id>
-    <title>人喰ノ檻 - KLETKA 10%OFF</title>
-    <updated>2026-05-16T04:00:14.969054+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000104053:9506abe30df49679</id>
     <title>Outbound（アウトバウンド） 10%OFF</title>
     <updated>2026-05-16T09:01:08.179177+00:00</updated>
@@ -306,13 +299,6 @@
     <updated>2026-05-16T09:01:08.179177+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;FZ: Formation Z&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 3,960 円&lt;/p&gt;&lt;p&gt;メーカー: シティコネクション&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9207d186/products/D70010000100413/squareHeroBanner/ad46e11591b2fc222565265d8add24a21da790de1b2711d927b93497ed7830a9.jpg?sw=346&amp;amp;strip=false" alt="FZ: Formation Z"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000100413"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000100413"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
-    <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
-    <updated>2026-05-16T12:04:15.707644+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb62e2d63/products/D70010000120672/squareHeroBanner/b1de7136631c0310471b21f6db997b771bcda1b2e91b8ab4a37fb60b4b10f898.jpg?sw=346&amp;amp;strip=false" alt="G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120672"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000113097:ccd5585be1e46106</id>
@@ -355,5 +341,19 @@
     <updated>2026-05-16T13:59:18.330767+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;作って！餃子&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc747d597/products/D70010000121482/squareHeroBanner/78ae0cf34a2ba2b0daf7d683e98e2340bb3a9ffe3608eb82b30ffae7c4c6dbbc.jpg?sw=346&amp;amp;strip=false" alt="作って！餃子"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121482"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121482"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
+    <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
+    <updated>2026-05-16T17:14:38.759782+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb62e2d63/products/D70010000120672/squareHeroBanner/b1de7136631c0310471b21f6db997b771bcda1b2e91b8ab4a37fb60b4b10f898.jpg?sw=346&amp;amp;strip=false" alt="G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120672"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113026:b4f8289fa30505c6</id>
+    <title>人喰ノ檻 - KLETKA 10%OFF</title>
+    <updated>2026-05-16T17:14:38.759782+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
   </entry>
 </feed>
