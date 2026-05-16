@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-16T09:01:08.179177+00:00</updated>
+  <updated>2026-05-16T10:37:11.599923+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -322,13 +322,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000121482:da8f3dab668d2532</id>
-    <title>作って！餃子 28%OFF</title>
-    <updated>2026-05-16T06:33:59.703543+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;作って！餃子&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc747d597/products/D70010000121482/squareHeroBanner/78ae0cf34a2ba2b0daf7d683e98e2340bb3a9ffe3608eb82b30ffae7c4c6dbbc.jpg?sw=346&amp;amp;strip=false" alt="作って！餃子"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121482"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121482"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
     <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
     <updated>2026-05-16T09:01:08.179177+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-05-16T09:01:08.179177+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;FZ: Formation Z&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 3,960 円&lt;/p&gt;&lt;p&gt;メーカー: シティコネクション&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9207d186/products/D70010000100413/squareHeroBanner/ad46e11591b2fc222565265d8add24a21da790de1b2711d927b93497ed7830a9.jpg?sw=346&amp;amp;strip=false" alt="FZ: Formation Z"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000100413"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000100413"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121482:da8f3dab668d2532</id>
+    <title>作って！餃子 28%OFF</title>
+    <updated>2026-05-16T10:37:11.599923+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;作って！餃子&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc747d597/products/D70010000121482/squareHeroBanner/78ae0cf34a2ba2b0daf7d683e98e2340bb3a9ffe3608eb82b30ffae7c4c6dbbc.jpg?sw=346&amp;amp;strip=false" alt="作って！餃子"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121482"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121482"/>
   </entry>
 </feed>
