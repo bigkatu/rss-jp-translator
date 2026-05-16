@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-16T10:37:11.599923+00:00</updated>
+  <updated>2026-05-16T12:04:15.707644+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -84,20 +84,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000114624"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000113097:ccd5585be1e46106</id>
-    <title>TetherGeist 20%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;TetherGeist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,159 円&lt;/p&gt;&lt;p&gt;メーカー: Viridian Software&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6e0ebcb1/products/D70010000113097/squareHeroBanner/8329fee9fbb386560e072432362b4477132360b921c1adc5394ae596512ffc6b.jpg?sw=346&amp;amp;strip=false" alt="TetherGeist"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113097"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113097"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000099936:38a9fe32709afc37</id>
-    <title>Duck Side of the Moon 10%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Duck Side of the Moon&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,115 円&lt;/p&gt;&lt;p&gt;メーカー: Starbrew Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw30cf2ef4/products/D70010000099936/squareHeroBanner/61055e2044b92b470379d24212acf5f792076c2093e3e8d64d30e02066943996.jpg?sw=346&amp;amp;strip=false" alt="Duck Side of the Moon"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000099936"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000099936"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000118529:8595531a99dc3dd9</id>
     <title>Codename: Black Crow 20%OFF</title>
     <updated>2026-05-16T01:15:22.924823+00:00</updated>
@@ -138,27 +124,6 @@
     <updated>2026-05-16T01:15:22.924823+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw94e56a90/products/D70010000124690/squareHeroBanner/9cc62da46b64c6e036474f396cf54223384d985f4da0d7592c9e840b291fff13.jpg?sw=346&amp;amp;strip=false" alt="世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124690"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124690"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000118901:bcce774d0b90fded</id>
-    <title>Outbound（アウトバウンド） 10%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Outbound（アウトバウンド）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,673 円&lt;/p&gt;&lt;p&gt;メーカー: Silver Lining&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw38906099/products/D70010000118901/squareHeroBanner/e437d1968488b148c7aae84cf150d5bba08a273bd6199a1388b88b2c39ac9b6c.jpg?sw=346&amp;amp;strip=false" alt="Outbound（アウトバウンド）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118901"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000118901"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000079686:4e2ec52952105c72</id>
-    <title>Underling Uprising 15%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Underling Uprising&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,683 円&lt;/p&gt;&lt;p&gt;メーカー: Abylight&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw07d84ddf/products/D70010000079686/squareHeroBanner/ce09675a29bb9ad6725d8d75c3e6febe0db7bc9c2ded8ba7aab8b3b6153aa5f8.jpg?sw=346&amp;amp;strip=false" alt="Underling Uprising"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000079686"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000079686"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000077010:dac5556df5bc31d2</id>
-    <title>RoadOut 15%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;RoadOut&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,615 円&lt;/p&gt;&lt;p&gt;メーカー: DANGEN Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw76149964/products/D70010000077010/squareHeroBanner/18d20c402685a3dd19c16facdd800ed881250395ba1498ef9712cfde379a6fd6.jpg?sw=346&amp;amp;strip=false" alt="RoadOut"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000077010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000077010"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000094578:2ff672650c29165e</id>
@@ -322,13 +287,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
-    <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
-    <updated>2026-05-16T09:01:08.179177+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb62e2d63/products/D70010000120672/squareHeroBanner/b1de7136631c0310471b21f6db997b771bcda1b2e91b8ab4a37fb60b4b10f898.jpg?sw=346&amp;amp;strip=false" alt="G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120672"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000104053:9506abe30df49679</id>
     <title>Outbound（アウトバウンド） 10%OFF</title>
     <updated>2026-05-16T09:01:08.179177+00:00</updated>
@@ -355,5 +313,47 @@
     <updated>2026-05-16T10:37:11.599923+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;作って！餃子&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc747d597/products/D70010000121482/squareHeroBanner/78ae0cf34a2ba2b0daf7d683e98e2340bb3a9ffe3608eb82b30ffae7c4c6dbbc.jpg?sw=346&amp;amp;strip=false" alt="作って！餃子"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121482"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121482"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
+    <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
+    <updated>2026-05-16T12:04:15.707644+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb62e2d63/products/D70010000120672/squareHeroBanner/b1de7136631c0310471b21f6db997b771bcda1b2e91b8ab4a37fb60b4b10f898.jpg?sw=346&amp;amp;strip=false" alt="G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120672"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113097:ccd5585be1e46106</id>
+    <title>TetherGeist 20%OFF</title>
+    <updated>2026-05-16T12:04:15.707644+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;TetherGeist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,159 円&lt;/p&gt;&lt;p&gt;メーカー: Viridian Software&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6e0ebcb1/products/D70010000113097/squareHeroBanner/8329fee9fbb386560e072432362b4477132360b921c1adc5394ae596512ffc6b.jpg?sw=346&amp;amp;strip=false" alt="TetherGeist"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113097"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113097"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000099936:38a9fe32709afc37</id>
+    <title>Duck Side of the Moon 10%OFF</title>
+    <updated>2026-05-16T12:04:15.707644+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Duck Side of the Moon&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,115 円&lt;/p&gt;&lt;p&gt;メーカー: Starbrew Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw30cf2ef4/products/D70010000099936/squareHeroBanner/61055e2044b92b470379d24212acf5f792076c2093e3e8d64d30e02066943996.jpg?sw=346&amp;amp;strip=false" alt="Duck Side of the Moon"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000099936"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000099936"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118901:bcce774d0b90fded</id>
+    <title>Outbound（アウトバウンド） 10%OFF</title>
+    <updated>2026-05-16T12:04:15.707644+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Outbound（アウトバウンド）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,673 円&lt;/p&gt;&lt;p&gt;メーカー: Silver Lining&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw38906099/products/D70010000118901/squareHeroBanner/e437d1968488b148c7aae84cf150d5bba08a273bd6199a1388b88b2c39ac9b6c.jpg?sw=346&amp;amp;strip=false" alt="Outbound（アウトバウンド）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118901"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118901"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000079686:4e2ec52952105c72</id>
+    <title>Underling Uprising 15%OFF</title>
+    <updated>2026-05-16T12:04:15.707644+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Underling Uprising&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,683 円&lt;/p&gt;&lt;p&gt;メーカー: Abylight&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw07d84ddf/products/D70010000079686/squareHeroBanner/ce09675a29bb9ad6725d8d75c3e6febe0db7bc9c2ded8ba7aab8b3b6153aa5f8.jpg?sw=346&amp;amp;strip=false" alt="Underling Uprising"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000079686"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000079686"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000077010:dac5556df5bc31d2</id>
+    <title>RoadOut 15%OFF</title>
+    <updated>2026-05-16T12:04:15.707644+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;RoadOut&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,615 円&lt;/p&gt;&lt;p&gt;メーカー: DANGEN Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw76149964/products/D70010000077010/squareHeroBanner/18d20c402685a3dd19c16facdd800ed881250395ba1498ef9712cfde379a6fd6.jpg?sw=346&amp;amp;strip=false" alt="RoadOut"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000077010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000077010"/>
   </entry>
 </feed>
