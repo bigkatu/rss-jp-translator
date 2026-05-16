@@ -20,8 +20,8 @@ import traceback
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional
-from urllib.parse import urlparse
+from typing import Any, Optional
+from urllib.parse import unquote, urljoin, urlparse
 from xml.sax.saxutils import escape as xml_escape
 
 import feedparser
@@ -257,6 +257,194 @@ class FeedDef:
     name: str
     url: str
     title: Optional[str] = None
+    type: str = "rss"
+
+    @classmethod
+    def from_config(cls, data: dict) -> "FeedDef":
+        return cls(
+            name=data["name"],
+            url=data["url"],
+            title=data.get("title"),
+            type=data.get("type", "rss"),
+        )
+
+
+@dataclass
+class SaleProduct:
+    product_id: str
+    name: str
+    sale_label: str
+    sale_price: Optional[int]
+    url: str
+    image_url: str = ""
+    manufacturer: str = ""
+    variation: str = ""
+
+    @property
+    def signature(self) -> str:
+        payload = {
+            "name": self.name,
+            "sale_label": self.sale_label,
+            "sale_price": self.sale_price,
+            "url": self.url,
+        }
+        return hashlib.sha256(json.dumps(payload, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()[:16]
+
+
+def _walk_json(value: Any):
+    yield value
+    if isinstance(value, dict):
+        for child in value.values():
+            yield from _walk_json(child)
+    elif isinstance(value, list):
+        for child in value:
+            yield from _walk_json(child)
+
+
+def extract_initial_json(html: str) -> dict:
+    soup = BeautifulSoup(html, "html.parser")
+    for script in soup.find_all("script", {"type": "application/json"}):
+        text = script.string or script.get_text()
+        if "__PRELOADED_STATE__" in text:
+            return json.loads(text)
+    raise ValueError("Nintendo Store initial JSON not found")
+
+
+def extract_sale_products(data: dict) -> list[SaleProduct]:
+    product_lists: list[list[dict]] = []
+    for value in _walk_json(data):
+        if not isinstance(value, list):
+            continue
+        products = [
+            item for item in value
+            if isinstance(item, dict)
+            and item.get("name")
+            and item.get("saleLabel")
+            and item.get("variationMasterId")
+        ]
+        if products:
+            product_lists.append(products)
+
+    if not product_lists:
+        return []
+
+    raw_products = max(product_lists, key=len)
+    products: list[SaleProduct] = []
+    for item in raw_products:
+        product_id = str(item.get("variationMasterId") or item.get("id") or "")
+        if not product_id:
+            continue
+        image_url = ""
+        image_data = item.get("imageUrl")
+        if isinstance(image_data, dict):
+            image_url = image_data.get("squareHeroBanner") or image_data.get("heroBanner") or ""
+        products.append(
+            SaleProduct(
+                product_id=product_id,
+                name=str(item.get("name") or ""),
+                sale_label=str(item.get("saleLabel") or ""),
+                sale_price=item.get("salePrice"),
+                url=f"https://store-jp.nintendo.com/item/software/{product_id}",
+                image_url=image_url,
+                manufacturer=str(item.get("manufacturerName") or ""),
+                variation=str(item.get("variation") or ""),
+            )
+        )
+    return products
+
+
+def fetch_nintendo_sale_products(url: str) -> list[SaleProduct]:
+    session = requests.Session()
+    headers = {"User-Agent": USER_AGENT}
+    resp = session.get(url, headers=headers, timeout=30)
+    resp.raise_for_status()
+    if "__PRELOADED_STATE__" not in resp.text:
+        match = re.search(r"document\.location\.href = decodeURIComponent\('([^']+)'\)", resp.text)
+        if match:
+            redirect_url = urljoin(resp.url, unquote(match.group(1)))
+            host = urlparse(resp.url).hostname or "store-jp.nintendo.com"
+            session.cookies.set("cookietest", "1", domain=host, path="/")
+            resp = session.get(redirect_url, headers=headers, timeout=30)
+            resp.raise_for_status()
+    return extract_sale_products(extract_initial_json(resp.text))
+
+
+def process_nintendo_sale_feed(fd: FeedDef) -> tuple[bool, str]:
+    print(f"\n=== {fd.name}: {fd.url}", flush=True)
+    cache = load_cache(fd.name)
+    seen: dict[str, str] = cache.get("seen", {})
+    history: list[dict] = cache.get("history", [])
+
+    products = fetch_nintendo_sale_products(fd.url)
+    if not products:
+        msg = "商品が取得できませんでした"
+        print(f"  ! {msg}", flush=True)
+        return False, msg
+
+    now = datetime.now(timezone.utc)
+    changes: list[dict] = []
+    current_seen: dict[str, str] = {}
+    for product in products:
+        current_seen[product.product_id] = product.signature
+        if seen.get(product.product_id) == product.signature:
+            continue
+        entry = {
+            "id": f"{product.product_id}:{product.signature}",
+            "product_id": product.product_id,
+            "title": f"{product.name} {product.sale_label}",
+            "name": product.name,
+            "sale_label": product.sale_label,
+            "sale_price": product.sale_price,
+            "url": product.url,
+            "image_url": product.image_url,
+            "manufacturer": product.manufacturer,
+            "variation": product.variation,
+            "detected_at": now.isoformat(),
+        }
+        changes.append(entry)
+
+    if changes:
+        old_ids = {entry.get("id") for entry in changes}
+        history = changes + [entry for entry in history if entry.get("id") not in old_ids]
+        history = history[:50]
+
+    fg = FeedGenerator()
+    fg.id(fd.url)
+    fg.title(fd.title or "Nintendo Store セール差分")
+    fg.link(href=fd.url, rel="alternate")
+    fg.subtitle("My Nintendo Store セール中ソフトの新着・割引変更")
+    fg.language("ja")
+    fg.updated(now)
+
+    for entry in history:
+        fe = fg.add_entry()
+        fe.id(f"nintendo-sale:{entry['id']}")
+        fe.title(entry["title"])
+        fe.link(href=entry["url"], rel="alternate")
+        fe.updated(entry.get("detected_at") or now)
+        price = entry.get("sale_price")
+        rows = [
+            f"<p><strong>{xml_escape(entry['name'])}</strong></p>",
+            f"<p>{xml_escape(entry.get('sale_label') or '')}</p>",
+        ]
+        if price is not None:
+            rows.append(f"<p>価格: {price:,} 円</p>")
+        if entry.get("manufacturer"):
+            rows.append(f"<p>メーカー: {xml_escape(entry['manufacturer'])}</p>")
+        if entry.get("variation"):
+            rows.append(f"<p>{xml_escape(entry['variation'])}</p>")
+        if entry.get("image_url"):
+            rows.append(f'<p><img src="{xml_escape(entry["image_url"])}" alt="{xml_escape(entry["name"])}"></p>')
+        rows.append(f'<p><a href="{xml_escape(entry["url"])}">My Nintendo Storeで開く</a></p>')
+        fe.content("".join(rows), type="html")
+
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    fg.atom_file(str(OUT_DIR / f"{fd.name}.xml"), pretty=True)
+    save_cache(fd.name, {"seen": current_seen, "history": history})
+
+    msg = f"OK: {len(products)} products ({len(changes)} changes, {len(history)} history)"
+    print(f"  {msg}", flush=True)
+    return True, msg
 
 
 def process_feed(fd: FeedDef) -> tuple[bool, str]:
@@ -456,7 +644,7 @@ def write_index(rows: list[tuple[FeedDef, bool, str]], base_url: str, repo_slug:
 
 def main() -> int:
     config = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8"))
-    feed_defs = [FeedDef(**f) for f in config.get("feeds", [])]
+    feed_defs = [FeedDef.from_config(f) for f in config.get("feeds", [])]
 
     base_url = os.environ.get("PAGES_BASE_URL", "").rstrip("/")
     repo_slug = os.environ.get("GITHUB_REPOSITORY", "")
@@ -465,7 +653,10 @@ def main() -> int:
     failures = 0
     for fd in feed_defs:
         try:
-            ok, msg = process_feed(fd)
+            if fd.type == "nintendo_sale":
+                ok, msg = process_nintendo_sale_feed(fd)
+            else:
+                ok, msg = process_feed(fd)
         except Exception as e:
             traceback.print_exc()
             ok, msg = False, f"例外: {e}"

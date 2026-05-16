@@ -24,4 +24,7 @@ feeds:
     url: https://openai.com/news/rss.xml
     title: OpenAI News（日本語）
 
-  # An
+  - name: nintendo-sale-new
+    type: nintendo_sale
+    url: https://store-jp.nintendo.com/list/software/?isSale=true&softType=TITLE&srule=new-arrival&page=1
+    title: My Nintendo Store セール新着差分
