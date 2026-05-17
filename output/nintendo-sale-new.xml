@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-17T09:59:43.130981+00:00</updated>
+  <updated>2026-05-17T11:33:10.247670+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -308,13 +308,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000099936"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000114720:638ebecfe0eb0a86</id>
-    <title>クリーンアップ！ (Cleaning Up!) 10%OFF</title>
-    <updated>2026-05-17T00:07:43.496055+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;クリーンアップ！ (Cleaning Up!)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,530 円&lt;/p&gt;&lt;p&gt;メーカー: Unbound Creations&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw713eb105/products/D70010000114720/squareHeroBanner/a0421c7fa365aa35c9ef90345ebb65fbcb3d6da5d88d494c1951b38e4350bd88.jpg?sw=346&amp;amp;strip=false" alt="クリーンアップ！ (Cleaning Up!)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114720"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000114720"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000121482:da8f3dab668d2532</id>
     <title>作って！餃子 28%OFF</title>
     <updated>2026-05-17T00:07:43.496055+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-05-17T09:59:43.130981+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;RoadOut&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,615 円&lt;/p&gt;&lt;p&gt;メーカー: DANGEN Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw76149964/products/D70010000077010/squareHeroBanner/18d20c402685a3dd19c16facdd800ed881250395ba1498ef9712cfde379a6fd6.jpg?sw=346&amp;amp;strip=false" alt="RoadOut"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000077010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000077010"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000114720:638ebecfe0eb0a86</id>
+    <title>クリーンアップ！ (Cleaning Up!) 10%OFF</title>
+    <updated>2026-05-17T11:33:10.247670+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;クリーンアップ！ (Cleaning Up!)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,530 円&lt;/p&gt;&lt;p&gt;メーカー: Unbound Creations&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw713eb105/products/D70010000114720/squareHeroBanner/a0421c7fa365aa35c9ef90345ebb65fbcb3d6da5d88d494c1951b38e4350bd88.jpg?sw=346&amp;amp;strip=false" alt="クリーンアップ！ (Cleaning Up!)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114720"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000114720"/>
   </entry>
 </feed>
