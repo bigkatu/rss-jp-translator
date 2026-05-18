@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-18T22:13:53.357998+00:00</updated>
+  <updated>2026-05-18T23:19:39.326482+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -308,13 +308,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000122126"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000117486:3daa388e6d1a9276</id>
-    <title>Night Club Manager Simulator 62%OFF</title>
-    <updated>2026-05-17T17:13:09.533377+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Night Club Manager Simulator&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;62%OFF&lt;/p&gt;&lt;p&gt;価格: 488 円&lt;/p&gt;&lt;p&gt;メーカー: Dragon Path Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw19cee152/products/D70010000117486/squareHeroBanner/3d3fa5be04245e22e20750e06b0924232fa836e79c3725e9dca7807432e7204c.jpg?sw=346&amp;amp;strip=false" alt="Night Club Manager Simulator"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117486"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000117486"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000096204:fb2df58e074ce1b5</id>
     <title>Nullstar: Solus 20%OFF</title>
     <updated>2026-05-17T17:13:09.533377+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-05-18T16:34:18.611575+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;オレオール キボウのツバサ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,936 円&lt;/p&gt;&lt;p&gt;メーカー: 賈船&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9700723d/products/D70010000112649/squareHeroBanner/e060c51f1c353ebfb11392d2dfb3e463dd987a7b1af99d0b4615fed954e0ceb2.jpg?sw=346&amp;amp;strip=false" alt="オレオール キボウのツバサ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112649"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000112649"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000117486:3daa388e6d1a9276</id>
+    <title>Night Club Manager Simulator 62%OFF</title>
+    <updated>2026-05-18T23:19:39.326482+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Night Club Manager Simulator&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;62%OFF&lt;/p&gt;&lt;p&gt;価格: 488 円&lt;/p&gt;&lt;p&gt;メーカー: Dragon Path Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw19cee152/products/D70010000117486/squareHeroBanner/3d3fa5be04245e22e20750e06b0924232fa836e79c3725e9dca7807432e7204c.jpg?sw=346&amp;amp;strip=false" alt="Night Club Manager Simulator"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117486"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000117486"/>
   </entry>
 </feed>
