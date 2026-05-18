@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-18T00:10:04.596685+00:00</updated>
+  <updated>2026-05-18T04:41:01.484759+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000113918:18b141e504e0de64</id>
-    <title>Mixtape 10%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Mixtape&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Annapurna Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5cf0ce30/products/D70010000113918/squareHeroBanner/067770c287b6d5cde23d251681fd2898b54fff12b9297c5eee818fd921d66587.jpg?sw=346&amp;amp;strip=false" alt="Mixtape"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113918"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113918"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000118869:868e3526746dfa61</id>
     <title>Doll Defenders 20%OFF</title>
@@ -182,13 +175,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000112361"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000125375:d2ba124938a88a0e</id>
-    <title>K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜 10%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa91c39ec/products/D70010000125375/squareHeroBanner/f608327257c188df4a87af30bf7898f33f582c84cacbcca3002ab11151fde7d4.jpg?sw=346&amp;amp;strip=false" alt="K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125375"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125375"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000124937:1ca020c945499840</id>
     <title>脳トレ！並べ替えクイズーその順番、正しいのかな？ー 10%OFF</title>
     <updated>2026-05-16T01:15:22.924823+00:00</updated>
@@ -355,5 +341,19 @@
     <updated>2026-05-17T17:13:09.533377+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125375:d2ba124938a88a0e</id>
+    <title>K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜 10%OFF</title>
+    <updated>2026-05-18T04:41:01.484759+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa91c39ec/products/D70010000125375/squareHeroBanner/f608327257c188df4a87af30bf7898f33f582c84cacbcca3002ab11151fde7d4.jpg?sw=346&amp;amp;strip=false" alt="K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125375"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125375"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125120:9b4923c937ccd4fc</id>
+    <title>おくだけスタディカタカナ 10%OFF</title>
+    <updated>2026-05-18T04:41:01.484759+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;おくだけスタディカタカナ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5606d704/products/D70010000125120/squareHeroBanner/7b2c3c2ac3829ea848eb0bffe8dec9ad943044af9d43c216523d550a91ca4cc6.jpg?sw=346&amp;amp;strip=false" alt="おくだけスタディカタカナ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125120"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125120"/>
   </entry>
 </feed>
