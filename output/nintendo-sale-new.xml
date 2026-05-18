@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-18T12:47:38.996271+00:00</updated>
+  <updated>2026-05-18T16:34:18.611575+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000118869:868e3526746dfa61</id>
-    <title>Doll Defenders 20%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Doll Defenders&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 400 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw62825e93/products/D70010000118869/squareHeroBanner/0157b903f04ce8c61e30b1c5d24197a84a46f9b55b6b489f603961789d18b858.jpg?sw=346&amp;amp;strip=false" alt="Doll Defenders"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118869"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000118869"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000124770:7c20fc8ac8a2ccb1</id>
     <title>知ってびっくり！世界のことわざマルバツクイズ 〜楽しく学べる雑学〇×ゲーム〜 10%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-18T04:41:01.484759+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;おくだけスタディカタカナ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5606d704/products/D70010000125120/squareHeroBanner/7b2c3c2ac3829ea848eb0bffe8dec9ad943044af9d43c216523d550a91ca4cc6.jpg?sw=346&amp;amp;strip=false" alt="おくだけスタディカタカナ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125120"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000125120"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000112649:21040dab91d38693</id>
+    <title>オレオール キボウのツバサ 20%OFF</title>
+    <updated>2026-05-18T16:34:18.611575+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;オレオール キボウのツバサ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,936 円&lt;/p&gt;&lt;p&gt;メーカー: 賈船&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9700723d/products/D70010000112649/squareHeroBanner/e060c51f1c353ebfb11392d2dfb3e463dd987a7b1af99d0b4615fed954e0ceb2.jpg?sw=346&amp;amp;strip=false" alt="オレオール キボウのツバサ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112649"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000112649"/>
   </entry>
 </feed>
