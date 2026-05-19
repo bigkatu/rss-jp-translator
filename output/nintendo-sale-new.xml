@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-19T04:33:18.774001+00:00</updated>
+  <updated>2026-05-19T08:38:21.602535+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -166,27 +166,6 @@
     <updated>2026-05-16T01:15:22.924823+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Psyvariar3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 4,224 円&lt;/p&gt;&lt;p&gt;メーカー: サクセス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwd99991e7/products/D70010000112361/squareHeroBanner/82da3ce79b294048d343f0177a29d182498e0fb5b2d087d2622628da81e9a66d.jpg?sw=346&amp;amp;strip=false" alt="Psyvariar3"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000112361"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000124937:1ca020c945499840</id>
-    <title>脳トレ！並べ替えクイズーその順番、正しいのかな？ー 10%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;脳トレ！並べ替えクイズーその順番、正しいのかな？ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw09b78489/products/D70010000124937/squareHeroBanner/e1940d136ef23532e38a3a2a0a3104abf54864805a5a000bcf9ebae8d70de521.jpg?sw=346&amp;amp;strip=false" alt="脳トレ！並べ替えクイズーその順番、正しいのかな？ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124937"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124937"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126183:51d1fe531b93ba2e</id>
-    <title>日常に潜む違和感ミステリーー事件は日常の中にあるー 10%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;日常に潜む違和感ミステリーー事件は日常の中にあるー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6adc1167/products/D70010000126183/squareHeroBanner/ba3dca3865790940715ed4124eaf996077c67183fb9546a4be3264ec09298451.jpg?sw=346&amp;amp;strip=false" alt="日常に潜む違和感ミステリーー事件は日常の中にあるー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126183"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126183"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000116523:2cc1840c1edfa9d4</id>
-    <title>GooNECT√2 20%OFF</title>
-    <updated>2026-05-16T01:15:22.924823+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;GooNECT√2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,584 円&lt;/p&gt;&lt;p&gt;メーカー: Phoenixx&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8ed0b2bc/products/D70010000116523/squareHeroBanner/236177604b5ae1247e61fef55dae95bbaa4df0924bc06fdcb55feca2e9b1916c.jpg?sw=346&amp;amp;strip=false" alt="GooNECT√2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000116523"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000116523"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000122334:3e4f6a1aab56627c</id>
@@ -355,5 +334,26 @@
     <updated>2026-05-18T23:19:39.326482+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Night Club Manager Simulator&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;62%OFF&lt;/p&gt;&lt;p&gt;価格: 488 円&lt;/p&gt;&lt;p&gt;メーカー: Dragon Path Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw19cee152/products/D70010000117486/squareHeroBanner/3d3fa5be04245e22e20750e06b0924232fa836e79c3725e9dca7807432e7204c.jpg?sw=346&amp;amp;strip=false" alt="Night Club Manager Simulator"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117486"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000117486"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124937:1ca020c945499840</id>
+    <title>脳トレ！並べ替えクイズーその順番、正しいのかな？ー 10%OFF</title>
+    <updated>2026-05-19T08:38:21.602535+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;脳トレ！並べ替えクイズーその順番、正しいのかな？ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw09b78489/products/D70010000124937/squareHeroBanner/e1940d136ef23532e38a3a2a0a3104abf54864805a5a000bcf9ebae8d70de521.jpg?sw=346&amp;amp;strip=false" alt="脳トレ！並べ替えクイズーその順番、正しいのかな？ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124937"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124937"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126183:51d1fe531b93ba2e</id>
+    <title>日常に潜む違和感ミステリーー事件は日常の中にあるー 10%OFF</title>
+    <updated>2026-05-19T08:38:21.602535+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;日常に潜む違和感ミステリーー事件は日常の中にあるー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6adc1167/products/D70010000126183/squareHeroBanner/ba3dca3865790940715ed4124eaf996077c67183fb9546a4be3264ec09298451.jpg?sw=346&amp;amp;strip=false" alt="日常に潜む違和感ミステリーー事件は日常の中にあるー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126183"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126183"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000116523:2cc1840c1edfa9d4</id>
+    <title>GooNECT√2 20%OFF</title>
+    <updated>2026-05-19T08:38:21.602535+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;GooNECT√2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,584 円&lt;/p&gt;&lt;p&gt;メーカー: Phoenixx&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8ed0b2bc/products/D70010000116523/squareHeroBanner/236177604b5ae1247e61fef55dae95bbaa4df0924bc06fdcb55feca2e9b1916c.jpg?sw=346&amp;amp;strip=false" alt="GooNECT√2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000116523"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000116523"/>
   </entry>
 </feed>
