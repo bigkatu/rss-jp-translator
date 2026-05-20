@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-19T23:21:11.961927+00:00</updated>
+  <updated>2026-05-20T04:35:02.251616+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1789,7 +1789,7 @@ SDK/ヘッドレス MCP 起動の改善: 最初のターンの前にブロック
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.145</id>
     <title>v2.1.145</title>
-    <updated>2026-05-19T21:31:07+00:00</updated>
+    <updated>2026-05-20T01:02:24+00:00</updated>
     <author>
       <name>ashwin-ant</name>
     </author>
