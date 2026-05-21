@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-21T10:03:01.739024+00:00</updated>
+  <updated>2026-05-21T13:32:10.261720+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000077010:dac5556df5bc31d2</id>
-    <title>RoadOut 15%OFF</title>
-    <updated>2026-05-17T09:59:43.130981+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;RoadOut&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,615 円&lt;/p&gt;&lt;p&gt;メーカー: DANGEN Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw76149964/products/D70010000077010/squareHeroBanner/18d20c402685a3dd19c16facdd800ed881250395ba1498ef9712cfde379a6fd6.jpg?sw=346&amp;amp;strip=false" alt="RoadOut"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000077010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000077010"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000114720:638ebecfe0eb0a86</id>
     <title>クリーンアップ！ (Cleaning Up!) 10%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-20T18:31:33.175314+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Scarlet Wolf&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 792 円&lt;/p&gt;&lt;p&gt;メーカー: Sometimes You&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1a68ffaf/products/D70010000107272/squareHeroBanner/769146a045c13b822d1f2918e7438b81389dce601652b8210f46a76373701063.jpg?sw=346&amp;amp;strip=false" alt="Scarlet Wolf"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000107272"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000107272"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000100253:7a2936b39f3d3ae4</id>
+    <title>Unrailed 2:バック・オン・トラック 25%OFF</title>
+    <updated>2026-05-21T13:32:10.261720+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Unrailed 2:バック・オン・トラック&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 2,392 円&lt;/p&gt;&lt;p&gt;メーカー: Indoor Astronaut&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9caf5819/products/D70010000100253/squareHeroBanner/6a11f099fef2ced8ce7ca70d7ab8a7668be3c7bc51e1f8951bc63094fb76f03b.jpg?sw=346&amp;amp;strip=false" alt="Unrailed 2:バック・オン・トラック"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000100253"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000100253"/>
   </entry>
 </feed>
