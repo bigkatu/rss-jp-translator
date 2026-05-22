@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-22T15:21:28.350708+00:00</updated>
+  <updated>2026-05-22T18:04:14.428780+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000125375:d2ba124938a88a0e</id>
-    <title>K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜 10%OFF</title>
-    <updated>2026-05-18T04:41:01.484759+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa91c39ec/products/D70010000125375/squareHeroBanner/f608327257c188df4a87af30bf7898f33f582c84cacbcca3002ab11151fde7d4.jpg?sw=346&amp;amp;strip=false" alt="K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125375"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125375"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000112649:21040dab91d38693</id>
     <title>オレオール キボウのツバサ 20%OFF</title>
@@ -308,13 +301,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000099503"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
-    <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
-    <updated>2026-05-22T08:31:46.563086+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb62e2d63/products/D70010000120672/squareHeroBanner/b1de7136631c0310471b21f6db997b771bcda1b2e91b8ab4a37fb60b4b10f898.jpg?sw=346&amp;amp;strip=false" alt="G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120672"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000121272:15b8538d856cb077</id>
     <title>Pawbay (ポーベイ) 74%OFF</title>
     <updated>2026-05-22T08:31:46.563086+00:00</updated>
@@ -355,5 +341,19 @@
     <updated>2026-05-22T15:21:28.350708+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
+    <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
+    <updated>2026-05-22T18:04:14.428780+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb62e2d63/products/D70010000120672/squareHeroBanner/b1de7136631c0310471b21f6db997b771bcda1b2e91b8ab4a37fb60b4b10f898.jpg?sw=346&amp;amp;strip=false" alt="G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120672"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118601:84c87b5819d40371</id>
+    <title>ジョイピアノ 24%OFF</title>
+    <updated>2026-05-22T18:04:14.428780+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ジョイピアノ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;24%OFF&lt;/p&gt;&lt;p&gt;価格: 912 円&lt;/p&gt;&lt;p&gt;メーカー: GaniTani&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw14d87afb/products/D70010000118601/squareHeroBanner/4c6eb75f4e10d1cb361db9bc444b1a8c05a28e0b8f7a41790804d3315388318f.jpg?sw=346&amp;amp;strip=false" alt="ジョイピアノ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118601"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118601"/>
   </entry>
 </feed>
