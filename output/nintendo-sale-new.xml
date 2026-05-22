@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-21T23:16:47.077437+00:00</updated>
+  <updated>2026-05-22T04:35:37.365092+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000119542:ce86b70537bc42ef</id>
-    <title>Good Girls: Temptation in Disguise 80%OFF</title>
-    <updated>2026-05-17T13:56:35.245919+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Good Girls: Temptation in Disguise&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw69c448a7/products/D70010000119542/squareHeroBanner/60ff2bdb4505fd612c12bf49915df8cc5e72b77f7df0bbcd39cda04d960da906.jpg?sw=346&amp;amp;strip=false" alt="Good Girls: Temptation in Disguise"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119542"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119542"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000123827:f83e2e8e29ad81ba</id>
     <title>大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー 10%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-21T16:49:29.600115+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Chicken Climber&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 616 円&lt;/p&gt;&lt;p&gt;メーカー: ラタライカゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3f9f7c66/products/D70010000119385/squareHeroBanner/33449971f0fb9eb17a7314963bad0efe67c01b26516a396f6e81e0c74876ba41.jpg?sw=346&amp;amp;strip=false" alt="Chicken Climber"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119385"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000119385"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000099503:e7ef56430f926f64</id>
+    <title>アノマリス／ANOMALITH 10%OFF</title>
+    <updated>2026-05-22T04:35:37.365092+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;アノマリス／ANOMALITH&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 7,722 円&lt;/p&gt;&lt;p&gt;メーカー: フリュー&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw78bd4642/products/D70010000099503/squareHeroBanner/18d30c7f4855cb6428c3007d4944744eb1af34e29d09a9eead46dee606173c15.jpg?sw=346&amp;amp;strip=false" alt="アノマリス／ANOMALITH"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000099503"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000099503"/>
   </entry>
 </feed>

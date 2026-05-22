@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-21T23:16:10.633112+00:00</updated>
+  <updated>2026-05-22T04:34:26.273631+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1700,18 +1700,11 @@ CLAUDE_CODE_SUBAGENT_MODEL&lt;br&gt;
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.147</id>
     <title>v2.1.147</title>
-    <updated>2026-05-21T20:39:22+00:00</updated>
+    <updated>2026-05-21T23:54:18+00:00</updated>
     <author>
       <name>ashwin-ant</name>
     </author>
     <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-を追加しました &lt;br&gt;
-ワークフロー&lt;br&gt;
- 決定論的なマルチエージェントオーケストレーションのためのツール。デフォルトではオフになっています - 設定されています &lt;br&gt;
-CLAUDE_CODE_WORKFLOWS=1&lt;br&gt;
- 有効にする&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 固定されたバックグラウンド セッション (&lt;br&gt;
@@ -1730,9 +1723,6 @@ Ctrl+T&lt;br&gt;
 );パスする &lt;br&gt;
 --コメント&lt;br&gt;
  調査結果をインライン GitHub PR コメントとして投稿します。古いクリーンアップと修正の動作は削除されました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-プロトタイプの汚染とその後の可能性のあるエスケープに対する強化された REPL およびワークフロー ツールのサンドボックス&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 自動アップデータの改善: 一時的なネットワーク障害を再試行し、障害時に特定のエラー カテゴリと OS エラー コードを報告し、更新が失敗した場合に現在のバージョンを表示します。&lt;br&gt;
@@ -1840,7 +1830,7 @@ Windows でスクロールが安定するのを待っているときにまれに
 • &lt;br&gt;
 貼り付けたテキストが判読不能としてエージェントに配信される問題を修正 &lt;br&gt;
 [貼り付けられたテキスト #N]&lt;br&gt;
- 実際のコンテンツの代わりにプレースホルダーを使用する&lt;br&gt;
+ 実際のコンテンツの代わりのプレースホルダー&lt;br&gt;
 &lt;br&gt;
 • &lt;br&gt;
 プラグインコンポーネントの数を修正 &lt;br&gt;
@@ -1879,10 +1869,8 @@ CLAUDE_CODE_SUBAGENT_MODEL&lt;br&gt;
 • &lt;br&gt;
 モデルが存在しなくなったメディアを繰り返し再読み込みするよう促す、ストリップされた画像を修正しました&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Added the &lt;code&gt;Workflow&lt;/code&gt; tool for deterministic multi-agent orchestration. It is off by default — set &lt;code&gt;CLAUDE_CODE_WORKFLOWS=1&lt;/code&gt; to enable&lt;/li&gt;
 &lt;li&gt;Pinned background sessions (&lt;code&gt;Ctrl+T&lt;/code&gt; in &lt;code&gt;claude agents&lt;/code&gt;) now stay alive when idle, are restarted in place to apply Claude Code updates, and are shed under memory pressure only after non-pinned sessions&lt;/li&gt;
 &lt;li&gt;Renamed &lt;code&gt;/simplify&lt;/code&gt; to &lt;code&gt;/code-review&lt;/code&gt;. It now reports correctness bugs at a chosen effort level (e.g., &lt;code&gt;/code-review high&lt;/code&gt;); pass &lt;code&gt;--comment&lt;/code&gt; to post findings as inline GitHub PR comments. The old cleanup-and-fix behavior has been removed&lt;/li&gt;
-&lt;li&gt;Hardened REPL and Workflow tool sandboxes against prototype-pollution and thenable-based escapes&lt;/li&gt;
 &lt;li&gt;Improved auto-updater: retries transient network failures, reports specific error categories and OS error codes on failure, and shows the current version when an update fails&lt;/li&gt;
 &lt;li&gt;Improved diff rendering performance for large file edits&lt;/li&gt;
 &lt;li&gt;Prompt history no longer records consecutive duplicate entries — recalling a prompt with arrow-up and submitting it again won't add another copy&lt;/li&gt;
@@ -1916,5 +1904,21 @@ CLAUDE_CODE_SUBAGENT_MODEL&lt;br&gt;
 &lt;li&gt;Fixed stripped images prompting the model to repeatedly re-read media that was no longer present&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.147"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.148</id>
+    <title>v2.1.148</title>
+    <updated>2026-05-22T01:16:52+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+一部のユーザーのすべてのコマンドで終了コード 127 を返す Bash ツールを修正しました (2.1.147 で導入された回帰)&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed the Bash tool returning exit code 127 on every command for some users (a regression introduced in 2.1.147)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.148"/>
   </entry>
 </feed>
