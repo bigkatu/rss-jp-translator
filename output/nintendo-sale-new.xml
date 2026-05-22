@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-22T08:31:46.563086+00:00</updated>
+  <updated>2026-05-22T12:00:17.786877+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000122126:e70bf99bf45c9142</id>
-    <title>FPS Dinosaurs 72%OFF</title>
-    <updated>2026-05-17T13:56:35.245919+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;FPS Dinosaurs&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;72%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: GAME NACIONAL&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc0232262/products/D70010000122126/squareHeroBanner/098ab251970ebd1c4ea0a07b84bd8b550f5ba13da45f57579777233e38cae57d.jpg?sw=346&amp;amp;strip=false" alt="FPS Dinosaurs"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122126"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122126"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000096204:fb2df58e074ce1b5</id>
-    <title>Nullstar: Solus 20%OFF</title>
-    <updated>2026-05-17T17:13:09.533377+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Nullstar: Solus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: indie.io&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw84a6a96a/products/D70010000096204/squareHeroBanner/3beefd6a11906898fb027a114ca1c395bf8a4788c8ef615880b5c730ebabac9c.jpg?sw=346&amp;amp;strip=false" alt="Nullstar: Solus"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000096204"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000096204"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000125375:d2ba124938a88a0e</id>
     <title>K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜 10%OFF</title>
@@ -259,13 +245,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000122660"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123887:33fe711b61ffc508</id>
-    <title>陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！ 10%OFF</title>
-    <updated>2026-05-20T18:31:33.175314+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 882 円&lt;/p&gt;&lt;p&gt;メーカー: しにせゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwba2a9548/products/D70010000123887/squareHeroBanner/5e8f9d4399061ced523b74c8cd93f54866f1467565a676a85498b49e32da3f67.jpg?sw=346&amp;amp;strip=false" alt="陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123887"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123887"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000100175:2a4b99b044b8aafe</id>
     <title>Tale of Dark Lands 20%OFF</title>
     <updated>2026-05-20T18:31:33.175314+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-05-22T08:31:46.563086+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,249 円&lt;/p&gt;&lt;p&gt;メーカー: Feardemic&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw163dd063/products/D70010000110249/squareHeroBanner/d16aa27ae48104b9c9eb4d058f2838783c074cf5c1d75f73a9c79f769c941110.jpg?sw=346&amp;amp;strip=false" alt="忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110249"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000110249"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000096204:fb2df58e074ce1b5</id>
+    <title>Nullstar: Solus 20%OFF</title>
+    <updated>2026-05-22T12:00:17.786877+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Nullstar: Solus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: indie.io&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw84a6a96a/products/D70010000096204/squareHeroBanner/3beefd6a11906898fb027a114ca1c395bf8a4788c8ef615880b5c730ebabac9c.jpg?sw=346&amp;amp;strip=false" alt="Nullstar: Solus"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000096204"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000096204"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118869:868e3526746dfa61</id>
+    <title>Doll Defenders 20%OFF</title>
+    <updated>2026-05-22T12:00:17.786877+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Doll Defenders&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 400 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw62825e93/products/D70010000118869/squareHeroBanner/0157b903f04ce8c61e30b1c5d24197a84a46f9b55b6b489f603961789d18b858.jpg?sw=346&amp;amp;strip=false" alt="Doll Defenders"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118869"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118869"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123887:33fe711b61ffc508</id>
+    <title>陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！ 10%OFF</title>
+    <updated>2026-05-22T12:00:17.786877+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 882 円&lt;/p&gt;&lt;p&gt;メーカー: しにせゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwba2a9548/products/D70010000123887/squareHeroBanner/5e8f9d4399061ced523b74c8cd93f54866f1467565a676a85498b49e32da3f67.jpg?sw=346&amp;amp;strip=false" alt="陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123887"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123887"/>
   </entry>
 </feed>
