@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-23T04:07:17.737448+00:00</updated>
+  <updated>2026-05-23T06:45:12.315266+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -329,13 +329,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000123887"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000113026:b4f8289fa30505c6</id>
-    <title>人喰ノ檻 - KLETKA 10%OFF</title>
-    <updated>2026-05-22T15:21:28.350708+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
     <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
     <updated>2026-05-22T18:04:14.428780+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-05-23T04:07:17.737448+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Nullstar: Solus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: indie.io&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw84a6a96a/products/D70010000096204/squareHeroBanner/3beefd6a11906898fb027a114ca1c395bf8a4788c8ef615880b5c730ebabac9c.jpg?sw=346&amp;amp;strip=false" alt="Nullstar: Solus"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000096204"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000096204"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113026:b4f8289fa30505c6</id>
+    <title>人喰ノ檻 - KLETKA 10%OFF</title>
+    <updated>2026-05-23T06:45:12.315266+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
   </entry>
 </feed>
