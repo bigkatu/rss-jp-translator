@@ -2,116 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-22T23:18:38.422267+00:00</updated>
+  <updated>2026-05-23T04:06:30.904750+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.140</id>
-    <title>v2.1.140</title>
-    <updated>2026-05-12T21:09:45+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-改良されたエージェントツール &lt;br&gt;
-サブエージェントの種類&lt;br&gt;
- 大文字と小文字と区切り文字を区別しない値を受け入れるためのマッチング (例: &lt;br&gt;
-「コードレビューアー」&lt;br&gt;
- に解決します &lt;br&gt;
-コードレビュー担当者&lt;br&gt;
-)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エージェントのカラーパレットを更新しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/目標&lt;br&gt;
- 静かにぶら下がっているとき &lt;br&gt;
-すべてのフックを無効にする&lt;br&gt;
- または &lt;br&gt;
-管理対象フックのみを許可&lt;br&gt;
- が設定されています - 決して解決されないインジケーターの代わりに明確なメッセージが表示されるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-シンボリックリンクされた設定ファイルによって誤って属性変更イベントが発生し、偽の変更イベントが発生する、設定のホットリロードにおける回帰を修正しました。 &lt;br&gt;
-構成変更&lt;br&gt;
- フック&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-クロード --bg&lt;br&gt;
- バックグラウンド サービスがアイドル状態で終了しようとしたときに、「要求中に接続が切断されました」というメッセージが表示されて失敗する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エンタープライズ エンドポイント セキュリティを備えたマシンでバックグラウンド サービスの起動が失敗する問題を、時間を長くすることで修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-401 でリモート管理設定が再試行されない問題を修正しました。強制的に更新されたトークンを使用して 1 回再試行されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-固定管理 &lt;br&gt;
-追加の有名なマーケットプレイス&lt;br&gt;
- 自動更新ポリシーが永続化されない &lt;br&gt;
-既知のマーケットプレイス.json&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/ループ&lt;br&gt;
- すでに完了時に通知されているバックグラウンド タスクをポーリングするために冗長ウェイクアップをスケジュールする&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-実行可能ファイル（例: &lt;br&gt;
-うーん&lt;br&gt;
-) 同期トリガー &lt;br&gt;
-ここで.exe&lt;br&gt;
- チェックするたびに再出現します&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-読む&lt;br&gt;
- ツールは次の場合に失敗した検証を呼び出します。 &lt;br&gt;
-オフセット&lt;br&gt;
- 空白が埋め込まれたものとして渡されるか、 &lt;br&gt;
-+&lt;br&gt;
--接頭辞付きの文字列&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-端末がフォーカスを失ったときに、ネイティブ端末カーソルが入力キャレットに留まらない問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-プラグインは、デフォルトのコンポーネントフォルダー (例: &lt;br&gt;
-コマンド/&lt;br&gt;
-) は黙って無視されます。 &lt;br&gt;
-プラグイン.json&lt;br&gt;
- 一致するキーを設定します。に表示されます &lt;br&gt;
-/ドクター&lt;br&gt;
-、 &lt;br&gt;
-クロードプラグインリスト&lt;br&gt;
-、そして &lt;br&gt;
-/プラグイン&lt;br&gt;
-。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Improved Agent tool &lt;code&gt;subagent_type&lt;/code&gt; matching to accept case- and separator-insensitive values (e.g. &lt;code&gt;"Code Reviewer"&lt;/code&gt; resolves to &lt;code&gt;code-reviewer&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Updated agent color palette&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/goal&lt;/code&gt; silently hanging when &lt;code&gt;disableAllHooks&lt;/code&gt; or &lt;code&gt;allowManagedHooksOnly&lt;/code&gt; is set — now shows a clear message instead of an indicator that never resolves&lt;/li&gt;
-&lt;li&gt;Fixed a regression in settings hot-reload where symlinked settings files caused misattributed change events and spurious &lt;code&gt;ConfigChange&lt;/code&gt; hooks&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;claude --bg&lt;/code&gt; failing with "connection dropped mid-request" when the background service was about to idle-exit&lt;/li&gt;
-&lt;li&gt;Fixed background service startup failing on machines with enterprise endpoint security by allowing more time&lt;/li&gt;
-&lt;li&gt;Fixed remote managed settings not retrying on 401 — now retries once with a force-refreshed token&lt;/li&gt;
-&lt;li&gt;Fixed managed &lt;code&gt;extraKnownMarketplaces&lt;/code&gt; auto-update policy not being persisted to &lt;code&gt;known_marketplaces.json&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/loop&lt;/code&gt; scheduling redundant wakeups to poll for background tasks that already notify on completion&lt;/li&gt;
-&lt;li&gt;Fixed a recurring event-loop stall on Windows when a missing executable (e.g. &lt;code&gt;gh&lt;/code&gt;) triggered synchronous &lt;code&gt;where.exe&lt;/code&gt; re-spawns on every check&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;Read&lt;/code&gt; tool calls failing validation when &lt;code&gt;offset&lt;/code&gt; is passed as a whitespace-padded or &lt;code&gt;+&lt;/code&gt;-prefixed string&lt;/li&gt;
-&lt;li&gt;Fixed native terminal cursor not staying at the input caret when the terminal loses focus&lt;/li&gt;
-&lt;li&gt;Plugins now warn when a default component folder (e.g. &lt;code&gt;commands/&lt;/code&gt;) is silently ignored because &lt;code&gt;plugin.json&lt;/code&gt; sets the matching key. Shown in &lt;code&gt;/doctor&lt;/code&gt;, &lt;code&gt;claude plugin list&lt;/code&gt;, and &lt;code&gt;/plugin&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.140"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.141</id>
     <title>v2.1.141</title>
@@ -1803,5 +1698,21 @@ claude.ai または Claude モバイル アプリからリモート コントロ
 &lt;li&gt;Improved &lt;code&gt;/feedback&lt;/code&gt; reports to include the conversation that happened before context compaction, making issues from earlier in long sessions easier to triage&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.149"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.150</id>
+    <title>v2.1.150</title>
+    <updated>2026-05-23T04:03:51+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+内部インフラストラクチャの改善 (ユーザー向けの変更はなし)&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Internal infrastructure improvements (no user-facing changes)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.150"/>
   </entry>
 </feed>
