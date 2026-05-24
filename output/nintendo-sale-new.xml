@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-24T08:00:40.416020+00:00</updated>
+  <updated>2026-05-24T10:08:17.032688+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000112649:21040dab91d38693</id>
-    <title>オレオール キボウのツバサ 20%OFF</title>
-    <updated>2026-05-18T16:34:18.611575+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;オレオール キボウのツバサ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,936 円&lt;/p&gt;&lt;p&gt;メーカー: 賈船&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9700723d/products/D70010000112649/squareHeroBanner/e060c51f1c353ebfb11392d2dfb3e463dd987a7b1af99d0b4615fed954e0ceb2.jpg?sw=346&amp;amp;strip=false" alt="オレオール キボウのツバサ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112649"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000112649"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000117486:3daa388e6d1a9276</id>
-    <title>Night Club Manager Simulator 62%OFF</title>
-    <updated>2026-05-18T23:19:39.326482+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Night Club Manager Simulator&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;62%OFF&lt;/p&gt;&lt;p&gt;価格: 488 円&lt;/p&gt;&lt;p&gt;メーカー: Dragon Path Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw19cee152/products/D70010000117486/squareHeroBanner/3d3fa5be04245e22e20750e06b0924232fa836e79c3725e9dca7807432e7204c.jpg?sw=346&amp;amp;strip=false" alt="Night Club Manager Simulator"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117486"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000117486"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000124937:1ca020c945499840</id>
     <title>脳トレ！並べ替えクイズーその順番、正しいのかな？ー 10%OFF</title>
@@ -329,13 +315,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000122743"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000113026:b4f8289fa30505c6</id>
-    <title>人喰ノ檻 - KLETKA 10%OFF</title>
-    <updated>2026-05-23T23:10:18.364138+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000096204:fb2df58e074ce1b5</id>
     <title>Nullstar: Solus 20%OFF</title>
     <updated>2026-05-24T04:38:29.879463+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-05-24T08:00:40.416020+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 882 円&lt;/p&gt;&lt;p&gt;メーカー: しにせゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwba2a9548/products/D70010000123887/squareHeroBanner/5e8f9d4399061ced523b74c8cd93f54866f1467565a676a85498b49e32da3f67.jpg?sw=346&amp;amp;strip=false" alt="陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123887"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123887"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113026:b4f8289fa30505c6</id>
+    <title>人喰ノ檻 - KLETKA 10%OFF</title>
+    <updated>2026-05-24T10:08:17.032688+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;人喰ノ檻 - KLETKA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,782 円&lt;/p&gt;&lt;p&gt;メーカー: Sobaka Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ff10a8b/products/D70010000113026/squareHeroBanner/bb27c02c81f08c7ae67cf7968699e292373fd443f1976bd712dec308673e64bf.jpg?sw=346&amp;amp;strip=false" alt="人喰ノ檻 - KLETKA"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113026"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113026"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000094578:2ff672650c29165e</id>
+    <title>ゼルドナーエックス２ 〜ディフィニティブ・エディション〜 10%OFF</title>
+    <updated>2026-05-24T10:08:17.032688+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ゼルドナーエックス２ 〜ディフィニティブ・エディション〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,780 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw12ff032d/products/D70010000094578/squareHeroBanner/bbdbe3925dbb558c73760e64e7ad829c52304780cc4a1122771074efee603731.jpg?sw=346&amp;amp;strip=false" alt="ゼルドナーエックス２ 〜ディフィニティブ・エディション〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000094578"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000094578"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000115967:49ad30ddf82a94b3</id>
+    <title>ワンオペ！コンビニ 33%OFF</title>
+    <updated>2026-05-24T10:08:17.032688+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ワンオペ！コンビニ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 650 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw30ba49c4/products/D70010000115967/squareHeroBanner/f2f26018300fcb03ed9ad666a86570a5f9f492a96fe1bdfceeaa23895c330775.jpg?sw=346&amp;amp;strip=false" alt="ワンオペ！コンビニ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000115967"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000115967"/>
   </entry>
 </feed>
