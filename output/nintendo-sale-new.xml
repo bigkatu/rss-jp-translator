@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-24T13:59:00.423969+00:00</updated>
+  <updated>2026-05-24T15:21:09.499419+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -315,13 +315,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000122743"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
-    <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
-    <updated>2026-05-24T08:00:40.416020+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb62e2d63/products/D70010000120672/squareHeroBanner/b1de7136631c0310471b21f6db997b771bcda1b2e91b8ab4a37fb60b4b10f898.jpg?sw=346&amp;amp;strip=false" alt="G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120672"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123887:33fe711b61ffc508</id>
     <title>陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！ 10%OFF</title>
     <updated>2026-05-24T08:00:40.416020+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-05-24T13:59:00.423969+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Nullstar: Solus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: indie.io&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw84a6a96a/products/D70010000096204/squareHeroBanner/3beefd6a11906898fb027a114ca1c395bf8a4788c8ef615880b5c730ebabac9c.jpg?sw=346&amp;amp;strip=false" alt="Nullstar: Solus"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000096204"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000096204"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120672:f64525d3fab6b48c</id>
+    <title>G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版 10%OFF</title>
+    <updated>2026-05-24T15:21:09.499419+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: ジー・モード&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb62e2d63/products/D70010000120672/squareHeroBanner/b1de7136631c0310471b21f6db997b771bcda1b2e91b8ab4a37fb60b4b10f898.jpg?sw=346&amp;amp;strip=false" alt="G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120672"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
   </entry>
 </feed>
