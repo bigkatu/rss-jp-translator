@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-25T16:03:36.562949+00:00</updated>
+  <updated>2026-05-25T17:55:06.983423+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000117327:115c3242dc5ca874</id>
-    <title>Lion Simulator RPG: Animal Battle Survival 70%OFF</title>
-    <updated>2026-05-19T16:31:35.816943+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Lion Simulator RPG: Animal Battle Survival&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;70%OFF&lt;/p&gt;&lt;p&gt;価格: 477 円&lt;/p&gt;&lt;p&gt;メーカー: Head A Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1dcae5b9/products/D70010000117327/squareHeroBanner/3b1fadc8ecd2051050914ceb0fa3d46ab6e0c44e238dc2ff083d737ab4ffae42.jpg?sw=346&amp;amp;strip=false" alt="Lion Simulator RPG: Animal Battle Survival"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117327"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000117327"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000113179:73ab5b43e870a567</id>
     <title>Fast Food Van Simulator 72%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-25T00:13:56.574027+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 639 円&lt;/p&gt;&lt;p&gt;メーカー: RioverseGames&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5d02dc4c/products/D70010000121124/squareHeroBanner/c06475b9fc23226620b023088eedfafab8c7758331aa43b29ae387bd1f6e7349.jpg?sw=346&amp;amp;strip=false" alt="Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121124"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121124"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113236:67cf59432af6f1d9</id>
+    <title>Scorpion Champions: Island Warfare 62%OFF</title>
+    <updated>2026-05-25T17:55:06.983423+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Scorpion Champions: Island Warfare&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;62%OFF&lt;/p&gt;&lt;p&gt;価格: 489 円&lt;/p&gt;&lt;p&gt;メーカー: MlME Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb61d66f1/products/D70010000113236/squareHeroBanner/6b17b5599bc91204926648dfea8ae7558cc0a278a6f2f224c3b9bd50911756a7.jpg?sw=346&amp;amp;strip=false" alt="Scorpion Champions: Island Warfare"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113236"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113236"/>
   </entry>
 </feed>
