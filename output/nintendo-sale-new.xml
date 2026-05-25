@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-25T21:33:42.907661+00:00</updated>
+  <updated>2026-05-25T23:21:32.416565+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -315,13 +315,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000120672"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000117486:3daa388e6d1a9276</id>
-    <title>Night Club Manager Simulator 62%OFF</title>
-    <updated>2026-05-24T17:15:53.066384+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Night Club Manager Simulator&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;62%OFF&lt;/p&gt;&lt;p&gt;価格: 488 円&lt;/p&gt;&lt;p&gt;メーカー: Dragon Path Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw19cee152/products/D70010000117486/squareHeroBanner/3d3fa5be04245e22e20750e06b0924232fa836e79c3725e9dca7807432e7204c.jpg?sw=346&amp;amp;strip=false" alt="Night Club Manager Simulator"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117486"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000117486"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000099506:2579f67301ebff3b</id>
     <title>A Storied Life: Tabitha 25%OFF</title>
     <updated>2026-05-24T17:15:53.066384+00:00</updated>
@@ -336,13 +329,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000096204"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000118259:4a3ced049ec31ec8</id>
-    <title>くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター 10%OFF</title>
-    <updated>2026-05-24T23:13:46.901762+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,260 円&lt;/p&gt;&lt;p&gt;メーカー: カエルパンダ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaacdc9c0/products/D70010000118259/squareHeroBanner/dfc68791c16f3495391c11c72c12137d626434df8a425ba4c6f0996ebda0363c.jpg?sw=346&amp;amp;strip=false" alt="くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118259"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000118259"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000121124:b2a8e52e2d2adee6</id>
     <title>Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii 60%OFF</title>
     <updated>2026-05-25T00:13:56.574027+00:00</updated>
@@ -355,5 +341,19 @@
     <updated>2026-05-25T17:55:06.983423+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Scorpion Champions: Island Warfare&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;62%OFF&lt;/p&gt;&lt;p&gt;価格: 489 円&lt;/p&gt;&lt;p&gt;メーカー: MlME Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb61d66f1/products/D70010000113236/squareHeroBanner/6b17b5599bc91204926648dfea8ae7558cc0a278a6f2f224c3b9bd50911756a7.jpg?sw=346&amp;amp;strip=false" alt="Scorpion Champions: Island Warfare"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113236"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000113236"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118259:4a3ced049ec31ec8</id>
+    <title>くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター 10%OFF</title>
+    <updated>2026-05-25T23:21:32.416565+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,260 円&lt;/p&gt;&lt;p&gt;メーカー: カエルパンダ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaacdc9c0/products/D70010000118259/squareHeroBanner/dfc68791c16f3495391c11c72c12137d626434df8a425ba4c6f0996ebda0363c.jpg?sw=346&amp;amp;strip=false" alt="くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118259"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118259"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000117486:3daa388e6d1a9276</id>
+    <title>Night Club Manager Simulator 62%OFF</title>
+    <updated>2026-05-25T23:21:32.416565+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Night Club Manager Simulator&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;62%OFF&lt;/p&gt;&lt;p&gt;価格: 488 円&lt;/p&gt;&lt;p&gt;メーカー: Dragon Path Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw19cee152/products/D70010000117486/squareHeroBanner/3d3fa5be04245e22e20750e06b0924232fa836e79c3725e9dca7807432e7204c.jpg?sw=346&amp;amp;strip=false" alt="Night Club Manager Simulator"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117486"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000117486"/>
   </entry>
 </feed>
