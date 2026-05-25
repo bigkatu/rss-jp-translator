@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-24T23:13:46.901762+00:00</updated>
+  <updated>2026-05-25T00:13:56.574027+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -329,13 +329,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000117486"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000121124:b2a8e52e2d2adee6</id>
-    <title>Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii 60%OFF</title>
-    <updated>2026-05-24T17:15:53.066384+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 639 円&lt;/p&gt;&lt;p&gt;メーカー: RioverseGames&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5d02dc4c/products/D70010000121124/squareHeroBanner/c06475b9fc23226620b023088eedfafab8c7758331aa43b29ae387bd1f6e7349.jpg?sw=346&amp;amp;strip=false" alt="Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121124"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121124"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000099506:2579f67301ebff3b</id>
     <title>A Storied Life: Tabitha 25%OFF</title>
     <updated>2026-05-24T17:15:53.066384+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-05-24T23:13:46.901762+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,260 円&lt;/p&gt;&lt;p&gt;メーカー: カエルパンダ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaacdc9c0/products/D70010000118259/squareHeroBanner/dfc68791c16f3495391c11c72c12137d626434df8a425ba4c6f0996ebda0363c.jpg?sw=346&amp;amp;strip=false" alt="くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118259"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000118259"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121124:b2a8e52e2d2adee6</id>
+    <title>Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii 60%OFF</title>
+    <updated>2026-05-25T00:13:56.574027+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 639 円&lt;/p&gt;&lt;p&gt;メーカー: RioverseGames&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5d02dc4c/products/D70010000121124/squareHeroBanner/c06475b9fc23226620b023088eedfafab8c7758331aa43b29ae387bd1f6e7349.jpg?sw=346&amp;amp;strip=false" alt="Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121124"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121124"/>
   </entry>
 </feed>
