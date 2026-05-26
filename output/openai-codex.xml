@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/openai/codex/releases.atom</id>
   <title>OpenAI Codex リリース（日本語）</title>
-  <updated>2026-05-26T19:27:41.134568+00:00</updated>
+  <updated>2026-05-26T21:57:19.080424+00:00</updated>
   <link href="https://github.com/openai/codex/releases" rel="alternate"/>
   <link href="https://github.com/openai/codex/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -953,7 +953,7 @@ body_after_prefix&lt;br&gt;
   <entry>
     <id>tag:github.com,2008:Repository/965415649/rust-v0.134.0</id>
     <title>0.134.0</title>
-    <updated>2026-05-26T19:22:20+00:00</updated>
+    <updated>2026-05-26T19:31:37+00:00</updated>
     <author>
       <name>github-actions[bot]</name>
     </author>
