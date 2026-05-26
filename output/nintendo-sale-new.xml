@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-26T21:57:47.740551+00:00</updated>
+  <updated>2026-05-26T23:32:48.335836+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000124605:fb15bdff223dec43</id>
-    <title>やわらか脳を作ろう！図形さがし 〜かんたんにできるIQ脳トレゲーム〜 10%OFF</title>
-    <updated>2026-05-19T19:17:39.220984+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;やわらか脳を作ろう！図形さがし 〜かんたんにできるIQ脳トレゲーム〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw92ee29be/products/D70010000124605/squareHeroBanner/d63ad3544b707abe164a57e8d0b4a757bfbdda72b8e1bf495aa4e2f5a156cc21.jpg?sw=346&amp;amp;strip=false" alt="やわらか脳を作ろう！図形さがし 〜かんたんにできるIQ脳トレゲーム〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124605"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124605"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000116469:615d262a62a1b2de</id>
     <title>CyberBlocker Complete Edition 20%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-26T16:52:48.632055+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Rumbral&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,912 円&lt;/p&gt;&lt;p&gt;メーカー: Pdpartid@games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw032e7dc2/products/D70010000114375/squareHeroBanner/c99184dddec26aba50919431934b77148a617670bd253572ea98ed00d26a946c.jpg?sw=346&amp;amp;strip=false" alt="Rumbral"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114375"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000114375"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000116136:5b5fe03a122d35cc</id>
+    <title>LumenTale：追憶の軌跡 10%OFF</title>
+    <updated>2026-05-26T23:32:48.335836+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;LumenTale：追憶の軌跡&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,738 円&lt;/p&gt;&lt;p&gt;メーカー: Team17&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0ef45b6e/products/D70010000116136/squareHeroBanner/82ecad525f76fff46f8226c05b9c75fb436d7dfe3846e31eabed944bc554f0d9.jpg?sw=346&amp;amp;strip=false" alt="LumenTale：追憶の軌跡"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000116136"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000116136"/>
   </entry>
 </feed>
