@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-26T04:33:51.213957+00:00</updated>
+  <updated>2026-05-26T08:43:16.811811+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -68,13 +68,6 @@
     <updated>2026-05-20T12:03:49.874997+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;病院恋愛：アニメ医者ラブ (Hospital Romance: Anime Doctor Crush)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb1caf413/products/D70010000121001/squareHeroBanner/e2d3a0b96dcec2a40c8a9369ccbbbe095647c0c0083a6797172b459fc29e701d.jpg?sw=346&amp;amp;strip=false" alt="病院恋愛：アニメ医者ラブ (Hospital Romance: Anime Doctor Crush)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121001"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121001"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000113570:69ab3cb8abd9bbee</id>
-    <title>Psyvariar3 20%OFF</title>
-    <updated>2026-05-20T12:03:49.874997+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Psyvariar3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 5,104 円&lt;/p&gt;&lt;p&gt;メーカー: サクセス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca2a2d38/products/D70010000113570/squareHeroBanner/82da3ce79b294048d343f0177a29d182498e0fb5b2d087d2622628da81e9a66d.jpg?sw=346&amp;amp;strip=false" alt="Psyvariar3"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113570"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113570"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000125120:9b4923c937ccd4fc</id>
@@ -245,20 +238,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000099503"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000121272:15b8538d856cb077</id>
-    <title>Pawbay (ポーベイ) 74%OFF</title>
-    <updated>2026-05-22T08:31:46.563086+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Pawbay (ポーベイ)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;74%OFF&lt;/p&gt;&lt;p&gt;価格: 749 円&lt;/p&gt;&lt;p&gt;メーカー: COMMANDO PANDA&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdde75b50/products/D70010000121272/squareHeroBanner/d34f6afbd871a06a8de2b6d18fe29c78be925d6efe6e5d2f62bf68df774f6230.jpeg?sw=346&amp;amp;strip=false" alt="Pawbay (ポーベイ)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121272"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121272"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000110249:a59400c14a055d03</id>
-    <title>忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition) 10%OFF</title>
-    <updated>2026-05-22T08:31:46.563086+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,249 円&lt;/p&gt;&lt;p&gt;メーカー: Feardemic&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw163dd063/products/D70010000110249/squareHeroBanner/d16aa27ae48104b9c9eb4d058f2838783c074cf5c1d75f73a9c79f769c941110.jpg?sw=346&amp;amp;strip=false" alt="忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110249"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000110249"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000118869:868e3526746dfa61</id>
     <title>Doll Defenders 20%OFF</title>
     <updated>2026-05-22T12:00:17.786877+00:00</updated>
@@ -278,13 +257,6 @@
     <updated>2026-05-23T14:01:54.484799+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Car Sales Simulator 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,540 円&lt;/p&gt;&lt;p&gt;メーカー: CGI GERMANY DESIGN&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw2d1406fb/products/D70010000122743/squareHeroBanner/3825ac2e7e55965419c16f8fcf70c322311e2ec83e8ced9b75dfe25b1a853a83.jpg?sw=346&amp;amp;strip=false" alt="Car Sales Simulator 2026"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122743"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000122743"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123887:33fe711b61ffc508</id>
-    <title>陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！ 10%OFF</title>
-    <updated>2026-05-24T08:00:40.416020+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 882 円&lt;/p&gt;&lt;p&gt;メーカー: しにせゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwba2a9548/products/D70010000123887/squareHeroBanner/5e8f9d4399061ced523b74c8cd93f54866f1467565a676a85498b49e32da3f67.jpg?sw=346&amp;amp;strip=false" alt="陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123887"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123887"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000113026:b4f8289fa30505c6</id>
@@ -355,5 +327,33 @@
     <updated>2026-05-26T04:33:51.213957+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 639 円&lt;/p&gt;&lt;p&gt;メーカー: RioverseGames&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5d02dc4c/products/D70010000121124/squareHeroBanner/c06475b9fc23226620b023088eedfafab8c7758331aa43b29ae387bd1f6e7349.jpg?sw=346&amp;amp;strip=false" alt="Cherry Girls vs Zombie Carnage: Brutal Anime Kawaii"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121124"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121124"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000110249:a59400c14a055d03</id>
+    <title>忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition) 10%OFF</title>
+    <updated>2026-05-26T08:43:16.811811+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,249 円&lt;/p&gt;&lt;p&gt;メーカー: Feardemic&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw163dd063/products/D70010000110249/squareHeroBanner/d16aa27ae48104b9c9eb4d058f2838783c074cf5c1d75f73a9c79f769c941110.jpg?sw=346&amp;amp;strip=false" alt="忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110249"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000110249"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121272:15b8538d856cb077</id>
+    <title>Pawbay (ポーベイ) 74%OFF</title>
+    <updated>2026-05-26T08:43:16.811811+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Pawbay (ポーベイ)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;74%OFF&lt;/p&gt;&lt;p&gt;価格: 749 円&lt;/p&gt;&lt;p&gt;メーカー: COMMANDO PANDA&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdde75b50/products/D70010000121272/squareHeroBanner/d34f6afbd871a06a8de2b6d18fe29c78be925d6efe6e5d2f62bf68df774f6230.jpeg?sw=346&amp;amp;strip=false" alt="Pawbay (ポーベイ)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121272"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121272"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113570:69ab3cb8abd9bbee</id>
+    <title>Psyvariar3 20%OFF</title>
+    <updated>2026-05-26T08:43:16.811811+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Psyvariar3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 5,104 円&lt;/p&gt;&lt;p&gt;メーカー: サクセス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca2a2d38/products/D70010000113570/squareHeroBanner/82da3ce79b294048d343f0177a29d182498e0fb5b2d087d2622628da81e9a66d.jpg?sw=346&amp;amp;strip=false" alt="Psyvariar3"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113570"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113570"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123887:33fe711b61ffc508</id>
+    <title>陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！ 10%OFF</title>
+    <updated>2026-05-26T08:43:16.811811+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 882 円&lt;/p&gt;&lt;p&gt;メーカー: しにせゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwba2a9548/products/D70010000123887/squareHeroBanner/5e8f9d4399061ced523b74c8cd93f54866f1467565a676a85498b49e32da3f67.jpg?sw=346&amp;amp;strip=false" alt="陸上娘ガチャシミュレーター 稼いで回して売ってまた回す！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123887"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123887"/>
   </entry>
 </feed>
