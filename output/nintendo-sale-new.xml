@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-27T04:47:38.048103+00:00</updated>
+  <updated>2026-05-27T08:48:25.938126+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -287,13 +287,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000121330"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000121761:0a92591b08cb2e96</id>
-    <title>意外と知らない！？日常英単語 穴埋めクイズ 〜小学生から大人までクイズで英語学習ゲーム〜 51%OFF</title>
-    <updated>2026-05-26T16:52:48.632055+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;意外と知らない！？日常英単語 穴埋めクイズ 〜小学生から大人までクイズで英語学習ゲーム〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;51%OFF&lt;/p&gt;&lt;p&gt;価格: 480 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw26ff762f/products/D70010000121761/squareHeroBanner/667433a65848614fa0866b8d46dabe567607222615009394545090d8be51d67d.jpg?sw=346&amp;amp;strip=false" alt="意外と知らない！？日常英単語 穴埋めクイズ 〜小学生から大人までクイズで英語学習ゲーム〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121761"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121761"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000118259:4a3ced049ec31ec8</id>
     <title>くるくる回そう！方向幕コレクション for Nintendo Switch™ -東武鉄道編 東武東上線- 鉄道方向幕シミュレーター 10%OFF</title>
     <updated>2026-05-26T16:52:48.632055+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-05-27T04:47:38.048103+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;脳トレ！並べ替えクイズーその順番、正しいのかな？ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw09b78489/products/D70010000124937/squareHeroBanner/e1940d136ef23532e38a3a2a0a3104abf54864805a5a000bcf9ebae8d70de521.jpg?sw=346&amp;amp;strip=false" alt="脳トレ！並べ替えクイズーその順番、正しいのかな？ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124937"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124937"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121761:0a92591b08cb2e96</id>
+    <title>意外と知らない！？日常英単語 穴埋めクイズ 〜小学生から大人までクイズで英語学習ゲーム〜 51%OFF</title>
+    <updated>2026-05-27T08:48:25.938126+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;意外と知らない！？日常英単語 穴埋めクイズ 〜小学生から大人までクイズで英語学習ゲーム〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;51%OFF&lt;/p&gt;&lt;p&gt;価格: 480 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw26ff762f/products/D70010000121761/squareHeroBanner/667433a65848614fa0866b8d46dabe567607222615009394545090d8be51d67d.jpg?sw=346&amp;amp;strip=false" alt="意外と知らない！？日常英単語 穴埋めクイズ 〜小学生から大人までクイズで英語学習ゲーム〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121761"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121761"/>
   </entry>
 </feed>
