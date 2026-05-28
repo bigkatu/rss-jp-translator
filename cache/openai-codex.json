@@ -327,5 +327,12 @@
     "content_en_hash": "aa124f884989704608cb487706aaee23",
     "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>Python SDK 0.1.0b1 をリリース</div></div><hr><div lang=\"en\"><h3>Original (English)</h3><p>Release Python SDK 0.1.0b1</p></div>",
     "translated_at": "2026-05-28T04:37:54.363125+00:00"
+  },
+  "58afe2f66ca3af2a0493": {
+    "title_en": "python-v0.1.0b2",
+    "title_ja": "python-v0.1.0b2",
+    "content_en_hash": "fa0c7fda715ca12170492770deb6b04b",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>Python SDK 0.1.0b2 をリリース</div></div><hr><div lang=\"en\"><h3>Original (English)</h3><p>Release Python SDK 0.1.0b2</p></div>",
+    "translated_at": "2026-05-28T08:52:54.097532+00:00"
   }
 }
