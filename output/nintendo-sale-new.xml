@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-28T22:06:29.912384+00:00</updated>
+  <updated>2026-05-28T23:42:35.651775+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000112361:0ccdda2b1c20e8a9</id>
-    <title>Psyvariar3 20%OFF</title>
-    <updated>2026-05-27T04:47:38.048103+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Psyvariar3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 4,224 円&lt;/p&gt;&lt;p&gt;メーカー: サクセス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwd99991e7/products/D70010000112361/squareHeroBanner/82da3ce79b294048d343f0177a29d182498e0fb5b2d087d2622628da81e9a66d.jpg?sw=346&amp;amp;strip=false" alt="Psyvariar3"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000112361"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000125375:d2ba124938a88a0e</id>
-    <title>K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜 10%OFF</title>
-    <updated>2026-05-27T04:47:38.048103+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa91c39ec/products/D70010000125375/squareHeroBanner/f608327257c188df4a87af30bf7898f33f582c84cacbcca3002ab11151fde7d4.jpg?sw=346&amp;amp;strip=false" alt="K-POP推し活 韓国語クイズ 〜推し活で使える言葉を楽しく学ぼう〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125375"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125375"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000121761:0a92591b08cb2e96</id>
     <title>意外と知らない！？日常英単語 穴埋めクイズ 〜小学生から大人までクイズで英語学習ゲーム〜 51%OFF</title>
@@ -355,5 +341,19 @@
     <updated>2026-05-28T17:03:06.449862+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ヴィラン転生 ～死亡確定の悪役モブに転生したけど２回も死にたくないので暗躍してやる！～&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,386 円&lt;/p&gt;&lt;p&gt;メーカー: ケムコ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbe012e97/products/D70010000118391/squareHeroBanner/21fed965a55e053f50e3c98f87899291a4b627ac0c4107920fae04f8ec3e0b63.jpg?sw=346&amp;amp;strip=false" alt="ヴィラン転生 ～死亡確定の悪役モブに転生したけど２回も死にたくないので暗躍してやる！～"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118391"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000118391"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121671:ec355f70b773a4a8</id>
+    <title>One Move Away 10%OFF</title>
+    <updated>2026-05-28T23:42:35.651775+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;One Move Away&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,530 円&lt;/p&gt;&lt;p&gt;メーカー: Playstack&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb6b078ef/products/D70010000121671/squareHeroBanner/ed63aff318edc8becef9496c3100c5b1934297e09cd0540c4bbe39972c27a895.jpg?sw=346&amp;amp;strip=false" alt="One Move Away"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121671"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121671"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121857:80b09cd8f7e0e8aa</id>
+    <title>One Move Away 10%OFF</title>
+    <updated>2026-05-28T23:42:35.651775+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;One Move Away&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,530 円&lt;/p&gt;&lt;p&gt;メーカー: Playstack&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw622f7423/products/D70010000121857/squareHeroBanner/ed63aff318edc8becef9496c3100c5b1934297e09cd0540c4bbe39972c27a895.jpg?sw=346&amp;amp;strip=false" alt="One Move Away"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121857"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121857"/>
   </entry>
 </feed>
