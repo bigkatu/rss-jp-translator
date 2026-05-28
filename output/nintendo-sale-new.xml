@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-27T23:38:29.933974+00:00</updated>
+  <updated>2026-05-28T04:38:34.763080+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000110249:a59400c14a055d03</id>
-    <title>忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition) 10%OFF</title>
-    <updated>2026-05-26T08:43:16.811811+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,249 円&lt;/p&gt;&lt;p&gt;メーカー: Feardemic&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw163dd063/products/D70010000110249/squareHeroBanner/d16aa27ae48104b9c9eb4d058f2838783c074cf5c1d75f73a9c79f769c941110.jpg?sw=346&amp;amp;strip=false" alt="忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110249"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000110249"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000121272:15b8538d856cb077</id>
     <title>Pawbay (ポーベイ) 74%OFF</title>
@@ -231,13 +224,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000112686"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000114797:a5a16ea80ad7c64f</id>
-    <title>We. The Refugees: Ticket to Europe 20%OFF</title>
-    <updated>2026-05-27T19:33:57.210449+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;We. The Refugees: Ticket to Europe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,513 円&lt;/p&gt;&lt;p&gt;メーカー: Black Lantern Collective&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5b48c4ad/products/D70010000114797/squareHeroBanner/6c7e1a8a91c92a566c3fe0303929d8697a9d6663d9ae5a96d598cea794da5dd5.jpg?sw=346&amp;amp;strip=false" alt="We. The Refugees: Ticket to Europe"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114797"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000114797"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000122081:d1f6b28918d3fd2a</id>
     <title>わかれば一流！難読漢字穴埋めクイズ 10%OFF</title>
     <updated>2026-05-27T19:33:57.210449+00:00</updated>
@@ -266,13 +252,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000116136"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123244:1918b25f348c744d</id>
-    <title>スライミィマインズのオクチヘ Into the Slimy Mines 10%OFF</title>
-    <updated>2026-05-27T19:33:57.210449+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;スライミィマインズのオクチヘ Into the Slimy Mines&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: Wales Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa9e50cb3/products/D70010000123244/squareHeroBanner/edb2159d70596dffa0dd6d20bfd5775f08cece0efa086e9803c766abea72cd79.jpg?sw=346&amp;amp;strip=false" alt="スライミィマインズのオクチヘ Into the Slimy Mines"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123244"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123244"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
     <title> リスキーロードズ Risky Roads 60%OFF</title>
     <updated>2026-05-27T19:33:57.210449+00:00</updated>
@@ -287,34 +266,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000126102"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000124258:cf34dc9be4b29212</id>
-    <title>ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー 10%OFF</title>
-    <updated>2026-05-27T19:33:57.210449+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw229e31cb/products/D70010000124258/squareHeroBanner/978e24bd337752bc0404ad8b08fdf4abbef814b35eef64ec5258c1f8b2357f8d.jpg?sw=346&amp;amp;strip=false" alt="ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124258"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124258"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000120805:de6fee541f64a2e1</id>
-    <title>Bluey's Quest For The Gold Pen 10%OFF</title>
-    <updated>2026-05-27T19:33:57.210449+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Bluey's Quest For The Gold Pen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 5,382 円&lt;/p&gt;&lt;p&gt;メーカー: PM Studios&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw7a8671d5/products/D70010000120805/squareHeroBanner/1109bb96b27c0463eb59cd0e06419062de5d09e6ef75fc388890338e7f4947ee.jpg?sw=346&amp;amp;strip=false" alt="Bluey's Quest For The Gold Pen"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120805"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120805"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000125156:a882cff0a9589403</id>
-    <title>下水王国 10%OFF</title>
-    <updated>2026-05-27T19:33:57.210449+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;下水王国&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 450 円&lt;/p&gt;&lt;p&gt;メーカー: 明電舎&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw61895934/products/D70010000125156/squareHeroBanner/1a7f922cf80082fca65ad80a2fd271bc5a3f6717dda39f2f187037d66792689f.jpg?sw=346&amp;amp;strip=false" alt="下水王国"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125156"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125156"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121688:e022d70ed21eea9e</id>
-    <title>恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls) 60%OFF</title>
-    <updated>2026-05-27T19:33:57.210449+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw650b4ae1/products/D70010000121688/squareHeroBanner/bce9fd6ca97c7c1fb07926221647e6a37957b1f52ead1dd501adf653160a70b1.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121688"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121688"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000112997:ac0d0070c769300e</id>
     <title>Night Swarm 20%OFF</title>
     <updated>2026-05-27T19:33:57.210449+00:00</updated>
@@ -322,25 +273,11 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000112997"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000121200:97eabcabef74cf9d</id>
-    <title>Nitro City Racing 20%OFF</title>
-    <updated>2026-05-27T19:33:57.210449+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Nitro City Racing&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 480 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc2bc6dd4/products/D70010000121200/squareHeroBanner/6c7fd1ebbde2bf80b5450826c98c315eafab6af190628ad9decfc881215aac8f.jpg?sw=346&amp;amp;strip=false" alt="Nitro City Racing"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121200"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121200"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000106160:c3c7f49ee2fc3b74</id>
     <title>LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition 10%OFF</title>
     <updated>2026-05-27T19:33:57.210449+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 6,831 円&lt;/p&gt;&lt;p&gt;メーカー: ドラガミゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw51f17bb2/products/D70010000106160/squareHeroBanner/e5ea081e69fc05e671ab8b80cd1681d9d659a091aa04c0b9ef6c79cb2706fa0c.jpg?sw=346&amp;amp;strip=false" alt="LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000106160"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000106160"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000117200:b94f89e2755e6578</id>
-    <title>シュレディンガーズ・コール 10%OFF</title>
-    <updated>2026-05-27T19:33:57.210449+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;シュレディンガーズ・コール&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: 集英社ゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3ff2fb2d/products/D70010000117200/squareHeroBanner/5c2bd2168d6f83df168ccc44d3efd2360acef00a944d83d70021e0d9f5878179.jpg?sw=346&amp;amp;strip=false" alt="シュレディンガーズ・コール"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117200"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000117200"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000124414:4c4024071060601b</id>
@@ -355,5 +292,68 @@
     <updated>2026-05-27T19:33:57.210449+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Cat&amp;amp;Rabbit Magic Farming&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;81%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw73459d38/products/D70010000126240/squareHeroBanner/46be6aaf150a0fbfe180834a4dbd29816f728ba75f7742f9ea4a8983372dce3f.jpg?sw=346&amp;amp;strip=false" alt="Cat&amp;amp;Rabbit Magic Farming"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126240"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000126240"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000114797:a5a16ea80ad7c64f</id>
+    <title>We. The Refugees: Ticket to Europe 20%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;We. The Refugees: Ticket to Europe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,513 円&lt;/p&gt;&lt;p&gt;メーカー: Black Lantern Collective&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5b48c4ad/products/D70010000114797/squareHeroBanner/6c7e1a8a91c92a566c3fe0303929d8697a9d6663d9ae5a96d598cea794da5dd5.jpg?sw=346&amp;amp;strip=false" alt="We. The Refugees: Ticket to Europe"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114797"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000114797"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125156:a882cff0a9589403</id>
+    <title>下水王国 10%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;下水王国&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 450 円&lt;/p&gt;&lt;p&gt;メーカー: 明電舎&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw61895934/products/D70010000125156/squareHeroBanner/1a7f922cf80082fca65ad80a2fd271bc5a3f6717dda39f2f187037d66792689f.jpg?sw=346&amp;amp;strip=false" alt="下水王国"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125156"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125156"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124258:cf34dc9be4b29212</id>
+    <title>ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー 10%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw229e31cb/products/D70010000124258/squareHeroBanner/978e24bd337752bc0404ad8b08fdf4abbef814b35eef64ec5258c1f8b2357f8d.jpg?sw=346&amp;amp;strip=false" alt="ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124258"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124258"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120805:de6fee541f64a2e1</id>
+    <title>Bluey's Quest For The Gold Pen 10%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Bluey's Quest For The Gold Pen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 5,382 円&lt;/p&gt;&lt;p&gt;メーカー: PM Studios&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw7a8671d5/products/D70010000120805/squareHeroBanner/1109bb96b27c0463eb59cd0e06419062de5d09e6ef75fc388890338e7f4947ee.jpg?sw=346&amp;amp;strip=false" alt="Bluey's Quest For The Gold Pen"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120805"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120805"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123244:1918b25f348c744d</id>
+    <title>スライミィマインズのオクチヘ Into the Slimy Mines 10%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;スライミィマインズのオクチヘ Into the Slimy Mines&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: Wales Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa9e50cb3/products/D70010000123244/squareHeroBanner/edb2159d70596dffa0dd6d20bfd5775f08cece0efa086e9803c766abea72cd79.jpg?sw=346&amp;amp;strip=false" alt="スライミィマインズのオクチヘ Into the Slimy Mines"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123244"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123244"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121688:e022d70ed21eea9e</id>
+    <title>恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls) 60%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw650b4ae1/products/D70010000121688/squareHeroBanner/bce9fd6ca97c7c1fb07926221647e6a37957b1f52ead1dd501adf653160a70b1.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121688"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121688"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121200:97eabcabef74cf9d</id>
+    <title>Nitro City Racing 20%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Nitro City Racing&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 480 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc2bc6dd4/products/D70010000121200/squareHeroBanner/6c7fd1ebbde2bf80b5450826c98c315eafab6af190628ad9decfc881215aac8f.jpg?sw=346&amp;amp;strip=false" alt="Nitro City Racing"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121200"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121200"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000117200:b94f89e2755e6578</id>
+    <title>シュレディンガーズ・コール 10%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;シュレディンガーズ・コール&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: 集英社ゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3ff2fb2d/products/D70010000117200/squareHeroBanner/5c2bd2168d6f83df168ccc44d3efd2360acef00a944d83d70021e0d9f5878179.jpg?sw=346&amp;amp;strip=false" alt="シュレディンガーズ・コール"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117200"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000117200"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122743:45e868cb60c74536</id>
+    <title>Car Sales Simulator 2026 33%OFF</title>
+    <updated>2026-05-28T04:38:34.763080+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Car Sales Simulator 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,540 円&lt;/p&gt;&lt;p&gt;メーカー: CGI GERMANY DESIGN&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw2d1406fb/products/D70010000122743/squareHeroBanner/3825ac2e7e55965419c16f8fcf70c322311e2ec83e8ced9b75dfe25b1a853a83.jpg?sw=346&amp;amp;strip=false" alt="Car Sales Simulator 2026"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122743"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122743"/>
   </entry>
 </feed>
