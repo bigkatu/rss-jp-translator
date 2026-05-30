@@ -2,113 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-29T23:40:57.465435+00:00</updated>
+  <updated>2026-05-30T04:16:09.587263+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.146</id>
-    <title>v2.1.146</title>
-    <updated>2026-05-21T01:51:52+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-名前変更 &lt;br&gt;
-/簡素化する&lt;br&gt;
- に &lt;br&gt;
-/コードレビュー&lt;br&gt;
- オプションの努力レベルを使用して (例: &lt;br&gt;
-/コードレビュー高&lt;br&gt;
-)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動モードは抑制されなくなりました &lt;br&gt;
-ユーザーに質問する&lt;br&gt;
- ユーザーまたはスキルが明示的に依存している場合&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-次の場合に Windows PowerShell ツールが「コマンド ラインが無効です」というエラーで失敗する問題を修正しました。 &lt;br&gt;
-うわー&lt;br&gt;
- winget または Microsoft Store 経由でインストールされます (v2.1.124 でのリグレッション)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-固定MCP &lt;br&gt;
-リソース/リスト&lt;br&gt;
-、 &lt;br&gt;
-リソース/テンプレート/リスト&lt;br&gt;
-、そして &lt;br&gt;
-プロンプト/リスト&lt;br&gt;
- ページ分割サーバー上のページ 1 以降のアイテムのドロップ&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロードのストリーミング中に Windows ターミナルで接続されたバックグラウンド セッションでの全画面ストロボが修正されました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-アップデートが失敗した場合に、自動アップデーターのステータス行に現在のバージョンが表示されない問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows で修正され、バックグラウンド ジョブのワークツリーを削除しても、メイン リポジトリへの NTFS ジャンクションに従わなくなりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/背景&lt;br&gt;
- 入力された入力がスキルまたはカスタムのスラッシュ コマンドのみであるセッションを拒否する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バックグラウンドセッションで、「再度尋ねない」で既に付与したツール権限を再プロンプトする問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/テーマ&lt;br&gt;
- カラー エディターと [新しいカスタム テーマ] ダイアログが Esc に応答しない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エージェント SDK 経由で実行している場合のストリーミング セッションの終了時にキャッチされない例外を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-ForceLoginOrgUUID&lt;br&gt;
- そして &lt;br&gt;
-ForceLoginメソッド&lt;br&gt;
- 管理設定ポリシーがサードパーティプロバイダーおよび API キーセッションに対して適用されない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-GNOME ターミナルを右クリックして中クリックして貼り付けてもテキストが挿入されない問題を修正&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-CLAUDE_CODE_SUBAGENT_MODEL&lt;br&gt;
- マルチエージェントセッションの子プロセスに転送されない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動アップデータの信頼性の向上: ネイティブ バージョンのチェックとダウンロードは、一時的なネットワーク障害を即座に失敗するのではなく、再試行するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-大きなファイルの編集における差分レンダリングのパフォーマンスが向上しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Renamed &lt;code&gt;/simplify&lt;/code&gt; to &lt;code&gt;/code-review&lt;/code&gt; with an optional effort level (e.g. &lt;code&gt;/code-review high&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Auto mode no longer suppresses &lt;code&gt;AskUserQuestion&lt;/code&gt; when the user or a skill explicitly relies on it&lt;/li&gt;
-&lt;li&gt;Fixed Windows PowerShell tool failing with "command line is invalid" when &lt;code&gt;pwsh&lt;/code&gt; is installed via winget or the Microsoft Store (regression in v2.1.124)&lt;/li&gt;
-&lt;li&gt;Fixed MCP &lt;code&gt;resources/list&lt;/code&gt;, &lt;code&gt;resources/templates/list&lt;/code&gt;, and &lt;code&gt;prompts/list&lt;/code&gt; dropping items past page 1 on paginating servers&lt;/li&gt;
-&lt;li&gt;Fixed full-screen strobing in attached background sessions on Windows Terminal while Claude is streaming&lt;/li&gt;
-&lt;li&gt;Fixed the auto-updater status line not showing your current version when an update fails&lt;/li&gt;
-&lt;li&gt;Fixed on Windows, removing a background-job worktree no longer follows NTFS junctions into the main repo&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/background&lt;/code&gt; refusing sessions whose only typed input was a skill or custom slash command&lt;/li&gt;
-&lt;li&gt;Fixed backgrounded sessions re-prompting for tool permissions you already granted with "don't ask again"&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/theme&lt;/code&gt; color editor and "New custom theme" dialogs not responding to Esc&lt;/li&gt;
-&lt;li&gt;Fixed an uncaught exception at the end of streaming sessions when running via the Agent SDK&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;forceLoginOrgUUID&lt;/code&gt; and &lt;code&gt;forceLoginMethod&lt;/code&gt; managed-settings policies not being enforced against third-party-provider and API-key sessions&lt;/li&gt;
-&lt;li&gt;Fixed GNOME Terminal right-click and middle-click paste not inserting text&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;CLAUDE_CODE_SUBAGENT_MODEL&lt;/code&gt; not being forwarded to child processes in multi-agent sessions&lt;/li&gt;
-&lt;li&gt;Improved auto-updater reliability: native version checks and downloads now retry transient network failures instead of failing immediately&lt;/li&gt;
-&lt;li&gt;Improved diff rendering performance for large file edits&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.146"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.147</id>
     <title>v2.1.147</title>
@@ -1431,5 +1329,22 @@ alt+v&lt;br&gt;
 &lt;li&gt;Added a "Workflow keyword trigger" setting in /config to stop the word "workflow" in a prompt from triggering a dynamic workflow&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.157"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.158</id>
+    <title>v2.1.158</title>
+    <updated>2026-05-30T02:42:16+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Opus 4.7 および Opus 4.8 の Bedrock、Vertex、および Foundry で自動モードが利用できるようになりました。設定によるオプトイン &lt;br&gt;
+CLAUDE_CODE_ENABLE_AUTO_MODE=1&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8. Opt in by setting &lt;code&gt;CLAUDE_CODE_ENABLE_AUTO_MODE=1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.158"/>
   </entry>
 </feed>
