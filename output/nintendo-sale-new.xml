@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-30T12:15:54.643771+00:00</updated>
+  <updated>2026-05-30T14:47:39.878373+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -343,17 +343,17 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000111302"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000122042:9050691ca7b4eca7</id>
-    <title>ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition 25%OFF</title>
-    <updated>2026-05-30T04:16:45.579203+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 1,300 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5a721eae/products/D70010000122042/squareHeroBanner/50c26150ec833b8402314bfe4a138eabc73b93ba7eb9bee785e89e68cada1968.jpeg?sw=346&amp;amp;strip=false" alt="ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122042"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122042"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000117284:a8dfcb3bd2345829</id>
     <title>ボクらの消しゴム落とし4 時空バトル 27%OFF</title>
     <updated>2026-05-30T12:15:54.643771+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ボクらの消しゴム落とし4 時空バトル&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;27%OFF&lt;/p&gt;&lt;p&gt;価格: 1,200 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw89cb3e94/products/D70010000117284/squareHeroBanner/9d607788d75818b49706892baf554dbee21d313dbdc834e00e272b76dd972461.jpg?sw=346&amp;amp;strip=false" alt="ボクらの消しゴム落とし4 時空バトル"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117284"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000117284"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122042:9050691ca7b4eca7</id>
+    <title>ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition 25%OFF</title>
+    <updated>2026-05-30T14:47:39.878373+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 1,300 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5a721eae/products/D70010000122042/squareHeroBanner/50c26150ec833b8402314bfe4a138eabc73b93ba7eb9bee785e89e68cada1968.jpeg?sw=346&amp;amp;strip=false" alt="ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122042"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122042"/>
   </entry>
 </feed>
