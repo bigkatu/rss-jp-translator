@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-30T22:14:44.029267+00:00</updated>
+  <updated>2026-05-30T23:16:27.813767+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000124937:1ca020c945499840</id>
-    <title>脳トレ！並べ替えクイズーその順番、正しいのかな？ー 10%OFF</title>
-    <updated>2026-05-27T16:47:21.478617+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;脳トレ！並べ替えクイズーその順番、正しいのかな？ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw09b78489/products/D70010000124937/squareHeroBanner/e1940d136ef23532e38a3a2a0a3104abf54864805a5a000bcf9ebae8d70de521.jpg?sw=346&amp;amp;strip=false" alt="脳トレ！並べ替えクイズーその順番、正しいのかな？ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124937"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124937"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000119490:1f0256b9bf515f05</id>
     <title>Hentai House: Next Door 80%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-30T17:32:03.305080+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 1,300 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5a721eae/products/D70010000122042/squareHeroBanner/50c26150ec833b8402314bfe4a138eabc73b93ba7eb9bee785e89e68cada1968.jpeg?sw=346&amp;amp;strip=false" alt="ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122042"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000122042"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120530:2fb24e9eef3ac8b2</id>
+    <title>ドクター・サイコ：病院脱出 70%OFF</title>
+    <updated>2026-05-30T23:16:27.813767+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ドクター・サイコ：病院脱出&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;70%OFF&lt;/p&gt;&lt;p&gt;価格: 239 円&lt;/p&gt;&lt;p&gt;メーカー: Upscale Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3a376804/products/D70010000120530/squareHeroBanner/f92e40c09b6f037914578cb989d2257d40249be414f5244cd7fea09de322608d.jpg?sw=346&amp;amp;strip=false" alt="ドクター・サイコ：病院脱出"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120530"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120530"/>
   </entry>
 </feed>
