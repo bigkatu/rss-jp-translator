@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-05-31T22:13:49.492532+00:00</updated>
+  <updated>2026-05-31T23:18:23.147394+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000113644:fc8301e2911c3289</id>
-    <title>N.E.R.D 20%OFF</title>
-    <updated>2026-05-27T16:47:21.478617+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;N.E.R.D&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 6,400 円&lt;/p&gt;&lt;p&gt;メーカー: Forever Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw930ffc0e/products/D70010000113644/squareHeroBanner/586fa2eb115105b425bd91f8e67cdecd061d4e92495e385b4e77db5fb8e98ac1.jpg?sw=346&amp;amp;strip=false" alt="N.E.R.D"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113644"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113644"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000124437:a9e6d08c1bd7d2b0</id>
     <title> Backrooms: Escape The Brainrot 50%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-05-31T16:36:07.314392+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 1,300 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5a721eae/products/D70010000122042/squareHeroBanner/50c26150ec833b8402314bfe4a138eabc73b93ba7eb9bee785e89e68cada1968.jpeg?sw=346&amp;amp;strip=false" alt="ボクらの消しゴム落とし4 時空バトル Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122042"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000122042"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000118601:84c87b5819d40371</id>
+    <title>ジョイピアノ 24%OFF</title>
+    <updated>2026-05-31T23:18:23.147394+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ジョイピアノ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;24%OFF&lt;/p&gt;&lt;p&gt;価格: 912 円&lt;/p&gt;&lt;p&gt;メーカー: GaniTani&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw14d87afb/products/D70010000118601/squareHeroBanner/4c6eb75f4e10d1cb361db9bc444b1a8c05a28e0b8f7a41790804d3315388318f.jpg?sw=346&amp;amp;strip=false" alt="ジョイピアノ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118601"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000118601"/>
   </entry>
 </feed>
