@@ -250,5 +250,12 @@
     "content_en_hash": "663aa19331be9cd9b102456539309e78",
     "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>何が変わったのか<br>\n<br>\n• <br>\nOpus 4.7 および Opus 4.8 の Bedrock、Vertex、および Foundry で自動モードが利用できるようになりました。設定によるオプトイン <br>\nCLAUDE_CODE_ENABLE_AUTO_MODE=1</div></div><hr><div lang=\"en\"><h3>Original (English)</h3><h2>What's changed</h2>\n<ul>\n<li>Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8. Opt in by setting <code>CLAUDE_CODE_ENABLE_AUTO_MODE=1</code></li>\n</ul></div>",
     "translated_at": "2026-05-30T04:16:11.907423+00:00"
+  },
+  "5851d25fcfa9a6ef9b75": {
+    "title_en": "v2.1.159",
+    "title_ja": "v2.1.159",
+    "content_en_hash": "dccfcfecf219992bed2cdd6a16f31198",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>何が変わったのか<br>\n<br>\n• <br>\n内部インフラストラクチャの改善 (ユーザー向けの変更はなし)</div></div><hr><div lang=\"en\"><h3>Original (English)</h3><h2>What's changed</h2>\n<ul>\n<li>Internal infrastructure improvements (no user-facing changes)</li>\n</ul></div>",
+    "translated_at": "2026-05-31T20:20:23.365396+00:00"
   }
 }

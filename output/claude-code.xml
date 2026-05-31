@@ -2,219 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-05-31T18:16:07.220764+00:00</updated>
+  <updated>2026-05-31T20:20:21.540864+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.147</id>
-    <title>v2.1.147</title>
-    <updated>2026-05-21T23:54:18+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-固定されたバックグラウンド セッション (&lt;br&gt;
-Ctrl+T&lt;br&gt;
- で &lt;br&gt;
-クロードエージェント&lt;br&gt;
-) アイドル状態でも生存し続け、クロード コードの更新を適用するために適切な場所で再起動され、固定されていないセッション後にのみメモリ負荷が軽減されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-名前変更 &lt;br&gt;
-/簡素化する&lt;br&gt;
- に &lt;br&gt;
-/コードレビュー&lt;br&gt;
-。選択した作業レベルで正確性のバグを報告するようになりました (例: &lt;br&gt;
-/コードレビュー高&lt;br&gt;
-);パスする &lt;br&gt;
---コメント&lt;br&gt;
- 調査結果をインライン GitHub PR コメントとして投稿します。古いクリーンアップと修正の動作は削除されました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動アップデータの改善: 一時的なネットワーク障害を再試行し、障害時に特定のエラー カテゴリと OS エラー コードを報告し、更新が失敗した場合に現在のバージョンを表示します。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-大きなファイルの編集における差分レンダリングのパフォーマンスが向上しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-プロンプト履歴に連続した重複エントリが記録されなくなりました。上矢印でプロンプトを呼び出して再度送信しても、別のコピーは追加されません。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エンタープライズログイン制限を修正 (&lt;br&gt;
-ForceLoginOrgUUID&lt;br&gt;
- そして &lt;br&gt;
-ForceLoginメソッド&lt;br&gt;
- 管理対象設定）がサードパーティプロバイダーおよび API キーセッションに対して適用されない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-&amp;amp;&lt;br&gt;
- で &lt;br&gt;
-！&lt;br&gt;
- コマンド出力は次のように表示されます &lt;br&gt;
-&amp;amp;amp;&lt;br&gt;
-、次のようなコマンドから URL をコピー＆ペーストできなくなりました。 &lt;br&gt;
-gcloud 認証ログイン&lt;br&gt;
- ヘッドレスマシン上で&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ヘッドレス/SDK モードで何も実行しない不明なスラッシュ コマンドを修正しました。エラー メッセージが表示されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/ヘルプ&lt;br&gt;
- フルスクリーン モードでない場合、小さな端末では壊れたタブ ヘッダーをレンダリングし、ページごとに 1 つのコマンドのみを表示します。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-名前が単一のアンダースコアで始まるユーザー関数を削除するシェル スナップショットを修正しました。これにより、それらを参照するエイリアスが壊れていました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-複数のプラグインエージェントを宣言する問題を修正 &lt;br&gt;
-エージェント(...)&lt;br&gt;
- 入力します &lt;br&gt;
-ツール:&lt;br&gt;
- フロントマターは最後のエントリを除くすべてを削除します&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-固定フック &lt;br&gt;
-もし&lt;br&gt;
- のような条件 &lt;br&gt;
-PowerShell(git Push*)&lt;br&gt;
- 決して一致しない — のみ &lt;br&gt;
-パワーシェル(*)&lt;br&gt;
- 働いた&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-デフォルトのフォーマッタに依存するコマンドの出力を削除する PowerShell ツールを修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正: Windows では、PowerShell スクリプト呼び出しの「はい、再度尋ねないでください」により、後続の実行で実際に一致するルールが書き込まれるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows 上で PowerShell ツールが終了コード 1 で失敗する問題を修正しました。 &lt;br&gt;
-うわー&lt;br&gt;
- winget または Microsoft Store 経由でインストールされます&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/努力&lt;br&gt;
- 間違ったレベルのスライダーで開きます - 現在の努力から始まります&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ページ分割 MCP サーバーが 1 ページ以降のリソース、テンプレート、プロンプトを削除する問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロードのストリーミング中に Windows ターミナルで接続されたバックグラウンド セッションでの全画面ストロボが修正されました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正: Windows では、バックグラウンド ジョブ ワークツリーを削除しても、メイン リポジトリへの NTFS ジャンクションに従わなくなりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/背景&lt;br&gt;
- 入力された入力がスキルまたはカスタムのスラッシュ コマンドのみであるセッションを拒否する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動モード抑制を修正 &lt;br&gt;
-ユーザーに質問する&lt;br&gt;
- ユーザーまたはスキルが明示的にそれに依存する場合。自動モード分類器はユーザーの回答を意図信号として認識するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/テーマ&lt;br&gt;
- 「新しいカスタム テーマ」とカラー エディター ダイアログが Esc に応答しない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エージェント SDK 経由で実行している場合のストリーミング セッションの終了時にキャッチされない例外を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows でスクロールが安定するのを待っているときにまれに発生するハングを修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バックグラウンド セッションの結果にワイド (CJK) 文字が含まれている場合、Windows 上のエージェント ビュー リストの行が古くなり二重になる問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-貼り付けたテキストが判読不能としてエージェントに配信される問題を修正 &lt;br&gt;
-[貼り付けられたテキスト #N]&lt;br&gt;
- 実際のコンテンツの代わりのプレースホルダー&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-プラグインコンポーネントの数を修正 &lt;br&gt;
-クロードプラグインの詳細&lt;br&gt;
- そして &lt;br&gt;
-/プラグイン&lt;br&gt;
- プラグインのマニフェストにリストされているパスがデフォルトのディレクトリと重複している場合は 2 倍になります&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バックグラウンドセッションで、「再度尋ねない」で既に付与したツール権限を再プロンプトする問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-GNOME ターミナルを右クリックして中クリックして貼り付けてもテキストが挿入されない問題を修正&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-CLAUDE_CODE_SUBAGENT_MODEL&lt;br&gt;
- エージェント チームによって生成されたチームメイト プロセスには適用されません&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-スラッシュ コマンドの後にタブまたは改行が続くと不明なコマンドとして扱われる問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-のいくつかの間隔とレイアウトの不具合を修正しました。 &lt;br&gt;
-/プラグイン&lt;br&gt;
-、 &lt;br&gt;
-/ステータス&lt;br&gt;
-、 &lt;br&gt;
-/モバイル&lt;br&gt;
-、 &lt;br&gt;
-/サンドボックス&lt;br&gt;
-、そして &lt;br&gt;
-/権限&lt;br&gt;
- メニュー&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-モデルが存在しなくなったメディアを繰り返し再読み込みするよう促す、ストリップされた画像を修正しました&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Pinned background sessions (&lt;code&gt;Ctrl+T&lt;/code&gt; in &lt;code&gt;claude agents&lt;/code&gt;) now stay alive when idle, are restarted in place to apply Claude Code updates, and are shed under memory pressure only after non-pinned sessions&lt;/li&gt;
-&lt;li&gt;Renamed &lt;code&gt;/simplify&lt;/code&gt; to &lt;code&gt;/code-review&lt;/code&gt;. It now reports correctness bugs at a chosen effort level (e.g., &lt;code&gt;/code-review high&lt;/code&gt;); pass &lt;code&gt;--comment&lt;/code&gt; to post findings as inline GitHub PR comments. The old cleanup-and-fix behavior has been removed&lt;/li&gt;
-&lt;li&gt;Improved auto-updater: retries transient network failures, reports specific error categories and OS error codes on failure, and shows the current version when an update fails&lt;/li&gt;
-&lt;li&gt;Improved diff rendering performance for large file edits&lt;/li&gt;
-&lt;li&gt;Prompt history no longer records consecutive duplicate entries — recalling a prompt with arrow-up and submitting it again won't add another copy&lt;/li&gt;
-&lt;li&gt;Fixed enterprise login restrictions (&lt;code&gt;forceLoginOrgUUID&lt;/code&gt; and &lt;code&gt;forceLoginMethod&lt;/code&gt; managed-settings) not being enforced against third-party-provider and API-key sessions&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;&amp;amp;&lt;/code&gt; in &lt;code&gt;!&lt;/code&gt; command output displaying as &lt;code&gt;&amp;amp;amp;&lt;/code&gt;, which broke copy-pasting URLs from commands like &lt;code&gt;gcloud auth login&lt;/code&gt; on headless machines&lt;/li&gt;
-&lt;li&gt;Fixed unknown slash commands silently doing nothing in headless/SDK mode — they now show an error message&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/help&lt;/code&gt; rendering a broken tab header and showing only one command per page on small terminals when not in fullscreen mode&lt;/li&gt;
-&lt;li&gt;Fixed shell snapshot dropping user functions whose names start with a single underscore, which broke aliases referencing them&lt;/li&gt;
-&lt;li&gt;Fixed plugin agents that declare multiple &lt;code&gt;Agent(...)&lt;/code&gt; types in &lt;code&gt;tools:&lt;/code&gt; frontmatter dropping all but the last entry&lt;/li&gt;
-&lt;li&gt;Fixed hook &lt;code&gt;if&lt;/code&gt; conditions like &lt;code&gt;PowerShell(git push*)&lt;/code&gt; never matching — only &lt;code&gt;PowerShell(*)&lt;/code&gt; worked&lt;/li&gt;
-&lt;li&gt;Fixed PowerShell tool dropping output for commands that rely on the default formatter&lt;/li&gt;
-&lt;li&gt;Fixed: on Windows, "Yes, and don't ask again" for a PowerShell script invocation now writes a rule that actually matches on subsequent runs&lt;/li&gt;
-&lt;li&gt;Fixed PowerShell tool failing on Windows with exit code 1 when &lt;code&gt;pwsh&lt;/code&gt; is installed via winget or the Microsoft Store&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/effort&lt;/code&gt; opening with the slider on the wrong level — it now starts at your current effort&lt;/li&gt;
-&lt;li&gt;Fixed paginating MCP servers dropping resources, templates, and prompts past page 1&lt;/li&gt;
-&lt;li&gt;Fixed full-screen strobing in attached background sessions on Windows Terminal while Claude is streaming&lt;/li&gt;
-&lt;li&gt;Fixed: on Windows, removing a background-job worktree no longer follows NTFS junctions into the main repo&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/background&lt;/code&gt; refusing sessions whose only typed input was a skill or custom slash command&lt;/li&gt;
-&lt;li&gt;Fixed auto mode suppressing &lt;code&gt;AskUserQuestion&lt;/code&gt; when the user or a skill explicitly relies on it; the auto-mode classifier now sees the user's answers as intent signal&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/theme&lt;/code&gt; "New custom theme" and color editor dialogs not responding to Esc&lt;/li&gt;
-&lt;li&gt;Fixed an uncaught exception at the end of streaming sessions when running via the Agent SDK&lt;/li&gt;
-&lt;li&gt;Fixed a rare hang when waiting for scroll to settle on Windows&lt;/li&gt;
-&lt;li&gt;Fixed stale and doubled rows in the agent view list on Windows when background session results contain wide (CJK) characters&lt;/li&gt;
-&lt;li&gt;Fixed pasted text being delivered to agents as an unreadable &lt;code&gt;[Pasted text #N]&lt;/code&gt; placeholder instead of the actual content&lt;/li&gt;
-&lt;li&gt;Fixed plugin component counts in &lt;code&gt;claude plugin details&lt;/code&gt; and &lt;code&gt;/plugin&lt;/code&gt; being doubled when a plugin's manifest listed paths overlapping its default directories&lt;/li&gt;
-&lt;li&gt;Fixed backgrounded sessions re-prompting for tool permissions you already granted with "don't ask again"&lt;/li&gt;
-&lt;li&gt;Fixed GNOME Terminal right-click and middle-click paste not inserting text&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;CLAUDE_CODE_SUBAGENT_MODEL&lt;/code&gt; not applying to teammate processes spawned by agent teams&lt;/li&gt;
-&lt;li&gt;Fixed slash commands followed by a tab or newline being treated as an unknown command&lt;/li&gt;
-&lt;li&gt;Fixed several spacing and layout glitches in the &lt;code&gt;/plugin&lt;/code&gt;, &lt;code&gt;/status&lt;/code&gt;, &lt;code&gt;/mobile&lt;/code&gt;, &lt;code&gt;/sandbox&lt;/code&gt;, and &lt;code&gt;/permissions&lt;/code&gt; menus&lt;/li&gt;
-&lt;li&gt;Fixed stripped images prompting the model to repeatedly re-read media that was no longer present&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.147"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.148</id>
     <title>v2.1.148</title>
@@ -1346,5 +1138,21 @@ CLAUDE_CODE_ENABLE_AUTO_MODE=1&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en
 &lt;li&gt;Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8. Opt in by setting &lt;code&gt;CLAUDE_CODE_ENABLE_AUTO_MODE=1&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.158"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.159</id>
+    <title>v2.1.159</title>
+    <updated>2026-05-31T19:42:49+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+内部インフラストラクチャの改善 (ユーザー向けの変更はなし)&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Internal infrastructure improvements (no user-facing changes)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.159"/>
   </entry>
 </feed>
