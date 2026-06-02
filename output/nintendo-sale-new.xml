@@ -2,31 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-02T11:43:10.506334+00:00</updated>
+  <updated>2026-06-02T16:55:49.924759+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000119347:546475a709c285a3</id>
-    <title>Stray (ストレイ) 40%OFF</title>
-    <updated>2026-05-27T16:47:21.478617+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Stray (ストレイ)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 2,100 円&lt;/p&gt;&lt;p&gt;メーカー: Annapurna Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8600055c/products/D70010000119347/squareHeroBanner/4946a3225c6a5182b7be4e00abe0a2457ba0fa8aabeb4a83656e56e6aed65a43.jpg?sw=346&amp;amp;strip=false" alt="Stray (ストレイ)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119347"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119347"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123337:95477bcf91603568</id>
-    <title>Pick &amp; Place 76%OFF</title>
-    <updated>2026-05-27T16:47:21.478617+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Pick &amp;amp; Place&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;76%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0049f63d/products/D70010000123337/squareHeroBanner/edc3ddd95a2ad7b90c3a0c74ba29c2bd3f21e098f7aef0c409b53e5fc7b6cfc1.jpg?sw=346&amp;amp;strip=false" alt="Pick &amp;amp; Place"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123337"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123337"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000120814:23fd3cfe5f3de0f0</id>
-    <title>Bluey's Quest For The Gold Pen 10%OFF</title>
-    <updated>2026-05-27T16:47:21.478617+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Bluey's Quest For The Gold Pen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 4,455 円&lt;/p&gt;&lt;p&gt;メーカー: PM Studios&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw637bfd0f/products/D70010000120814/squareHeroBanner/1109bb96b27c0463eb59cd0e06419062de5d09e6ef75fc388890338e7f4947ee.jpg?sw=346&amp;amp;strip=false" alt="Bluey's Quest For The Gold Pen"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120814"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120814"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000118980:9fc4fc7b69ea179e</id>
     <title>Kiko's Apple Adventure 20%OFF</title>
@@ -308,25 +287,11 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000122743"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000111302:a1a19ea5cb0e3761</id>
-    <title>Judero 20%OFF</title>
-    <updated>2026-05-29T16:54:39.818516+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Judero&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 920 円&lt;/p&gt;&lt;p&gt;メーカー: NAISU&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4b41706b/products/D70010000111302/squareHeroBanner/594df37169ce6a67f2a33bbc0b62a19992a1afd118634c2158c97f885637942b.jpg?sw=346&amp;amp;strip=false" alt="Judero"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000111302"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000111302"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000117284:a8dfcb3bd2345829</id>
     <title>ボクらの消しゴム落とし4 時空バトル 27%OFF</title>
     <updated>2026-05-31T08:22:32.104111+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ボクらの消しゴム落とし4 時空バトル&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;27%OFF&lt;/p&gt;&lt;p&gt;価格: 1,200 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw89cb3e94/products/D70010000117284/squareHeroBanner/9d607788d75818b49706892baf554dbee21d313dbdc834e00e272b76dd972461.jpg?sw=346&amp;amp;strip=false" alt="ボクらの消しゴム落とし4 時空バトル"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117284"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000117284"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000114375:4e6d328a19116b26</id>
-    <title>Rumbral 20%OFF</title>
-    <updated>2026-05-31T16:36:07.314392+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Rumbral&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,912 円&lt;/p&gt;&lt;p&gt;メーカー: Pdpartid@games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw032e7dc2/products/D70010000114375/squareHeroBanner/c99184dddec26aba50919431934b77148a617670bd253572ea98ed00d26a946c.jpg?sw=346&amp;amp;strip=false" alt="Rumbral"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114375"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000114375"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000120530:2fb24e9eef3ac8b2</id>
@@ -355,5 +320,40 @@
     <updated>2026-06-02T01:37:03.650731+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Dark Light&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,742 円&lt;/p&gt;&lt;p&gt;メーカー: Mirari&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc34e5332/products/D70010000089076/squareHeroBanner/2a6e544374647692bd638f8fa1c52b62671ec02c5a8845c2d8fe22c5933f155f.jpg?sw=346&amp;amp;strip=false" alt="Dark Light"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000089076"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000089076"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000117994:25f3ffb6f5ae2e48</id>
+    <title>人形師 70%OFF</title>
+    <updated>2026-06-02T16:55:49.924759+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;人形師&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;70%OFF&lt;/p&gt;&lt;p&gt;価格: 332 円&lt;/p&gt;&lt;p&gt;メーカー: Upscale Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwf2c5f7c4/products/D70010000117994/squareHeroBanner/27559b52357e9edf1728a19d5ae74d70902e54b367c244f28bd8323163870c82.jpg?sw=346&amp;amp;strip=false" alt="人形師"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117994"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000117994"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123010:8b634ecc683ab0d1</id>
+    <title>AquaDream 50%OFF</title>
+    <updated>2026-06-02T16:55:49.924759+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;AquaDream&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 475 円&lt;/p&gt;&lt;p&gt;メーカー: Brainium Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw107793cd/products/D70010000123010/squareHeroBanner/f6971bc1742977718d3b8c4462e073a2fa9c378c85e31c0aaef08b464a0713fa.jpg?sw=346&amp;amp;strip=false" alt="AquaDream"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123010"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000114375:4e6d328a19116b26</id>
+    <title>Rumbral 20%OFF</title>
+    <updated>2026-06-02T16:55:49.924759+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Rumbral&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,912 円&lt;/p&gt;&lt;p&gt;メーカー: Pdpartid@games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw032e7dc2/products/D70010000114375/squareHeroBanner/c99184dddec26aba50919431934b77148a617670bd253572ea98ed00d26a946c.jpg?sw=346&amp;amp;strip=false" alt="Rumbral"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114375"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000114375"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000111302:a1a19ea5cb0e3761</id>
+    <title>Judero 20%OFF</title>
+    <updated>2026-06-02T16:55:49.924759+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Judero&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 920 円&lt;/p&gt;&lt;p&gt;メーカー: NAISU&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4b41706b/products/D70010000111302/squareHeroBanner/594df37169ce6a67f2a33bbc0b62a19992a1afd118634c2158c97f885637942b.jpg?sw=346&amp;amp;strip=false" alt="Judero"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000111302"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000111302"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119347:546475a709c285a3</id>
+    <title>Stray (ストレイ) 40%OFF</title>
+    <updated>2026-06-02T16:55:49.924759+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Stray (ストレイ)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 2,100 円&lt;/p&gt;&lt;p&gt;メーカー: Annapurna Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8600055c/products/D70010000119347/squareHeroBanner/4946a3225c6a5182b7be4e00abe0a2457ba0fa8aabeb4a83656e56e6aed65a43.jpg?sw=346&amp;amp;strip=false" alt="Stray (ストレイ)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119347"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119347"/>
   </entry>
 </feed>
