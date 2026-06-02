@@ -2,27 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-02T01:35:33.575676+00:00</updated>
+  <updated>2026-06-02T06:55:36.724504+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.148</id>
-    <title>v2.1.148</title>
-    <updated>2026-05-22T01:16:52+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-一部のユーザーのすべてのコマンドで終了コード 127 を返す Bash ツールを修正しました (2.1.147 で導入された回帰)&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed the Bash tool returning exit code 127 on every command for some users (a regression introduced in 2.1.147)&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.148"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.149</id>
     <title>v2.1.149</title>
@@ -1154,5 +1138,186 @@ CLAUDE_CODE_ENABLE_AUTO_MODE=1&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en
 &lt;li&gt;Internal infrastructure improvements (no user-facing changes)&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.159"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.160</id>
+    <title>v2.1.160</title>
+    <updated>2026-06-02T02:10:25+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+シェル起動ファイルに書き込む前にプロンプトを追加しました (&lt;br&gt;
+.zshenv&lt;br&gt;
+、 &lt;br&gt;
+.zlogin&lt;br&gt;
+、 &lt;br&gt;
+.bash_login&lt;br&gt;
+）と &lt;br&gt;
+~/.config/git/&lt;br&gt;
+そうしないと、意図しないコマンドが実行される可能性があります。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+編集を受け入れる&lt;br&gt;
+ モードでは、コードの実行を許可するビルドツール構成ファイルを書き込む前にプロンプトが表示されるようになりました (&lt;br&gt;
+.npmrc&lt;br&gt;
+、 &lt;br&gt;
+.yarnrc*&lt;br&gt;
+、 &lt;br&gt;
+bunfig.toml&lt;br&gt;
+、 &lt;br&gt;
+.bazelrc&lt;br&gt;
+、 &lt;br&gt;
+.pre-commit-config.yaml&lt;br&gt;
+、 &lt;br&gt;
+.devcontainer/&lt;br&gt;
+、など）&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+編集でファイルを表示した後に別の読み取りを行う必要がなくなりました。 &lt;br&gt;
+grep&lt;br&gt;
+: 単一ファイル &lt;br&gt;
+grep&lt;br&gt;
+/&lt;br&gt;
+イーグレプ&lt;br&gt;
+/&lt;br&gt;
+fgrep&lt;br&gt;
+ コマンドが編集前読み取りチェックを満たすようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+WSL で Windows クリップボードに書き込まないコピーオンセレクトを修正しました。MobaXterm などの端末がサポートしていない OSC 52 の代わりに PowerShell 相互運用機能を使用するようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+完了したセッションの復元を修正しました &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ チャット履歴を削除し、元のプロンプトを再実行する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+夜間のリタイア後にバックグラウンド セッションが再接続され、会話が失われ、元のプロンプトが再実行される問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロード --bg&lt;br&gt;
+ ロードされたマシン上でバックグラウンド デーモンがコールド スタートしているときに、「ソケットが見つかりません」というエラーが発生して失敗する場合がある&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Windows 上で、バックグラウンド セッションが開始されたディレクトリを削除できない問題を修正しました。 &lt;br&gt;
+クロード・RM&lt;br&gt;
+ バックグラウンドデーモンが終了するまで&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+作業を再開したバックグラウンド エージェントがエージェント リストの [完了] の下に表示される問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 終了するたびに自動アップデーターが再チェックするため、セッション リストに戻るときに数秒間フリーズする&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ホストの CPU 負荷が高いときに、バックグラウンド セッションまたはエージェント ビューに接続されている場合に、Windows で Esc、矢印キー、および入力が応答しなくなる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンド エージェントが端末同期出力マーカーをサポートしていない端末 (Apple ターミナル、tmux) に発行し、実行中のエージェントに入るときにレンダリング アーティファクトを引き起こす問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェント リストからセッションを開いた直後のトランスクリプトではなく、マウス ホイールでプロンプト履歴をスクロールする問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+CJK IME の構成が、入力キャレットではなく画面の左下に表示される問題を修正しました。 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 見る&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定有効 &lt;br&gt;
+ファイル:///C:/...&lt;br&gt;
+ ハイパーリンクをサポートする Windows 端末でリンクが壊れたパスに書き換えられる&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+プロジェクト ディレクトリまたはブランチ名に非 ASCII 文字または特殊文字が含まれている場合に音声モードが接続できない問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サードパーティプロバイダー (Bedrock/Vertex/Foundry) の自動モードが利用できないメッセージを修正して、 &lt;br&gt;
+CLAUDE_CODE_ENABLE_AUTO_MODE&lt;br&gt;
+ モデルを不当に非難するのではなくオプトインする&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/努力ウルトラコード&lt;br&gt;
+ モデルが xhigh を実行できないときに、動的ワークフロー設定が原因であると誤って非難します。 Ultracode は、それをサポートしていないモデルでは提供されなくなりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+を示唆するモデルが見つからないエラーを修正しました &lt;br&gt;
+--モデル&lt;br&gt;
+ CLI フラグが適用されない SDK または他のホスト経由で実行する場合&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ブリーフモードをオフにしてブリーフモードセッションを再開すると、クロードの過去の返信がスクロールバックから消えてしまう問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定 vim モード &lt;br&gt;
+p&lt;br&gt;
+ レジスタがヤンクされたときに、カーソルではなく下の行に貼り付けます。 &lt;br&gt;
+v$&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+最近非アクティブになったバックグラウンド エージェント セッションを開くパフォーマンスが向上しました。 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ルーチンアクションの推論を減らし、「このアクションを評価できませんでした」ブロックが発生する可能性を下げることで、自動モード分類器のレイテンシーを改善しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドセッションのティアダウンの改善 (&lt;br&gt;
+クロード・RM&lt;br&gt;
+/&lt;br&gt;
+停止&lt;br&gt;
+、idle reap) を使用して、SIGKILL の前に実行中のシェル サブプロセスに SIGTERM を送信し、クリーンアップ ハンドラーが実行されるようにします。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+削除されました &lt;br&gt;
+CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE&lt;br&gt;
+;環境変数は何も行わなくなりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+JetBrains プラグインのインストール提案を起動から削除しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+動的ワークフロー トリガー キーワードの名前を から変更しました。 &lt;br&gt;
+ワークフロー&lt;br&gt;
+ に &lt;br&gt;
+ウルトラコード&lt;br&gt;
+。 「ワークフロー」という単語が実行をトリガーすることはなくなりました。自分の言葉でそれを求めることはまだ有効です。トリガー キーワードは、プロンプト入力内で紫色に強調表示されます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a prompt before writing to shell startup files (&lt;code&gt;.zshenv&lt;/code&gt;, &lt;code&gt;.zlogin&lt;/code&gt;, &lt;code&gt;.bash_login&lt;/code&gt;) and &lt;code&gt;~/.config/git/&lt;/code&gt;, which could otherwise lead to unintended command execution&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;acceptEdits&lt;/code&gt; mode now prompts before writing build-tool config files that grant code execution (&lt;code&gt;.npmrc&lt;/code&gt;, &lt;code&gt;.yarnrc*&lt;/code&gt;, &lt;code&gt;bunfig.toml&lt;/code&gt;, &lt;code&gt;.bazelrc&lt;/code&gt;, &lt;code&gt;.pre-commit-config.yaml&lt;/code&gt;, &lt;code&gt;.devcontainer/&lt;/code&gt;, etc.)&lt;/li&gt;
+&lt;li&gt;Edit no longer requires a separate Read after viewing a file with &lt;code&gt;grep&lt;/code&gt;: single-file &lt;code&gt;grep&lt;/code&gt;/&lt;code&gt;egrep&lt;/code&gt;/&lt;code&gt;fgrep&lt;/code&gt; commands now satisfy the read-before-edit check&lt;/li&gt;
+&lt;li&gt;Fixed copy-on-select not writing to the Windows clipboard on WSL — now uses PowerShell interop instead of OSC 52, which terminals like MobaXterm don't support&lt;/li&gt;
+&lt;li&gt;Fixed restoring a completed session from &lt;code&gt;claude agents&lt;/code&gt; dropping chat history and re-running the original prompt&lt;/li&gt;
+&lt;li&gt;Fixed background sessions re-attached after overnight retire losing their conversation and re-running the original prompt&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude --bg&lt;/code&gt; occasionally failing with "socket missing" when the background daemon was cold-starting on a loaded machine&lt;/li&gt;
+&lt;li&gt;Fixed an issue on Windows where the directory a background session was started in could not be deleted after &lt;code&gt;claude rm&lt;/code&gt; until the background daemon exited&lt;/li&gt;
+&lt;li&gt;Fixed background agents that resumed work being shown under Completed in the agents list&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; freezing for several seconds when returning to the session list due to the auto-updater re-checking on every exit&lt;/li&gt;
+&lt;li&gt;Fixed Esc, arrow keys, and typing becoming unresponsive on Windows when attached to a background session or in the agent view while the host is under heavy CPU load&lt;/li&gt;
+&lt;li&gt;Fixed background agents emitting terminal sync-output markers to terminals that don't support them (Apple Terminal, tmux), causing render artifacts when entering a running agent&lt;/li&gt;
+&lt;li&gt;Fixed mouse wheel scrolling prompt history instead of the transcript right after opening a session from the agents list&lt;/li&gt;
+&lt;li&gt;Fixed CJK IME composition appearing at the bottom-left of the screen instead of at the input caret in the &lt;code&gt;claude agents&lt;/code&gt; view&lt;/li&gt;
+&lt;li&gt;Fixed valid &lt;code&gt;file:///C:/...&lt;/code&gt; links being rewritten to a broken path on Windows terminals with hyperlink support&lt;/li&gt;
+&lt;li&gt;Fixed voice mode failing to connect when the project directory or branch name contains non-ASCII or special characters&lt;/li&gt;
+&lt;li&gt;Fixed the auto mode unavailability message on third-party providers (Bedrock/Vertex/Foundry) to point to the &lt;code&gt;CLAUDE_CODE_ENABLE_AUTO_MODE&lt;/code&gt; opt-in instead of incorrectly blaming the model&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/effort ultracode&lt;/code&gt; incorrectly blaming the dynamic workflows setting when the model cannot run xhigh; ultracode is no longer offered on models that do not support it&lt;/li&gt;
+&lt;li&gt;Fixed model-not-found errors suggesting &lt;code&gt;--model&lt;/code&gt; when running via the SDK or other hosts where the CLI flag doesn't apply&lt;/li&gt;
+&lt;li&gt;Fixed Claude's past replies disappearing from scrollback when resuming a brief mode session with brief mode turned off&lt;/li&gt;
+&lt;li&gt;Fixed vim mode &lt;code&gt;p&lt;/code&gt; pasting on the line below instead of at the cursor when the register was yanked with &lt;code&gt;v$&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Improved performance of opening recently-inactive background agent sessions in &lt;code&gt;claude agents&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Improved auto mode classifier latency by reducing reasoning on routine actions, lowering the chance of "could not evaluate this action" blocks&lt;/li&gt;
+&lt;li&gt;Improved background-session teardown (&lt;code&gt;claude rm&lt;/code&gt;/&lt;code&gt;stop&lt;/code&gt;, idle reap) to send SIGTERM to running shell subprocesses before SIGKILL, so cleanup handlers run&lt;/li&gt;
+&lt;li&gt;Removed &lt;code&gt;CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE&lt;/code&gt;; the environment variable is now a no-op&lt;/li&gt;
+&lt;li&gt;Removed the JetBrains plugin install suggestion from startup&lt;/li&gt;
+&lt;li&gt;Renamed the dynamic-workflow trigger keyword from &lt;code&gt;workflow&lt;/code&gt; to &lt;code&gt;ultracode&lt;/code&gt;. The word "workflow" no longer triggers a run; asking for one in your own words still works. The trigger keyword is highlighted in violet in the prompt input&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.160"/>
   </entry>
 </feed>
