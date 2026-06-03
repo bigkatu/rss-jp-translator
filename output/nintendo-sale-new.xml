@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-03T01:46:42.006511+00:00</updated>
+  <updated>2026-06-03T12:08:54.395671+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -19,13 +19,6 @@
     <updated>2026-05-27T16:47:21.478617+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Hidden Pleasure: Faster and Faster&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw57962460/products/D70010000124530/squareHeroBanner/d2b013ae6e7956871e8f44d1839428c03457e95bab4d109a813b8eb172f5d57a.jpg?sw=346&amp;amp;strip=false" alt="Hidden Pleasure: Faster and Faster"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124530"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124530"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000124524:d1ce349f0ec3bd95</id>
-    <title>Hentai Puzzle Simulator 2 80%OFF</title>
-    <updated>2026-05-27T16:47:21.478617+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai Puzzle Simulator 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa7dff4fb/products/D70010000124524/squareHeroBanner/8dcd40deda53c94e9c07ee4a5d8c26284c758ef179227a06dafe601758341f3e.jpg?sw=346&amp;amp;strip=false" alt="Hentai Puzzle Simulator 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124524"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000124066:c0d6ba6799a664c1</id>
@@ -280,13 +273,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000123887"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000122743:45e868cb60c74536</id>
-    <title>Car Sales Simulator 2026 33%OFF</title>
-    <updated>2026-05-29T16:54:39.818516+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Car Sales Simulator 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,540 円&lt;/p&gt;&lt;p&gt;メーカー: CGI GERMANY DESIGN&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw2d1406fb/products/D70010000122743/squareHeroBanner/3825ac2e7e55965419c16f8fcf70c322311e2ec83e8ced9b75dfe25b1a853a83.jpg?sw=346&amp;amp;strip=false" alt="Car Sales Simulator 2026"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122743"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122743"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000117284:a8dfcb3bd2345829</id>
     <title>ボクらの消しゴム落とし4 時空バトル 27%OFF</title>
     <updated>2026-05-31T08:22:32.104111+00:00</updated>
@@ -329,13 +315,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000114375"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000111302:a1a19ea5cb0e3761</id>
-    <title>Judero 20%OFF</title>
-    <updated>2026-06-02T16:55:49.924759+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Judero&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 920 円&lt;/p&gt;&lt;p&gt;メーカー: NAISU&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4b41706b/products/D70010000111302/squareHeroBanner/594df37169ce6a67f2a33bbc0b62a19992a1afd118634c2158c97f885637942b.jpg?sw=346&amp;amp;strip=false" alt="Judero"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000111302"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000111302"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000119347:546475a709c285a3</id>
     <title>Stray (ストレイ) 40%OFF</title>
     <updated>2026-06-02T16:55:49.924759+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-06-03T01:46:42.006511+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;AquaDream&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 475 円&lt;/p&gt;&lt;p&gt;メーカー: Brainium Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw107793cd/products/D70010000123010/squareHeroBanner/f6971bc1742977718d3b8c4462e073a2fa9c378c85e31c0aaef08b464a0713fa.jpg?sw=346&amp;amp;strip=false" alt="AquaDream"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123010"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124524:d1ce349f0ec3bd95</id>
+    <title>Hentai Puzzle Simulator 2 80%OFF</title>
+    <updated>2026-06-03T12:08:54.395671+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai Puzzle Simulator 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa7dff4fb/products/D70010000124524/squareHeroBanner/8dcd40deda53c94e9c07ee4a5d8c26284c758ef179227a06dafe601758341f3e.jpg?sw=346&amp;amp;strip=false" alt="Hentai Puzzle Simulator 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124524"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122743:45e868cb60c74536</id>
+    <title>Car Sales Simulator 2026 33%OFF</title>
+    <updated>2026-06-03T12:08:54.395671+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Car Sales Simulator 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,540 円&lt;/p&gt;&lt;p&gt;メーカー: CGI GERMANY DESIGN&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw2d1406fb/products/D70010000122743/squareHeroBanner/3825ac2e7e55965419c16f8fcf70c322311e2ec83e8ced9b75dfe25b1a853a83.jpg?sw=346&amp;amp;strip=false" alt="Car Sales Simulator 2026"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122743"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122743"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000111302:a1a19ea5cb0e3761</id>
+    <title>Judero 20%OFF</title>
+    <updated>2026-06-03T12:08:54.395671+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Judero&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 920 円&lt;/p&gt;&lt;p&gt;メーカー: NAISU&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4b41706b/products/D70010000111302/squareHeroBanner/594df37169ce6a67f2a33bbc0b62a19992a1afd118634c2158c97f885637942b.jpg?sw=346&amp;amp;strip=false" alt="Judero"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000111302"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000111302"/>
   </entry>
 </feed>
