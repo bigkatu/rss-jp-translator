@@ -2,21 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/openai/codex/releases.atom</id>
   <title>OpenAI Codex リリース（日本語）</title>
-  <updated>2026-06-03T12:08:23.568839+00:00</updated>
+  <updated>2026-06-03T17:15:53.664254+00:00</updated>
   <link href="https://github.com/openai/codex/releases" rel="alternate"/>
   <link href="https://github.com/openai/codex/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/965415649/python-v0.1.0b1</id>
-    <title>python-v0.1.0b1</title>
-    <updated>2026-05-28T02:51:33+00:00</updated>
-    <author>
-      <name>aibrahim-oai</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;Python SDK 0.1.0b1 をリリース&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;p&gt;Release Python SDK 0.1.0b1&lt;/p&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/openai/codex/releases/tag/python-v0.1.0b1"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/965415649/python-v0.1.0b2</id>
     <title>python-v0.1.0b2</title>
