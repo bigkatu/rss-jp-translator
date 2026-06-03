@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-02T23:08:39.088056+00:00</updated>
+  <updated>2026-06-03T01:46:42.006511+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -322,13 +322,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000117994"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123010:8b634ecc683ab0d1</id>
-    <title>AquaDream 50%OFF</title>
-    <updated>2026-06-02T16:55:49.924759+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;AquaDream&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 475 円&lt;/p&gt;&lt;p&gt;メーカー: Brainium Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw107793cd/products/D70010000123010/squareHeroBanner/f6971bc1742977718d3b8c4462e073a2fa9c378c85e31c0aaef08b464a0713fa.jpg?sw=346&amp;amp;strip=false" alt="AquaDream"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123010"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000114375:4e6d328a19116b26</id>
     <title>Rumbral 20%OFF</title>
     <updated>2026-06-02T16:55:49.924759+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-06-02T23:08:39.088056+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ジョイピアノ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;24%OFF&lt;/p&gt;&lt;p&gt;価格: 912 円&lt;/p&gt;&lt;p&gt;メーカー: GaniTani&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw14d87afb/products/D70010000118601/squareHeroBanner/4c6eb75f4e10d1cb361db9bc444b1a8c05a28e0b8f7a41790804d3315388318f.jpg?sw=346&amp;amp;strip=false" alt="ジョイピアノ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118601"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000118601"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123010:8b634ecc683ab0d1</id>
+    <title>AquaDream 50%OFF</title>
+    <updated>2026-06-03T01:46:42.006511+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;AquaDream&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 475 円&lt;/p&gt;&lt;p&gt;メーカー: Brainium Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw107793cd/products/D70010000123010/squareHeroBanner/f6971bc1742977718d3b8c4462e073a2fa9c378c85e31c0aaef08b464a0713fa.jpg?sw=346&amp;amp;strip=false" alt="AquaDream"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123010"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123010"/>
   </entry>
 </feed>
