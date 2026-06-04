@@ -2,27 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-03T21:29:11.009979+00:00</updated>
+  <updated>2026-06-03T23:59:10.803281+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.150</id>
-    <title>v2.1.150</title>
-    <updated>2026-05-23T04:03:51+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-内部インフラストラクチャの改善 (ユーザー向けの変更はなし)&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Internal infrastructure improvements (no user-facing changes)&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.150"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.152</id>
     <title>v2.1.152</title>
@@ -1285,5 +1269,176 @@ CLAUDE_CODE_TMPDIR&lt;br&gt;
 &lt;li&gt;[VSCode] Added a tip suggesting disabling terminal GPU acceleration (or running &lt;code&gt;/terminal-setup&lt;/code&gt;) to fix garbled glyphs&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.161"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.162</id>
+    <title>v2.1.162</title>
+    <updated>2026-06-03T21:31:35+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+クロード エージェント --json&lt;br&gt;
+ 含まれるようになりました &lt;br&gt;
+待っています&lt;br&gt;
+ 待機中のセッションがブロックされているものを表示 (例: 許可プロンプト)&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+--ツール&lt;br&gt;
+: Grep/Glob を明示的にリストすると、埋め込み検索を備えたネイティブ ビルドで専用の検索ツールが提供されるようになりました (以前はこれらの名前は黙って無視されていました)&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+/努力&lt;br&gt;
+ 選択したレベルが新しいセッションのデフォルトとして維持される時期を確認するようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+オートコンプリート メニューでスラッシュ コマンドをクリックすると、すぐに実行されるのではなく、プロンプトに入力されるようになりました。 Enterを押して実行します&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+リモート コントロールは、起動メッセージの代わりに永続的なフッター ピル (セッションへのリンク付き) として表示されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Windsurf の名前が Devin Desktop に変更されました。 &lt;br&gt;
+/ide&lt;br&gt;
+ メニュー、 &lt;br&gt;
+/ターミナルセットアップ&lt;br&gt;
+、そして &lt;br&gt;
+/スクロール速度&lt;br&gt;
+、編集者のブランド変更を受けて&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+設定ディレクトリが読み取り専用または書き込み不可の場合にサイレント起動でハングする問題を修正しました。クロード コードはメモリ内設定で開始され、空白の画面が表示されるのではなく起動エラーが表示されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+WebFetch 権限ルールが組み込みの事前承認済みドメインに適用されない問題を修正しました。明示的な &lt;br&gt;
+WebFetch(ドメイン:...)&lt;br&gt;
+ 拒否/質問/許可ルールが、事前承認されたホストの自動許可よりも優先されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックスラッシュ (&lt;br&gt;
+~\&lt;br&gt;
+、 &lt;br&gt;
+\\サーバー\共有&lt;br&gt;
+) または大文字と小文字が異なるパス、および Glob/Grep の結果からファイルを隠さない読み取り拒否ルール&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ターンの開始時に送信される割り込み (Esc) が stream-json/SDK セッションでサイレントにドロップされ、「中断」フィードバックなしでターンが実行されたままになる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+API 400を修正 &lt;br&gt;
+文字列内に下位サロゲートがありません&lt;br&gt;
+ 切り捨て境界付近に絵文字を含む分類子のサイドクエリと MCP サーバーの説明のエラー&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サーバーごとの固定 MCP &lt;br&gt;
+タイムアウト&lt;br&gt;
+ 1000 ミリ秒未満の設定値は、すべてのツール呼び出しを中止する 1 秒のウォッチドッグに処理されます。 1000 ミリ秒未満の値は無視されるようになりました (1000 ミリ秒未満の値に戻ります)。 &lt;br&gt;
+MCP_TOOL_TIMEOUT&lt;br&gt;
+ またはデフォルト）、および &lt;br&gt;
+クロード・MCPをゲット&lt;br&gt;
+ それに応じて注釈を付けます&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+LSP ツールを修正しました &lt;br&gt;
+ワークスペースシンボル&lt;br&gt;
+ 結果を返さない操作。今では受け入れられます &lt;br&gt;
+クエリ&lt;br&gt;
+ パラメータを指定して言語サーバーに渡します&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ ワイド端末ではライブ ステータス テキスト (ツール引数、応答、プロンプト、実行出力) を 60 ～ 120 桁で切り取ります。ステータスの詳細が端末の全幅を使用するようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 長いセッション名は 40 列で切り捨てられます。名前列が端末の幅に合わせて拡大されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ バックグラウンド サービスの再起動後の最初の試行で、接続するとセッション リストに直接戻ってしまうことがあります。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ Ctrl+V 画像を貼り付けると、ディスパッチ入力およびセッション応答ボックスには何も行われません。画像なしで貼り付けるとヒントが表示されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンド サービスを開始できない場合、← を使用してセッションをバックグラウンドで実行すると、サイレントに会話が失われる問題を修正しました。セッションは失敗した行としてリストに残り、Enter キーで復帰できます&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェント ビューからの返信が送信に失敗して失われる問題を修正しました。次回のセッション開始時に配信するためにキューに入れられるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+クロスセッションメッセージングを修正 (&lt;br&gt;
+メッセージの送信&lt;br&gt;
+) 静かに壊れるとき &lt;br&gt;
+CLAUDE_CODE_TMPDIR&lt;br&gt;
+ または &lt;br&gt;
+$TMPDIR&lt;br&gt;
+ 深いディレクトリを指します&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+実行中のバックグラウンド セッションを開く問題を修正しました。 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 取り付ける前に 5 秒間停止します&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+より静かな起動: 通知は重大度ごとにグループ化され、セッション情報とアナウンスは起動ごとに 1 行で共有されます。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+起動時の警告がより短く明確になるように書き直され、それぞれに具体的な修正が加えられました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+起動プロンプトの警告 (ディープリンク/事前入力プロンプト) は、スクロールして離れるのではなく、操作を行うまで入力の下に固定されたままになるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+失敗したターンには、複数行の赤いエラー ブロックではなく、コンパクトな警告線が表示されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドサービスの起動の改善と &lt;br&gt;
+クロードのアップデート&lt;br&gt;
+ 新しいバイナリのエンドポイント セキュリティ スキャンが 5 秒後に失敗するのではなく、待機するまで検証する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+errno が利用できない場合、バックグラウンド ディスパッチの生成エラーでエラー クラス名が報告されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+「Chrome のクロードが有効になりました」および「マーケットプレイスがインストールされました」という起動メッセージを削除しました。モデルの自動更新とチームオンボーディングのヒントがロゴの下に静かな通知として表示されるようになりました&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;claude agents --json&lt;/code&gt; now includes &lt;code&gt;waitingFor&lt;/code&gt; showing what a waiting session is blocked on (e.g. permission prompt)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--tools&lt;/code&gt;: explicitly listing Grep/Glob now provides the dedicated search tools on native builds with embedded search (previously these names were silently ignored)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/effort&lt;/code&gt; now confirms when your chosen level will persist as the default for new sessions&lt;/li&gt;
+&lt;li&gt;Clicking a slash command in the autocomplete menu now fills it into your prompt instead of running it immediately; press Enter to run&lt;/li&gt;
+&lt;li&gt;Remote Control now shows as a persistent footer pill (with a link to the session) instead of a startup message&lt;/li&gt;
+&lt;li&gt;Renamed Windsurf to Devin Desktop in the &lt;code&gt;/ide&lt;/code&gt; menu, &lt;code&gt;/terminal-setup&lt;/code&gt;, and &lt;code&gt;/scroll-speed&lt;/code&gt;, following the editor's rebrand&lt;/li&gt;
+&lt;li&gt;Fixed a silent startup hang when the config directory is read-only or unwritable — Claude Code now starts with in-memory config and surfaces startup errors instead of showing a blank screen&lt;/li&gt;
+&lt;li&gt;Fixed WebFetch permission rules not being applied to built-in preapproved domains; explicit &lt;code&gt;WebFetch(domain:...)&lt;/code&gt; deny/ask/allow rules now take precedence over the preapproved-host auto-allow&lt;/li&gt;
+&lt;li&gt;Fixed Windows permission rules never matching when spelled with backslashes (&lt;code&gt;~\&lt;/code&gt;, &lt;code&gt;\\server\share&lt;/code&gt;) or case-variant paths, and Read deny rules not hiding files from Glob/Grep results&lt;/li&gt;
+&lt;li&gt;Fixed an interrupt (Esc) sent at the very start of a turn being silently dropped in stream-json/SDK sessions, leaving the turn running with no "Interrupted" feedback&lt;/li&gt;
+&lt;li&gt;Fixed API 400 &lt;code&gt;no low surrogate in string&lt;/code&gt; errors for classifier side-queries and MCP server descriptions containing emoji near a truncation boundary&lt;/li&gt;
+&lt;li&gt;Fixed MCP per-server &lt;code&gt;timeout&lt;/code&gt; config values below 1000 ms being floored to a 1-second watchdog that aborted every tool call; sub-1000 ms values are now ignored (falling back to &lt;code&gt;MCP_TOOL_TIMEOUT&lt;/code&gt; or default), and &lt;code&gt;claude mcp get&lt;/code&gt; annotates them accordingly&lt;/li&gt;
+&lt;li&gt;Fixed the LSP tool's &lt;code&gt;workspaceSymbol&lt;/code&gt; operation returning no results; it now accepts a &lt;code&gt;query&lt;/code&gt; parameter and passes it to the language server&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; cutting live status text (tool args, replies, prompts, exec output) at 60–120 columns on wide terminals; the status detail now uses the full terminal width&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; truncating long session names at 40 columns; the name column now grows with terminal width&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; attach occasionally bouncing straight back to the session list on the first try after a background-service restart&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; Ctrl+V image paste doing nothing in the dispatch input and the session reply box; pasting with no image now shows a hint&lt;/li&gt;
+&lt;li&gt;Fixed backgrounding a session with ← silently losing the conversation when the background service cannot start; the session stays in the list as a failed row you can wake with Enter&lt;/li&gt;
+&lt;li&gt;Fixed replies from the agents view that fail to send being lost; they are now queued for delivery on the next session start&lt;/li&gt;
+&lt;li&gt;Fixed cross-session messaging (&lt;code&gt;SendMessage&lt;/code&gt;) silently breaking when &lt;code&gt;CLAUDE_CODE_TMPDIR&lt;/code&gt; or &lt;code&gt;$TMPDIR&lt;/code&gt; points at a deep directory&lt;/li&gt;
+&lt;li&gt;Fixed opening a running background session from &lt;code&gt;claude agents&lt;/code&gt; stalling for 5 seconds before attaching&lt;/li&gt;
+&lt;li&gt;Quieter startup: notices group by severity, and session info and announcements share a single line per launch&lt;/li&gt;
+&lt;li&gt;Startup warnings rewritten to be shorter and clearer, each with a concrete fix&lt;/li&gt;
+&lt;li&gt;Launch-prompt warnings (deep link/pre-filled prompt) now stay pinned below the input until you act instead of scrolling away&lt;/li&gt;
+&lt;li&gt;Failed turns now show a compact warning line instead of a multi-line red error block&lt;/li&gt;
+&lt;li&gt;Improved background service startup and &lt;code&gt;claude update&lt;/code&gt; verification to wait out endpoint-security scanning of new binaries instead of failing after 5 seconds&lt;/li&gt;
+&lt;li&gt;Background dispatch spawn failures now report the error class name when no errno is available&lt;/li&gt;
+&lt;li&gt;Removed the "Claude in Chrome enabled" and "marketplace installed" startup messages; model auto-updates and the team-onboarding tip now show as quiet notices under the logo&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.162"/>
   </entry>
 </feed>
