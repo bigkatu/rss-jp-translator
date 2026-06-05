@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://openai.com/news/rss.xml</id>
   <title>OpenAI News（日本語）</title>
-  <updated>2026-06-05T18:06:43.631948+00:00</updated>
+  <updated>2026-06-05T20:10:21.165567+00:00</updated>
   <link href="https://openai.com/news" rel="alternate"/>
   <link href="https://openai.com/news/rss.xml" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
