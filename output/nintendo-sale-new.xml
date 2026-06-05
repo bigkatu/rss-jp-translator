@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-05T04:45:49.351475+00:00</updated>
+  <updated>2026-06-05T08:52:39.333071+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -189,13 +189,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000124161"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000124690:35e53b2730a0bb96</id>
-    <title>世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー 10%OFF</title>
-    <updated>2026-06-04T00:00:28.882585+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw94e56a90/products/D70010000124690/squareHeroBanner/9cc62da46b64c6e036474f396cf54223384d985f4da0d7592c9e840b291fff13.jpg?sw=346&amp;amp;strip=false" alt="世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124690"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124690"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123827:f83e2e8e29ad81ba</id>
     <title>大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー 10%OFF</title>
     <updated>2026-06-04T05:04:19.424766+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-06-05T04:45:49.351475+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Unrailed 2:バック・オン・トラック&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 2,392 円&lt;/p&gt;&lt;p&gt;メーカー: Indoor Astronaut&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9caf5819/products/D70010000100253/squareHeroBanner/6a11f099fef2ced8ce7ca70d7ab8a7668be3c7bc51e1f8951bc63094fb76f03b.jpg?sw=346&amp;amp;strip=false" alt="Unrailed 2:バック・オン・トラック"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000100253"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000100253"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124690:35e53b2730a0bb96</id>
+    <title>世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー 10%OFF</title>
+    <updated>2026-06-05T08:52:39.333071+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw94e56a90/products/D70010000124690/squareHeroBanner/9cc62da46b64c6e036474f396cf54223384d985f4da0d7592c9e840b291fff13.jpg?sw=346&amp;amp;strip=false" alt="世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124690"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124690"/>
   </entry>
 </feed>

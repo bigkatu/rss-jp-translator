@@ -2,240 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-05T04:45:13.510277+00:00</updated>
+  <updated>2026-06-05T08:51:56.245103+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.153</id>
-    <title>v2.1.153</title>
-    <updated>2026-05-28T00:52:08+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-スキップLfs&lt;br&gt;
- というオプション &lt;br&gt;
-ギットハブ&lt;br&gt;
-/&lt;br&gt;
-git&lt;br&gt;
- クローン作成および更新中に Git LFS のダウンロードをスキップするためのプラグイン マーケットプレイス ソース&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Claude Code は、npm グローバル インストールが自動更新できない場合に 1 回限りの通知を表示するようになりました。 &lt;br&gt;
-/ドクター&lt;br&gt;
- 修正をリストします&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ステータスラインコマンドを受信できるようになりました &lt;br&gt;
-コラム&lt;br&gt;
- そして &lt;br&gt;
-ライン&lt;br&gt;
- スクリプトが出力のサイズを端末の幅に合わせられるようにするための環境変数&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロードエージェント&lt;br&gt;
-: ディスパッチ入力のオートコンプリートは、プロジェクトのスキルだけでなく、ネイティブのスラッシュ コマンドとバンドルされたスキルを提案するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロードエージェント&lt;br&gt;
-: PR欄が表示されるようになりました &lt;br&gt;
-PR #N&lt;br&gt;
- 単一の PR または &lt;br&gt;
-N 個の PR&lt;br&gt;
- 複数の&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロード博士&lt;br&gt;
- 最後に更新を試みた結果が表示されます&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-MCP サーバーとコネクタに対する個別の「認証が必要」の起動通知を 1 つのメッセージに結合しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-macOS: バックグラウンド エージェントがプライバシーとセキュリティに「クロード コード」として表示され、アップグレード後も権限の付与が維持されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-オプションの GET SSE ストリームの再接続ループを使用しないステートフル MCP サーバーを修正しました。 &lt;br&gt;
-ツール/リスト&lt;br&gt;
- (v2.1.147 での回帰)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-カスタム API ゲートウェイがゲートウェイ独自のトークンの代わりにユーザーの Anthropic OAuth 認証情報を受け取る可能性がある回帰を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サブエージェント (エージェント ツール) のフロントマター MCP サーバーが無視される問題を修正しました。 &lt;br&gt;
---strict-mcp-config&lt;br&gt;
-、 &lt;br&gt;
---裸&lt;br&gt;
-、リモート モード、エンタープライズ管理の MCP 構成、および管理設定 MCP サーバーの許可/拒否ポリシー&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
---strict-mcp-config&lt;br&gt;
- インラインでのストリップは行われなくなりました &lt;br&gt;
-mcpサーバー&lt;br&gt;
- 明示的に渡されたエージェント定義から (&lt;br&gt;
---エージェント&lt;br&gt;
- /SDK &lt;br&gt;
-エージェント&lt;br&gt;
-)、ブロックされたサブエージェント MCP サーバーには視覚的な警告が表示されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows PowerShell インストーラーが「インストールが完了しました!」と報告する問題を修正しました。実際にインストールが失敗したとき&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-クロードのアップデート&lt;br&gt;
- npm インストール用に構成されたリリース チャネルのバージョンの代わりに最新バージョンをインストールする&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-多数のセッションが保存されているマシンでトランスクリプト ファイル パスによってセッションを再開するときの過剰なメモリ使用量 (数 GB) を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-クロードエージェント&lt;br&gt;
- そして &lt;br&gt;
-クロード --bg&lt;br&gt;
- アップグレード後であっても、バイナリ テイクオーバーのサポート前に開始された古いデーモン上で実行されている&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-stream-json モードで EOF を指定せずに stdin を閉じたときに CLI が終了できず、古いセッション マーカーが残ってしまう可能性があるハングを修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-不正な形式を修正 &lt;br&gt;
-ファイル://&lt;br&gt;
- クロードの応答内のリンクがターミナルでクリックできない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-クロード --助けて&lt;br&gt;
- 92 列より狭い端末でラップされていない出力をレンダリングする&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-MCP ツールの進行状況通知が折りたたまれたツール ビューでレンダリングされない問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-エージェント&lt;br&gt;
- ツール付き &lt;br&gt;
-サブエージェントタイプ: 'クロード'&lt;br&gt;
- 文書化されていない一時ワークツリーで実行され、gitignored パスに書き込まれた出力がサイレントに破棄される可能性があります。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-/bg&lt;br&gt;
- クロードが応答している間、応答をドロップするのではなく、バックグラウンド セッションで応答を継続するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/ところで&lt;br&gt;
- タスクの実行中にバックグラウンド セッションでキーボード ショートカットが応答しなくなる&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-一時ファイルを書き込むバックグラウンド セッションを修正しました &lt;br&gt;
-$CLAUDE_JOB_DIR&lt;br&gt;
- 「機密ファイル」の許可プロンプトをトリガーする&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-作業ディレクトリが削除されたバックグラウンド エージェントを回復すると、明確なエラー メッセージではなく切り詰められたスタック トレースが表示される問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-ワークツリーに入る&lt;br&gt;
- バックグラウンド セッションではすぐには利用できません (以前は必須でした) &lt;br&gt;
-ツールサーチ&lt;br&gt;
- 最初に）&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-cmd+k&lt;br&gt;
- iTerm2/terminal.app で接続されたバックグラウンド セッションが再描画されない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows 上の接続されたバックグラウンド セッションで、入力キャレットの横ではなく画面の下部に表示される IME 候補ウィンドウを修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エージェントがファイルの差分をレンダリングした後、256 色専用端末から背景エージェントにアタッチするときの背景色のにじみを修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/コピー&lt;br&gt;
- tmux 内のバックグラウンド セッションに接続されている場合、copy-on-select はシステム クリップボードの更新にサイレントに失敗します。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-固定開口部 &lt;br&gt;
-クロードエージェント&lt;br&gt;
- リモート コントロールを有効にして、終了後にコード タブにゾンビ セッション エントリを残す&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/名前の変更&lt;br&gt;
- バックグラウンドセッションではセッションバナーがすぐに更新されない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows アップデートのロールバックを修正しました。Windows アップデートが失敗した場合、Claude Code はコピーによって元の実行可能ファイルを復元し、回復方法を通知するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-[VSCode] Windows で VS Code を閉じたときに Claude Code プロセスが正常にシャットダウンせず、誤った「不潔な終了」レポートと孤立した MCP サーバーが発生する問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-/モデル&lt;br&gt;
- 選択内容が新しいセッションのデフォルトとして保存されるようになりました (IDE に一致)。プレス &lt;br&gt;
-s&lt;br&gt;
- ピッカーで現在のセッションのみモデルを切り替えます。&lt;br&gt;
-• &lt;br&gt;
-カスタマイズした場合は、 &lt;br&gt;
-モデルピッカー:setAsDefault&lt;br&gt;
- キーバインド、名前を変更します &lt;br&gt;
-モデルピッカー:thisSessionOnly&lt;br&gt;
- keybindings.json 内 ( &lt;br&gt;
-d&lt;br&gt;
- アクションは次のように置き換えられました &lt;br&gt;
-s&lt;br&gt;
-)&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;skipLfs&lt;/code&gt; option to &lt;code&gt;github&lt;/code&gt;/&lt;code&gt;git&lt;/code&gt; plugin marketplace sources to skip Git LFS downloads during clone and update&lt;/li&gt;
-&lt;li&gt;Claude Code now shows a one-time notice when your npm global install can't auto-update; &lt;code&gt;/doctor&lt;/code&gt; lists the fixes&lt;/li&gt;
-&lt;li&gt;Status line commands now receive &lt;code&gt;COLUMNS&lt;/code&gt; and &lt;code&gt;LINES&lt;/code&gt; environment variables so scripts can size output to the terminal width&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;claude agents&lt;/code&gt;: autocomplete in the dispatch input now suggests native slash commands and bundled skills, not just project skills&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;claude agents&lt;/code&gt;: PR column now shows &lt;code&gt;PR #N&lt;/code&gt; for a single PR or &lt;code&gt;N PRs&lt;/code&gt; for multiple&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;claude doctor&lt;/code&gt; now shows the result of your last update attempt&lt;/li&gt;
-&lt;li&gt;Combined the separate "needs authentication" startup notifications for MCP servers and connectors into a single message&lt;/li&gt;
-&lt;li&gt;macOS: background agents now appear as "Claude Code" in Privacy &amp;amp; Security and keep their permission grants across upgrades&lt;/li&gt;
-&lt;li&gt;Fixed stateful MCP servers without the optional GET SSE stream reconnect-looping on &lt;code&gt;tools/list&lt;/code&gt; (regression in v2.1.147)&lt;/li&gt;
-&lt;li&gt;Fixed a regression where a custom API gateway could receive the user's Anthropic OAuth credential instead of the gateway's own token&lt;/li&gt;
-&lt;li&gt;Fixed subagent (Agent tool) frontmatter MCP servers ignoring &lt;code&gt;--strict-mcp-config&lt;/code&gt;, &lt;code&gt;--bare&lt;/code&gt;, remote mode, enterprise managed MCP config, and managed-settings MCP server allow/deny policies&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;--strict-mcp-config&lt;/code&gt; no longer strips inline &lt;code&gt;mcpServers&lt;/code&gt; from explicitly-passed agent definitions (&lt;code&gt;--agents&lt;/code&gt; / SDK &lt;code&gt;agents&lt;/code&gt;), and blocked subagent MCP servers now surface a visible warning&lt;/li&gt;
-&lt;li&gt;Fixed the Windows PowerShell installer reporting "Installation complete!" when installation actually failed&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;claude update&lt;/code&gt; installing the latest version instead of the configured release channel's version for npm installations&lt;/li&gt;
-&lt;li&gt;Fixed excessive memory usage (multiple GB) when resuming a session by transcript file path on machines with many stored sessions&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; and &lt;code&gt;claude --bg&lt;/code&gt; running on a stale daemon started before binary-takeover support, even after upgrading&lt;/li&gt;
-&lt;li&gt;Fixed a hang where the CLI could fail to exit when stdin was closed without EOF in stream-json mode, leaving a stale session marker behind&lt;/li&gt;
-&lt;li&gt;Fixed malformed &lt;code&gt;file://&lt;/code&gt; links in Claude's responses not being clickable in the terminal&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;claude --help&lt;/code&gt; rendering unwrapped output on terminals narrower than 92 columns&lt;/li&gt;
-&lt;li&gt;Fixed MCP tool progress notifications not rendering in the collapsed tool view&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;Agent&lt;/code&gt; tool with &lt;code&gt;subagent_type: 'claude'&lt;/code&gt; running in an undocumented temporary worktree, which could silently discard outputs written to gitignored paths&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/bg&lt;/code&gt; while Claude is responding now continues the response in the background session instead of dropping it&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/btw&lt;/code&gt; keyboard shortcuts becoming unresponsive in background sessions while a task is running&lt;/li&gt;
-&lt;li&gt;Fixed background sessions writing temp files to &lt;code&gt;$CLAUDE_JOB_DIR&lt;/code&gt; triggering a "sensitive file" permission prompt&lt;/li&gt;
-&lt;li&gt;Fixed recovering a background agent whose working directory was deleted showing a truncated stack trace instead of a clear error message&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;EnterWorktree&lt;/code&gt; not being available immediately in background sessions (previously required &lt;code&gt;ToolSearch&lt;/code&gt; first)&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;cmd+k&lt;/code&gt; in iTerm2/Terminal.app not repainting attached background sessions&lt;/li&gt;
-&lt;li&gt;Fixed the IME candidate window appearing at the bottom of the screen instead of next to the input caret in attached background sessions on Windows&lt;/li&gt;
-&lt;li&gt;Fixed background-color bleed when attaching to a background agent from 256-color-only terminals after the agent had rendered file diffs&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/copy&lt;/code&gt; and copy-on-select silently failing to update the system clipboard when attached to a background session inside tmux&lt;/li&gt;
-&lt;li&gt;Fixed opening &lt;code&gt;claude agents&lt;/code&gt; with Remote Control enabled leaving zombie session entries on the Code tab after exiting&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/rename&lt;/code&gt; in background sessions not updating the session banner immediately&lt;/li&gt;
-&lt;li&gt;Fixed Windows update rollback: if a Windows update fails, Claude Code now restores the original executable by copy and tells you how to recover&lt;/li&gt;
-&lt;li&gt;[VSCode] Fixed Claude Code processes not shutting down cleanly when VS Code closed on Windows, causing false "unclean exit" reports and orphaned MCP servers&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/model&lt;/code&gt; now saves your selection as the default for new sessions (matching the IDE). Press &lt;code&gt;s&lt;/code&gt; in the picker to switch models for the current session only.&lt;/li&gt;
-&lt;li&gt;If you customized the &lt;code&gt;modelPicker:setAsDefault&lt;/code&gt; keybinding, rename it to &lt;code&gt;modelPicker:thisSessionOnly&lt;/code&gt; in keybindings.json (the &lt;code&gt;d&lt;/code&gt; action was replaced by &lt;code&gt;s&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.153"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.154</id>
     <title>v2.1.154</title>
@@ -1390,5 +1161,21 @@ $ホーム&lt;br&gt;
 &lt;li&gt;&lt;code&gt;claude agents&lt;/code&gt; dispatching from the state-grouped view now starts the session in the directory the agent view was opened from&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.163"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.165</id>
+    <title>v2.1.165</title>
+    <updated>2026-06-05T05:45:06+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バグ修正と信頼性の向上&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug fixes and reliability improvements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.165"/>
   </entry>
 </feed>
