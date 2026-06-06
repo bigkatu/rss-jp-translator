@@ -2,290 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-05T23:36:42.968212+00:00</updated>
+  <updated>2026-06-06T04:18:43.150191+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.154</id>
-    <title>v2.1.154</title>
-    <updated>2026-05-28T18:00:55+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-オーパス4.8が登場！最も困難なタスクではデフォルトで高努力 · /effort xhigh が設定されるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-動的なワークフローの導入: クロードにワークフローの作成を依頼すると、バックグラウンドで数十から数百のエージェントにわたる作業が調整されるため、より大規模で複雑なタスクを引き受けることができます。走る &lt;br&gt;
-/ワークフロー&lt;br&gt;
- ランニングを表示するには&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Opus 4.8 の高速モードは、以前の数分の一のコストで利用できるようになりました。標準レートの 2 倍、速度は 2.5 倍です。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-リーン システム プロンプトは、Haiku、Sonnet、Opus 4.7 以前を除くすべてのモデルのデフォルトになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロードは、続行するための十分なコンテキストが既にある場合に質問するのではなく、実際には下すことができない決定のために多肢選択の質問プロンプトを予約するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-/簡素化する&lt;br&gt;
- 完全な実行ではなく、クリーンアップのみのレビュー (再利用、簡素化、効率、高度) を実行し、修正を適用するようになりました。 &lt;br&gt;
-/code-review --fix&lt;br&gt;
- バグハンティングのレビュー&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-に名前を変更しました &lt;br&gt;
-/努力&lt;br&gt;
- わかりやすくするために、スライダーのラベルを「スピード」/「インテリジェンス」から「より速く」/「よりスマート」に変更&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロードエージェント&lt;br&gt;
-: タイプ &lt;br&gt;
-！ &amp;lt;コマンド&amp;gt;&lt;br&gt;
- アタッチおよびデタッチできるバックグラウンド セッションとしてシェル コマンドを実行します。としても利用可能 &lt;br&gt;
-クロード --bg --exec '&amp;lt;コマンド&amp;gt;'&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロードエージェント&lt;br&gt;
-: &lt;br&gt;
-/ログアウト&lt;br&gt;
- バックグラウンドセッションに送られる代わりにサインアウトするようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-←←&lt;br&gt;
- エージェント ビューを開く操作は、Bedrock、Vertex、Foundry で、テレメトリが無効な場合でも機能するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Chrome のクロード: 使用する接続ブラウザを選択します &lt;br&gt;
-/クロム&lt;br&gt;
- →「ブラウザを選択…」、または複数接続した状態でブラウザアクションが実行される場合はチャット内&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-プラグインで宣言できるようになりました &lt;br&gt;
-デフォルト有効: false&lt;br&gt;
- で &lt;br&gt;
-プラグイン.json&lt;br&gt;
- またはマーケットプレイスへの参入。それらを有効にする &lt;br&gt;
-/プラグイン&lt;br&gt;
- または &lt;br&gt;
-クロードプラグインを有効にする&lt;br&gt;
-。有効なプラグインの依存関係は引き続き自動的に有効になります&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-の &lt;br&gt;
-/プラグイン&lt;br&gt;
- Discover タブでは、関連性シグナルが現在のディレクトリと一致するプラグインを「このディレクトリに推奨」の注釈とともに固定されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ストリーミング ツールの実行は、テレメトリが無効な場合や Bedrock/Vertex/Foundry (以前は機能フラグの背後にあった) の場合も含め、常に有効になりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Stdio MCP サーバーのサブプロセスが受信するようになりました &lt;br&gt;
-CLAUDE_CODE_SESSION_ID&lt;br&gt;
- そして &lt;br&gt;
-クロードコード=1&lt;br&gt;
- 彼らの環境では&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロードMCPリスト&lt;br&gt;
-/&lt;br&gt;
-得る&lt;br&gt;
- 未承認を表示するようになりました &lt;br&gt;
-.mcp.json&lt;br&gt;
- サーバーとして &lt;br&gt;
-⏸ 承認待ち&lt;br&gt;
- 出力がパイプされるときに自動承認して接続する代わりに&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-/リモートコントロール&lt;br&gt;
- リモートコントロールがすでにアクティブな場合、オートコンプリートに「リモートコントロールの切断」が表示されるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Claude Opus 4.8 のサポートと 4.7 → 4.8 への移行ガイダンスを追加しました。 &lt;br&gt;
-/クロード-API&lt;br&gt;
- スキル&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-廃止されました &lt;br&gt;
-CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE&lt;br&gt;
- (06/01 に削除されます)。 Opus 4.6 で高速モードを使用するには、 &lt;br&gt;
-/モデル クロード-作品-4-6[1m]&lt;br&gt;
- そしてそれから &lt;br&gt;
-/高速オン&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動モード分類子のデータ漏洩、特にリポジトリ コンテンツの一括転送の検出を改善しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-rm -rf $HOME&lt;br&gt;
- 危険な道として遮断されていないとき &lt;br&gt;
-ホーム&lt;br&gt;
- 末尾にスラッシュが付いている&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-$TMPDIR&lt;br&gt;
- 同じセッション内のサンドボックス化された Bash コマンドとサンドボックス化されていない Bash コマンドで異なるディレクトリに解決される&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-読み取れない強調表示された行のテキストを修正しました &lt;br&gt;
-クロードエージェント&lt;br&gt;
- クロード コードのテーマが端末の背景と一致しない場合&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-一部の 1M コンテキスト モデルで時期尚早の「アウトオブコンテキスト」動作を引き起こすバックグラウンド エージェントの完了通知を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-スケジュールされたときにユーザーの目標を失うバックグラウンド セッション分類子を修正しました。 &lt;br&gt;
-/コマンド&lt;br&gt;
- 火災&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クロード コードの更新後に固定されたバックグラウンド セッションが 1 分ごとに再生成され、エージェント開始通知が繰り返され、アイドル時にプロセス チャーンが発生する問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バックグラウンド セッションが「ブロック」、「実行中」、または「動作中」のままスタックし、アイドル猶予期間が経過してもリタイアしない問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バックグラウンド セッションのサブエージェントがワークツリー分離ガードをバイパスし、共有チェックアウトに書き込む問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-孤立した固定 &lt;br&gt;
-クロード --bg-pty-host&lt;br&gt;
- macOS でデーモンが終了した後、プロセスが 100% CPU で回転する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-オプションダイアログの区切り線の下に表示されるオプションに対して数字キーのショートカットが機能しない問題を修正&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-worktree.baseRef: "頭"&lt;br&gt;
- サブエージェントの生成時または呼び出し時に、現在のワークツリーの HEAD ではなくメイン チェックアウトの HEAD に解決されます。 &lt;br&gt;
-ワークツリーに入る&lt;br&gt;
- リンクされたワークツリー内から&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-前の行がちょうど終端の幅で終わった場合に、折り返された行の先頭の空白が修正されました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-思考スピナーが生成する個別の色の数を制限することにより、VS Code で断続的に発生するターミナル レンダリングの破損を修正しました。&lt;br&gt;
-• &lt;br&gt;
-固定プランのファイル名には次のものが含まれます。 &lt;br&gt;
-[画像#N]&lt;br&gt;
- / &lt;br&gt;
-[貼り付けられたテキスト #N]&lt;br&gt;
- プランモード プロンプトが貼り付けられた画像またはテキストで始まる場合のプレースホルダー&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-カラーツール出力でのファントム展開/クリックアフォーダンスを修正しました。画面に収まる ANSI 色の短い線には、「Ctrl+O で展開」のヒントが表示されなくなりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-無効な 1 つを修正しました &lt;br&gt;
-allowedMcpServers&lt;br&gt;
-/&lt;br&gt;
-拒否されたMcpサーバー&lt;br&gt;
- すべての管理設定ポリシーを破棄する管理設定のエントリ。不正なエントリは削除されます。 &lt;br&gt;
-クロード博士&lt;br&gt;
- 警告&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エフォートパラメータをサポートしていないモデルで発生する API 400 エラーを修正しました。 &lt;br&gt;
-CLAUDE_CODE_ALWAYS_ENABLE_EFFORT&lt;br&gt;
- 設定されています&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Windows: 次の原因によるアップデートの失敗を修正しました。 &lt;br&gt;
-クロード.exe&lt;br&gt;
- 使用中は、他のセッションを閉じて再試行するように指示する代わりに、一般的なエラーが表示されます&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ショートカットのヘルプ パネルから古い「&amp;amp; 背景用」ヒントを削除しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-[VSCode] 自動モードでは、モード ピッカーにバイパス権限設定を表示する必要がなくなり、初めてアクティブになったときに新しいセッション画面の閉じることができる通知で自動モードについて説明されます。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ワークフローのみが実行されている場合、プロンプトの下にあるタスク パネルに、選択できない「メイン」行が表示される問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-MCP サーバーに長いツール名または複数行のツール名または長い説明がある場合の /mcp ツール リストとツール詳細のレンダリングを修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-高速モードがオンの場合、API (従量課金制) ユーザーのデフォルト オプションで高速モードの価格が表示されない /model ピッカーを修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-推論中に安全分類子が出力トークンを使い果たしたときに、自動モードが「このアクションを評価できませんでした」というメッセージを表示してアクションを誤ってブロックする問題を修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Opus 4.8 is here! Now defaults to high effort · /effort xhigh for your hardest tasks&lt;/li&gt;
-&lt;li&gt;Introducing dynamic workflows: ask Claude to create a workflow and it orchestrates work across tens to hundreds of agents in the background, so you can take on larger, more complex tasks. Run &lt;code&gt;/workflows&lt;/code&gt; to view your runs&lt;/li&gt;
-&lt;li&gt;Fast mode on Opus 4.8 is now available at a fraction of its previous cost: 2x the standard rate for 2.5x the speed&lt;/li&gt;
-&lt;li&gt;The lean system prompt is now the default for all models except Haiku, Sonnet, and Opus 4.7 and earlier&lt;/li&gt;
-&lt;li&gt;Claude now reserves the multiple-choice question prompt for decisions it genuinely cannot make itself, instead of asking when it already has enough context to proceed&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/simplify&lt;/code&gt; now runs a cleanup-only review (reuse, simplification, efficiency, altitude) and applies the fixes, instead of running the full &lt;code&gt;/code-review --fix&lt;/code&gt; bug-hunting review&lt;/li&gt;
-&lt;li&gt;Renamed the &lt;code&gt;/effort&lt;/code&gt; slider labels from "Speed"/"Intelligence" to "Faster"/"Smarter" for clarity&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;claude agents&lt;/code&gt;: type &lt;code&gt;! &amp;lt;command&amp;gt;&lt;/code&gt; to run a shell command as a background session you can attach to and detach from. Also available as &lt;code&gt;claude --bg --exec '&amp;lt;command&amp;gt;'&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;claude agents&lt;/code&gt;: &lt;code&gt;/logout&lt;/code&gt; now signs you out instead of being sent to a background session&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;←←&lt;/code&gt; to open the agents view now works on Bedrock, Vertex, Foundry, and with telemetry disabled&lt;/li&gt;
-&lt;li&gt;Claude in Chrome: pick which connected browser to use via &lt;code&gt;/chrome&lt;/code&gt; → "Select browser…", or in-chat when a browser action runs with multiple connected&lt;/li&gt;
-&lt;li&gt;Plugins can now declare &lt;code&gt;defaultEnabled: false&lt;/code&gt; in &lt;code&gt;plugin.json&lt;/code&gt; or a marketplace entry; enable them with &lt;code&gt;/plugin&lt;/code&gt; or &lt;code&gt;claude plugin enable&lt;/code&gt;. Dependencies of enabled plugins are still enabled automatically&lt;/li&gt;
-&lt;li&gt;The &lt;code&gt;/plugin&lt;/code&gt; Discover tab now pins plugins whose relevance signals match the current directory with a "suggested for this directory" annotation&lt;/li&gt;
-&lt;li&gt;Streaming tool execution is now always enabled, including when telemetry is disabled or on Bedrock/Vertex/Foundry (previously behind a feature flag)&lt;/li&gt;
-&lt;li&gt;Stdio MCP server subprocesses now receive &lt;code&gt;CLAUDE_CODE_SESSION_ID&lt;/code&gt; and &lt;code&gt;CLAUDECODE=1&lt;/code&gt; in their environment&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;claude mcp list&lt;/code&gt;/&lt;code&gt;get&lt;/code&gt; now show unapproved &lt;code&gt;.mcp.json&lt;/code&gt; servers as &lt;code&gt;⏸ Pending approval&lt;/code&gt; instead of auto-approving and connecting when output is piped&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/remote-control&lt;/code&gt; autocomplete now shows "Disconnect Remote Control" when Remote Control is already active&lt;/li&gt;
-&lt;li&gt;Added Claude Opus 4.8 support and 4.7 → 4.8 migration guidance to the &lt;code&gt;/claude-api&lt;/code&gt; skill&lt;/li&gt;
-&lt;li&gt;Deprecated &lt;code&gt;CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE&lt;/code&gt; (will be removed on 06/01). To use fast mode on Opus 4.6, switch with &lt;code&gt;/model claude-opus-4-6[1m]&lt;/code&gt; and then &lt;code&gt;/fast on&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Improved the auto-mode classifier's detection of data exfiltration, particularly bulk transfers of repository contents&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;rm -rf $HOME&lt;/code&gt; not being blocked as a dangerous path when &lt;code&gt;HOME&lt;/code&gt; has a trailing slash&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;$TMPDIR&lt;/code&gt; resolving to different directories in sandboxed vs unsandboxed Bash commands within the same session&lt;/li&gt;
-&lt;li&gt;Fixed unreadable highlighted-row text in &lt;code&gt;claude agents&lt;/code&gt; when the Claude Code theme doesn't match the terminal background&lt;/li&gt;
-&lt;li&gt;Fixed background-agent completion notifications triggering premature "out of context" behavior on some 1M-context models&lt;/li&gt;
-&lt;li&gt;Fixed background-session classifier losing the user's goal when a scheduled &lt;code&gt;/command&lt;/code&gt; fires&lt;/li&gt;
-&lt;li&gt;Fixed pinned background sessions respawning every minute after a Claude Code update, causing repeated agent-start notifications and process churn at idle&lt;/li&gt;
-&lt;li&gt;Fixed background sessions stuck at "blocked", "running", or "working" not retiring after the idle grace period&lt;/li&gt;
-&lt;li&gt;Fixed subagents in background sessions bypassing the worktree-isolation guard and writing to the shared checkout&lt;/li&gt;
-&lt;li&gt;Fixed orphaned &lt;code&gt;claude --bg-pty-host&lt;/code&gt; processes spinning at 100% CPU after the daemon exits on macOS&lt;/li&gt;
-&lt;li&gt;Fixed number key shortcuts not working for options shown below the divider in option dialogs&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;worktree.baseRef: "head"&lt;/code&gt; resolving to the main checkout's HEAD instead of the current worktree's HEAD when spawning subagents or calling &lt;code&gt;EnterWorktree&lt;/code&gt; from inside a linked worktree&lt;/li&gt;
-&lt;li&gt;Fixed a stray leading space on wrapped lines when the previous line ended exactly at the terminal width&lt;/li&gt;
-&lt;li&gt;Fixed intermittent terminal rendering corruption in VS Code by capping the number of distinct colors the thinking spinner produces&lt;/li&gt;
-&lt;li&gt;Fixed plan file names including &lt;code&gt;[Image #N]&lt;/code&gt; / &lt;code&gt;[Pasted text #N]&lt;/code&gt; placeholders when a plan-mode prompt starts with pasted images or text&lt;/li&gt;
-&lt;li&gt;Fixed a phantom expand/click affordance on colored tool output: short ANSI-colored lines that fit on screen no longer show a "ctrl+o to expand" hint&lt;/li&gt;
-&lt;li&gt;Fixed a single invalid &lt;code&gt;allowedMcpServers&lt;/code&gt;/&lt;code&gt;deniedMcpServers&lt;/code&gt; entry in managed settings discarding all managed-settings policy; the bad entry is now dropped with a &lt;code&gt;claude doctor&lt;/code&gt; warning&lt;/li&gt;
-&lt;li&gt;Fixed API 400 errors on models that don't support the effort parameter when &lt;code&gt;CLAUDE_CODE_ALWAYS_ENABLE_EFFORT&lt;/code&gt; is set&lt;/li&gt;
-&lt;li&gt;Windows: Fixed update failures caused by &lt;code&gt;claude.exe&lt;/code&gt; being in use showing a generic error instead of telling you to close other sessions and retry&lt;/li&gt;
-&lt;li&gt;Removed the stale "&amp;amp; for background" hint from the shortcuts help panel&lt;/li&gt;
-&lt;li&gt;[VSCode] Auto mode no longer requires the bypass-permissions setting to appear in the mode picker, and a dismissable notice on the new-session screen explains auto mode the first time it's active&lt;/li&gt;
-&lt;li&gt;Fixed the task panel below the prompt showing a stray unselectable "main" row when only a workflow is running&lt;/li&gt;
-&lt;li&gt;Fixed /mcp tools list and tool detail rendering when MCP servers have long or multi-line tool names or long descriptions&lt;/li&gt;
-&lt;li&gt;Fixed the /model picker not showing fast mode pricing on the Default option for API (pay-as-you-go) users when fast mode is on&lt;/li&gt;
-&lt;li&gt;Fixed auto mode incorrectly blocking actions with "could not evaluate this action" when the safety classifier ran out of output tokens while reasoning&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.154"/>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.156</id>
-    <title>v2.1.156</title>
-    <updated>2026-05-29T01:42:23+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Opus 4.8 の使用時に思考ブロックが変更され、API エラーが発生する問題を修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed an issue when using Opus 4.8 where thinking blocks were modified, leading to API errors.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.156"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.157</id>
     <title>v2.1.157</title>
@@ -1177,5 +898,146 @@ $ホーム&lt;br&gt;
 &lt;li&gt;Bug fixes and reliability improvements&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.165"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.166</id>
+    <title>v2.1.166</title>
+    <updated>2026-06-06T00:55:18+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+フォールバックモデル&lt;br&gt;
+ プライマリ モデルが過負荷または使用不可になった場合に、最大 3 つのフォールバック モデルを順番に試行するように設定します。 &lt;br&gt;
+--フォールバックモデル&lt;br&gt;
+ インタラクティブセッションにも適用されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+拒否ルールのツール名の位置にグロブ パターンのサポートを追加しました (&lt;br&gt;
+「*」&lt;br&gt;
+ すべてのツールを拒否します);許可ルールが非 MCP グロブを拒否し、拒否ルール内の不明なツール名が起動時に警告される&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+強化されたセッション間メッセージング: メッセージは次の経由で中継されます。 &lt;br&gt;
+メッセージの送信&lt;br&gt;
+ 他のクロード セッションからのユーザー権限はなくなりました。受信者は中継された許可リクエストを拒否し、自動モードでブロックされます。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+MAX_THINKING_TOKENS=0&lt;br&gt;
+、 &lt;br&gt;
+--思考が無効になっている&lt;br&gt;
+、モデルごとの思考切り替えにより、デフォルトで Claude API 経由で思考するモデルの思考が無効になりました (3P プロバイダーは変更ありません)&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+クロード コードは、API が予期しない再試行不可能なエラーを拒否した場合に、フォールバック モデルでターンを 1 回再試行するようになりました。認証、レート制限、リクエストサイズ、およびトランスポートエラーは依然としてすぐに表面化します&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+クロードのアップデート&lt;br&gt;
+ サイレントになるのではなく、ダウンロードする前にターゲット バージョンをアナウンスするようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+クロードエージェント&lt;br&gt;
+: リストに URL を入力すると、最初のプロンプトにその URL が含まれていたセッションがフィルターされるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+セッションで処理できない画像が送信された場合に繰り返される「画像を処理できませんでした」エラーと余分なトークンの使用を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+起動時のワーカー登録中にバックエンドの一時的な中断が発生した場合に、リモート セッションが永続的にスタックする問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+同期出力を有効にすることで、2026.1 以降の JetBrains IDE ターミナル (IntelliJ、PyCharm、WebStorm など) のちらつきを修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Kitty キーボード プロトコル (WezTerm、Ghostty、kitty) を使用する端末で Shift+非 ASCII 文字 (例: Shift+ä → Ä) がドロップされる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+強制終了されたプロセスの子が出力パイプを保持している場合、Windows 上で PowerShell コマンドの検証が時折制限時間を大幅に超えてハングする問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+孤立した固定 &lt;br&gt;
+クロード --bg-pty-host&lt;br&gt;
+ macOS での接続中にデーモンが停止した後、プロセスが 100% CPU で回転する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定音声モードが必要 &lt;br&gt;
+/ログイン&lt;br&gt;
+ 切り替え後に古い認証チェックをクリアするには &lt;br&gt;
+/音声&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+残りの有効なポリシーの適用をサイレントに無効にする無効なエントリを含む管理設定を修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定管理設定 &lt;br&gt;
+allowedMcpServers&lt;br&gt;
+/&lt;br&gt;
+拒否されたMcpサーバー&lt;br&gt;
+ 述語が使用時に一致しない &lt;br&gt;
+${VAR}&lt;br&gt;
+ 参考文献&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+git ワークツリーに入ったバックグラウンド エージェント セッションが、再度開いたときに「会話が見つかりません」というクラッシュ ループを引き起こす問題を修正しました。 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ストリーミング中の Ctrl+O トランスクリプト ビューで重複する思考テキストを修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/ドクター&lt;br&gt;
+ リモート セッション内で実行すると、矛盾して失敗した「リモート セッション内ではない」チェックが表示される&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+複数行のプロンプトを入力するときにカーソルが最初の行の末尾に留まる問題を修正しました。 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 入力の発送と返信&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Unicode をサポートしていない端末上のタスク リストのバックグラウンド エージェントの行の間に空白行が表示される問題を修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;code&gt;fallbackModel&lt;/code&gt; setting to configure up to three fallback models tried in order when the primary model is overloaded or unavailable; &lt;code&gt;--fallback-model&lt;/code&gt; now also applies to interactive sessions&lt;/li&gt;
+&lt;li&gt;Added glob pattern support in deny rule tool-name position (&lt;code&gt;"*"&lt;/code&gt; denies all tools); allow rules reject non-MCP globs, and unknown tool names in deny rules warn at startup&lt;/li&gt;
+&lt;li&gt;Hardened cross-session messaging: messages relayed via &lt;code&gt;SendMessage&lt;/code&gt; from other Claude sessions no longer carry user authority — receivers refuse relayed permission requests, and auto mode blocks them&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;MAX_THINKING_TOKENS=0&lt;/code&gt;, &lt;code&gt;--thinking disabled&lt;/code&gt;, and the per-model thinking toggle now disable thinking on models that think by default via the Claude API (3P providers unchanged)&lt;/li&gt;
+&lt;li&gt;Claude Code now retries a turn once on the fallback model when the API rejects an unexpected non-retryable error; auth, rate-limit, request-size, and transport errors still surface immediately&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;claude update&lt;/code&gt; now announces the target version before downloading instead of going silent&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;claude agents&lt;/code&gt;: typing a URL into the list now filters to the session whose first prompt contained it&lt;/li&gt;
+&lt;li&gt;Fixed a recurring "image could not be processed" error and extra token usage when an unprocessable image was sent in a session&lt;/li&gt;
+&lt;li&gt;Fixed remote sessions becoming permanently stuck when a brief backend disruption occurred during worker registration at startup&lt;/li&gt;
+&lt;li&gt;Fixed flickering in JetBrains IDE terminals (IntelliJ, PyCharm, WebStorm, etc.) on 2026.1+ by enabling synchronized output&lt;/li&gt;
+&lt;li&gt;Fixed Shift+non-ASCII characters (e.g. Shift+ä → Ä) being dropped in terminals using the Kitty keyboard protocol (WezTerm, Ghostty, kitty)&lt;/li&gt;
+&lt;li&gt;Fixed PowerShell command validation occasionally hanging far past its time budget on Windows when a killed process's children held its output pipes&lt;/li&gt;
+&lt;li&gt;Fixed orphaned &lt;code&gt;claude --bg-pty-host&lt;/code&gt; processes spinning at 100% CPU after the daemon dies while connected on macOS&lt;/li&gt;
+&lt;li&gt;Fixed voice mode requiring &lt;code&gt;/login&lt;/code&gt; to clear a stale auth check after toggling &lt;code&gt;/voice&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fixed managed settings with an invalid entry silently disabling enforcement of their remaining valid policies&lt;/li&gt;
+&lt;li&gt;Fixed managed-settings &lt;code&gt;allowedMcpServers&lt;/code&gt;/&lt;code&gt;deniedMcpServers&lt;/code&gt; predicates not matching when they use &lt;code&gt;${VAR}&lt;/code&gt; references&lt;/li&gt;
+&lt;li&gt;Fixed background agent sessions that entered a git worktree crash-looping with "No conversation found" when reopened from &lt;code&gt;claude agents&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fixed duplicated thinking text in the Ctrl+O transcript view while streaming&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/doctor&lt;/code&gt; showing a contradictory failed "Not inside a remote session" check when run inside a remote session&lt;/li&gt;
+&lt;li&gt;Fixed the cursor sticking at the end of the first line when typing a multiline prompt in the &lt;code&gt;claude agents&lt;/code&gt; dispatch and reply inputs&lt;/li&gt;
+&lt;li&gt;Fixed blank lines appearing between background agent rows in the task list on terminals without Unicode support&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.166"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.167</id>
+    <title>v2.1.167</title>
+    <updated>2026-06-06T01:33:35+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バグ修正と信頼性の向上&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug fixes and reliability improvements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.167"/>
   </entry>
 </feed>
