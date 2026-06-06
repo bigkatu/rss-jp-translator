@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-06T22:15:43.060688+00:00</updated>
+  <updated>2026-06-06T23:18:54.382802+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -266,13 +266,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000126921"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123827:f83e2e8e29ad81ba</id>
-    <title>大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー 10%OFF</title>
-    <updated>2026-06-06T04:19:19.632887+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfec36455/products/D70010000123827/squareHeroBanner/cc88c1ebe9718053a409fc42a19849f47edd5a9fd27e91913a9108ebabd2eb4e.jpg?sw=346&amp;amp;strip=false" alt="大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123827"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123827"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123244:1918b25f348c744d</id>
     <title>スライミィマインズのオクチヘ Into the Slimy Mines 10%OFF</title>
     <updated>2026-06-06T04:19:19.632887+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-06-06T18:20:14.039409+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ワンオペ！コンビニ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 650 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw30ba49c4/products/D70010000115967/squareHeroBanner/f2f26018300fcb03ed9ad666a86570a5f9f492a96fe1bdfceeaa23895c330775.jpg?sw=346&amp;amp;strip=false" alt="ワンオペ！コンビニ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000115967"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000115967"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123827:f83e2e8e29ad81ba</id>
+    <title>大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー 10%OFF</title>
+    <updated>2026-06-06T23:18:54.382802+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfec36455/products/D70010000123827/squareHeroBanner/cc88c1ebe9718053a409fc42a19849f47edd5a9fd27e91913a9108ebabd2eb4e.jpg?sw=346&amp;amp;strip=false" alt="大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123827"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123827"/>
   </entry>
 </feed>
