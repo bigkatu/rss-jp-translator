@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-07T20:37:05.654289+00:00</updated>
+  <updated>2026-06-07T22:16:42.791483+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
