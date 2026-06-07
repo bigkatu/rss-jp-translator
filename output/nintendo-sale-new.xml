@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-07T14:19:39.163409+00:00</updated>
+  <updated>2026-06-07T16:43:51.831128+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000124898:168a9a03100c15d1</id>
-    <title>Damsels in Distress 20%OFF</title>
-    <updated>2026-06-03T17:16:54.287928+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Damsels in Distress&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 600 円&lt;/p&gt;&lt;p&gt;メーカー: Big Way&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc7f05306/products/D70010000124898/squareHeroBanner/6d11f5b5055f454194ac4cc3d121083405778692213fb8804add528a2a5270a6.jpg?sw=346&amp;amp;strip=false" alt="Damsels in Distress"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124898"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124898"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123693:795129594e2a458f</id>
-    <title>Animal Puzzles 21%OFF</title>
-    <updated>2026-06-03T17:16:54.287928+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Animal Puzzles&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;21%OFF&lt;/p&gt;&lt;p&gt;価格: 370 円&lt;/p&gt;&lt;p&gt;メーカー: Silesia Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw53ec6771/products/D70010000123693/squareHeroBanner/0d9206b46668d383b5a91c330d555c4dbca6963db344f1e7691d57846fae28da.jpg?sw=346&amp;amp;strip=false" alt="Animal Puzzles"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123693"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123693"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000128478:8e3531c0e13f9af0</id>
     <title>あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー 10%OFF</title>
@@ -336,13 +322,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000121272"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000115967:49ad30ddf82a94b3</id>
-    <title>ワンオペ！コンビニ 33%OFF</title>
-    <updated>2026-06-07T08:29:57.006074+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ワンオペ！コンビニ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 650 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw30ba49c4/products/D70010000115967/squareHeroBanner/f2f26018300fcb03ed9ad666a86570a5f9f492a96fe1bdfceeaa23895c330775.jpg?sw=346&amp;amp;strip=false" alt="ワンオペ！コンビニ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000115967"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000115967"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000124690:35e53b2730a0bb96</id>
     <title>世界のびっくり法律 ○×クイズーツッコミたくなる世界のルール大集合ー 10%OFF</title>
     <updated>2026-06-07T11:16:11.281364+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-06-07T11:16:11.281364+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;時の龍環（Dragon Loop）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Happy Player&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcb9030f9/products/D70010000112446/squareHeroBanner/a9000136ac06ea2ec304d4765bd0adc037c09165cc8ea987a8c865d77bce1c32.jpg?sw=346&amp;amp;strip=false" alt="時の龍環（Dragon Loop）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112446"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000112446"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000115967:49ad30ddf82a94b3</id>
+    <title>ワンオペ！コンビニ 33%OFF</title>
+    <updated>2026-06-07T16:43:51.831128+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ワンオペ！コンビニ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 650 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw30ba49c4/products/D70010000115967/squareHeroBanner/f2f26018300fcb03ed9ad666a86570a5f9f492a96fe1bdfceeaa23895c330775.jpg?sw=346&amp;amp;strip=false" alt="ワンオペ！コンビニ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000115967"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000115967"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000117472:5e93bc38df761a05</id>
+    <title>カルドセプト ビギンズ Nintendo Switch 2 Edition 10%OFF</title>
+    <updated>2026-06-07T16:43:51.831128+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;カルドセプト ビギンズ Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 6,732 円&lt;/p&gt;&lt;p&gt;メーカー: ネオス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw457e2f2c/products/D70010000117472/squareHeroBanner/47a1b63ff1dbe42b774e3d4738d75d6ffcf427354b7d257b0794c678d3bdcf2c.jpg?sw=346&amp;amp;strip=false" alt="カルドセプト ビギンズ Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117472"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000117472"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000100997:13137b4475e0b15d</id>
+    <title>カルドセプト ビギンズ 10%OFF</title>
+    <updated>2026-06-07T16:43:51.831128+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;カルドセプト ビギンズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 5,742 円&lt;/p&gt;&lt;p&gt;メーカー: ネオス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4936b443/products/D70010000100997/squareHeroBanner/1fb6b5d6f08a07745a0f7a81869d88c255af484f7bf44b4ce987a58a9dfd2204.jpg?sw=346&amp;amp;strip=false" alt="カルドセプト ビギンズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000100997"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000100997"/>
   </entry>
 </feed>
