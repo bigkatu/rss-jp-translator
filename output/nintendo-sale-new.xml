@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-06T23:18:54.382802+00:00</updated>
+  <updated>2026-06-07T04:55:20.310974+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -96,13 +96,6 @@
     <updated>2026-06-04T16:29:44.484663+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,249 円&lt;/p&gt;&lt;p&gt;メーカー: Feardemic&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw163dd063/products/D70010000110249/squareHeroBanner/d16aa27ae48104b9c9eb4d058f2838783c074cf5c1d75f73a9c79f769c941110.jpg?sw=346&amp;amp;strip=false" alt="忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110249"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000110249"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121272:15b8538d856cb077</id>
-    <title>Pawbay (ポーベイ) 74%OFF</title>
-    <updated>2026-06-04T16:29:44.484663+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Pawbay (ポーベイ)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;74%OFF&lt;/p&gt;&lt;p&gt;価格: 749 円&lt;/p&gt;&lt;p&gt;メーカー: COMMANDO PANDA&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdde75b50/products/D70010000121272/squareHeroBanner/d34f6afbd871a06a8de2b6d18fe29c78be925d6efe6e5d2f62bf68df774f6230.jpeg?sw=346&amp;amp;strip=false" alt="Pawbay (ポーベイ)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121272"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121272"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000120717:2f3dc91662a5d42f</id>
@@ -355,5 +348,12 @@
     <updated>2026-06-06T23:18:54.382802+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfec36455/products/D70010000123827/squareHeroBanner/cc88c1ebe9718053a409fc42a19849f47edd5a9fd27e91913a9108ebabd2eb4e.jpg?sw=346&amp;amp;strip=false" alt="大人の本気学力テスト〈高校編〉ー解けたらすごい！高校総合テストー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123827"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123827"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121272:15b8538d856cb077</id>
+    <title>Pawbay (ポーベイ) 74%OFF</title>
+    <updated>2026-06-07T04:55:20.310974+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Pawbay (ポーベイ)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;74%OFF&lt;/p&gt;&lt;p&gt;価格: 749 円&lt;/p&gt;&lt;p&gt;メーカー: COMMANDO PANDA&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdde75b50/products/D70010000121272/squareHeroBanner/d34f6afbd871a06a8de2b6d18fe29c78be925d6efe6e5d2f62bf68df774f6230.jpeg?sw=346&amp;amp;strip=false" alt="Pawbay (ポーベイ)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121272"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121272"/>
   </entry>
 </feed>
