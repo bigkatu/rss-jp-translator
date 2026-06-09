@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-09T04:32:41.131445+00:00</updated>
+  <updated>2026-06-09T08:40:43.581960+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -161,34 +161,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000106160:c3c7f49ee2fc3b74</id>
-    <title>LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition 10%OFF</title>
-    <updated>2026-06-05T16:09:08.811725+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 6,831 円&lt;/p&gt;&lt;p&gt;メーカー: ドラガミゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw51f17bb2/products/D70010000106160/squareHeroBanner/e5ea081e69fc05e671ab8b80cd1681d9d659a091aa04c0b9ef6c79cb2706fa0c.jpg?sw=346&amp;amp;strip=false" alt="LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000106160"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000106160"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000122641:46e3787167f9f285</id>
-    <title>バレずにギリギリミッション！ 28%OFF</title>
-    <updated>2026-06-05T16:09:08.811725+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;バレずにギリギリミッション！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa76b7dac/products/D70010000122641/squareHeroBanner/0d7d5cc7c9522083a448a5c200e550afa99e683c3c2c779ed25afd95f551b6e4.jpg?sw=346&amp;amp;strip=false" alt="バレずにギリギリミッション！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122641"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122641"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123337:95477bcf91603568</id>
-    <title>Pick &amp; Place 76%OFF</title>
-    <updated>2026-06-05T16:09:08.811725+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Pick &amp;amp; Place&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;76%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0049f63d/products/D70010000123337/squareHeroBanner/edc3ddd95a2ad7b90c3a0c74ba29c2bd3f21e098f7aef0c409b53e5fc7b6cfc1.jpg?sw=346&amp;amp;strip=false" alt="Pick &amp;amp; Place"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123337"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123337"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000124848:03d0042dfb6aa1b3</id>
-    <title>モザイククイズ　早押しバトルー視力と直感のスピードバトルー 10%OFF</title>
-    <updated>2026-06-05T16:09:08.811725+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;モザイククイズ　早押しバトルー視力と直感のスピードバトルー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw871a4320/products/D70010000124848/squareHeroBanner/ef8d37489290774da07684492e1a575d7c97c2583d0404165837f0fe66953e52.jpg?sw=346&amp;amp;strip=false" alt="モザイククイズ　早押しバトルー視力と直感のスピードバトルー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124848"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124848"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000122660:75686dfc394d4392</id>
     <title>東方ゆっくりマウンテン 10%OFF</title>
     <updated>2026-06-05T16:09:08.811725+00:00</updated>
@@ -215,13 +187,6 @@
     <updated>2026-06-06T04:19:19.632887+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;シュレディンガーズ・コール&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: 集英社ゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3ff2fb2d/products/D70010000117200/squareHeroBanner/5c2bd2168d6f83df168ccc44d3efd2360acef00a944d83d70021e0d9f5878179.jpg?sw=346&amp;amp;strip=false" alt="シュレディンガーズ・コール"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000117200"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000117200"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000125732:6b5f11c9eb97248b</id>
-    <title>猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー 10%OFF</title>
-    <updated>2026-06-06T04:19:19.632887+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw27fdd91e/products/D70010000125732/squareHeroBanner/f8d830e6b90dd7a8d6bef7daf9880196d801c6bf6290b01adcf97bcbf9a9c5c0.jpg?sw=346&amp;amp;strip=false" alt="猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125732"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125732"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000121694:e8bc6e2d828252db</id>
@@ -355,5 +320,40 @@
     <updated>2026-06-09T04:32:41.131445+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Flight Simulator 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,594 円&lt;/p&gt;&lt;p&gt;メーカー: Play Lab&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwf0efdb1b/products/D70010000121968/squareHeroBanner/1242f8656196bb5f558cb417ed673a4e70b155ce1be1b57b2511249cce0af6b2.jpg?sw=346&amp;amp;strip=false" alt="Flight Simulator 2026"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121968"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121968"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000106160:c3c7f49ee2fc3b74</id>
+    <title>LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition 10%OFF</title>
+    <updated>2026-06-09T08:40:43.581960+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 6,831 円&lt;/p&gt;&lt;p&gt;メーカー: ドラガミゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw51f17bb2/products/D70010000106160/squareHeroBanner/e5ea081e69fc05e671ab8b80cd1681d9d659a091aa04c0b9ef6c79cb2706fa0c.jpg?sw=346&amp;amp;strip=false" alt="LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000106160"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000106160"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122641:46e3787167f9f285</id>
+    <title>バレずにギリギリミッション！ 28%OFF</title>
+    <updated>2026-06-09T08:40:43.581960+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;バレずにギリギリミッション！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa76b7dac/products/D70010000122641/squareHeroBanner/0d7d5cc7c9522083a448a5c200e550afa99e683c3c2c779ed25afd95f551b6e4.jpg?sw=346&amp;amp;strip=false" alt="バレずにギリギリミッション！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122641"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122641"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124848:03d0042dfb6aa1b3</id>
+    <title>モザイククイズ　早押しバトルー視力と直感のスピードバトルー 10%OFF</title>
+    <updated>2026-06-09T08:40:43.581960+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;モザイククイズ　早押しバトルー視力と直感のスピードバトルー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw871a4320/products/D70010000124848/squareHeroBanner/ef8d37489290774da07684492e1a575d7c97c2583d0404165837f0fe66953e52.jpg?sw=346&amp;amp;strip=false" alt="モザイククイズ　早押しバトルー視力と直感のスピードバトルー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124848"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124848"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123337:95477bcf91603568</id>
+    <title>Pick &amp; Place 76%OFF</title>
+    <updated>2026-06-09T08:40:43.581960+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Pick &amp;amp; Place&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;76%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0049f63d/products/D70010000123337/squareHeroBanner/edc3ddd95a2ad7b90c3a0c74ba29c2bd3f21e098f7aef0c409b53e5fc7b6cfc1.jpg?sw=346&amp;amp;strip=false" alt="Pick &amp;amp; Place"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123337"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123337"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125732:6b5f11c9eb97248b</id>
+    <title>猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー 10%OFF</title>
+    <updated>2026-06-09T08:40:43.581960+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw27fdd91e/products/D70010000125732/squareHeroBanner/f8d830e6b90dd7a8d6bef7daf9880196d801c6bf6290b01adcf97bcbf9a9c5c0.jpg?sw=346&amp;amp;strip=false" alt="猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125732"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125732"/>
   </entry>
 </feed>
