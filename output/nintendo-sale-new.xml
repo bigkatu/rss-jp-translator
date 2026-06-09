@@ -2,52 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-09T15:28:28.685120+00:00</updated>
+  <updated>2026-06-09T18:20:45.785298+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000113434:0098473ce65a696e</id>
-    <title>ダンジョン崩し 30%OFF</title>
-    <updated>2026-06-03T17:16:54.287928+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ダンジョン崩し&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 686 円&lt;/p&gt;&lt;p&gt;メーカー: Phoenixx&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe6083a1d/products/D70010000113434/squareHeroBanner/d163a5621d2bcc43683fd6a339030b5aff2114ee5f4e21941d636a236ce6039d.jpg?sw=346&amp;amp;strip=false" alt="ダンジョン崩し"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113434"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113434"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123209:a0553e6af38809ef</id>
-    <title>Strays POV Tales 33%OFF</title>
-    <updated>2026-06-03T17:16:54.287928+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Strays POV Tales&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,580 円&lt;/p&gt;&lt;p&gt;メーカー: CGI GERMANY DESIGN&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw22fa4a27/products/D70010000123209/squareHeroBanner/524c19b03c83beff33e0083bbe5a2adff05bd609a0b6a9927e8e26771d8662bb.jpg?sw=346&amp;amp;strip=false" alt="Strays POV Tales"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123209"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123209"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121665:a044af9529402cb7</id>
-    <title>東京ヤクザアイドル：反逆美少年の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Boy) 60%OFF</title>
-    <updated>2026-06-03T17:16:54.287928+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;東京ヤクザアイドル：反逆美少年の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Boy)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9581cb13/products/D70010000121665/squareHeroBanner/ceb074dc6ae2d356f985a94a2ee0ee7f457b19413c42e715883681f16a33e050.jpg?sw=346&amp;amp;strip=false" alt="東京ヤクザアイドル：反逆美少年の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Boy)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121665"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121665"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123396:463da2fae9dad59c</id>
-    <title>Inversion: The Single Path 30%OFF</title>
-    <updated>2026-06-03T17:16:54.287928+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Inversion: The Single Path&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 980 円&lt;/p&gt;&lt;p&gt;メーカー: CGI LAB GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaa3fbccc/products/D70010000123396/squareHeroBanner/776f30e69ca115d98f63b0b04f417996321afa142b97439f6b8b63c1b26a071c.jpg?sw=346&amp;amp;strip=false" alt="Inversion: The Single Path"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123396"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123396"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121659:d6c76b39761d2582</id>
-    <title>東京ヤクザアイドル：反逆美少女の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Girl) 60%OFF</title>
-    <updated>2026-06-03T17:16:54.287928+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;東京ヤクザアイドル：反逆美少女の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Girl)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw40f434f6/products/D70010000121659/squareHeroBanner/e2f04974ead2a71c61e62b3fc09ca31329eb54d705a635f157b1dd50f71ddab2.jpg?sw=346&amp;amp;strip=false" alt="東京ヤクザアイドル：反逆美少女の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Girl)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121659"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121659"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000120372:2608d29df4fef6d1</id>
-    <title>ダレカレ 30%OFF</title>
-    <updated>2026-06-03T17:16:54.287928+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ダレカレ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 420 円&lt;/p&gt;&lt;p&gt;メーカー: 講談社&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1c2f0a02/products/D70010000120372/squareHeroBanner/44919b2c341872d0d2e48466011d99a8d4f89fc58340fafba404d65204ba16ab.jpg?sw=346&amp;amp;strip=false" alt="ダレカレ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120372"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120372"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000124161:d7404d270c42adef</id>
     <title>P.I.S.ファイル 20%OFF</title>
@@ -117,13 +75,6 @@
     <updated>2026-06-05T04:45:49.351475+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Valley Life&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 1,788 円&lt;/p&gt;&lt;p&gt;メーカー: Tashlik&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw01422009/products/D70010000124414/squareHeroBanner/675c70107b8796c50dce99977b263db12eda5457c47635822655769aee96c655.jpg?sw=346&amp;amp;strip=false" alt="Cozy Valley Life"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124414"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124414"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000113644:fc8301e2911c3289</id>
-    <title>N.E.R.D 20%OFF</title>
-    <updated>2026-06-05T04:45:49.351475+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;N.E.R.D&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 6,400 円&lt;/p&gt;&lt;p&gt;メーカー: Forever Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw930ffc0e/products/D70010000113644/squareHeroBanner/586fa2eb115105b425bd91f8e67cdecd061d4e92495e385b4e77db5fb8e98ac1.jpg?sw=346&amp;amp;strip=false" alt="N.E.R.D"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113644"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000113644"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000122743:45e868cb60c74536</id>
@@ -355,5 +306,54 @@
     <updated>2026-06-09T12:15:09.279168+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Flight Simulator 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,594 円&lt;/p&gt;&lt;p&gt;メーカー: Play Lab&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwf0efdb1b/products/D70010000121968/squareHeroBanner/1242f8656196bb5f558cb417ed673a4e70b155ce1be1b57b2511249cce0af6b2.jpg?sw=346&amp;amp;strip=false" alt="Flight Simulator 2026"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121968"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121968"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120530:2fb24e9eef3ac8b2</id>
+    <title>ドクター・サイコ：病院脱出 70%OFF</title>
+    <updated>2026-06-09T18:20:45.785298+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ドクター・サイコ：病院脱出&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;70%OFF&lt;/p&gt;&lt;p&gt;価格: 239 円&lt;/p&gt;&lt;p&gt;メーカー: Upscale Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3a376804/products/D70010000120530/squareHeroBanner/f92e40c09b6f037914578cb989d2257d40249be414f5244cd7fea09de322608d.jpg?sw=346&amp;amp;strip=false" alt="ドクター・サイコ：病院脱出"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120530"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120530"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123652:1cf81e3bc7be131d</id>
+    <title>Ore Klast 30%OFF</title>
+    <updated>2026-06-09T18:20:45.785298+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Ore Klast&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 629 円&lt;/p&gt;&lt;p&gt;メーカー: Webnetic&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaabc2294/products/D70010000123652/squareHeroBanner/322eacc63efcf7cb9cf7b6bf40a615c61eef5be0a40a204e60009b93d283a966.jpg?sw=346&amp;amp;strip=false" alt="Ore Klast"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123652"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123652"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122415:324a54fca13f0d02</id>
+    <title>Supermarket Simulator 2026 50%OFF</title>
+    <updated>2026-06-09T18:20:45.785298+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Supermarket Simulator 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 499 円&lt;/p&gt;&lt;p&gt;メーカー: Global Games Publisher&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwebe7f9d3/products/D70010000122415/squareHeroBanner/5c498166b8952de13043ef283c7a8a967808a2134624f36f5c70fde3405b4736.jpg?sw=346&amp;amp;strip=false" alt="Supermarket Simulator 2026"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122415"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122415"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000113644:fc8301e2911c3289</id>
+    <title>N.E.R.D 20%OFF</title>
+    <updated>2026-06-09T18:20:45.785298+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;N.E.R.D&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 6,400 円&lt;/p&gt;&lt;p&gt;メーカー: Forever Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw930ffc0e/products/D70010000113644/squareHeroBanner/586fa2eb115105b425bd91f8e67cdecd061d4e92495e385b4e77db5fb8e98ac1.jpg?sw=346&amp;amp;strip=false" alt="N.E.R.D"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000113644"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000113644"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122664:feac639256797563</id>
+    <title>ユミアのアトリエ ～追憶の錬金術士と幻創の地～ Nintendo Switch 2 Edition 43%OFF</title>
+    <updated>2026-06-09T18:20:45.785298+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ユミアのアトリエ ～追憶の錬金術士と幻創の地～ Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;43%OFF&lt;/p&gt;&lt;p&gt;価格: 5,517 円&lt;/p&gt;&lt;p&gt;メーカー: コーエーテクモゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0f32ac5a/products/D70010000122664/squareHeroBanner/7174ab157ec487b1bdbc6b9ed830983f5c2f47a39ee64670060df127cfc9ca8b.jpg?sw=346&amp;amp;strip=false" alt="ユミアのアトリエ ～追憶の錬金術士と幻創の地～ Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122664"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122664"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121585:223dcd401d77e639</id>
+    <title>Cozy Home Unpacking 33%OFF</title>
+    <updated>2026-06-09T18:20:45.785298+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Home Unpacking&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,580 円&lt;/p&gt;&lt;p&gt;メーカー: Play Lab&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw45bff4ec/products/D70010000121585/squareHeroBanner/8e5782599bea0692135a767f8056f09bb24e8c8371cc592f587b11595802184b.jpg?sw=346&amp;amp;strip=false" alt="Cozy Home Unpacking"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121585"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121585"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124778:4fe91db3dc7a2d73</id>
+    <title>Devil May Cry 5 Devil Hunter Edition 25%OFF</title>
+    <updated>2026-06-09T18:20:45.785298+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Devil May Cry 5 Devil Hunter Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 2,990 円&lt;/p&gt;&lt;p&gt;メーカー: カプコン&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcc0d259f/products/D70010000124778/squareHeroBanner/4549555681f89f20d399463b28afaee578e101795061cb156700e4a202f4e134.jpg?sw=346&amp;amp;strip=false" alt="Devil May Cry 5 Devil Hunter Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124778"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124778"/>
   </entry>
 </feed>

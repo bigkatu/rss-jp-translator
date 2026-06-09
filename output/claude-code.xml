@@ -2,27 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-09T15:27:51.593503+00:00</updated>
+  <updated>2026-06-09T18:20:05.132664+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.159</id>
-    <title>v2.1.159</title>
-    <updated>2026-05-31T19:42:49+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-内部インフラストラクチャの改善 (ユーザー向けの変更はなし)&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Internal infrastructure improvements (no user-facing changes)&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.159"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.160</id>
     <title>v2.1.160</title>
@@ -1027,5 +1011,26 @@ Windows の自動アップデーターは、セッション内の再試行を 1 
 &lt;li&gt;Added a tip suggesting &lt;code&gt;claude agents&lt;/code&gt; when running multiple concurrent sessions&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.169"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.170</id>
+    <title>v2.1.170</title>
+    <updated>2026-06-09T17:23:09+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Claude Fable 5 の紹介: 一般的な使用に安全な Mythos クラスのモデル。 Fable の機能は、これまでに一般提供したどのモデルよりも優れています。アクセスするにはバージョン 2.1.170 に更新してください。 &lt;br&gt;
+https://www.anthropic.com/news/claude-fable-5-mythos-5&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+VS Code 統合ターミナルまたは Claude Code 環境変数を継承したシェルから起動したときに、セッションのトランスクリプトが保存されない (および --resume に表示されない) 問題を修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Fable’s capabilities exceed those of any model we’ve ever made generally available. Update to version 2.1.170 for access. &lt;a href="https://www.anthropic.com/news/claude-fable-5-mythos-5" rel="nofollow"&gt;https://www.anthropic.com/news/claude-fable-5-mythos-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fixed sessions not saving transcripts (and not appearing in --resume) when launched from the VS Code integrated terminal or any shell that inherited Claude Code environment variables.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.170"/>
   </entry>
 </feed>
