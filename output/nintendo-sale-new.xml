@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-09T22:48:37.471648+00:00</updated>
+  <updated>2026-06-10T01:31:00.419847+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -105,13 +105,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000100253"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
-    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
-    <updated>2026-06-05T12:19:48.845937+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000122660:75686dfc394d4392</id>
     <title>東方ゆっくりマウンテン 10%OFF</title>
     <updated>2026-06-05T16:09:08.811725+00:00</updated>
@@ -124,13 +117,6 @@
     <updated>2026-06-05T16:09:08.811725+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Springbot: The Last Spark&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 400 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3c45e962/products/D70010000120879/squareHeroBanner/f648d164eb0ad7bd447baa7de2cd340ca2b6d9438a3278de2bce47febdf2c9d4.jpg?sw=346&amp;amp;strip=false" alt="Springbot: The Last Spark"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120879"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000120879"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126921:7eaafe430b4c86aa</id>
-    <title>マルバツTHE WORLD 10%OFF</title>
-    <updated>2026-06-05T18:07:04.505325+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;マルバツTHE WORLD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe23c5d87/products/D70010000126921/squareHeroBanner/fb4d15864bf9fe24d7d6ca61b230ab98a6ea343c39e3907bfa7b3aa9af351443.jpg?sw=346&amp;amp;strip=false" alt="マルバツTHE WORLD"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126921"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126921"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000117200:b94f89e2755e6578</id>
@@ -355,5 +341,19 @@
     <updated>2026-06-09T18:20:45.785298+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Devil May Cry 5 Devil Hunter Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 2,990 円&lt;/p&gt;&lt;p&gt;メーカー: カプコン&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcc0d259f/products/D70010000124778/squareHeroBanner/4549555681f89f20d399463b28afaee578e101795061cb156700e4a202f4e134.jpg?sw=346&amp;amp;strip=false" alt="Devil May Cry 5 Devil Hunter Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124778"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124778"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126921:7eaafe430b4c86aa</id>
+    <title>マルバツTHE WORLD 10%OFF</title>
+    <updated>2026-06-10T01:31:00.419847+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;マルバツTHE WORLD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe23c5d87/products/D70010000126921/squareHeroBanner/fb4d15864bf9fe24d7d6ca61b230ab98a6ea343c39e3907bfa7b3aa9af351443.jpg?sw=346&amp;amp;strip=false" alt="マルバツTHE WORLD"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126921"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126921"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
+    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
+    <updated>2026-06-10T01:31:00.419847+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
   </entry>
 </feed>
