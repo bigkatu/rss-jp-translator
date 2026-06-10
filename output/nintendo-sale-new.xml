@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-10T06:41:31.803202+00:00</updated>
+  <updated>2026-06-10T11:02:58.162497+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000110249:a59400c14a055d03</id>
-    <title>忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition) 10%OFF</title>
-    <updated>2026-06-04T16:29:44.484663+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,249 円&lt;/p&gt;&lt;p&gt;メーカー: Feardemic&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw163dd063/products/D70010000110249/squareHeroBanner/d16aa27ae48104b9c9eb4d058f2838783c074cf5c1d75f73a9c79f769c941110.jpg?sw=346&amp;amp;strip=false" alt="忍び寄る恐怖：クトゥルフ選集 - コンプリート・エディション  (Menace from the Deep: Complete Edition)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110249"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000110249"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000120717:2f3dc91662a5d42f</id>
     <title>Steamboat Incident 20%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-06-10T06:41:31.803202+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Poetic Trio&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 792 円&lt;/p&gt;&lt;p&gt;メーカー: Sometimes You&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbb5ca7b9/products/D70010000110061/squareHeroBanner/4c1f49301003e75905ed38098228f9a8aa6e2179ee7688430058796fd475ec2f.jpg?sw=346&amp;amp;strip=false" alt="Poetic Trio"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110061"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000110061"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123693:795129594e2a458f</id>
+    <title>Animal Puzzles 21%OFF</title>
+    <updated>2026-06-10T11:02:58.162497+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Animal Puzzles&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;21%OFF&lt;/p&gt;&lt;p&gt;価格: 370 円&lt;/p&gt;&lt;p&gt;メーカー: Silesia Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw53ec6771/products/D70010000123693/squareHeroBanner/0d9206b46668d383b5a91c330d555c4dbca6963db344f1e7691d57846fae28da.jpg?sw=346&amp;amp;strip=false" alt="Animal Puzzles"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123693"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123693"/>
   </entry>
 </feed>
