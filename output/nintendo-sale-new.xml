@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-10T22:57:08.659646+00:00</updated>
+  <updated>2026-06-11T01:38:25.886798+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000122664:feac639256797563</id>
-    <title>ユミアのアトリエ ～追憶の錬金術士と幻創の地～ Nintendo Switch 2 Edition 43%OFF</title>
-    <updated>2026-06-09T18:20:45.785298+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ユミアのアトリエ ～追憶の錬金術士と幻創の地～ Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;43%OFF&lt;/p&gt;&lt;p&gt;価格: 5,517 円&lt;/p&gt;&lt;p&gt;メーカー: コーエーテクモゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0f32ac5a/products/D70010000122664/squareHeroBanner/7174ab157ec487b1bdbc6b9ed830983f5c2f47a39ee64670060df127cfc9ca8b.jpg?sw=346&amp;amp;strip=false" alt="ユミアのアトリエ ～追憶の錬金術士と幻創の地～ Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122664"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122664"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121585:223dcd401d77e639</id>
-    <title>Cozy Home Unpacking 33%OFF</title>
-    <updated>2026-06-09T18:20:45.785298+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Home Unpacking&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,580 円&lt;/p&gt;&lt;p&gt;メーカー: Play Lab&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw45bff4ec/products/D70010000121585/squareHeroBanner/8e5782599bea0692135a767f8056f09bb24e8c8371cc592f587b11595802184b.jpg?sw=346&amp;amp;strip=false" alt="Cozy Home Unpacking"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121585"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121585"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000124778:4fe91db3dc7a2d73</id>
     <title>Devil May Cry 5 Devil Hunter Edition 25%OFF</title>
@@ -40,13 +26,6 @@
     <updated>2026-06-10T01:31:00.419847+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000122641:46e3787167f9f285</id>
-    <title>バレずにギリギリミッション！ 28%OFF</title>
-    <updated>2026-06-10T06:41:31.803202+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;バレずにギリギリミッション！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa76b7dac/products/D70010000122641/squareHeroBanner/0d7d5cc7c9522083a448a5c200e550afa99e683c3c2c779ed25afd95f551b6e4.jpg?sw=346&amp;amp;strip=false" alt="バレずにギリギリミッション！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122641"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122641"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000123337:95477bcf91603568</id>
@@ -355,5 +334,26 @@
     <updated>2026-06-10T22:57:08.659646+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;スライミィマインズのオクチヘ Into the Slimy Mines&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: Wales Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa9e50cb3/products/D70010000123244/squareHeroBanner/edb2159d70596dffa0dd6d20bfd5775f08cece0efa086e9803c766abea72cd79.jpg?sw=346&amp;amp;strip=false" alt="スライミィマインズのオクチヘ Into the Slimy Mines"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123244"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123244"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000106160:c3c7f49ee2fc3b74</id>
+    <title>LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition 10%OFF</title>
+    <updated>2026-06-11T01:38:25.886798+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 6,831 円&lt;/p&gt;&lt;p&gt;メーカー: ドラガミゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw51f17bb2/products/D70010000106160/squareHeroBanner/e5ea081e69fc05e671ab8b80cd1681d9d659a091aa04c0b9ef6c79cb2706fa0c.jpg?sw=346&amp;amp;strip=false" alt="LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000106160"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000106160"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122641:46e3787167f9f285</id>
+    <title>バレずにギリギリミッション！ 28%OFF</title>
+    <updated>2026-06-11T01:38:25.886798+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;バレずにギリギリミッション！&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;28%OFF&lt;/p&gt;&lt;p&gt;価格: 500 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa76b7dac/products/D70010000122641/squareHeroBanner/0d7d5cc7c9522083a448a5c200e550afa99e683c3c2c779ed25afd95f551b6e4.jpg?sw=346&amp;amp;strip=false" alt="バレずにギリギリミッション！"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122641"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122641"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124524:d1ce349f0ec3bd95</id>
+    <title>Hentai Puzzle Simulator 2 80%OFF</title>
+    <updated>2026-06-11T01:38:25.886798+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai Puzzle Simulator 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa7dff4fb/products/D70010000124524/squareHeroBanner/8dcd40deda53c94e9c07ee4a5d8c26284c758ef179227a06dafe601758341f3e.jpg?sw=346&amp;amp;strip=false" alt="Hentai Puzzle Simulator 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124524"/>
   </entry>
 </feed>
