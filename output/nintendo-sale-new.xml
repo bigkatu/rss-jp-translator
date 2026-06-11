@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-11T01:38:25.886798+00:00</updated>
+  <updated>2026-06-11T07:04:27.314336+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000124778:4fe91db3dc7a2d73</id>
-    <title>Devil May Cry 5 Devil Hunter Edition 25%OFF</title>
-    <updated>2026-06-09T18:20:45.785298+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Devil May Cry 5 Devil Hunter Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;25%OFF&lt;/p&gt;&lt;p&gt;価格: 2,990 円&lt;/p&gt;&lt;p&gt;メーカー: カプコン&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcc0d259f/products/D70010000124778/squareHeroBanner/4549555681f89f20d399463b28afaee578e101795061cb156700e4a202f4e134.jpg?sw=346&amp;amp;strip=false" alt="Devil May Cry 5 Devil Hunter Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124778"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124778"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000126921:7eaafe430b4c86aa</id>
     <title>マルバツTHE WORLD 10%OFF</title>
@@ -124,13 +117,6 @@
     <updated>2026-06-10T18:09:13.702073+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Minesweeper Pro&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;75%OFF&lt;/p&gt;&lt;p&gt;価格: 198 円&lt;/p&gt;&lt;p&gt;メーカー: Soroka Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwad051689/products/D70010000127112/squareHeroBanner/332341c7c94fa4b8dec2c924409f5b398b63555aeac5868cbd745b12a0e88a76.jpg?sw=346&amp;amp;strip=false" alt="Minesweeper Pro"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127112"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127112"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000116475:a1490432acb4687c</id>
-    <title>Secret Paws - Cozy Apartments 20%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Secret Paws - Cozy Apartments&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 480 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4e0dc72e/products/D70010000116475/squareHeroBanner/8ee91cc317cef24a5684e672b2f4a69472b58302fb7b878a65929fa3b3b0530d.jpg?sw=346&amp;amp;strip=false" alt="Secret Paws - Cozy Apartments"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000116475"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000116475"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000119536:4f587217b8b7feac</id>
@@ -355,5 +341,19 @@
     <updated>2026-06-11T01:38:25.886798+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Hentai Puzzle Simulator 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa7dff4fb/products/D70010000124524/squareHeroBanner/8dcd40deda53c94e9c07ee4a5d8c26284c758ef179227a06dafe601758341f3e.jpg?sw=346&amp;amp;strip=false" alt="Hentai Puzzle Simulator 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124524"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000116475:a1490432acb4687c</id>
+    <title>Secret Paws - Cozy Apartments 20%OFF</title>
+    <updated>2026-06-11T07:04:27.314336+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Secret Paws - Cozy Apartments&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 480 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4e0dc72e/products/D70010000116475/squareHeroBanner/8ee91cc317cef24a5684e672b2f4a69472b58302fb7b878a65929fa3b3b0530d.jpg?sw=346&amp;amp;strip=false" alt="Secret Paws - Cozy Apartments"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000116475"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000116475"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121665:a044af9529402cb7</id>
+    <title>東京ヤクザアイドル：反逆美少年の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Boy) 60%OFF</title>
+    <updated>2026-06-11T07:04:27.314336+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;東京ヤクザアイドル：反逆美少年の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Boy)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9581cb13/products/D70010000121665/squareHeroBanner/ceb074dc6ae2d356f985a94a2ee0ee7f457b19413c42e715883681f16a33e050.jpg?sw=346&amp;amp;strip=false" alt="東京ヤクザアイドル：反逆美少年の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Boy)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121665"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121665"/>
   </entry>
 </feed>
