@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-12T05:01:40.068518+00:00</updated>
+  <updated>2026-06-12T09:11:25.895594+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000118980:9fc4fc7b69ea179e</id>
-    <title>Kiko's Apple Adventure 20%OFF</title>
-    <updated>2026-06-10T06:41:31.803202+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Kiko's Apple Adventure&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 719 円&lt;/p&gt;&lt;p&gt;メーカー: Mameshiba Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw682e06c2/products/D70010000118980/squareHeroBanner/5d41d49f0348c95a43f3ef02f27cf12d256c12e1650aebdb193653f2bdf44782.jpg?sw=346&amp;amp;strip=false" alt="Kiko's Apple Adventure"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000118980"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000118980"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000119795:98f7085dfc52600e</id>
     <title> ローリングウィールズ  Rolling Wheels 60%OFF</title>
@@ -145,13 +138,6 @@
     <updated>2026-06-10T18:09:13.702073+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;爆走！立体駐車場ラリー (Parking Garage Rally Circuit)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,360 円&lt;/p&gt;&lt;p&gt;メーカー: Pineapple Works&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw251dbd6e/products/D70010000121908/squareHeroBanner/bf35a9adc473dc3231b374fe9c152f4d0981dbb7e018f36225e39e40b8c66738.jpg?sw=346&amp;amp;strip=false" alt="爆走！立体駐車場ラリー (Parking Garage Rally Circuit)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121908"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121908"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
-    <title>フェアリーテールファイターズ 10%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000125071:803c5dd2e31e1159</id>
@@ -355,5 +341,19 @@
     <updated>2026-06-11T19:45:07.822324+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Pitstop in Purgatory&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 544 円&lt;/p&gt;&lt;p&gt;メーカー: ラタライカゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw990f2864/products/D70010000119629/squareHeroBanner/d4b1b4da31cdb15d81871b52557790e2a9a6c0f117ac79274ced274451868696.jpg?sw=346&amp;amp;strip=false" alt="Pitstop in Purgatory"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119629"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000119629"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
+    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
+    <updated>2026-06-12T09:11:25.895594+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
+    <title>フェアリーテールファイターズ 10%OFF</title>
+    <updated>2026-06-12T09:11:25.895594+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
   </entry>
 </feed>
