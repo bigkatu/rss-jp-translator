@@ -2,27 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-12T19:21:04.423817+00:00</updated>
+  <updated>2026-06-12T21:59:50.531536+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.165</id>
-    <title>v2.1.165</title>
-    <updated>2026-06-05T05:45:06+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バグ修正と信頼性の向上&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Bug fixes and reliability improvements&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.165"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.166</id>
     <title>v2.1.166</title>
@@ -700,5 +684,145 @@ macOS および Linux でシェル コマンドが中断または強制終了さ
 &lt;li&gt;Added &lt;code&gt;enforceAvailableModels&lt;/code&gt; managed setting — when enabled, the &lt;code&gt;availableModels&lt;/code&gt; allowlist also constrains the Default model (a Default that would resolve to a disallowed model now falls back to the first allowed model), and user or project settings can no longer widen a managed &lt;code&gt;availableModels&lt;/code&gt; list&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.175"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.176</id>
+    <title>v2.1.176</title>
+    <updated>2026-06-12T21:53:27+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+セッションのタイトルが会話の言語で生成されるようになりました ( &lt;br&gt;
+言語&lt;br&gt;
+ 特定の言語を固定する設定)&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+フッターリンク正規表現&lt;br&gt;
+ フッター行の正規表現に一致するリンク バッジの設定。ユーザー設定または管理設定で構成可能&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Bedrock 資格情報キャッシュの改善: からの資格情報 &lt;br&gt;
+awsCredentialExport&lt;br&gt;
+ までキャッシュされるようになりました。 &lt;br&gt;
+有効期限&lt;br&gt;
+ 固定の1時間ではなく&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+利用可能なモデル&lt;br&gt;
+ 強制: エイリアス モデルの選択は、ブロックされたモデルにリダイレクトできなくなりました。 &lt;br&gt;
+ANTHROPIC_DEFAULT_*_MODEL&lt;br&gt;
+ 環境変数、および &lt;br&gt;
+/速い&lt;br&gt;
+ ホワイトリスト外のモデルに切り替わる場合に切り替えを拒否するようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Opus 4.8 が有効になっていない組織の Fable 5 で自動モードが失敗する問題を修正しました。分類子は利用可能な最適な Opus モデルにフォールバックするようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定フック &lt;br&gt;
+もし&lt;br&gt;
+ 読み取り/編集/書き込みツール パスの条件: 文書化されたパターンのような &lt;br&gt;
+編集(src/**)&lt;br&gt;
+、 &lt;br&gt;
+読み取り(~/.ssh/**)&lt;br&gt;
+、そして &lt;br&gt;
+読み取り(.env)&lt;br&gt;
+ 正しく一致するようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+次の場合に Linux サンドボックスの起動に失敗する問題を修正しました。 &lt;br&gt;
+.claude/settings.json&lt;br&gt;
+ 絶対ターゲットを持つシンボリックリンクです&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/コピー&lt;br&gt;
+ マウス選択のコピーが SSH 経由で tmux 内のシステム クリップボードに到達せず、tmux ペースト バッファが 3.2 より古いバージョンでロードされない&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Web/モバイルから接続するリモート コントロールがサイレントにセッションのモデルを切り替える問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+人間が判読できる理由ではなく、単なる数値コードを表示するリモート コントロールの切断通知と、会話トランスクリプトに重複行を追加する接続エラーを修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+別のアカウントにサインインしてもリモート コントロール セッションが切断されない問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/cd&lt;br&gt;
+ ワークツリーがセッションを離れて移動し、前のディレクトリの git ブランチを報告する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロードエージェント&lt;br&gt;
+: 1 つのウィンドウで戻るボタンを押しても、同じセッションに接続されている他のウィンドウが切り離されなくなりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドセッションが永久に「動作中」と表示される問題を修正しました。 &lt;br&gt;
+/bg&lt;br&gt;
+ ターンの途中で継続するものは何も残っていませんでした&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+PR URL によるバックグラウンド エージェント検索を修正しました。スケジュールされたウェイクアップ中またはジョブがブロックされている間に開かれた PR が、 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 検索&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Windows でエージェント ビューの入力にテキスト カーソルが表示されない問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロード --bg -cn &amp;lt;名前&amp;gt;&lt;br&gt;
+ セッション名をシードしない&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+再起動する前に永続状態の Windows ネットワーク パスを無力化するバックグラウンド セッションを修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+破損した状態ファイルからの不正な形式の再開 ID を拒否するバックグラウンド セッションの再生成を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ときに Windows バックグラウンド サービス デーモンが起動しない問題を修正しました。 &lt;br&gt;
+~/.claude/デーモン&lt;br&gt;
+ ReadOnly 属性が設定されています&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+要求される前にアイドル状態が長すぎると、「認証方法を解決できませんでした」というメッセージが表示されてクラウド セッションが失敗する問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+自動更新中に開いたままになっているウィンドウが返信を送信できない場合、バックグラウンド セッションでより明確なガイダンスが表示されるようになりました。 &lt;br&gt;
+クロードデーモンのステータス&lt;br&gt;
+ バージョンスキューの動作について説明します&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Session titles are now generated in the language of your conversation (set the &lt;code&gt;language&lt;/code&gt; setting to pin a specific language)&lt;/li&gt;
+&lt;li&gt;Added &lt;code&gt;footerLinksRegexes&lt;/code&gt; setting for regex-matched link badges in the footer row, configurable via user or managed settings&lt;/li&gt;
+&lt;li&gt;Improved Bedrock credential caching: credentials from &lt;code&gt;awsCredentialExport&lt;/code&gt; are now cached until their &lt;code&gt;Expiration&lt;/code&gt; instead of a fixed 1 hour&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;availableModels&lt;/code&gt; enforcement: alias model picks can no longer be redirected to a blocked model via &lt;code&gt;ANTHROPIC_DEFAULT_*_MODEL&lt;/code&gt; environment variables, and &lt;code&gt;/fast&lt;/code&gt; now refuses to toggle when it would switch to a model outside the allowlist&lt;/li&gt;
+&lt;li&gt;Fixed auto mode failing on Fable 5 for organizations without Opus 4.8 enabled — the classifier now falls back to the best available Opus model&lt;/li&gt;
+&lt;li&gt;Fixed hook &lt;code&gt;if&lt;/code&gt; conditions for Read/Edit/Write tool paths: documented patterns like &lt;code&gt;Edit(src/**)&lt;/code&gt;, &lt;code&gt;Read(~/.ssh/**)&lt;/code&gt;, and &lt;code&gt;Read(.env)&lt;/code&gt; now match correctly&lt;/li&gt;
+&lt;li&gt;Fixed Linux sandbox failing to start when &lt;code&gt;.claude/settings.json&lt;/code&gt; is a symlink with an absolute target&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/copy&lt;/code&gt; and mouse-selection copy not reaching the system clipboard inside tmux over SSH, and tmux paste buffer not loading on versions older than 3.2&lt;/li&gt;
+&lt;li&gt;Fixed Remote Control connecting from web/mobile silently switching the session's model&lt;/li&gt;
+&lt;li&gt;Fixed Remote Control disconnect notifications showing a bare numeric code instead of a human-readable reason, and connection failures adding a duplicate line to the conversation transcript&lt;/li&gt;
+&lt;li&gt;Fixed Remote Control sessions not disconnecting when you sign in to a different account&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/cd&lt;/code&gt; and worktree moves leaving the session reporting the previous directory's git branch&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt;: pressing back in one window no longer detaches other windows attached to the same session&lt;/li&gt;
+&lt;li&gt;Fixed backgrounded sessions showing "Working" forever when &lt;code&gt;/bg&lt;/code&gt; mid-turn had nothing left to continue&lt;/li&gt;
+&lt;li&gt;Fixed background agent search by PR URL: PRs opened during scheduled wakeups or while a job was blocked now appear in &lt;code&gt;claude agents&lt;/code&gt; search&lt;/li&gt;
+&lt;li&gt;Fixed the agents view input showing no text cursor on Windows&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude --bg -cn &amp;lt;name&amp;gt;&lt;/code&gt; not seeding the session name&lt;/li&gt;
+&lt;li&gt;Fixed background sessions to neutralize Windows network paths in persisted state before respawn&lt;/li&gt;
+&lt;li&gt;Fixed background-session respawn rejecting malformed resume IDs from corrupted state files&lt;/li&gt;
+&lt;li&gt;Fixed the Windows background-service daemon not starting when &lt;code&gt;~/.claude/daemon&lt;/code&gt; has the ReadOnly attribute set&lt;/li&gt;
+&lt;li&gt;Fixed cloud sessions failing with "Could not resolve authentication method" when idle for too long before being claimed&lt;/li&gt;
+&lt;li&gt;Background sessions now show clearer guidance when a window left open across an auto-update can't submit a reply, and &lt;code&gt;claude daemon status&lt;/code&gt; explains version-skew behavior&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.176"/>
   </entry>
 </feed>
