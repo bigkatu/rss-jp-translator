@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-12T22:00:40.394586+00:00</updated>
+  <updated>2026-06-12T23:48:28.467782+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -224,27 +224,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000127767"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
-    <title> リスキーロードズ Risky Roads 60%OFF</title>
-    <updated>2026-06-10T22:57:08.659646+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt; リスキーロードズ Risky Roads&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw705cfc59/products/D70010000120524/squareHeroBanner/63e51f4e75cbde568f67a45261ba08135b42e5953d07d10e419680592a6dc0bc.jpg?sw=346&amp;amp;strip=false" alt=" リスキーロードズ Risky Roads"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120524"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000124258:cf34dc9be4b29212</id>
-    <title>ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー 10%OFF</title>
-    <updated>2026-06-10T22:57:08.659646+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw229e31cb/products/D70010000124258/squareHeroBanner/978e24bd337752bc0404ad8b08fdf4abbef814b35eef64ec5258c1f8b2357f8d.jpg?sw=346&amp;amp;strip=false" alt="ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124258"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124258"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123244:1918b25f348c744d</id>
-    <title>スライミィマインズのオクチヘ Into the Slimy Mines 10%OFF</title>
-    <updated>2026-06-10T22:57:08.659646+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;スライミィマインズのオクチヘ Into the Slimy Mines&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: Wales Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa9e50cb3/products/D70010000123244/squareHeroBanner/edb2159d70596dffa0dd6d20bfd5775f08cece0efa086e9803c766abea72cd79.jpg?sw=346&amp;amp;strip=false" alt="スライミィマインズのオクチヘ Into the Slimy Mines"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123244"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123244"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000106160:c3c7f49ee2fc3b74</id>
     <title>LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition 10%OFF</title>
     <updated>2026-06-11T01:38:25.886798+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-06-12T19:22:05.004675+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ジュディのアドベンチャーDX&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 420 円&lt;/p&gt;&lt;p&gt;メーカー: RAWRLAB Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dweeb47417/products/D70010000127280/squareHeroBanner/54cb057a0dd1d55a9ac30aecc25ae54e643562f1577d7add9daaa604444dc478.jpg?sw=346&amp;amp;strip=false" alt="ジュディのアドベンチャーDX"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127280"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127280"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
+    <title> リスキーロードズ Risky Roads 60%OFF</title>
+    <updated>2026-06-12T23:48:28.467782+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt; リスキーロードズ Risky Roads&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw705cfc59/products/D70010000120524/squareHeroBanner/63e51f4e75cbde568f67a45261ba08135b42e5953d07d10e419680592a6dc0bc.jpg?sw=346&amp;amp;strip=false" alt=" リスキーロードズ Risky Roads"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120524"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124258:cf34dc9be4b29212</id>
+    <title>ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー 10%OFF</title>
+    <updated>2026-06-12T23:48:28.467782+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw229e31cb/products/D70010000124258/squareHeroBanner/978e24bd337752bc0404ad8b08fdf4abbef814b35eef64ec5258c1f8b2357f8d.jpg?sw=346&amp;amp;strip=false" alt="ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124258"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124258"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123244:1918b25f348c744d</id>
+    <title>スライミィマインズのオクチヘ Into the Slimy Mines 10%OFF</title>
+    <updated>2026-06-12T23:48:28.467782+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;スライミィマインズのオクチヘ Into the Slimy Mines&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: Wales Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa9e50cb3/products/D70010000123244/squareHeroBanner/edb2159d70596dffa0dd6d20bfd5775f08cece0efa086e9803c766abea72cd79.jpg?sw=346&amp;amp;strip=false" alt="スライミィマインズのオクチヘ Into the Slimy Mines"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123244"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123244"/>
   </entry>
 </feed>
