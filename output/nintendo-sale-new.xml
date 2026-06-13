@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-13T08:31:13.807647+00:00</updated>
+  <updated>2026-06-13T11:24:14.437738+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000110061:b36c1ac0ef929091</id>
-    <title>Poetic Trio 20%OFF</title>
-    <updated>2026-06-10T06:41:31.803202+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Poetic Trio&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 792 円&lt;/p&gt;&lt;p&gt;メーカー: Sometimes You&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbb5ca7b9/products/D70010000110061/squareHeroBanner/4c1f49301003e75905ed38098228f9a8aa6e2179ee7688430058796fd475ec2f.jpg?sw=346&amp;amp;strip=false" alt="Poetic Trio"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110061"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000110061"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000121200:97eabcabef74cf9d</id>
     <title>Nitro City Racing 20%OFF</title>
@@ -68,20 +61,6 @@
     <updated>2026-06-10T18:09:13.702073+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Backrooms Phases&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 1,049 円&lt;/p&gt;&lt;p&gt;メーカー: RandomSpin Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6cc6a9eb/products/D70010000127266/squareHeroBanner/76b6e0f91bfe7cfdbeb277546b08eeac6923c9151939c475fe4e7bb37c54b3f4.jpg?sw=346&amp;amp;strip=false" alt="Backrooms Phases"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127266"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127266"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123989:84127b52b7460870</id>
-    <title>The Last of Touch 96%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;The Last of Touch&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;96%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbae8e344/products/D70010000123989/squareHeroBanner/bda56f91c47cc4042c4ff4df62748ce03a7cb199854d80466c90281263ecd397.jpg?sw=346&amp;amp;strip=false" alt="The Last of Touch"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123989"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123989"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126616:ae3f4d13ec2725e7</id>
-    <title>Mori Carta 20%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Mori Carta&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,599 円&lt;/p&gt;&lt;p&gt;メーカー: Secret Item Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8d128b6c/products/D70010000126616/squareHeroBanner/eea90288422d1f497f42abfc449758020ff8e211c16a8d5846252dde2d83fd8d.jpg?sw=346&amp;amp;strip=false" alt="Mori Carta"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126616"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126616"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000105361:257d747f7984ce8a</id>
@@ -355,5 +334,26 @@
     <updated>2026-06-13T04:49:19.772000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ワンマン列車&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 414 円&lt;/p&gt;&lt;p&gt;メーカー: レジスタ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw2ed083c1/products/D70010000124066/squareHeroBanner/d2b9986e4f1520f45845ad02151398c17e4be549a14309c1bc97937ef25c9c14.jpg?sw=346&amp;amp;strip=false" alt="ワンマン列車"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124066"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124066"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126658:26e942b161179fef</id>
+    <title>目指せ上忍！忍者3択検定 10%OFF</title>
+    <updated>2026-06-13T11:24:14.437738+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;目指せ上忍！忍者3択検定&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw70dd2d20/products/D70010000126658/squareHeroBanner/47e097c76856ef270b2c12c1fdf17e395a178e71ad1890af853d305a7d9f9564.jpg?sw=346&amp;amp;strip=false" alt="目指せ上忍！忍者3択検定"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126658"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126658"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123989:84127b52b7460870</id>
+    <title>The Last of Touch 96%OFF</title>
+    <updated>2026-06-13T11:24:14.437738+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;The Last of Touch&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;96%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbae8e344/products/D70010000123989/squareHeroBanner/bda56f91c47cc4042c4ff4df62748ce03a7cb199854d80466c90281263ecd397.jpg?sw=346&amp;amp;strip=false" alt="The Last of Touch"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123989"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123989"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126616:ae3f4d13ec2725e7</id>
+    <title>Mori Carta 20%OFF</title>
+    <updated>2026-06-13T11:24:14.437738+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Mori Carta&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,599 円&lt;/p&gt;&lt;p&gt;メーカー: Secret Item Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8d128b6c/products/D70010000126616/squareHeroBanner/eea90288422d1f497f42abfc449758020ff8e211c16a8d5846252dde2d83fd8d.jpg?sw=346&amp;amp;strip=false" alt="Mori Carta"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126616"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126616"/>
   </entry>
 </feed>
