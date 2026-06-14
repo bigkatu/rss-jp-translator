@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-14T06:04:43.294977+00:00</updated>
+  <updated>2026-06-14T09:55:28.422425+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -252,32 +252,11 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000119629"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
-    <title>フェアリーテールファイターズ 10%OFF</title>
-    <updated>2026-06-12T09:11:25.895594+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123693:795129594e2a458f</id>
     <title>Animal Puzzles 21%OFF</title>
     <updated>2026-06-12T19:22:05.004675+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Animal Puzzles&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;21%OFF&lt;/p&gt;&lt;p&gt;価格: 370 円&lt;/p&gt;&lt;p&gt;メーカー: Silesia Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw53ec6771/products/D70010000123693/squareHeroBanner/0d9206b46668d383b5a91c330d555c4dbca6963db344f1e7691d57846fae28da.jpg?sw=346&amp;amp;strip=false" alt="Animal Puzzles"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123693"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123693"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
-    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
-    <updated>2026-06-12T19:22:05.004675+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000127280:1c64416d54b96caf</id>
-    <title>ジュディのアドベンチャーDX 40%OFF</title>
-    <updated>2026-06-12T19:22:05.004675+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ジュディのアドベンチャーDX&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 420 円&lt;/p&gt;&lt;p&gt;メーカー: RAWRLAB Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dweeb47417/products/D70010000127280/squareHeroBanner/54cb057a0dd1d55a9ac30aecc25ae54e643562f1577d7add9daaa604444dc478.jpg?sw=346&amp;amp;strip=false" alt="ジュディのアドベンチャーDX"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127280"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127280"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
@@ -355,5 +334,26 @@
     <updated>2026-06-14T06:04:43.294977+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;幻影のドラゴン Dragon of Illusion&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;94%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: GAME NACIONAL&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwd674c91b/products/D70010000126731/squareHeroBanner/53de0b5ac55d692a302aeb472221f90ece6aca4e0b20dc896b00531c9400a19c.jpg?sw=346&amp;amp;strip=false" alt="幻影のドラゴン Dragon of Illusion"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126731"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000126731"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127280:1c64416d54b96caf</id>
+    <title>ジュディのアドベンチャーDX 40%OFF</title>
+    <updated>2026-06-14T09:55:28.422425+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ジュディのアドベンチャーDX&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 420 円&lt;/p&gt;&lt;p&gt;メーカー: RAWRLAB Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dweeb47417/products/D70010000127280/squareHeroBanner/54cb057a0dd1d55a9ac30aecc25ae54e643562f1577d7add9daaa604444dc478.jpg?sw=346&amp;amp;strip=false" alt="ジュディのアドベンチャーDX"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127280"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127280"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
+    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
+    <updated>2026-06-14T09:55:28.422425+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
+    <title>フェアリーテールファイターズ 10%OFF</title>
+    <updated>2026-06-14T09:55:28.422425+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
   </entry>
 </feed>
