@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-14T00:20:18.955701+00:00</updated>
+  <updated>2026-06-14T06:04:43.294977+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -75,13 +75,6 @@
     <updated>2026-06-10T18:09:13.702073+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;当たりすぎて怖い…この画像でわかるあなたの本音ー隠された感情を、あなたは見抜けるかー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe5cc6530/products/D70010000128955/squareHeroBanner/2a85eb9e54d0ec86ae812d7b34b746d15179f72ef9f45c64e982bd7927e3f7fa.jpg?sw=346&amp;amp;strip=false" alt="当たりすぎて怖い…この画像でわかるあなたの本音ー隠された感情を、あなたは見抜けるかー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128955"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000128955"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126731:893a01aa19ba3a45</id>
-    <title>幻影のドラゴン Dragon of Illusion 94%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;幻影のドラゴン Dragon of Illusion&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;94%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: GAME NACIONAL&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwd674c91b/products/D70010000126731/squareHeroBanner/53de0b5ac55d692a302aeb472221f90ece6aca4e0b20dc896b00531c9400a19c.jpg?sw=346&amp;amp;strip=false" alt="幻影のドラゴン Dragon of Illusion"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126731"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126731"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000128647:a13dd2431f5bada5</id>
@@ -355,5 +348,12 @@
     <updated>2026-06-13T11:24:14.437738+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Mori Carta&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,599 円&lt;/p&gt;&lt;p&gt;メーカー: Secret Item Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8d128b6c/products/D70010000126616/squareHeroBanner/eea90288422d1f497f42abfc449758020ff8e211c16a8d5846252dde2d83fd8d.jpg?sw=346&amp;amp;strip=false" alt="Mori Carta"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126616"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000126616"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126731:893a01aa19ba3a45</id>
+    <title>幻影のドラゴン Dragon of Illusion 94%OFF</title>
+    <updated>2026-06-14T06:04:43.294977+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;幻影のドラゴン Dragon of Illusion&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;94%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: GAME NACIONAL&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwd674c91b/products/D70010000126731/squareHeroBanner/53de0b5ac55d692a302aeb472221f90ece6aca4e0b20dc896b00531c9400a19c.jpg?sw=346&amp;amp;strip=false" alt="幻影のドラゴン Dragon of Illusion"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126731"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126731"/>
   </entry>
 </feed>
