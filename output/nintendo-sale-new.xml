@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-14T22:21:45.965585+00:00</updated>
+  <updated>2026-06-15T01:42:12.967800+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -245,13 +245,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000123693"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000124258:cf34dc9be4b29212</id>
-    <title>ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー 10%OFF</title>
-    <updated>2026-06-12T23:48:28.467782+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw229e31cb/products/D70010000124258/squareHeroBanner/978e24bd337752bc0404ad8b08fdf4abbef814b35eef64ec5258c1f8b2357f8d.jpg?sw=346&amp;amp;strip=false" alt="ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124258"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124258"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000106160:c3c7f49ee2fc3b74</id>
     <title>LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition 10%OFF</title>
     <updated>2026-06-13T04:49:19.772000+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-06-14T16:46:32.275318+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Inversion: The Single Path&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 980 円&lt;/p&gt;&lt;p&gt;メーカー: CGI LAB GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaa3fbccc/products/D70010000123396/squareHeroBanner/776f30e69ca115d98f63b0b04f417996321afa142b97439f6b8b63c1b26a071c.jpg?sw=346&amp;amp;strip=false" alt="Inversion: The Single Path"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123396"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123396"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124258:cf34dc9be4b29212</id>
+    <title>ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー 10%OFF</title>
+    <updated>2026-06-15T01:42:12.967800+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw229e31cb/products/D70010000124258/squareHeroBanner/978e24bd337752bc0404ad8b08fdf4abbef814b35eef64ec5258c1f8b2357f8d.jpg?sw=346&amp;amp;strip=false" alt="ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124258"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124258"/>
   </entry>
 </feed>
