@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-15T01:42:12.967800+00:00</updated>
+  <updated>2026-06-15T07:37:05.216527+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -68,13 +68,6 @@
     <updated>2026-06-10T18:09:13.702073+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;マンガで身につく！クイズでネイティブ英会話ーアメリカ人が毎日使うかんたん4択英語学習テストー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwad985a2d/products/D70010000128647/squareHeroBanner/6703e1fe46b2e6518798d8f4c11128d22b47d033719d6d7f7b7616337b7b8182.jpg?sw=346&amp;amp;strip=false" alt="マンガで身につく！クイズでネイティブ英会話ーアメリカ人が毎日使うかんたん4択英語学習テストー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128647"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000128647"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121908:623ef725ead69702</id>
-    <title>爆走！立体駐車場ラリー (Parking Garage Rally Circuit) 15%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;爆走！立体駐車場ラリー (Parking Garage Rally Circuit)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,360 円&lt;/p&gt;&lt;p&gt;メーカー: Pineapple Works&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw251dbd6e/products/D70010000121908/squareHeroBanner/bf35a9adc473dc3231b374fe9c152f4d0981dbb7e018f36225e39e40b8c66738.jpg?sw=346&amp;amp;strip=false" alt="爆走！立体駐車場ラリー (Parking Garage Rally Circuit)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121908"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121908"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000125071:803c5dd2e31e1159</id>
@@ -322,13 +315,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123244:1918b25f348c744d</id>
-    <title>スライミィマインズのオクチヘ Into the Slimy Mines 10%OFF</title>
-    <updated>2026-06-14T16:46:32.275318+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;スライミィマインズのオクチヘ Into the Slimy Mines&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: Wales Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa9e50cb3/products/D70010000123244/squareHeroBanner/edb2159d70596dffa0dd6d20bfd5775f08cece0efa086e9803c766abea72cd79.jpg?sw=346&amp;amp;strip=false" alt="スライミィマインズのオクチヘ Into the Slimy Mines"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123244"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123244"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
     <title> リスキーロードズ Risky Roads 60%OFF</title>
     <updated>2026-06-14T16:46:32.275318+00:00</updated>
@@ -355,5 +341,19 @@
     <updated>2026-06-15T01:42:12.967800+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw229e31cb/products/D70010000124258/squareHeroBanner/978e24bd337752bc0404ad8b08fdf4abbef814b35eef64ec5258c1f8b2357f8d.jpg?sw=346&amp;amp;strip=false" alt="ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124258"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124258"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123244:1918b25f348c744d</id>
+    <title>スライミィマインズのオクチヘ Into the Slimy Mines 10%OFF</title>
+    <updated>2026-06-15T07:37:05.216527+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;スライミィマインズのオクチヘ Into the Slimy Mines&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,620 円&lt;/p&gt;&lt;p&gt;メーカー: Wales Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa9e50cb3/products/D70010000123244/squareHeroBanner/edb2159d70596dffa0dd6d20bfd5775f08cece0efa086e9803c766abea72cd79.jpg?sw=346&amp;amp;strip=false" alt="スライミィマインズのオクチヘ Into the Slimy Mines"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123244"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123244"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121908:623ef725ead69702</id>
+    <title>爆走！立体駐車場ラリー (Parking Garage Rally Circuit) 15%OFF</title>
+    <updated>2026-06-15T07:37:05.216527+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;爆走！立体駐車場ラリー (Parking Garage Rally Circuit)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,360 円&lt;/p&gt;&lt;p&gt;メーカー: Pineapple Works&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw251dbd6e/products/D70010000121908/squareHeroBanner/bf35a9adc473dc3231b374fe9c152f4d0981dbb7e018f36225e39e40b8c66738.jpg?sw=346&amp;amp;strip=false" alt="爆走！立体駐車場ラリー (Parking Garage Rally Circuit)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121908"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121908"/>
   </entry>
 </feed>
