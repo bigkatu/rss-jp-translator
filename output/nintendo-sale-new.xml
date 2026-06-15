@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-15T14:33:53.109268+00:00</updated>
+  <updated>2026-06-15T19:08:49.924877+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -231,13 +231,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000119629"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123693:795129594e2a458f</id>
-    <title>Animal Puzzles 21%OFF</title>
-    <updated>2026-06-12T19:22:05.004675+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Animal Puzzles&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;21%OFF&lt;/p&gt;&lt;p&gt;価格: 370 円&lt;/p&gt;&lt;p&gt;メーカー: Silesia Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw53ec6771/products/D70010000123693/squareHeroBanner/0d9206b46668d383b5a91c330d555c4dbca6963db344f1e7691d57846fae28da.jpg?sw=346&amp;amp;strip=false" alt="Animal Puzzles"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123693"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123693"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000106160:c3c7f49ee2fc3b74</id>
     <title>LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition 10%OFF</title>
     <updated>2026-06-13T04:49:19.772000+00:00</updated>
@@ -294,20 +287,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000126731"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000127280:1c64416d54b96caf</id>
-    <title>ジュディのアドベンチャーDX 40%OFF</title>
-    <updated>2026-06-14T09:55:28.422425+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ジュディのアドベンチャーDX&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 420 円&lt;/p&gt;&lt;p&gt;メーカー: RAWRLAB Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dweeb47417/products/D70010000127280/squareHeroBanner/54cb057a0dd1d55a9ac30aecc25ae54e643562f1577d7add9daaa604444dc478.jpg?sw=346&amp;amp;strip=false" alt="ジュディのアドベンチャーDX"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127280"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127280"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
-    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
-    <updated>2026-06-14T09:55:28.422425+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
     <title>フェアリーテールファイターズ 10%OFF</title>
     <updated>2026-06-14T09:55:28.422425+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-06-15T07:37:05.216527+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;爆走！立体駐車場ラリー (Parking Garage Rally Circuit)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,360 円&lt;/p&gt;&lt;p&gt;メーカー: Pineapple Works&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw251dbd6e/products/D70010000121908/squareHeroBanner/bf35a9adc473dc3231b374fe9c152f4d0981dbb7e018f36225e39e40b8c66738.jpg?sw=346&amp;amp;strip=false" alt="爆走！立体駐車場ラリー (Parking Garage Rally Circuit)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121908"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121908"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123693:795129594e2a458f</id>
+    <title>Animal Puzzles 21%OFF</title>
+    <updated>2026-06-15T19:08:49.924877+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Animal Puzzles&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;21%OFF&lt;/p&gt;&lt;p&gt;価格: 370 円&lt;/p&gt;&lt;p&gt;メーカー: Silesia Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw53ec6771/products/D70010000123693/squareHeroBanner/0d9206b46668d383b5a91c330d555c4dbca6963db344f1e7691d57846fae28da.jpg?sw=346&amp;amp;strip=false" alt="Animal Puzzles"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123693"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123693"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127280:1c64416d54b96caf</id>
+    <title>ジュディのアドベンチャーDX 40%OFF</title>
+    <updated>2026-06-15T19:08:49.924877+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ジュディのアドベンチャーDX&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 420 円&lt;/p&gt;&lt;p&gt;メーカー: RAWRLAB Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dweeb47417/products/D70010000127280/squareHeroBanner/54cb057a0dd1d55a9ac30aecc25ae54e643562f1577d7add9daaa604444dc478.jpg?sw=346&amp;amp;strip=false" alt="ジュディのアドベンチャーDX"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127280"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127280"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
+    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
+    <updated>2026-06-15T19:08:49.924877+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
   </entry>
 </feed>
