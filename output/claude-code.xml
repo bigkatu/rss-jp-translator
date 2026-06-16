@@ -2,27 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-16T17:19:51.749263+00:00</updated>
+  <updated>2026-06-16T21:18:08.562019+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.168</id>
-    <title>v2.1.168</title>
-    <updated>2026-06-06T23:41:53+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バグ修正と信頼性の向上&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Bug fixes and reliability improvements&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.168"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.169</id>
     <title>v2.1.169</title>
@@ -829,5 +813,57 @@ vscode://&lt;br&gt;
 &lt;li&gt;[VSCode] Fixed pressing Esc to dismiss a CJK IME candidate window canceling the running Claude task&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.178"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.179</id>
+    <title>v2.1.179</title>
+    <updated>2026-06-16T20:22:14+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ストリーム中の接続ドロップを修正しました。生のエラーを表示する代わりに部分応答が保存されるようになり、スピナーが「ツールの実行中」でスタックしなくなりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Windows ターミナルおよび VS Code での WSL2 でのマウス ホイール スクロールを修正しました (2.1.172 でのリグレッション)&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サンドボックスを修正しました &lt;br&gt;
+拒否読み取り&lt;br&gt;
+/&lt;br&gt;
+許可読み取り&lt;br&gt;
+ 大きなディレクトリ ツリー上の glob により、Bash ツールの説明が膨大になり、Linux ではセッションが使用できなくなります&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ターン完了直後にセッション評価として 1 桁の回答を取得するフィードバック調査を修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+複数のプロモーション バナーが重なったウェルカム画面を修正しました。セッションごとに最大 1 つのプロモーションが表示されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サブエージェントを表示するときに Ctrl+O を押してもサブエージェントのトランスクリプトが表示されない問題を修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+プロンプト入力をクリックしてもサブエージェント/フッター パネルからフォーカスが戻らない問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+リモート セッションのバックグラウンド タスクがターン間で「まだ実行中」としてスタックして表示される問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+リモートセッションでのプラグイン読み込みパフォーマンスの向上&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed mid-stream connection drops: partial responses are now preserved instead of showing a raw error, and the spinner no longer gets stuck at "running tool"&lt;/li&gt;
+&lt;li&gt;Fixed mouse-wheel scrolling in WSL2 under Windows Terminal and VS Code (regression in 2.1.172)&lt;/li&gt;
+&lt;li&gt;Fixed a sandbox &lt;code&gt;denyRead&lt;/code&gt;/&lt;code&gt;allowRead&lt;/code&gt; glob over a large directory tree making the Bash tool description enormous and the session unusable on Linux&lt;/li&gt;
+&lt;li&gt;Fixed the feedback survey capturing a single-digit reply as a session rating immediately after a turn completes&lt;/li&gt;
+&lt;li&gt;Fixed the welcome screen stacking multiple promotional banners — at most one promo now shows per session&lt;/li&gt;
+&lt;li&gt;Fixed Ctrl+O not showing the subagent's transcript when viewing a subagent&lt;/li&gt;
+&lt;li&gt;Fixed clicking the prompt input not returning focus from the subagent/footer panel&lt;/li&gt;
+&lt;li&gt;Fixed remote session background tasks appearing stuck as "still running" between turns&lt;/li&gt;
+&lt;li&gt;Improved plugin loading performance in remote sessions&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.179"/>
   </entry>
 </feed>
