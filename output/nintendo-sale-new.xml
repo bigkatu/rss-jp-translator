@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-16T11:33:35.227872+00:00</updated>
+  <updated>2026-06-16T17:20:43.144827+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000127112:48ef84492f940d6d</id>
-    <title>Minesweeper Pro 75%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Minesweeper Pro&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;75%OFF&lt;/p&gt;&lt;p&gt;価格: 198 円&lt;/p&gt;&lt;p&gt;メーカー: Soroka Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwad051689/products/D70010000127112/squareHeroBanner/332341c7c94fa4b8dec2c924409f5b398b63555aeac5868cbd745b12a0e88a76.jpg?sw=346&amp;amp;strip=false" alt="Minesweeper Pro"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127112"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127112"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000119536:4f587217b8b7feac</id>
-    <title>Good Girls: Seduction Starts With a Smile 96%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Good Girls: Seduction Starts With a Smile&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;96%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw792dfa8f/products/D70010000119536/squareHeroBanner/c2c219b180c67bc0f9d52787d8fe5902e9fbea4cdf324d774745ed080eb37e1b.jpg?sw=346&amp;amp;strip=false" alt="Good Girls: Seduction Starts With a Smile"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119536"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119536"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
     <title>Urban Jungle 17%OFF</title>
@@ -33,13 +19,6 @@
     <updated>2026-06-10T18:09:13.702073+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Backrooms Phases&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 1,049 円&lt;/p&gt;&lt;p&gt;メーカー: RandomSpin Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6cc6a9eb/products/D70010000127266/squareHeroBanner/76b6e0f91bfe7cfdbeb277546b08eeac6923c9151939c475fe4e7bb37c54b3f4.jpg?sw=346&amp;amp;strip=false" alt="Backrooms Phases"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127266"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127266"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000105361:257d747f7984ce8a</id>
-    <title>Love Chemistry - Sibella's Formula 20%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Love Chemistry - Sibella's Formula&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 640 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw55394e70/products/D70010000105361/squareHeroBanner/3e58f07d6c60e260e9a42dce708375b19aa627750235b98241ec07c4dab3cd19.jpg?sw=346&amp;amp;strip=false" alt="Love Chemistry - Sibella's Formula"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000105361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000105361"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000128955:802188571e6dec41</id>
@@ -273,25 +252,11 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000126731"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
-    <title> リスキーロードズ Risky Roads 60%OFF</title>
-    <updated>2026-06-14T16:46:32.275318+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt; リスキーロードズ Risky Roads&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw705cfc59/products/D70010000120524/squareHeroBanner/63e51f4e75cbde568f67a45261ba08135b42e5953d07d10e419680592a6dc0bc.jpg?sw=346&amp;amp;strip=false" alt=" リスキーロードズ Risky Roads"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120524"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000124537:e65b748a822e02eb</id>
     <title>Anime Codex: Final Pose 80%OFF</title>
     <updated>2026-06-14T16:46:32.275318+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Anime Codex: Final Pose&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw35a83294/products/D70010000124537/squareHeroBanner/706a8f497c31afc795d8d17265acdb1c731d5501ce6160e14c4c8d2679b8edac.jpg?sw=346&amp;amp;strip=false" alt="Anime Codex: Final Pose"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124537"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124537"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123396:463da2fae9dad59c</id>
-    <title>Inversion: The Single Path 30%OFF</title>
-    <updated>2026-06-14T16:46:32.275318+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Inversion: The Single Path&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 980 円&lt;/p&gt;&lt;p&gt;メーカー: CGI LAB GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaa3fbccc/products/D70010000123396/squareHeroBanner/776f30e69ca115d98f63b0b04f417996321afa142b97439f6b8b63c1b26a071c.jpg?sw=346&amp;amp;strip=false" alt="Inversion: The Single Path"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123396"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123396"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000124258:cf34dc9be4b29212</id>
@@ -355,5 +320,40 @@
     <updated>2026-06-16T11:33:35.227872+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
+    <title> リスキーロードズ Risky Roads 60%OFF</title>
+    <updated>2026-06-16T17:20:43.144827+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt; リスキーロードズ Risky Roads&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw705cfc59/products/D70010000120524/squareHeroBanner/63e51f4e75cbde568f67a45261ba08135b42e5953d07d10e419680592a6dc0bc.jpg?sw=346&amp;amp;strip=false" alt=" リスキーロードズ Risky Roads"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120524"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126344:f51695181e4bd394</id>
+    <title>常識で見抜け！ ありえない世界ーその違和感、見逃すなー 10%OFF</title>
+    <updated>2026-06-16T17:20:43.144827+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;常識で見抜け！ ありえない世界ーその違和感、見逃すなー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw62609c05/products/D70010000126344/squareHeroBanner/3d1160dab6aa8c960ac26f1ac0e38225359ae9b74d0f28918afc26a2ba74001f.jpg?sw=346&amp;amp;strip=false" alt="常識で見抜け！ ありえない世界ーその違和感、見逃すなー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126344"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126344"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126786:8407dc97b7c8a3d7</id>
+    <title>Kitten Island 2 81%OFF</title>
+    <updated>2026-06-16T17:20:43.144827+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Kitten Island 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;81%OFF&lt;/p&gt;&lt;p&gt;価格: 199 円&lt;/p&gt;&lt;p&gt;メーカー: GAME NACIONAL&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb955cf5b/products/D70010000126786/squareHeroBanner/1e57bbaa25026893307fb1a7cd238eee29451df6d6d568c4971ce6a7d9178e76.jpg?sw=346&amp;amp;strip=false" alt="Kitten Island 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126786"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126786"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000105361:257d747f7984ce8a</id>
+    <title>Love Chemistry - Sibella's Formula 20%OFF</title>
+    <updated>2026-06-16T17:20:43.144827+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Love Chemistry - Sibella's Formula&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 640 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw55394e70/products/D70010000105361/squareHeroBanner/3e58f07d6c60e260e9a42dce708375b19aa627750235b98241ec07c4dab3cd19.jpg?sw=346&amp;amp;strip=false" alt="Love Chemistry - Sibella's Formula"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000105361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000105361"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123396:463da2fae9dad59c</id>
+    <title>Inversion: The Single Path 30%OFF</title>
+    <updated>2026-06-16T17:20:43.144827+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Inversion: The Single Path&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 980 円&lt;/p&gt;&lt;p&gt;メーカー: CGI LAB GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaa3fbccc/products/D70010000123396/squareHeroBanner/776f30e69ca115d98f63b0b04f417996321afa142b97439f6b8b63c1b26a071c.jpg?sw=346&amp;amp;strip=false" alt="Inversion: The Single Path"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123396"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123396"/>
   </entry>
 </feed>
