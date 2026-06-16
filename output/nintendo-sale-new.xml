@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-16T05:30:54.845843+00:00</updated>
+  <updated>2026-06-16T11:33:35.227872+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000126054:3419eb975db81180</id>
-    <title>Memebonk 30%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Memebonk&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 1,049 円&lt;/p&gt;&lt;p&gt;メーカー: RandomSpin Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1e338c1f/products/D70010000126054/squareHeroBanner/bdd15b7b3abe9da63591457cdbdef401293533d1c8bec2e9304d83fb1cd03ed4.jpg?sw=346&amp;amp;strip=false" alt="Memebonk"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126054"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126054"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000119807:008762de2a906232</id>
-    <title>フリッピージャンプ Flippy Jump 60%OFF</title>
-    <updated>2026-06-10T18:09:13.702073+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;フリッピージャンプ Flippy Jump&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5c8cb08d/products/D70010000119807/squareHeroBanner/9cdf770583f29825265144239c9f7f158505aadc54553e4b4841ab7b535d5541.jpg?sw=346&amp;amp;strip=false" alt="フリッピージャンプ Flippy Jump"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119807"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119807"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000127112:48ef84492f940d6d</id>
     <title>Minesweeper Pro 75%OFF</title>
@@ -287,13 +273,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000126731"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
-    <title>フェアリーテールファイターズ 10%OFF</title>
-    <updated>2026-06-14T09:55:28.422425+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
     <title> リスキーロードズ Risky Roads 60%OFF</title>
     <updated>2026-06-14T16:46:32.275318+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-06-15T19:08:49.924877+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121585:223dcd401d77e639</id>
+    <title>Cozy Home Unpacking 33%OFF</title>
+    <updated>2026-06-16T11:33:35.227872+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Home Unpacking&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,580 円&lt;/p&gt;&lt;p&gt;メーカー: Play Lab&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw45bff4ec/products/D70010000121585/squareHeroBanner/8e5782599bea0692135a767f8056f09bb24e8c8371cc592f587b11595802184b.jpg?sw=346&amp;amp;strip=false" alt="Cozy Home Unpacking"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121585"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121585"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000112446:dd05cca6f7edd4bd</id>
+    <title>時の龍環（Dragon Loop） 10%OFF</title>
+    <updated>2026-06-16T11:33:35.227872+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;時の龍環（Dragon Loop）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Happy Player&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcb9030f9/products/D70010000112446/squareHeroBanner/a9000136ac06ea2ec304d4765bd0adc037c09165cc8ea987a8c865d77bce1c32.jpg?sw=346&amp;amp;strip=false" alt="時の龍環（Dragon Loop）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112446"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000112446"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
+    <title>フェアリーテールファイターズ 10%OFF</title>
+    <updated>2026-06-16T11:33:35.227872+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
   </entry>
 </feed>
