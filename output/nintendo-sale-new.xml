@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-18T07:05:19.760072+00:00</updated>
+  <updated>2026-06-18T11:17:03.561749+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000121688:e022d70ed21eea9e</id>
-    <title>恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls) 60%OFF</title>
-    <updated>2026-06-11T19:45:07.822324+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw650b4ae1/products/D70010000121688/squareHeroBanner/bce9fd6ca97c7c1fb07926221647e6a37957b1f52ead1dd501adf653160a70b1.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121688"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121688"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000124414:4c4024071060601b</id>
     <title>Cozy Valley Life 40%OFF</title>
@@ -77,13 +70,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000126731"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000124537:e65b748a822e02eb</id>
-    <title>Anime Codex: Final Pose 80%OFF</title>
-    <updated>2026-06-14T16:46:32.275318+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Anime Codex: Final Pose&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw35a83294/products/D70010000124537/squareHeroBanner/706a8f497c31afc795d8d17265acdb1c731d5501ce6160e14c4c8d2679b8edac.jpg?sw=346&amp;amp;strip=false" alt="Anime Codex: Final Pose"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124537"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124537"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000124258:cf34dc9be4b29212</id>
     <title>ワード探偵 IQ200への挑戦ー超難問名探偵からのナゾトキ脳トレ脳活推理ミステリーー 10%OFF</title>
     <updated>2026-06-15T01:42:12.967800+00:00</updated>
@@ -103,13 +89,6 @@
     <updated>2026-06-15T07:37:05.216527+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;爆走！立体駐車場ラリー (Parking Garage Rally Circuit)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,360 円&lt;/p&gt;&lt;p&gt;メーカー: Pineapple Works&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw251dbd6e/products/D70010000121908/squareHeroBanner/bf35a9adc473dc3231b374fe9c152f4d0981dbb7e018f36225e39e40b8c66738.jpg?sw=346&amp;amp;strip=false" alt="爆走！立体駐車場ラリー (Parking Garage Rally Circuit)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121908"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121908"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123693:795129594e2a458f</id>
-    <title>Animal Puzzles 21%OFF</title>
-    <updated>2026-06-15T19:08:49.924877+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Animal Puzzles&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;21%OFF&lt;/p&gt;&lt;p&gt;価格: 370 円&lt;/p&gt;&lt;p&gt;メーカー: Silesia Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw53ec6771/products/D70010000123693/squareHeroBanner/0d9206b46668d383b5a91c330d555c4dbca6963db344f1e7691d57846fae28da.jpg?sw=346&amp;amp;strip=false" alt="Animal Puzzles"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123693"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123693"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000127280:1c64416d54b96caf</id>
@@ -355,5 +334,26 @@
     <updated>2026-06-18T07:05:19.760072+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Springbot: The Last Spark&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 400 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3c45e962/products/D70010000120879/squareHeroBanner/f648d164eb0ad7bd447baa7de2cd340ca2b6d9438a3278de2bce47febdf2c9d4.jpg?sw=346&amp;amp;strip=false" alt="Springbot: The Last Spark"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120879"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000120879"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124537:e65b748a822e02eb</id>
+    <title>Anime Codex: Final Pose 80%OFF</title>
+    <updated>2026-06-18T11:17:03.561749+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Anime Codex: Final Pose&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw35a83294/products/D70010000124537/squareHeroBanner/706a8f497c31afc795d8d17265acdb1c731d5501ce6160e14c4c8d2679b8edac.jpg?sw=346&amp;amp;strip=false" alt="Anime Codex: Final Pose"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124537"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124537"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123693:795129594e2a458f</id>
+    <title>Animal Puzzles 21%OFF</title>
+    <updated>2026-06-18T11:17:03.561749+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Animal Puzzles&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;21%OFF&lt;/p&gt;&lt;p&gt;価格: 370 円&lt;/p&gt;&lt;p&gt;メーカー: Silesia Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw53ec6771/products/D70010000123693/squareHeroBanner/0d9206b46668d383b5a91c330d555c4dbca6963db344f1e7691d57846fae28da.jpg?sw=346&amp;amp;strip=false" alt="Animal Puzzles"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123693"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123693"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126195:59d12fd32cb389a6</id>
+    <title>Hidden Legends 2 60%OFF</title>
+    <updated>2026-06-18T11:17:03.561749+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Hidden Legends 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw300f4ba6/products/D70010000126195/squareHeroBanner/e6241b94de188a7bde2b2c940e3cec9bdb15276cd93b1568333f8f61b05e444f.jpg?sw=346&amp;amp;strip=false" alt="Hidden Legends 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126195"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126195"/>
   </entry>
 </feed>
