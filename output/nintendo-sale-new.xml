@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-18T11:17:03.561749+00:00</updated>
+  <updated>2026-06-18T15:52:11.394987+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000124414:4c4024071060601b</id>
-    <title>Cozy Valley Life 40%OFF</title>
-    <updated>2026-06-11T19:45:07.822324+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Valley Life&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 1,788 円&lt;/p&gt;&lt;p&gt;メーカー: Tashlik&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw01422009/products/D70010000124414/squareHeroBanner/675c70107b8796c50dce99977b263db12eda5457c47635822655769aee96c655.jpg?sw=346&amp;amp;strip=false" alt="Cozy Valley Life"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124414"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124414"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000119629:f11cd3f83cfa9c65</id>
     <title>Pitstop in Purgatory 20%OFF</title>
@@ -315,27 +308,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000122067"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000126344:f51695181e4bd394</id>
-    <title>常識で見抜け！ ありえない世界ーその違和感、見逃すなー 10%OFF</title>
-    <updated>2026-06-18T07:05:19.760072+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;常識で見抜け！ ありえない世界ーその違和感、見逃すなー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw62609c05/products/D70010000126344/squareHeroBanner/3d1160dab6aa8c960ac26f1ac0e38225359ae9b74d0f28918afc26a2ba74001f.jpg?sw=346&amp;amp;strip=false" alt="常識で見抜け！ ありえない世界ーその違和感、見逃すなー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126344"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126344"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126658:26e942b161179fef</id>
-    <title>目指せ上忍！忍者3択検定 10%OFF</title>
-    <updated>2026-06-18T07:05:19.760072+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;目指せ上忍！忍者3択検定&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw70dd2d20/products/D70010000126658/squareHeroBanner/47e097c76856ef270b2c12c1fdf17e395a178e71ad1890af853d305a7d9f9564.jpg?sw=346&amp;amp;strip=false" alt="目指せ上忍！忍者3択検定"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126658"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126658"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000120879:8e392c37b4adeff8</id>
-    <title>Springbot: The Last Spark 20%OFF</title>
-    <updated>2026-06-18T07:05:19.760072+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Springbot: The Last Spark&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 400 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3c45e962/products/D70010000120879/squareHeroBanner/f648d164eb0ad7bd447baa7de2cd340ca2b6d9438a3278de2bce47febdf2c9d4.jpg?sw=346&amp;amp;strip=false" alt="Springbot: The Last Spark"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120879"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120879"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000124537:e65b748a822e02eb</id>
     <title>Anime Codex: Final Pose 80%OFF</title>
     <updated>2026-06-18T11:17:03.561749+00:00</updated>
@@ -355,5 +327,33 @@
     <updated>2026-06-18T11:17:03.561749+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Hidden Legends 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw300f4ba6/products/D70010000126195/squareHeroBanner/e6241b94de188a7bde2b2c940e3cec9bdb15276cd93b1568333f8f61b05e444f.jpg?sw=346&amp;amp;strip=false" alt="Hidden Legends 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126195"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000126195"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126344:f51695181e4bd394</id>
+    <title>常識で見抜け！ ありえない世界ーその違和感、見逃すなー 10%OFF</title>
+    <updated>2026-06-18T15:52:11.394987+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;常識で見抜け！ ありえない世界ーその違和感、見逃すなー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw62609c05/products/D70010000126344/squareHeroBanner/3d1160dab6aa8c960ac26f1ac0e38225359ae9b74d0f28918afc26a2ba74001f.jpg?sw=346&amp;amp;strip=false" alt="常識で見抜け！ ありえない世界ーその違和感、見逃すなー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126344"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126344"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120879:8e392c37b4adeff8</id>
+    <title>Springbot: The Last Spark 20%OFF</title>
+    <updated>2026-06-18T15:52:11.394987+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Springbot: The Last Spark&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 400 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3c45e962/products/D70010000120879/squareHeroBanner/f648d164eb0ad7bd447baa7de2cd340ca2b6d9438a3278de2bce47febdf2c9d4.jpg?sw=346&amp;amp;strip=false" alt="Springbot: The Last Spark"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120879"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120879"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126658:26e942b161179fef</id>
+    <title>目指せ上忍！忍者3択検定 10%OFF</title>
+    <updated>2026-06-18T15:52:11.394987+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;目指せ上忍！忍者3択検定&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw70dd2d20/products/D70010000126658/squareHeroBanner/47e097c76856ef270b2c12c1fdf17e395a178e71ad1890af853d305a7d9f9564.jpg?sw=346&amp;amp;strip=false" alt="目指せ上忍！忍者3択検定"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126658"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126658"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123848:db6ab672f757c2e0</id>
+    <title>ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera) 60%OFF</title>
+    <updated>2026-06-18T15:52:11.394987+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdb46f767/products/D70010000123848/squareHeroBanner/3cbf49eefb3cdd23969c145bed1a8c0404bad02e80a034df55e8c7a8758332d4.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123848"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123848"/>
   </entry>
 </feed>
