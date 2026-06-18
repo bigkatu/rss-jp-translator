@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-18T21:29:05.151579+00:00</updated>
+  <updated>2026-06-18T23:59:59.302814+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000106160:c3c7f49ee2fc3b74</id>
-    <title>LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition 10%OFF</title>
-    <updated>2026-06-13T04:49:19.772000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 6,831 円&lt;/p&gt;&lt;p&gt;メーカー: ドラガミゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw51f17bb2/products/D70010000106160/squareHeroBanner/e5ea081e69fc05e671ab8b80cd1681d9d659a091aa04c0b9ef6c79cb2706fa0c.jpg?sw=346&amp;amp;strip=false" alt="LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000106160"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000106160"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000122641:46e3787167f9f285</id>
     <title>バレずにギリギリミッション！ 28%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-06-18T18:36:28.594826+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Anime Codex: Final Pose&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw35a83294/products/D70010000124537/squareHeroBanner/706a8f497c31afc795d8d17265acdb1c731d5501ce6160e14c4c8d2679b8edac.jpg?sw=346&amp;amp;strip=false" alt="Anime Codex: Final Pose"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124537"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124537"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124414:4c4024071060601b</id>
+    <title>Cozy Valley Life 40%OFF</title>
+    <updated>2026-06-18T23:59:59.302814+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Valley Life&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 1,788 円&lt;/p&gt;&lt;p&gt;メーカー: Tashlik&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw01422009/products/D70010000124414/squareHeroBanner/675c70107b8796c50dce99977b263db12eda5457c47635822655769aee96c655.jpg?sw=346&amp;amp;strip=false" alt="Cozy Valley Life"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124414"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124414"/>
   </entry>
 </feed>
