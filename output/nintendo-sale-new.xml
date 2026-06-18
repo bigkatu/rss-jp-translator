@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-18T01:40:23.522340+00:00</updated>
+  <updated>2026-06-18T07:05:19.760072+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000122653:fbf04b80aefae7b4</id>
-    <title>釣って！世界の魚つり 27%OFF</title>
-    <updated>2026-06-11T16:20:40.711466+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;釣って！世界の魚つり&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;27%OFF&lt;/p&gt;&lt;p&gt;価格: 930 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw91eac77c/products/D70010000122653/squareHeroBanner/9fbc6a8ddb585fbe83201d2940650255b66be1c791a34cfa725a0981baf3ff8c.jpg?sw=346&amp;amp;strip=false" alt="釣って！世界の魚つり"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122653"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122653"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000121688:e022d70ed21eea9e</id>
     <title>恐竜進化！捕まえて育てる原始美少女 (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls) 60%OFF</title>
@@ -61,13 +54,6 @@
     <updated>2026-06-13T04:49:19.772000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ワンマン列車&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 414 円&lt;/p&gt;&lt;p&gt;メーカー: レジスタ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw2ed083c1/products/D70010000124066/squareHeroBanner/d2b9986e4f1520f45845ad02151398c17e4be549a14309c1bc97937ef25c9c14.jpg?sw=346&amp;amp;strip=false" alt="ワンマン列車"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124066"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124066"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126658:26e942b161179fef</id>
-    <title>目指せ上忍！忍者3択検定 10%OFF</title>
-    <updated>2026-06-13T11:24:14.437738+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;目指せ上忍！忍者3択検定&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw70dd2d20/products/D70010000126658/squareHeroBanner/47e097c76856ef270b2c12c1fdf17e395a178e71ad1890af853d305a7d9f9564.jpg?sw=346&amp;amp;strip=false" alt="目指せ上忍！忍者3択検定"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126658"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126658"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000123989:84127b52b7460870</id>
@@ -166,13 +152,6 @@
     <updated>2026-06-16T17:20:43.144827+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt; リスキーロードズ Risky Roads&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw705cfc59/products/D70010000120524/squareHeroBanner/63e51f4e75cbde568f67a45261ba08135b42e5953d07d10e419680592a6dc0bc.jpg?sw=346&amp;amp;strip=false" alt=" リスキーロードズ Risky Roads"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000120524"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126344:f51695181e4bd394</id>
-    <title>常識で見抜け！ ありえない世界ーその違和感、見逃すなー 10%OFF</title>
-    <updated>2026-06-16T17:20:43.144827+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;常識で見抜け！ ありえない世界ーその違和感、見逃すなー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw62609c05/products/D70010000126344/squareHeroBanner/3d1160dab6aa8c960ac26f1ac0e38225359ae9b74d0f28918afc26a2ba74001f.jpg?sw=346&amp;amp;strip=false" alt="常識で見抜け！ ありえない世界ーその違和感、見逃すなー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126344"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126344"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000126786:8407dc97b7c8a3d7</id>
@@ -355,5 +334,26 @@
     <updated>2026-06-18T01:40:23.522340+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Kusan: オオカミの街&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,520 円&lt;/p&gt;&lt;p&gt;メーカー: SOFT SOURCE&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe57a1299/products/D70010000122067/squareHeroBanner/3dced8e1860f8c8ef2f2eb65bb2b36c3a0020cb827eb87e70a11e36321a03b41.jpg?sw=346&amp;amp;strip=false" alt="Kusan: オオカミの街"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122067"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000122067"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126344:f51695181e4bd394</id>
+    <title>常識で見抜け！ ありえない世界ーその違和感、見逃すなー 10%OFF</title>
+    <updated>2026-06-18T07:05:19.760072+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;常識で見抜け！ ありえない世界ーその違和感、見逃すなー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw62609c05/products/D70010000126344/squareHeroBanner/3d1160dab6aa8c960ac26f1ac0e38225359ae9b74d0f28918afc26a2ba74001f.jpg?sw=346&amp;amp;strip=false" alt="常識で見抜け！ ありえない世界ーその違和感、見逃すなー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126344"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126344"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126658:26e942b161179fef</id>
+    <title>目指せ上忍！忍者3択検定 10%OFF</title>
+    <updated>2026-06-18T07:05:19.760072+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;目指せ上忍！忍者3択検定&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw70dd2d20/products/D70010000126658/squareHeroBanner/47e097c76856ef270b2c12c1fdf17e395a178e71ad1890af853d305a7d9f9564.jpg?sw=346&amp;amp;strip=false" alt="目指せ上忍！忍者3択検定"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126658"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126658"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120879:8e392c37b4adeff8</id>
+    <title>Springbot: The Last Spark 20%OFF</title>
+    <updated>2026-06-18T07:05:19.760072+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Springbot: The Last Spark&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 400 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3c45e962/products/D70010000120879/squareHeroBanner/f648d164eb0ad7bd447baa7de2cd340ca2b6d9438a3278de2bce47febdf2c9d4.jpg?sw=346&amp;amp;strip=false" alt="Springbot: The Last Spark"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120879"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120879"/>
   </entry>
 </feed>
