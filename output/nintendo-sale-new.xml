@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-19T21:21:18.442148+00:00</updated>
+  <updated>2026-06-19T23:13:30.631348+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000124524:d1ce349f0ec3bd95</id>
-    <title>Hentai Puzzle Simulator 2 80%OFF</title>
-    <updated>2026-06-13T04:49:19.772000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai Puzzle Simulator 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa7dff4fb/products/D70010000124524/squareHeroBanner/8dcd40deda53c94e9c07ee4a5d8c26284c758ef179227a06dafe601758341f3e.jpg?sw=346&amp;amp;strip=false" alt="Hentai Puzzle Simulator 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124524"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124524"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000123989:84127b52b7460870</id>
     <title>The Last of Touch 96%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-06-19T17:26:28.458055+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Cat&amp;amp;Rabbit Magic Farming&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;81%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw73459d38/products/D70010000126240/squareHeroBanner/46be6aaf150a0fbfe180834a4dbd29816f728ba75f7742f9ea4a8983372dce3f.jpg?sw=346&amp;amp;strip=false" alt="Cat&amp;amp;Rabbit Magic Farming"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126240"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000126240"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125732:6b5f11c9eb97248b</id>
+    <title>猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー 10%OFF</title>
+    <updated>2026-06-19T23:13:30.631348+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw27fdd91e/products/D70010000125732/squareHeroBanner/f8d830e6b90dd7a8d6bef7daf9880196d801c6bf6290b01adcf97bcbf9a9c5c0.jpg?sw=346&amp;amp;strip=false" alt="猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125732"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125732"/>
   </entry>
 </feed>
