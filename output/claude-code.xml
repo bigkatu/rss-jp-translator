@@ -2,195 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-20T20:40:19.644153+00:00</updated>
+  <updated>2026-06-20T22:21:55.734709+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.172</id>
-    <title>v2.1.172</title>
-    <updated>2026-06-10T20:44:15+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サブエージェントは独自のサブエージェントを生成できるようになりました (最大 5 レベルの深さ)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Amazon Bedrock は AWS リージョンを次から読み取るようになりました。 &lt;br&gt;
-~/.aws&lt;br&gt;
- 設定ファイルの場合 &lt;br&gt;
-AWS_REGION&lt;br&gt;
- 設定されておらず、AWS SDK の優先順位と一致します。 &lt;br&gt;
-/ステータス&lt;br&gt;
- その地域がどこから来たのかを示す&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-マーケットプレイスのプラグインを参照するときに検索バーを追加しました &lt;br&gt;
-/プラグイン&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-モデル&lt;br&gt;
- に帰属します &lt;br&gt;
-claude_code.lines_of_code.count&lt;br&gt;
- OTEL メトリック&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-使用クレジットが永続的にスタックすることなく 1M コンテキストを使用するセッションを修正しました。セッションは、標準のコンテキスト制限の下に自動的に圧縮されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-会話に複数の画像が含まれている場合に「会話内の画像を処理できず、削除されました」というエラーが繰り返し発生する問題を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エージェントのビューが、ワーカーが応答した後、最大 30 秒間「ビジー スピナーで作業中」の下でセッションを維持する問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バックグラウンド エージェントが別のディレクトリのプロジェクト設定を読み取る可能性がある問題を修正しました (&lt;br&gt;
-.mcp.json&lt;br&gt;
- 承認、信頼) を事前にウォームアップしたワーカーに派遣するとき&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-デーモンの自動更新後に古いバージョンで開始されたセッションで EAUTH が発生してバックグラウンド セッションの接続が失敗する問題を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バックグラウンド サブエージェントが生成したネストされたエージェントが停止された後、エージェント パネルで「アクティブ」としてスタックされたままになる問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/モデル&lt;br&gt;
- での提案 &lt;br&gt;
-クロードエージェント&lt;br&gt;
- 誤解を招くスラッシュ接頭辞を付けて入力レンダリングをディスパッチし、組織で無効になっているモデルを表示します&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-利用可能なモデル&lt;br&gt;
- サブエージェント モデルのオーバーライド、エージェント ディスパッチ モデル ピッカー、およびアドバイザ モデルには制限が適用されません。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-利用可能なモデル&lt;br&gt;
- ホワイトリストが非表示にする &lt;br&gt;
-/モデル&lt;br&gt;
- エントリが次のようなバージョン固有の ID を使用する場合、ピッカーの Opus および Sonnet 1M 行 &lt;br&gt;
-クロード作品-4-8&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-を修正しました &lt;br&gt;
-/モデル&lt;br&gt;
- Bedrock のピッカーは、プロバイダーが提供していないモデルを提供しています - 1 つを選択すると、セッション モデルが静かに切り替わり、複数の行の選択マーカーが点灯しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-モデル ID が 2 倍の 1M コンテキスト サフィックスを取得する問題を修正しました (例: &lt;br&gt;
-[1メートル][1メートル]&lt;br&gt;
-) いつ &lt;br&gt;
-ANTHROPIC_DEFAULT_OPUS_MODEL&lt;br&gt;
- すでに 1 つ含まれています&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-オーパスプラン&lt;br&gt;
- モデル設定は、資格のあるユーザーのプラン モードで 1M コンテキストでは出荷されません。の &lt;br&gt;
-オーパスプラン[1m]&lt;br&gt;
- 回避策は、プラン モードでも Opus に正しく切り替わるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-WebFetch(ドメイン:*.example.com)&lt;br&gt;
- ワイルドカード ドメイン ルールは、allow、deny、ask の位置でサブドメインと決して一致しません。また、中間パターンのワイルドカードを使用したファイル パーミッション ルール (例: &lt;br&gt;
-読み取り(secrets-*/config.json)&lt;br&gt;
-) 起動時に拒否される&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サブエージェントのチャット タブが開いているときにメイン エージェントのプロンプトを表示する上矢印プロンプト履歴を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-マウントされたチーム メモリ ストアが見つからないメモリ リコールを修正しました (&lt;br&gt;
-CLAUDE_MEMORY_STORES&lt;br&gt;
-) リモートセッションで&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-プロンプト文字列またはコメントが単に言及しているだけのスクリプトを拒否するワークフロー検証を修正しました。 &lt;br&gt;
-Date.now()&lt;br&gt;
-/&lt;br&gt;
-Math.random()&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-マウス追跡を完全にサポートしていない Windows コンソールではマウス追跡を無効にする&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-を修正しました &lt;br&gt;
-/プラグイン&lt;br&gt;
- 長いプラグイン リストから戻るとマーケットプレイス リストがカーソルを失い、プラグイン ブラウザから Esc キーを押すと間違ったタブに戻ってしまう&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-冗長なメッセージ正規化を削除し、ストリーミング ツールの使用状態が変更されていない場合の完全なメッセージ履歴変換を回避することで、長時間の会話におけるパフォーマンスが向上しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-アイドル状態の CPU 使用率の削減: &lt;br&gt;
-/目標&lt;br&gt;
- ステータス チップは、アイドル時に端末を 5 Hz で再レンダリングしなくなり、サブエージェントが並列実行されている間の UI の再レンダリングが少なくなります。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Chrome ツールの読み込みにおける Claude の改善: ブラウザ ツールは、ツールごとに 1 つずつではなく、単一のバッチ呼び出しで読み込まれるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-新しいセッションの開始またはモデルの変更を提案する、非対話型の使用ポリシー拒否メッセージを改善しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-/コードレビュー&lt;br&gt;
- 今は &lt;br&gt;
-ウルトラ&lt;br&gt;
- claude.ai にサインインしていない場合にオプションが表示され、クラウドのレビューには claude.ai アカウントが必要であるという説明が表示されます&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-リモート コントロールのフッター インジケーターを「/rc active」に短縮し、幅の狭い端末では非表示にしました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-宣伝をやめた &lt;br&gt;
-/ループ&lt;br&gt;
- リモート セッションでは、保留中のループによってコンテナーが存続しません。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-[VSCode] PowerShell ツール呼び出しが適切なコマンド表示と権限ダイアログではなく生の JSON としてレンダリングされる問題を修正し、表示されたシェル出力から ANSI エスケープ コードを削除しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Sub-agents can now spawn their own sub-agents (up to 5 levels deep)&lt;/li&gt;
-&lt;li&gt;Amazon Bedrock now reads the AWS region from &lt;code&gt;~/.aws&lt;/code&gt; config files when &lt;code&gt;AWS_REGION&lt;/code&gt; isn't set, matching AWS SDK precedence; &lt;code&gt;/status&lt;/code&gt; shows where the region came from&lt;/li&gt;
-&lt;li&gt;Added a search bar when browsing a marketplace's plugins in &lt;code&gt;/plugin&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;model&lt;/code&gt; attribute to the &lt;code&gt;claude_code.lines_of_code.count&lt;/code&gt; OTEL metric&lt;/li&gt;
-&lt;li&gt;Fixed sessions using 1M context without usage credits getting permanently stuck — the session now automatically compacts back under the standard context limit&lt;/li&gt;
-&lt;li&gt;Fixed a repeating "an image in the conversation could not be processed and was removed" error when the conversation contained multiple images&lt;/li&gt;
-&lt;li&gt;Fixed the agents view keeping a session under Working with a busy spinner for up to 30 seconds after the worker replied&lt;/li&gt;
-&lt;li&gt;Fixed background agents potentially reading another directory's project settings (&lt;code&gt;.mcp.json&lt;/code&gt; approvals, trust) when dispatched onto a pre-warmed worker&lt;/li&gt;
-&lt;li&gt;Fixed background-session attach failing with EAUTH for sessions started on an older version after the daemon auto-updated&lt;/li&gt;
-&lt;li&gt;Fixed a background sub-agent staying stuck as "active" in the agent panel after a nested agent it spawned was stopped&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/model&lt;/code&gt; suggestions in the &lt;code&gt;claude agents&lt;/code&gt; dispatch input rendering with a misleading slash prefix and showing models disabled for your org&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;availableModels&lt;/code&gt; restrictions not being applied to subagent model overrides, the agent dispatch model picker, and the advisor model&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;availableModels&lt;/code&gt; allowlists hiding the &lt;code&gt;/model&lt;/code&gt; picker's Opus and Sonnet 1M rows when entries use version-specific IDs like &lt;code&gt;claude-opus-4-8&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed the &lt;code&gt;/model&lt;/code&gt; picker on Bedrock offering models the provider doesn't serve — selecting one silently switched the session model and lit the selection marker on multiple rows&lt;/li&gt;
-&lt;li&gt;Fixed model IDs getting a doubled 1M-context suffix (e.g. &lt;code&gt;[1M][1m]&lt;/code&gt;) when &lt;code&gt;ANTHROPIC_DEFAULT_OPUS_MODEL&lt;/code&gt; already includes one&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;opusplan&lt;/code&gt; model setting not shipping with 1M context in plan mode for entitled users; the &lt;code&gt;opusplan[1m]&lt;/code&gt; workaround now also correctly switches to Opus in plan mode&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;WebFetch(domain:*.example.com)&lt;/code&gt; wildcard domain rules never matching subdomains in allow, deny, and ask position, and file permission rules with mid-pattern wildcards (e.g. &lt;code&gt;Read(secrets-*/config.json)&lt;/code&gt;) being rejected at startup&lt;/li&gt;
-&lt;li&gt;Fixed up-arrow prompt history showing the main agent's prompts while a subagent's chat tab is open&lt;/li&gt;
-&lt;li&gt;Fixed memory recall not finding mounted team memory stores (&lt;code&gt;CLAUDE_MEMORY_STORES&lt;/code&gt;) in remote sessions&lt;/li&gt;
-&lt;li&gt;Fixed workflow validation rejecting scripts whose prompt strings or comments merely mention &lt;code&gt;Date.now()&lt;/code&gt;/&lt;code&gt;Math.random()&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Disable mouse tracking on Windows consoles that don't fully support it&lt;/li&gt;
-&lt;li&gt;Fixed the &lt;code&gt;/plugin&lt;/code&gt; marketplace list losing its cursor after backing out of a long plugin list, and Esc from the plugin browser returning to the wrong tab&lt;/li&gt;
-&lt;li&gt;Improved performance in long conversations by removing redundant message normalization and avoiding full message-history transforms when streaming tool-use state is unchanged&lt;/li&gt;
-&lt;li&gt;Reduced idle CPU usage: &lt;code&gt;/goal&lt;/code&gt; status chip no longer re-renders the terminal at 5 Hz while idle, and fewer UI re-renders while subagents run in parallel&lt;/li&gt;
-&lt;li&gt;Improved Claude in Chrome tool loading: browser tools now load in a single batched call instead of one per tool&lt;/li&gt;
-&lt;li&gt;Improved the non-interactive Usage Policy refusal message to suggest starting a new session or changing your model&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/code-review&lt;/code&gt; now keeps the &lt;code&gt;ultra&lt;/code&gt; option visible when you're not signed in to claude.ai, with an explanation that the cloud review requires a claude.ai account&lt;/li&gt;
-&lt;li&gt;Shortened the Remote Control footer indicator to "/rc active" and hid it on narrow terminals&lt;/li&gt;
-&lt;li&gt;Stopped promoting &lt;code&gt;/loop&lt;/code&gt; in remote sessions, where pending loops don't keep the container alive&lt;/li&gt;
-&lt;li&gt;[VSCode] Fixed PowerShell tool calls rendering as raw JSON instead of a proper command display and permission dialog, and stripped ANSI escape codes from displayed shell output&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.172"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.173</id>
     <title>v2.1.173</title>
@@ -989,5 +805,21 @@ Thinking.disabled.display: 余分な入力は許可されません&lt;br&gt;
 &lt;li&gt;Fixed focus mode showing "Ran N PostToolUse hooks" timing lines under each response&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.183"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.185</id>
+    <title>v2.1.185</title>
+    <updated>2026-06-20T20:59:19+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ストリーム停止ヒントは、「API からの応答なし · …で再試行中」ではなく「API 応答を待機しています · …で再試行します」となり、10 秒ではなく 20 秒の沈黙の後にトリガーされます。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The stream-stall hint now reads "Waiting for API response · will retry in …" instead of "No response from API · Retrying in …", and triggers after 20s of silence instead of 10s&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.185"/>
   </entry>
 </feed>
