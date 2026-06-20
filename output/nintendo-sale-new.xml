@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-19T23:13:30.631348+00:00</updated>
+  <updated>2026-06-20T00:20:21.938549+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -329,13 +329,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000124537"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000121694:e8bc6e2d828252db</id>
-    <title>恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys) 60%OFF</title>
-    <updated>2026-06-19T10:56:28.668568+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb61f49b1/products/D70010000121694/squareHeroBanner/00cf5158d8e0992a6021007657b1fb3788d33bd2f9761ad1ec105feed9fd54cf.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121694"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121694"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000124414:4c4024071060601b</id>
     <title>Cozy Valley Life 40%OFF</title>
     <updated>2026-06-19T14:21:04.961338+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-06-19T23:13:30.631348+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw27fdd91e/products/D70010000125732/squareHeroBanner/f8d830e6b90dd7a8d6bef7daf9880196d801c6bf6290b01adcf97bcbf9a9c5c0.jpg?sw=346&amp;amp;strip=false" alt="猫様に選ばれるための1000問ー猫様に見捨てられないための試験ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125732"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000125732"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121694:e8bc6e2d828252db</id>
+    <title>恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys) 60%OFF</title>
+    <updated>2026-06-20T00:20:21.938549+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb61f49b1/products/D70010000121694/squareHeroBanner/00cf5158d8e0992a6021007657b1fb3788d33bd2f9761ad1ec105feed9fd54cf.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121694"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121694"/>
   </entry>
 </feed>
