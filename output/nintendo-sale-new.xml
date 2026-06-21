@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-20T22:22:25.442941+00:00</updated>
+  <updated>2026-06-21T00:21:09.113462+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -294,13 +294,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000125732"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000126240:92f618ba266c1d55</id>
-    <title>Cat&amp;Rabbit Magic Farming 81%OFF</title>
-    <updated>2026-06-20T05:43:27.899089+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Cat&amp;amp;Rabbit Magic Farming&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;81%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw73459d38/products/D70010000126240/squareHeroBanner/46be6aaf150a0fbfe180834a4dbd29816f728ba75f7742f9ea4a8983372dce3f.jpg?sw=346&amp;amp;strip=false" alt="Cat&amp;amp;Rabbit Magic Farming"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126240"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126240"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123209:a0553e6af38809ef</id>
     <title>Strays POV Tales 33%OFF</title>
     <updated>2026-06-20T12:08:02.359419+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-06-20T16:47:57.067292+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ひらめき特訓！小学校算数4択クイズ ー楽しく学習算数教育ゲームー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5f8cc1ea/products/D70010000122493/squareHeroBanner/750348859f92e631530c0e7773e3e4cd87ec9d4f04b6861ee3a29c493495c20b.jpg?sw=346&amp;amp;strip=false" alt="ひらめき特訓！小学校算数4択クイズ ー楽しく学習算数教育ゲームー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122493"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000122493"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126240:92f618ba266c1d55</id>
+    <title>Cat&amp;Rabbit Magic Farming 81%OFF</title>
+    <updated>2026-06-21T00:21:09.113462+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Cat&amp;amp;Rabbit Magic Farming&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;81%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw73459d38/products/D70010000126240/squareHeroBanner/46be6aaf150a0fbfe180834a4dbd29816f728ba75f7742f9ea4a8983372dce3f.jpg?sw=346&amp;amp;strip=false" alt="Cat&amp;amp;Rabbit Magic Farming"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126240"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126240"/>
   </entry>
 </feed>
