@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-21T23:44:23.504068+00:00</updated>
+  <updated>2026-06-22T05:29:17.245503+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -154,13 +154,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000119819"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000129437:38f51953bdce145d</id>
-    <title>1問で思わず話したくなる！雑学1000問クイズーあなたはいくつ知っている？ー 10%OFF</title>
-    <updated>2026-06-18T01:40:23.522340+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;1問で思わず話したくなる！雑学1000問クイズーあなたはいくつ知っている？ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3de38eb4/products/D70010000129437/squareHeroBanner/15476c7e01a23b373c6c90479c9bf01fa47269ddc2fc064fc635e0a29a3663cc.jpg?sw=346&amp;amp;strip=false" alt="1問で思わず話したくなる！雑学1000問クイズーあなたはいくつ知っている？ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000129437"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000129437"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000129207:5134464b4a451737</id>
     <title> この世界、何かがおかしい。時代の違和感クイズー時代のズレを探せ！世界の歴史の違和感クイズー 10%OFF</title>
     <updated>2026-06-18T01:40:23.522340+00:00</updated>
@@ -173,20 +166,6 @@
     <updated>2026-06-18T01:40:23.522340+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;図の中から見抜け！全世界教養×学力クイズー世界を知れば、答えが見えてくる。ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6184e71e/products/D70010000128753/squareHeroBanner/851ca9ca25fd9d396093023a6d815e92c7cbd4f620c972fcd098996ab0c629e1.jpg?sw=346&amp;amp;strip=false" alt="図の中から見抜け！全世界教養×学力クイズー世界を知れば、答えが見えてくる。ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128753"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000128753"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000125086:4b23232a21703659</id>
-    <title>祇園回廊・改 33%OFF</title>
-    <updated>2026-06-18T01:40:23.522340+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;祇園回廊・改&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 660 円&lt;/p&gt;&lt;p&gt;メーカー: レジスタ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwda9a67dc/products/D70010000125086/squareHeroBanner/d03cd26c8917b0b0ca006af1feb35fbd0f638828cbc6185570cf1e8364ce01ff.jpg?sw=346&amp;amp;strip=false" alt="祇園回廊・改"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125086"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125086"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126610:8f96d67d75c71d67</id>
-    <title>Escape from Vlogger: Runaway 16%OFF</title>
-    <updated>2026-06-18T01:40:23.522340+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Escape from Vlogger: Runaway&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;16%OFF&lt;/p&gt;&lt;p&gt;価格: 1,249 円&lt;/p&gt;&lt;p&gt;メーカー: asmodeus&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw09fbf675/products/D70010000126610/squareHeroBanner/43e64032b0de24eae8501c3a8b18101537af2a45d1caedf9508e086441aa8d9b.jpg?sw=346&amp;amp;strip=false" alt="Escape from Vlogger: Runaway"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126610"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126610"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000129432:59df805e2cf4db2f</id>
@@ -355,5 +334,26 @@
     <updated>2026-06-21T23:44:23.504068+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb61f49b1/products/D70010000121694/squareHeroBanner/00cf5158d8e0992a6021007657b1fb3788d33bd2f9761ad1ec105feed9fd54cf.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121694"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121694"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126610:8f96d67d75c71d67</id>
+    <title>Escape from Vlogger: Runaway 16%OFF</title>
+    <updated>2026-06-22T05:29:17.245503+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Escape from Vlogger: Runaway&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;16%OFF&lt;/p&gt;&lt;p&gt;価格: 1,249 円&lt;/p&gt;&lt;p&gt;メーカー: asmodeus&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw09fbf675/products/D70010000126610/squareHeroBanner/43e64032b0de24eae8501c3a8b18101537af2a45d1caedf9508e086441aa8d9b.jpg?sw=346&amp;amp;strip=false" alt="Escape from Vlogger: Runaway"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126610"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126610"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125086:4b23232a21703659</id>
+    <title>祇園回廊・改 33%OFF</title>
+    <updated>2026-06-22T05:29:17.245503+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;祇園回廊・改&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 660 円&lt;/p&gt;&lt;p&gt;メーカー: レジスタ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwda9a67dc/products/D70010000125086/squareHeroBanner/d03cd26c8917b0b0ca006af1feb35fbd0f638828cbc6185570cf1e8364ce01ff.jpg?sw=346&amp;amp;strip=false" alt="祇園回廊・改"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125086"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125086"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000129437:38f51953bdce145d</id>
+    <title>1問で思わず話したくなる！雑学1000問クイズーあなたはいくつ知っている？ー 10%OFF</title>
+    <updated>2026-06-22T05:29:17.245503+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;1問で思わず話したくなる！雑学1000問クイズーあなたはいくつ知っている？ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3de38eb4/products/D70010000129437/squareHeroBanner/15476c7e01a23b373c6c90479c9bf01fa47269ddc2fc064fc635e0a29a3663cc.jpg?sw=346&amp;amp;strip=false" alt="1問で思わず話したくなる！雑学1000問クイズーあなたはいくつ知っている？ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000129437"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000129437"/>
   </entry>
 </feed>
