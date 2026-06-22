@@ -2,38 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-22T05:29:17.245503+00:00</updated>
+  <updated>2026-06-22T12:25:04.121807+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000121908:623ef725ead69702</id>
-    <title>爆走！立体駐車場ラリー (Parking Garage Rally Circuit) 15%OFF</title>
-    <updated>2026-06-15T07:37:05.216527+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;爆走！立体駐車場ラリー (Parking Garage Rally Circuit)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 1,360 円&lt;/p&gt;&lt;p&gt;メーカー: Pineapple Works&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw251dbd6e/products/D70010000121908/squareHeroBanner/bf35a9adc473dc3231b374fe9c152f4d0981dbb7e018f36225e39e40b8c66738.jpg?sw=346&amp;amp;strip=false" alt="爆走！立体駐車場ラリー (Parking Garage Rally Circuit)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121908"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121908"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000127280:1c64416d54b96caf</id>
-    <title>ジュディのアドベンチャーDX 40%OFF</title>
-    <updated>2026-06-15T19:08:49.924877+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ジュディのアドベンチャーDX&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 420 円&lt;/p&gt;&lt;p&gt;メーカー: RAWRLAB Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dweeb47417/products/D70010000127280/squareHeroBanner/54cb057a0dd1d55a9ac30aecc25ae54e643562f1577d7add9daaa604444dc478.jpg?sw=346&amp;amp;strip=false" alt="ジュディのアドベンチャーDX"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127280"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127280"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
-    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
-    <updated>2026-06-15T19:08:49.924877+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121585:223dcd401d77e639</id>
-    <title>Cozy Home Unpacking 33%OFF</title>
-    <updated>2026-06-16T11:33:35.227872+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Home Unpacking&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,580 円&lt;/p&gt;&lt;p&gt;メーカー: Play Lab&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw45bff4ec/products/D70010000121585/squareHeroBanner/8e5782599bea0692135a767f8056f09bb24e8c8371cc592f587b11595802184b.jpg?sw=346&amp;amp;strip=false" alt="Cozy Home Unpacking"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121585"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121585"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000112446:dd05cca6f7edd4bd</id>
     <title>時の龍環（Dragon Loop） 10%OFF</title>
@@ -138,13 +110,6 @@
     <updated>2026-06-18T01:40:23.522340+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Triple Trouble: Midnight Club&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdd2fa5c6/products/D70010000121233/squareHeroBanner/f5729c443dc37eb51f7142f05c59e0117a5ee2080c51290d67d1d68d14ee59e9.jpg?sw=346&amp;amp;strip=false" alt="Triple Trouble: Midnight Club"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121233"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121233"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126834:e5ce7883a0e82f79</id>
-    <title>Beat The Champions 10%OFF</title>
-    <updated>2026-06-18T01:40:23.522340+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Beat The Champions&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,250 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw7cca58e1/products/D70010000126834/squareHeroBanner/2b82ac33f8bff523eac1acea4b1cc50ea6597e2ec06f2045e252887ac7e844bd.jpg?sw=346&amp;amp;strip=false" alt="Beat The Champions"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126834"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126834"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000119819:9c48188f1ac1e682</id>
@@ -308,20 +273,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000127979"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000122493:9eda4c5db0e5def2</id>
-    <title>ひらめき特訓！小学校算数4択クイズ ー楽しく学習算数教育ゲームー 10%OFF</title>
-    <updated>2026-06-20T16:47:57.067292+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ひらめき特訓！小学校算数4択クイズ ー楽しく学習算数教育ゲームー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5f8cc1ea/products/D70010000122493/squareHeroBanner/750348859f92e631530c0e7773e3e4cd87ec9d4f04b6861ee3a29c493495c20b.jpg?sw=346&amp;amp;strip=false" alt="ひらめき特訓！小学校算数4択クイズ ー楽しく学習算数教育ゲームー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122493"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122493"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126240:92f618ba266c1d55</id>
-    <title>Cat&amp;Rabbit Magic Farming 81%OFF</title>
-    <updated>2026-06-21T00:21:09.113462+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Cat&amp;amp;Rabbit Magic Farming&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;81%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw73459d38/products/D70010000126240/squareHeroBanner/46be6aaf150a0fbfe180834a4dbd29816f728ba75f7742f9ea4a8983372dce3f.jpg?sw=346&amp;amp;strip=false" alt="Cat&amp;amp;Rabbit Magic Farming"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126240"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126240"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000124414:4c4024071060601b</id>
     <title>Cozy Valley Life 40%OFF</title>
     <updated>2026-06-21T17:51:27.316696+00:00</updated>
@@ -355,5 +306,54 @@
     <updated>2026-06-22T05:29:17.245503+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;1問で思わず話したくなる！雑学1000問クイズーあなたはいくつ知っている？ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3de38eb4/products/D70010000129437/squareHeroBanner/15476c7e01a23b373c6c90479c9bf01fa47269ddc2fc064fc635e0a29a3663cc.jpg?sw=346&amp;amp;strip=false" alt="1問で思わず話したくなる！雑学1000問クイズーあなたはいくつ知っている？ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000129437"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000129437"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126240:92f618ba266c1d55</id>
+    <title>Cat&amp;Rabbit Magic Farming 81%OFF</title>
+    <updated>2026-06-22T12:25:04.121807+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Cat&amp;amp;Rabbit Magic Farming&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;81%OFF&lt;/p&gt;&lt;p&gt;価格: 299 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw73459d38/products/D70010000126240/squareHeroBanner/46be6aaf150a0fbfe180834a4dbd29816f728ba75f7742f9ea4a8983372dce3f.jpg?sw=346&amp;amp;strip=false" alt="Cat&amp;amp;Rabbit Magic Farming"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126240"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126240"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123216:1477c89a0b3409d9</id>
+    <title>Little Kitty Meow 40%OFF</title>
+    <updated>2026-06-22T12:25:04.121807+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Little Kitty Meow&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 1,224 円&lt;/p&gt;&lt;p&gt;メーカー: CGI LAB GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0e38083d/products/D70010000123216/squareHeroBanner/e394410e78883d51c39be88f038e82a1731033dd280dea636b9f8e50bf9625ee.jpg?sw=346&amp;amp;strip=false" alt="Little Kitty Meow"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123216"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123216"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124161:d7404d270c42adef</id>
+    <title>P.I.S.ファイル 20%OFF</title>
+    <updated>2026-06-22T12:25:04.121807+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;P.I.S.ファイル&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 320 円&lt;/p&gt;&lt;p&gt;メーカー: STEAM STREET&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw090d24ac/products/D70010000124161/squareHeroBanner/4160a6d646bd08981feff659fa1c386a38e4fd9bdcda2847a96ac187ee4bdf32.jpg?sw=346&amp;amp;strip=false" alt="P.I.S.ファイル"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124161"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124161"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126834:e5ce7883a0e82f79</id>
+    <title>Beat The Champions 10%OFF</title>
+    <updated>2026-06-22T12:25:04.121807+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Beat The Champions&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,250 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw7cca58e1/products/D70010000126834/squareHeroBanner/2b82ac33f8bff523eac1acea4b1cc50ea6597e2ec06f2045e252887ac7e844bd.jpg?sw=346&amp;amp;strip=false" alt="Beat The Champions"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126834"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126834"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122493:9eda4c5db0e5def2</id>
+    <title>ひらめき特訓！小学校算数4択クイズ ー楽しく学習算数教育ゲームー 10%OFF</title>
+    <updated>2026-06-22T12:25:04.121807+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ひらめき特訓！小学校算数4択クイズ ー楽しく学習算数教育ゲームー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5f8cc1ea/products/D70010000122493/squareHeroBanner/750348859f92e631530c0e7773e3e4cd87ec9d4f04b6861ee3a29c493495c20b.jpg?sw=346&amp;amp;strip=false" alt="ひらめき特訓！小学校算数4択クイズ ー楽しく学習算数教育ゲームー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122493"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122493"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126767:bb9d7d94e1aa291c</id>
+    <title> ピクセルブラスター DX 74%OFF</title>
+    <updated>2026-06-22T12:25:04.121807+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt; ピクセルブラスター DX&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;74%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: Max Interactive Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6a9fad84/products/D70010000126767/squareHeroBanner/f17e6df5174bc0c2804e78354ae918b41d19425bc62be179a20b575c90743c7b.jpg?sw=346&amp;amp;strip=false" alt=" ピクセルブラスター DX"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126767"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126767"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000124398:66ff644261526631</id>
+    <title>NAMCO LEGENDARY Mountains 10%OFF</title>
+    <updated>2026-06-22T12:25:04.121807+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;NAMCO LEGENDARY Mountains&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: ビサイド&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbd5ef4f5/products/D70010000124398/squareHeroBanner/c99ae7829ef4236e39c3b0cad122295db8a849d3ad87ed4d2fdbb6973c8864be.jpg?sw=346&amp;amp;strip=false" alt="NAMCO LEGENDARY Mountains"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124398"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000124398"/>
   </entry>
 </feed>
