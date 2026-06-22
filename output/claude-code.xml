@@ -2,33 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-22T17:47:46.628649+00:00</updated>
+  <updated>2026-06-22T21:12:14.432832+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.173</id>
-    <title>v2.1.173</title>
-    <updated>2026-06-11T05:41:54+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Fable 5 のモデル名を修正しました。 &lt;br&gt;
-[1m]&lt;br&gt;
- サフィックスが正規化されていない — Fable 5 にはデフォルトで 1M コンテキストが含まれているため、サフィックスは自動的に削除されるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-設定でサンドボックスが有効になっている場合、Windows で誤った「サンドボックスの依存関係が見つかりません」という起動警告が表示される問題を修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed Fable 5 model names with a &lt;code&gt;[1m]&lt;/code&gt; suffix not being normalized — Fable 5 includes 1M context by default, so the suffix is now stripped automatically&lt;/li&gt;
-&lt;li&gt;Fixed a spurious "sandbox dependencies missing" startup warning on Windows when sandbox was enabled in settings&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.173"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.174</id>
     <title>v2.1.174</title>
@@ -821,5 +799,220 @@ Thinking.disabled.display: 余分な入力は許可されません&lt;br&gt;
 &lt;li&gt;The stream-stall hint now reads "Waiting for API response · will retry in …" instead of "No response from API · Retrying in …", and triggers after 20s of silence instead of 10s&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.185"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.186</id>
+    <title>v2.1.186</title>
+    <updated>2026-06-22T20:37:34+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+クロード mcp ログイン &amp;lt;名前&amp;gt;&lt;br&gt;
+ そして &lt;br&gt;
+クロード mcp ログアウト &amp;lt;名前&amp;gt;&lt;br&gt;
+ インタラクティブ ウィンドウを開かずに CLI から MCP サーバーを認証するには &lt;br&gt;
+/mcp&lt;br&gt;
+ メニュー、付き &lt;br&gt;
+--ブラウザなし&lt;br&gt;
+ SSH 経由で完了するための stdin リダイレクトのサポート&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ステータスフィルタリングを追加しました（ &lt;br&gt;
+f&lt;br&gt;
+）へ &lt;br&gt;
+/ワークフロー&lt;br&gt;
+ エージェントの詳細ビュー&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+に「スキル」セクションを追加しました。 &lt;br&gt;
+/プラグイン&lt;br&gt;
+ 「インストール済み」タブ&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+チームメイトモード: "iterm2"&lt;br&gt;
+ 自動モードが見つからない場合に警告を表示する設定 &lt;br&gt;
+それ2&lt;br&gt;
+ CLI&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+「AWS 上のクロード プラットフォーム - 認証情報を更新する」オプションを追加しました &lt;br&gt;
+/ログイン&lt;br&gt;
+ いつ &lt;br&gt;
+aws認証更新&lt;br&gt;
+ 設定されています&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+！&lt;br&gt;
+ bash コマンドは、クロードが出力に自動的に応答するようにトリガーするようになりました。セット &lt;br&gt;
+"respondToBashCommands": false&lt;br&gt;
+ settings.json で以前のコンテキストのみの動作を維持する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+マシンがスリープから復帰した後、ストリーミング リクエストが「コンテンツ ブロックが見つかりません」または JSON 解析エラーで失敗する問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+終了時にサブエージェントのトランスクリプトのスクロール位置がメインのトランスクリプトに流れ込む問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェントのプランが読み込まれる前に未加工のツール名が点滅するバックグラウンド タスクのプレビューを修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+製品内の権限ゲートが同時 CLI セッションに対してオフになっている場合、Chrome タブグループ分離が適用されない問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドセッションの要約が重複する問題を修正。エージェント自身のターン終了概要が要約行として表示されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドセッションを開く問題を修正 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 前の画面をその後ろに残しておきます&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+エージェント(種類)&lt;br&gt;
+ ルールを否定し、 &lt;br&gt;
+エージェント(x,y)&lt;br&gt;
+ 許可されたタイプの制限が名前付きサブエージェントの生成に対して適用されない&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+メインターン終了後、バックグラウンドエージェントがまだ実行されている間、Esc と Ctrl+C が応答しない問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+オプションテキストがオーバーフローした場合の権限プロンプトのオプション番号の位置がずれていた問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定プレス &lt;br&gt;
+×&lt;br&gt;
+ エージェントパネルで終了したサブエージェントが削除されない&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+古いセッションを再開するときに意図的に廃止されたツールに関する誤解を招く「MCP サーバーが切断されました」という通知を修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/プラグイン&lt;br&gt;
+ すでに上部までスクロールされている場合に「さらに上」インジケーターを表示するようにインストールされています&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+~~取り消し線~~&lt;br&gt;
+ アシスタント メッセージに取り消し線としてレンダリングする代わりにリテラルのチルダを表示する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+--ツール&lt;br&gt;
+ コールド初回起動時にフラグが読み込まれる前に、機能ゲート型ツールがすり抜けられるようにする&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドジョブのステータスを修正しました &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 返信後に古い「入力が必要です」メッセージが表示される&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドセッションを開いたときのダークテーマのフラッシュを修正しました &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 光端末で&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+マウスで選択したテキストを削除した後も強調表示されたままになる問題を修正しました。 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+従量制のエンタープライズおよびチームのサブスクライバーに対してセッションコストが表示されない問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェント チームの修正: tmux/pane バックエンド経由で生成されたチームメイトは、リーダーのチームを継承するようになりました。 &lt;br&gt;
+--努力&lt;br&gt;
+ レベル&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定ワークフロー &lt;br&gt;
+エージェント({スキーマ})&lt;br&gt;
+ サブエージェントは、5 回の試行後に中止されるのではなく、スキーマ検証の失敗が繰り返されると永久にループします。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善されました &lt;br&gt;
+クロード・MCPをゲット&lt;br&gt;
+ そして &lt;br&gt;
+クロード・MCP 削除&lt;br&gt;
+ タイプミスで最も近い構成サーバー名を提案し、長いサーバーリストを切り詰めるため&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+メモリの改善: エージェントはメモリを圧縮するように通知されるようになりました。 &lt;br&gt;
+メモリー.md&lt;br&gt;
+ サイズ制限に近づいたときのインデックス&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善されたスキルの最前線: &lt;br&gt;
+表示名&lt;br&gt;
+、 &lt;br&gt;
+デフォルトで有効&lt;br&gt;
+、 &lt;br&gt;
+フォールバック&lt;br&gt;
+、そして &lt;br&gt;
+メタデータ。*&lt;br&gt;
+ キーはケバブケース、スネークケース、キャメルケースを受け入れるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善された不正な形式 &lt;br&gt;
+スキル.md&lt;br&gt;
+ YAML フロントマターの処理: サイレントに失敗するのではなく、空のメタデータを使用してスキル本体をロードします。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+変更されました &lt;br&gt;
+CLAUDE_CODE_MAX_RETRIES&lt;br&gt;
+ 15を上限とする。無人セッションの場合は、使用します &lt;br&gt;
+CLAUDE_CODE_RETRY_WATCHDOG&lt;br&gt;
+ 代わりに&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンド サブエージェントを、自動拒否ではなくメイン セッションで許可プロンプトを表示するように変更しました。ダイアログにはどのエージェントが質問しているのかが表示され、Esc キーを押すとそのツールのみが拒否されます&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+変更されました &lt;br&gt;
+/レビュー &amp;lt;pr&amp;gt;&lt;br&gt;
+ 同じレビューエンジンを使用するには &lt;br&gt;
+/コードレビューメディア&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;code&gt;claude mcp login &amp;lt;name&amp;gt;&lt;/code&gt; and &lt;code&gt;claude mcp logout &amp;lt;name&amp;gt;&lt;/code&gt; to authenticate MCP servers from the CLI without opening the interactive &lt;code&gt;/mcp&lt;/code&gt; menu, with &lt;code&gt;--no-browser&lt;/code&gt; stdin redirect support for completing over SSH&lt;/li&gt;
+&lt;li&gt;Added status filtering (press &lt;code&gt;f&lt;/code&gt;) to the &lt;code&gt;/workflows&lt;/code&gt; agent detail view&lt;/li&gt;
+&lt;li&gt;Added a "Skills" section to the &lt;code&gt;/plugin&lt;/code&gt; Installed tab&lt;/li&gt;
+&lt;li&gt;Added &lt;code&gt;teammateMode: "iterm2"&lt;/code&gt; setting with a warning when auto mode cannot find the &lt;code&gt;it2&lt;/code&gt; CLI&lt;/li&gt;
+&lt;li&gt;Added "Claude Platform on AWS - refresh credentials" option to &lt;code&gt;/login&lt;/code&gt; when &lt;code&gt;awsAuthRefresh&lt;/code&gt; is configured&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;!&lt;/code&gt; bash commands now trigger Claude to respond to the output automatically; set &lt;code&gt;"respondToBashCommands": false&lt;/code&gt; in settings.json to keep the previous context-only behavior&lt;/li&gt;
+&lt;li&gt;Fixed streaming requests failing with "Content block not found" or JSON parse errors after the machine wakes from sleep&lt;/li&gt;
+&lt;li&gt;Fixed subagent transcript scroll position bleeding into the main transcript on exit&lt;/li&gt;
+&lt;li&gt;Fixed background task previews flashing raw tool names before the agent's plan loaded&lt;/li&gt;
+&lt;li&gt;Fixed Chrome tab-group isolation not applying when the in-product permissions gate is off for concurrent CLI sessions&lt;/li&gt;
+&lt;li&gt;Fixed background session recaps being duplicated; the agent's own end-of-turn summary now shows as the recap line&lt;/li&gt;
+&lt;li&gt;Fixed opening a background session from &lt;code&gt;claude agents&lt;/code&gt; leaving the previous screen painted behind it&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;Agent(type)&lt;/code&gt; deny rules and &lt;code&gt;Agent(x,y)&lt;/code&gt; allowed-types restrictions not being enforced for named subagent spawns&lt;/li&gt;
+&lt;li&gt;Fixed Esc and Ctrl+C not responding while background agents are still running after the main turn ends&lt;/li&gt;
+&lt;li&gt;Fixed misaligned option numbers in permission prompts when the option text overflows&lt;/li&gt;
+&lt;li&gt;Fixed pressing &lt;code&gt;x&lt;/code&gt; on a finished subagent in the agent panel not dismissing it&lt;/li&gt;
+&lt;li&gt;Fixed a misleading "MCP server disconnected" notice for intentionally retired tools when resuming older sessions&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/plugin&lt;/code&gt; Installed showing a "more above" indicator when already scrolled to the top&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;~~strikethrough~~&lt;/code&gt; showing literal tildes in assistant messages instead of rendering as strikethrough&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;--tools&lt;/code&gt; allowing feature-gated tools to slip through before flags loaded on a cold first launch&lt;/li&gt;
+&lt;li&gt;Fixed background job status in &lt;code&gt;claude agents&lt;/code&gt; showing a stale "needs input" message after replying&lt;/li&gt;
+&lt;li&gt;Fixed a dark-theme flash when opening a background session from &lt;code&gt;claude agents&lt;/code&gt; on a light terminal&lt;/li&gt;
+&lt;li&gt;Fixed mouse-selected text staying highlighted after deleting it in &lt;code&gt;claude agents&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fixed session cost not showing for usage-based Enterprise and Team subscribers&lt;/li&gt;
+&lt;li&gt;Fixed agent teams: teammates spawned via tmux/pane backends now inherit the leader's &lt;code&gt;--effort&lt;/code&gt; level&lt;/li&gt;
+&lt;li&gt;Fixed Workflow &lt;code&gt;agent({schema})&lt;/code&gt; subagents looping forever on repeated schema validation failures instead of aborting after 5 attempts&lt;/li&gt;
+&lt;li&gt;Improved &lt;code&gt;claude mcp get&lt;/code&gt; and &lt;code&gt;claude mcp remove&lt;/code&gt; to suggest the closest configured server name on a typo and truncate long server lists&lt;/li&gt;
+&lt;li&gt;Improved memory: the agent is now reminded to compact its &lt;code&gt;MEMORY.md&lt;/code&gt; index when nearing the size limit&lt;/li&gt;
+&lt;li&gt;Improved skill frontmatter: &lt;code&gt;display-name&lt;/code&gt;, &lt;code&gt;default-enabled&lt;/code&gt;, &lt;code&gt;fallback&lt;/code&gt;, and &lt;code&gt;metadata.*&lt;/code&gt; keys now accept kebab-case, snake_case, and camelCase&lt;/li&gt;
+&lt;li&gt;Improved malformed &lt;code&gt;SKILL.md&lt;/code&gt; YAML frontmatter handling: loads the skill body with empty metadata instead of failing silently&lt;/li&gt;
+&lt;li&gt;Changed &lt;code&gt;CLAUDE_CODE_MAX_RETRIES&lt;/code&gt; to cap at 15; for unattended sessions, use &lt;code&gt;CLAUDE_CODE_RETRY_WATCHDOG&lt;/code&gt; instead&lt;/li&gt;
+&lt;li&gt;Changed background subagents to surface permission prompts in the main session instead of auto-denying; the dialog shows which agent is asking, and Esc denies just that tool&lt;/li&gt;
+&lt;li&gt;Changed &lt;code&gt;/review &amp;lt;pr&amp;gt;&lt;/code&gt; to use the same review engine as &lt;code&gt;/code-review medium&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.186"/>
   </entry>
 </feed>
