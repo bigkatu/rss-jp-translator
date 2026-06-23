@@ -2,101 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-23T20:22:01.907107+00:00</updated>
+  <updated>2026-06-23T22:36:51.828942+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.174</id>
-    <title>v2.1.174</title>
-    <updated>2026-06-12T01:16:36+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-ホイールスクロール加速有効&lt;br&gt;
- フルスクリーン モードでマウスホイールのスクロール アクセラレーションを無効にする設定&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-を修正しました &lt;br&gt;
-/モデル&lt;br&gt;
- Default が解決されるモデル ファミリを非表示にするピッカー — Opus は Max/Team Premium/Enterprise プラン、Sonnet (Pro/Team プラン)、および Opus (従量課金制 API アカウント) では独自の行として表示されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/モデル&lt;br&gt;
- ハードコードされた Sonnet バージョン ラベルを表示するピッカー &lt;br&gt;
-ANTHROPIC_DEFAULT_SONNET_MODEL&lt;br&gt;
- 別のソネットを固定します&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-使用量ベースの請求を行うエンタープライズ アカウントに対して「Fable 5 は現在使用量クレジットを消費しています」バナーが誤って表示される問題を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-固定 Bedrock GovCloud リージョン (&lt;br&gt;
-米国政府-*&lt;br&gt;
-) 間違った推論プロファイル接頭辞を導出しています (&lt;br&gt;
-グローバル&lt;br&gt;
- 代わりに &lt;br&gt;
-米国政府&lt;br&gt;
-)、派生モデル ID で 400 エラーが発生する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-別のセッションを継承するバックグラウンド セッションを修正しました &lt;br&gt;
-アントロピック_*&lt;br&gt;
- プロバイダー環境 (ゲートウェイ URL、カスタム ヘッダー、 &lt;br&gt;
-/モデル&lt;br&gt;
- エイリアス) バックグラウンド デーモンを開始したシェルから&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-macOS および Linux でシェル コマンドが中断または強制終了された直後にクロード コードを終了する際の 1 ～ 2 秒の一時停止を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-一部のモデルで間違ったモデル名が表示される git commit の共同作成者の属性を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-を修正しました &lt;br&gt;
-/アドバイザー&lt;br&gt;
- ダイアログでブロックされている保存済みアドバイザ モデルを事前選択します。 &lt;br&gt;
-利用可能なモデル&lt;br&gt;
- ホワイトリスト&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-単一のスキルが変更されたときにスキルのホットリロードがスキルリスト全体を再送信する問題を修正しました。変更されたスキルのみが再発表されるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正されたワークフローツール &lt;br&gt;
-エージェント()&lt;br&gt;
- サブエージェントにエージェントごとの属性ヘッダーがありません&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-[VSCode] アカウントと使用状況ダイアログに使用状況の属性を追加しました (&lt;br&gt;
-/使用法&lt;br&gt;
-) 過去 24 時間または 7 日間のキャッシュ ミス、長いコンテキスト、サブエージェント、およびスキル/エージェント/プラグイン/MCP ごとの内訳を表示します。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-アイドル状態になった後に要求されると、事前にウォームアップされたバックグラウンド ワーカーが「認証方法を解決できませんでした」というメッセージで失敗する問題を修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;wheelScrollAccelerationEnabled&lt;/code&gt; setting to disable mouse-wheel scroll acceleration in fullscreen mode&lt;/li&gt;
-&lt;li&gt;Fixed the &lt;code&gt;/model&lt;/code&gt; picker hiding the model family that Default resolves to — Opus now appears as its own row on Max/Team Premium/Enterprise plans, Sonnet on Pro/Team plans, and Opus on pay-as-you-go API accounts&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/model&lt;/code&gt; picker showing a hardcoded Sonnet version label when &lt;code&gt;ANTHROPIC_DEFAULT_SONNET_MODEL&lt;/code&gt; pins a different Sonnet&lt;/li&gt;
-&lt;li&gt;Fixed the "Fable 5 is now consuming usage credits" banner incorrectly showing for enterprise accounts with usage-based billing&lt;/li&gt;
-&lt;li&gt;Fixed Bedrock GovCloud regions (&lt;code&gt;us-gov-*&lt;/code&gt;) deriving the wrong inference profile prefix (&lt;code&gt;global&lt;/code&gt; instead of &lt;code&gt;us-gov&lt;/code&gt;), causing 400 errors on derived model IDs&lt;/li&gt;
-&lt;li&gt;Fixed background sessions inheriting another session's &lt;code&gt;ANTHROPIC_*&lt;/code&gt; provider env (gateway URL, custom headers, &lt;code&gt;/model&lt;/code&gt; aliases) from the shell that started the background daemon&lt;/li&gt;
-&lt;li&gt;Fixed a 1-2 second pause when exiting Claude Code shortly after a shell command was interrupted or killed on macOS and Linux&lt;/li&gt;
-&lt;li&gt;Fixed git commit co-author attribution showing an incorrect model name for some models&lt;/li&gt;
-&lt;li&gt;Fixed the &lt;code&gt;/advisor&lt;/code&gt; dialog pre-selecting a saved advisor model that is blocked by the &lt;code&gt;availableModels&lt;/code&gt; allowlist&lt;/li&gt;
-&lt;li&gt;Fixed skill hot-reload re-sending the entire skill listing when a single skill changed; only changed skills are now re-announced&lt;/li&gt;
-&lt;li&gt;Fixed Workflow tool &lt;code&gt;agent()&lt;/code&gt; subagents missing per-agent attribution headers&lt;/li&gt;
-&lt;li&gt;[VSCode] Added usage attribution to the Account &amp;amp; usage dialog (&lt;code&gt;/usage&lt;/code&gt;) showing cache misses, long context, subagents, and per-skill/agent/plugin/MCP breakdowns over the last 24h or 7d&lt;/li&gt;
-&lt;li&gt;Fixed pre-warmed background workers failing with "Could not resolve authentication method" when claimed after sitting idle&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.174"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.175</id>
     <title>v2.1.175</title>
@@ -1014,5 +924,148 @@ CLAUDE_CODE_RETRY_WATCHDOG&lt;br&gt;
 &lt;li&gt;Changed &lt;code&gt;/review &amp;lt;pr&amp;gt;&lt;/code&gt; to use the same review engine as &lt;code&gt;/code-review medium&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.186"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.187</id>
+    <title>v2.1.187</title>
+    <updated>2026-06-23T21:03:48+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+サンドボックス.認証情報&lt;br&gt;
+ サンドボックスコマンドによる認証情報ファイルとシークレット環境変数の読み取りをブロックする設定&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+組織構成のモデル制限をモデルピッカーに追加しました。 &lt;br&gt;
+--モデル&lt;br&gt;
+、 &lt;br&gt;
+/モデル&lt;br&gt;
+、そして &lt;br&gt;
+ANTHROPIC_MODEL&lt;br&gt;
+、制限されたモデルが選択されている場合、「組織の設定により制限されています」というメッセージが表示されます。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+メニューを選択するためのマウス クリックのサポートを追加しました (許可プロンプト、 &lt;br&gt;
+/モデル&lt;br&gt;
+、 &lt;br&gt;
+/config&lt;br&gt;
+、など）全画面モードで&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+--再開&lt;br&gt;
+ 元の場合は「会話が見つかりません」で失敗します &lt;br&gt;
+-p&lt;br&gt;
+ 実行はモデルの回転を生成しませんでした&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+--json スキーマ&lt;br&gt;
+ そしてワークフロー &lt;br&gt;
+エージェント({スキーマ})&lt;br&gt;
+ 構造化された出力: モデルは再呼び出しできなくなります &lt;br&gt;
+構造化された出力&lt;br&gt;
+ 呼び出しが成功した後は無期限に実行され、フォローアップ ターンでは構造化された出力が確実に返されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+リモート MCP ツール呼び出しが 5 分間応答なしでハングする問題を修正しました。無期限にブロックするのではなく、エラーで中止されるようになりました (オーバーライドします)。 &lt;br&gt;
+CLAUDE_CODE_MCP_TOOL_IDLE_TIMEOUT&lt;br&gt;
+)&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェント プロキシ CA システムトラスト インストールが追加された後、クロード コード リモート セッションの開始に最大 2.7 秒かかる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+貼り付けをバイト単位の拡張キー イベントとして配信する端末で、貼り付けられた韓国語/CJK テキストが文字化けになる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/更新&lt;br&gt;
+ 起動時の信頼ダイアログが表示されるときにリモート コントロールがハングアップする&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェントが構造化された出力を生成せずにターンを終了した場合、エージェント ビューのバックグラウンド ジョブが無期限に「作業中」のままになる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェント ビューに移動して戻った後、およびその後にチャネル接続が切断される問題を修正しました。 &lt;br&gt;
+/bg&lt;br&gt;
+、 &lt;br&gt;
+/tui&lt;br&gt;
+、または &lt;br&gt;
+/更新&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェント停止通知が誰がエージェントを停止したかを正確に特定しない問題を修正し、文言を改善しました (「休憩に来た」ではなく「終了」/「停止」)&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サブエージェントの深さの追跡を修正しました。再開されたサブエージェントは元のスポーンの深さを復元し、フォークされたサブエージェントは深さの上限にカウントされるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+漏洩したエージェント ワークツリー登録を修正しました: ロックされました &lt;br&gt;
+.git/worktrees/&lt;br&gt;
+ 強制終了されたエージェントからのエントリが自動的にクリーンアップされるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+macOS 上の Ghostty で Cmd キーを押しながらクリックしても全画面モードで URL が開かない問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロード --助けて&lt;br&gt;
+ をリストしていない &lt;br&gt;
+--bg&lt;br&gt;
+/&lt;br&gt;
+--背景&lt;br&gt;
+ 旗&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Esc、Ctrl-C、Ctrl-D が機能しない問題を修正 &lt;br&gt;
+/シェア&lt;br&gt;
+ アップロードしています&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善されました &lt;br&gt;
+/install-github-app&lt;br&gt;
+: GitHub Actions ワークフローのセットアップはオプションになりました。GitHub アプリのみをインストールして、ワークフロー/秘密の手順をスキップできます。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善されました &lt;br&gt;
+/ところで&lt;br&gt;
+ ←/→ 矢印ナビゲーションを使用して、以前の回答を順に参照できます&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善されました &lt;br&gt;
+/プラグイン&lt;br&gt;
+ 最近使用していないプラグインを表示してクリーンアップできるようにします&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+[VSCode] 大規模なセッションを再開すると拡張機能が応答しなくなる問題を修正&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;code&gt;sandbox.credentials&lt;/code&gt; setting to block sandboxed commands from reading credential files and secret environment variables&lt;/li&gt;
+&lt;li&gt;Added org-configured model restrictions to the model picker, &lt;code&gt;--model&lt;/code&gt;, &lt;code&gt;/model&lt;/code&gt;, and &lt;code&gt;ANTHROPIC_MODEL&lt;/code&gt;, with a "restricted by your organization's settings" message when a restricted model is selected&lt;/li&gt;
+&lt;li&gt;Added mouse click support to select menus (permission prompts, &lt;code&gt;/model&lt;/code&gt;, &lt;code&gt;/config&lt;/code&gt;, etc.) in fullscreen mode&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;--resume&lt;/code&gt; failing with "No conversation found" when the original &lt;code&gt;-p&lt;/code&gt; run produced no model turns&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;--json-schema&lt;/code&gt; and workflow &lt;code&gt;agent({schema})&lt;/code&gt; structured output: the model can no longer re-call &lt;code&gt;StructuredOutput&lt;/code&gt; indefinitely after a successful call, and follow-up turns now reliably return structured output&lt;/li&gt;
+&lt;li&gt;Fixed remote MCP tool calls that hang with no response for 5 minutes — they now abort with an error instead of blocking indefinitely (override with &lt;code&gt;CLAUDE_CODE_MCP_TOOL_IDLE_TIMEOUT&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Fixed Claude Code Remote sessions taking ~2.7s longer to start after the agent proxy CA system-trust install was added&lt;/li&gt;
+&lt;li&gt;Fixed pasted Korean/CJK text turning into mojibake in terminals that deliver paste as per-byte extended-key events&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/update&lt;/code&gt; over Remote Control hanging when a startup trust dialog would have shown&lt;/li&gt;
+&lt;li&gt;Fixed background jobs in the agents view getting stuck in "working" indefinitely when the agent ended a turn without producing structured output&lt;/li&gt;
+&lt;li&gt;Fixed channel connections dropping after navigating to the agents view and back, and after &lt;code&gt;/bg&lt;/code&gt;, &lt;code&gt;/tui&lt;/code&gt;, or &lt;code&gt;/update&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fixed agent stop notifications not correctly attributing who stopped the agent, and improved wording ("finished"/"stopped" instead of "came to rest")&lt;/li&gt;
+&lt;li&gt;Fixed subagent depth tracking: resumed subagents now restore their original spawn depth, and forked subagents now count toward the depth cap&lt;/li&gt;
+&lt;li&gt;Fixed leaked agent worktree registrations: locked &lt;code&gt;.git/worktrees/&lt;/code&gt; entries from killed agents are now cleaned up automatically&lt;/li&gt;
+&lt;li&gt;Fixed Cmd+click not opening URLs in fullscreen mode in Ghostty on macOS&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude --help&lt;/code&gt; not listing the &lt;code&gt;--bg&lt;/code&gt;/&lt;code&gt;--background&lt;/code&gt; flag&lt;/li&gt;
+&lt;li&gt;Fixed Esc, Ctrl-C, and Ctrl-D not working while &lt;code&gt;/share&lt;/code&gt; is uploading&lt;/li&gt;
+&lt;li&gt;Improved &lt;code&gt;/install-github-app&lt;/code&gt;: GitHub Actions workflow setup is now optional — you can install just the GitHub App and skip the workflow/secret steps&lt;/li&gt;
+&lt;li&gt;Improved &lt;code&gt;/btw&lt;/code&gt; with ←/→ arrow navigation to step through earlier answers&lt;/li&gt;
+&lt;li&gt;Improved &lt;code&gt;/plugin&lt;/code&gt; to surface plugins you haven't used recently so you can clean them up&lt;/li&gt;
+&lt;li&gt;[VSCode] Fixed extension becoming unresponsive when resuming a large session&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.187"/>
   </entry>
 </feed>
