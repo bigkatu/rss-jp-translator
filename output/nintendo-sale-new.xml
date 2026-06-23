@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-23T12:15:07.883753+00:00</updated>
+  <updated>2026-06-23T15:25:50.479014+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000112446:dd05cca6f7edd4bd</id>
-    <title>時の龍環（Dragon Loop） 10%OFF</title>
-    <updated>2026-06-16T11:33:35.227872+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;時の龍環（Dragon Loop）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Happy Player&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcb9030f9/products/D70010000112446/squareHeroBanner/a9000136ac06ea2ec304d4765bd0adc037c09165cc8ea987a8c865d77bce1c32.jpg?sw=346&amp;amp;strip=false" alt="時の龍環（Dragon Loop）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112446"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000112446"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
-    <title>フェアリーテールファイターズ 10%OFF</title>
-    <updated>2026-06-16T11:33:35.227872+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000120524:5d8872d9fafa4518</id>
     <title> リスキーロードズ Risky Roads 60%OFF</title>
@@ -355,5 +341,19 @@
     <updated>2026-06-23T05:14:22.031915+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Valley Life&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 1,788 円&lt;/p&gt;&lt;p&gt;メーカー: Tashlik&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw01422009/products/D70010000124414/squareHeroBanner/675c70107b8796c50dce99977b263db12eda5457c47635822655769aee96c655.jpg?sw=346&amp;amp;strip=false" alt="Cozy Valley Life"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124414"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124414"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000114426:39c3e511c10b10dd</id>
+    <title>Wanderstop 15%OFF</title>
+    <updated>2026-06-23T15:25:50.479014+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Wanderstop&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 2,465 円&lt;/p&gt;&lt;p&gt;メーカー: Annapurna Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwf5150f1a/products/D70010000114426/squareHeroBanner/3ed88b02c19da4d1ba6d927f10399790ab9376ffeb385ce9d2dc8ce7eed36052.jpg?sw=346&amp;amp;strip=false" alt="Wanderstop"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114426"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000114426"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000114420:9f6bed5f79ebb6e4</id>
+    <title>Wanderstop 15%OFF</title>
+    <updated>2026-06-23T15:25:50.479014+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Wanderstop&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 2,465 円&lt;/p&gt;&lt;p&gt;メーカー: Annapurna Interactive&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1f28529d/products/D70010000114420/squareHeroBanner/3ed88b02c19da4d1ba6d927f10399790ab9376ffeb385ce9d2dc8ce7eed36052.jpg?sw=346&amp;amp;strip=false" alt="Wanderstop"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000114420"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000114420"/>
   </entry>
 </feed>
