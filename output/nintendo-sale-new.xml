@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-24T12:00:11.486195+00:00</updated>
+  <updated>2026-06-24T15:06:56.402921+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000126676:535cb6661baf7b85</id>
-    <title>Clay&amp;Cats 84%OFF</title>
-    <updated>2026-06-18T01:40:23.522340+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Clay&amp;amp;Cats&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;84%OFF&lt;/p&gt;&lt;p&gt;価格: 199 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca71a191/products/D70010000126676/squareHeroBanner/433ffd515b52a772ec3f01687b941c035ec046ec7b72dccbb925b4d49613c905.jpg?sw=346&amp;amp;strip=false" alt="Clay&amp;amp;Cats"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126676"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126676"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000110892:1c869acf7bc9dbfe</id>
     <title>最終回収SQUAD 10%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-06-24T00:10:27.913645+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;美女たちのサマーフォトパズル 〜夏の日差しとリゾートの思い出〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5ea8779f/products/D70010000128031/squareHeroBanner/d9257b055ce5e62b25e811c6484b8b16f800243a0b33091307449c76527efd91.jpg?sw=346&amp;amp;strip=false" alt="美女たちのサマーフォトパズル 〜夏の日差しとリゾートの思い出〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128031"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000128031"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
+    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
+    <updated>2026-06-24T15:06:56.402921+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
   </entry>
 </feed>
