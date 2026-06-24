@@ -2,33 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-24T15:05:38.789664+00:00</updated>
+  <updated>2026-06-24T17:16:41.665182+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.175</id>
-    <title>v2.1.175</title>
-    <updated>2026-06-12T04:23:51+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-利用可能なモデルを強制する&lt;br&gt;
- 管理設定 — 有効にすると、 &lt;br&gt;
-利用可能なモデル&lt;br&gt;
- ホワイトリストはデフォルト モデルも制限します (許可されていないモデルに解決されるデフォルトは、最初の許可されたモデルにフォールバックします)。また、ユーザーまたはプロジェクトの設定によって管理対象モデルを拡張することはできなくなります。 &lt;br&gt;
-利用可能なモデル&lt;br&gt;
- リスト&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;enforceAvailableModels&lt;/code&gt; managed setting — when enabled, the &lt;code&gt;availableModels&lt;/code&gt; allowlist also constrains the Default model (a Default that would resolve to a disallowed model now falls back to the first allowed model), and user or project settings can no longer widen a managed &lt;code&gt;availableModels&lt;/code&gt; list&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.175"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.176</id>
     <title>v2.1.176</title>
@@ -1067,5 +1045,21 @@ Esc、Ctrl-C、Ctrl-D が機能しない問題を修正 &lt;br&gt;
 &lt;li&gt;[VSCode] Fixed extension becoming unresponsive when resuming a large session&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.187"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.190</id>
+    <title>v2.1.190</title>
+    <updated>2026-06-24T15:53:56+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バグ修正と信頼性の向上&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug fixes and reliability improvements&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.190"/>
   </entry>
 </feed>
