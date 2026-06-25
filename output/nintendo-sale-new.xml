@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-25T15:11:02.582377+00:00</updated>
+  <updated>2026-06-25T17:23:00.264328+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000124414:4c4024071060601b</id>
-    <title>Cozy Valley Life 40%OFF</title>
-    <updated>2026-06-23T05:14:22.031915+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Valley Life&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;40%OFF&lt;/p&gt;&lt;p&gt;価格: 1,788 円&lt;/p&gt;&lt;p&gt;メーカー: Tashlik&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw01422009/products/D70010000124414/squareHeroBanner/675c70107b8796c50dce99977b263db12eda5457c47635822655769aee96c655.jpg?sw=346&amp;amp;strip=false" alt="Cozy Valley Life"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124414"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124414"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000114426:39c3e511c10b10dd</id>
     <title>Wanderstop 15%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-06-25T15:11:02.582377+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Citizen Sleeper – Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;70%OFF&lt;/p&gt;&lt;p&gt;価格: 771 円&lt;/p&gt;&lt;p&gt;メーカー: Fellow Traveller&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw43db1448/products/D70010000124615/squareHeroBanner/5ca752970d0f0d7a90cf40fc2f4145c278fd5b5feeed48db2129edb476f4f737.jpg?sw=346&amp;amp;strip=false" alt="Citizen Sleeper – Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124615"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000124615"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125247:8c4c2d3cd80502d8</id>
+    <title>Axel Quest 20%OFF</title>
+    <updated>2026-06-25T17:23:00.264328+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Axel Quest&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 640 円&lt;/p&gt;&lt;p&gt;メーカー: ラタライカゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdbd82e34/products/D70010000125247/squareHeroBanner/d6531fcd16f1268e262db0503c171ac057ecc3baea663016de36d33b5414a891.jpg?sw=346&amp;amp;strip=false" alt="Axel Quest"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125247"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125247"/>
   </entry>
 </feed>
