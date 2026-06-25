@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-25T08:31:01.274507+00:00</updated>
+  <updated>2026-06-25T11:50:00.131198+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000124398:66ff644261526631</id>
-    <title>NAMCO LEGENDARY Mountains 10%OFF</title>
-    <updated>2026-06-22T12:25:04.121807+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;NAMCO LEGENDARY Mountains&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: ビサイド&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbd5ef4f5/products/D70010000124398/squareHeroBanner/c99ae7829ef4236e39c3b0cad122295db8a849d3ad87ed4d2fdbb6973c8864be.jpg?sw=346&amp;amp;strip=false" alt="NAMCO LEGENDARY Mountains"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000124398"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000124398"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121694:e8bc6e2d828252db</id>
-    <title>恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys) 60%OFF</title>
-    <updated>2026-06-22T22:55:16.703014+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb61f49b1/products/D70010000121694/squareHeroBanner/00cf5158d8e0992a6021007657b1fb3788d33bd2f9761ad1ec105feed9fd54cf.jpg?sw=346&amp;amp;strip=false" alt="恐竜進化！捕まえて育てる原始イケメン (Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121694"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121694"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000124414:4c4024071060601b</id>
     <title>Cozy Valley Life 40%OFF</title>
@@ -117,13 +103,6 @@
     <updated>2026-06-24T17:17:17.519069+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ランサンドイッチラン Run, Sandwich, Run! &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 449 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0f005805/products/D70010000119813/squareHeroBanner/178c73722a540668dc9f27dc61344dcb3bbc825521d7263fde4cb29b640a51e5.jpg?sw=346&amp;amp;strip=false" alt="ランサンドイッチラン Run, Sandwich, Run! "&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119813"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000119813"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123893:1f6151f8839a808e</id>
-    <title>Gecko Gods 20%OFF</title>
-    <updated>2026-06-24T17:17:17.519069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Gecko Gods&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,680 円&lt;/p&gt;&lt;p&gt;メーカー: Super Rare Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdae8a8b9/products/D70010000123893/squareHeroBanner/e3a7ef83569afbe7419f99d53c4efd23d3f431a1bfe937a2d742294a2f517499.jpg?sw=346&amp;amp;strip=false" alt="Gecko Gods"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123893"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123893"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000124615:30c0eaff69309f2c</id>
@@ -355,5 +334,26 @@
     <updated>2026-06-25T08:31:01.274507+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1bfcf554/products/D70010000127150/squareHeroBanner/68cdaae21b7fb79df09b26b5a8298b4ac9dbfa5e38855dd6c16414df7230cb34.jpg?sw=346&amp;amp;strip=false" alt="人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127150"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127150"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000110892:1c869acf7bc9dbfe</id>
+    <title>最終回収SQUAD 10%OFF</title>
+    <updated>2026-06-25T11:50:00.131198+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;最終回収SQUAD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,350 円&lt;/p&gt;&lt;p&gt;メーカー: わくわくゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe12cb357/products/D70010000110892/squareHeroBanner/f73dc7eebb921493e796cf645e39c300ce9875aeea0fe72f3249726781d3550f.jpg?sw=346&amp;amp;strip=false" alt="最終回収SQUAD"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110892"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000110892"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119504:b31ea62648d2c087</id>
+    <title>Hentai House: Mystery Rooms 83%OFF</title>
+    <updated>2026-06-25T11:50:00.131198+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai House: Mystery Rooms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;83%OFF&lt;/p&gt;&lt;p&gt;価格: 499 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3da606b4/products/D70010000119504/squareHeroBanner/2764832732d00994c0710dd4e2e0e0511cb03e0a100b34c0810085ac6b4a65f4.jpg?sw=346&amp;amp;strip=false" alt="Hentai House: Mystery Rooms"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119504"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119504"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123893:1f6151f8839a808e</id>
+    <title>Gecko Gods 20%OFF</title>
+    <updated>2026-06-25T11:50:00.131198+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Gecko Gods&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,680 円&lt;/p&gt;&lt;p&gt;メーカー: Super Rare Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdae8a8b9/products/D70010000123893/squareHeroBanner/e3a7ef83569afbe7419f99d53c4efd23d3f431a1bfe937a2d742294a2f517499.jpg?sw=346&amp;amp;strip=false" alt="Gecko Gods"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123893"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123893"/>
   </entry>
 </feed>
