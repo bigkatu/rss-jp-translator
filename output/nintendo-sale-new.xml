@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-25T20:21:42.992979+00:00</updated>
+  <updated>2026-06-25T22:45:01.428642+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -245,34 +245,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000122163"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123848:db6ab672f757c2e0</id>
-    <title>ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera) 60%OFF</title>
-    <updated>2026-06-24T23:21:33.225069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdb46f767/products/D70010000123848/squareHeroBanner/3cbf49eefb3cdd23969c145bed1a8c0404bad02e80a034df55e8c7a8758332d4.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123848"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123848"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000121585:223dcd401d77e639</id>
-    <title>Cozy Home Unpacking 33%OFF</title>
-    <updated>2026-06-24T23:21:33.225069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Home Unpacking&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,580 円&lt;/p&gt;&lt;p&gt;メーカー: Play Lab&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw45bff4ec/products/D70010000121585/squareHeroBanner/8e5782599bea0692135a767f8056f09bb24e8c8371cc592f587b11595802184b.jpg?sw=346&amp;amp;strip=false" alt="Cozy Home Unpacking"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121585"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121585"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
-    <title>Urban Jungle 17%OFF</title>
-    <updated>2026-06-24T23:21:33.225069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Urban Jungle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;17%OFF&lt;/p&gt;&lt;p&gt;価格: 1,162 円&lt;/p&gt;&lt;p&gt;メーカー: Assemble Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw71473b14/products/D70010000119741/squareHeroBanner/8eb6f8af71c94737ea9248227343710c6b5a06bd5a13d66b44151403b222b6e2.jpg?sw=346&amp;amp;strip=false" alt="Urban Jungle"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119741"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119741"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000128478:8e3531c0e13f9af0</id>
-    <title>あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー 10%OFF</title>
-    <updated>2026-06-24T23:21:33.225069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9686fb6f/products/D70010000128478/squareHeroBanner/cb9a01abb1ac3b4d527ff65f6ca6cf861a823ae81919c53264d612ea0fd1ecc3.jpg?sw=346&amp;amp;strip=false" alt="あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128478"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000128478"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123216:1477c89a0b3409d9</id>
     <title>Little Kitty Meow 40%OFF</title>
     <updated>2026-06-25T04:32:33.023321+00:00</updated>
@@ -355,5 +327,33 @@
     <updated>2026-06-25T17:23:00.264328+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Axel Quest&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 640 円&lt;/p&gt;&lt;p&gt;メーカー: ラタライカゲームス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdbd82e34/products/D70010000125247/squareHeroBanner/d6531fcd16f1268e262db0503c171ac057ecc3baea663016de36d33b5414a891.jpg?sw=346&amp;amp;strip=false" alt="Axel Quest"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125247"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000125247"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123848:db6ab672f757c2e0</id>
+    <title>ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera) 60%OFF</title>
+    <updated>2026-06-25T22:45:01.428642+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdb46f767/products/D70010000123848/squareHeroBanner/3cbf49eefb3cdd23969c145bed1a8c0404bad02e80a034df55e8c7a8758332d4.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123848"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123848"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
+    <title>Urban Jungle 17%OFF</title>
+    <updated>2026-06-25T22:45:01.428642+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Urban Jungle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;17%OFF&lt;/p&gt;&lt;p&gt;価格: 1,162 円&lt;/p&gt;&lt;p&gt;メーカー: Assemble Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw71473b14/products/D70010000119741/squareHeroBanner/8eb6f8af71c94737ea9248227343710c6b5a06bd5a13d66b44151403b222b6e2.jpg?sw=346&amp;amp;strip=false" alt="Urban Jungle"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119741"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119741"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121585:223dcd401d77e639</id>
+    <title>Cozy Home Unpacking 33%OFF</title>
+    <updated>2026-06-25T22:45:01.428642+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Cozy Home Unpacking&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,580 円&lt;/p&gt;&lt;p&gt;メーカー: Play Lab&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw45bff4ec/products/D70010000121585/squareHeroBanner/8e5782599bea0692135a767f8056f09bb24e8c8371cc592f587b11595802184b.jpg?sw=346&amp;amp;strip=false" alt="Cozy Home Unpacking"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121585"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121585"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000128478:8e3531c0e13f9af0</id>
+    <title>あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー 10%OFF</title>
+    <updated>2026-06-25T22:45:01.428642+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9686fb6f/products/D70010000128478/squareHeroBanner/cb9a01abb1ac3b4d527ff65f6ca6cf861a823ae81919c53264d612ea0fd1ecc3.jpg?sw=346&amp;amp;strip=false" alt="あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128478"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000128478"/>
   </entry>
 </feed>

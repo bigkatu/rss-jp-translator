@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-25T20:21:02.788964+00:00</updated>
+  <updated>2026-06-25T22:44:20.803182+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -1045,5 +1045,103 @@ vim モードのプロンプト履歴検索の改善 (通常) &lt;br&gt;
 &lt;li&gt;Reduced long-session memory growth from terminal output cache&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.191"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.193</id>
+    <title>v2.1.193</title>
+    <updated>2026-06-25T21:45:57+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+autoMode.classifyAllShell&lt;br&gt;
+ 任意のコード実行パターンのみではなく、自動モード分類子を介してすべての Bash/PowerShell コマンドをルーティングする設定&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+自動モードの拒否理由をトランスクリプト、拒否トースト、および &lt;br&gt;
+/権限&lt;br&gt;
+ 最近の拒否&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+claude_code.assistant_response&lt;br&gt;
+ モデルの応答テキストを含む OpenTelemetry ログ イベント。以下の場合を除き編集されます &lt;br&gt;
+OTEL_LOG_ASSISTANT_RESPONSES=1&lt;br&gt;
+;その var が設定されていない場合、次のようになります &lt;br&gt;
+OTEL_LOG_USER_PROMPTS&lt;br&gt;
+、そのため、すでにプロンプトコンテンツをログに記録しているデプロイメントは、アップグレード時に応答コンテンツの受信を開始します — 設定 &lt;br&gt;
+OTEL_LOG_ASSISTANT_RESPONSES=0&lt;br&gt;
+ プロンプトのみを維持するには。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ライブ ファイル パスのオートコンプリートを bash モードに追加しました (&lt;br&gt;
+！&lt;br&gt;
+）&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+MCP サーバーが認証を必要とする場合の起動通知を追加しました。 &lt;br&gt;
+/mcp&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+アイドル状態のバックグラウンド シェル コマンドに対する自動メモリ プレッシャー リーピングを追加しました (無効にする &lt;br&gt;
+CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1&lt;br&gt;
+）&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/モデル&lt;br&gt;
+ 直後に古い/空の状態を示す他のクライアント データ ゲート UI &lt;br&gt;
+/ログイン&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+実行中のすべてのタスクが新しいセッションに引き継がれるときに、バックグラウンド (←←) が「N 個のバックグラウンド タスクが放棄されます」と表示されて誤ってキャンセルされる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+自動更新のたびに、固定されたバックグラウンド エージェントが「中断したところから続行する」ように再プロンプトされる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+メイン会話を再実行するファントム「汎用 (再開)」サブエージェントを生成するメイン ターンのバックグラウンドを修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サブエージェントを表示するときに、エージェント パネルで兄弟エージェントが非表示になる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンド エージェントの改善: 起動結果はクロードに「応答を終了する」ように指示しなくなりました。エージェントの実行中も他のタスクは継続して実行されます。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改良されたMCP &lt;br&gt;
+ヘッダーヘルパー&lt;br&gt;
+ 認証: ツール呼び出しが 401/403 を返したときにヘルパーが再実行され、自動的に再接続されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+プラグインの自動名前変更の改善: マーケットプレイス &lt;br&gt;
+名前を変更します&lt;br&gt;
+ マップは自動的に追跡されるようになり、設定が新しい名前に更新されます&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善されました &lt;br&gt;
+/追加ディレクトリ&lt;br&gt;
+ ディレクトリがすでに作業ディレクトリである場合のメッセージ&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;code&gt;autoMode.classifyAllShell&lt;/code&gt; setting to route all Bash/PowerShell commands through the auto-mode classifier instead of only arbitrary-code-execution patterns&lt;/li&gt;
+&lt;li&gt;Added auto-mode denial reasons to the transcript, the denial toast, and &lt;code&gt;/permissions&lt;/code&gt; recent denials&lt;/li&gt;
+&lt;li&gt;Added &lt;code&gt;claude_code.assistant_response&lt;/code&gt; OpenTelemetry log event containing the model's response text. Redacted unless &lt;code&gt;OTEL_LOG_ASSISTANT_RESPONSES=1&lt;/code&gt;; when that var is unset it follows &lt;code&gt;OTEL_LOG_USER_PROMPTS&lt;/code&gt;, so deployments that already log prompt content will start receiving response content on upgrade — set &lt;code&gt;OTEL_LOG_ASSISTANT_RESPONSES=0&lt;/code&gt; to keep prompts-only.&lt;/li&gt;
+&lt;li&gt;Added live file path autocomplete to bash mode (&lt;code&gt;!&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Added a startup notice when MCP servers need authentication, pointing at &lt;code&gt;/mcp&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Added automatic memory-pressure reaping for idle background shell commands (disable with &lt;code&gt;CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/model&lt;/code&gt; and other client-data-gated UI showing stale/empty state immediately after &lt;code&gt;/login&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fixed backgrounding (←←) spuriously cancelling with "N background tasks would be abandoned" when all running tasks carry over to the new session&lt;/li&gt;
+&lt;li&gt;Fixed pinned background agents being re-prompted to "Continue from where you left off" after every auto-update&lt;/li&gt;
+&lt;li&gt;Fixed backgrounding the main turn spawning a phantom "general-purpose (resumed)" subagent that re-ran the main conversation&lt;/li&gt;
+&lt;li&gt;Fixed agent panel hiding sibling agents when viewing a subagent&lt;/li&gt;
+&lt;li&gt;Improved background agents: the launch result no longer instructs Claude to "end your response" — it keeps working on other tasks while the agent runs&lt;/li&gt;
+&lt;li&gt;Improved MCP &lt;code&gt;headersHelper&lt;/code&gt; auth: the helper now re-runs and reconnects automatically when a tool call returns 401/403&lt;/li&gt;
+&lt;li&gt;Improved plugin auto-rename: marketplace &lt;code&gt;renames&lt;/code&gt; maps are now followed automatically, updating your settings to the new name&lt;/li&gt;
+&lt;li&gt;Improved &lt;code&gt;/add-dir&lt;/code&gt; message when the directory is already a working directory&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.193"/>
   </entry>
 </feed>
