@@ -2,157 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-26T20:54:11.620886+00:00</updated>
+  <updated>2026-06-26T22:34:46.113002+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.178</id>
-    <title>v2.1.178</title>
-    <updated>2026-06-15T21:35:55+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-ツール(パラメータ:値)&lt;br&gt;
- ツールの入力パラメータと一致する権限ルールの構文 ( &lt;br&gt;
-*&lt;br&gt;
- ワイルドカード)、例: &lt;br&gt;
-エージェント(モデル:作品)&lt;br&gt;
- Opus サブエージェントをブロックするには&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ネストされたスキル &lt;br&gt;
-.クロード/スキル&lt;br&gt;
- ディレクトリ内のファイルを操作するときにディレクトリが読み込まれるようになりました。名前が衝突すると、ネストされたスキルは次のように表示されます。 &lt;br&gt;
-&amp;lt;ディレクトリ&amp;gt;:&amp;lt;名前&amp;gt;&lt;br&gt;
- 両方とも利用可能な状態を維持します&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-入れ子になった &lt;br&gt;
-.クロード/&lt;br&gt;
- ディレクトリ: 名前が衝突した場合、作業ディレクトリに最も近いエージェント、ワークフロー、および出力スタイルが優先されるようになりました。プロジェクト スコープのワークフローの保存は、最も近い既存のものをターゲットにするようになりました &lt;br&gt;
-.claude/ワークフロー/&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動モードの改善: サブエージェントの生成は起動前に分類子によって評価されるようになり、サブエージェントがレビューなしでブロックされたアクションを要求できるギャップがなくなりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-改善されました &lt;br&gt;
-/ドクター&lt;br&gt;
- すべてのセクションにわたる一貫したフラット ツリー レイアウト、より明確なセクション ステータス アイコン、および強調表示されたコマンド名&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-スキルリストの切り捨て警告を改善して、影響を受けるスキルの説明の数を表示しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ワークフロー プロンプト キーワードを変更して、紫色のきらめくハイライトを使用し、単語への言及ではなく、「ワークフローを実行する」や「ワークフロー:」などの明示的なフレーズでのみトリガーされるようにしました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-リモート コントロールのエラー メッセージの改善: 接続失敗の場合、フッターに赤い「/rc 失敗」インジケーターが永続的に表示され、「まだ有効になっていません」エラーで、ゲート、チェック失敗、古い資格、または組織ポリシーのいずれであるかが説明されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-/バグ&lt;br&gt;
- 送信する前に説明が必要になり、GitHub の問題のタイトルとしてモデル拒否テキストを使用しなくなりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-CLI が親プロセスから古い WebSocket/OAuth ファイル記述子環境変数を継承するときのクラッシュ (メモリ不足) を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-OAuth トークンが Claude Code ログインとは異なるアカウントに属している場合、Chrome の Claude がサイレントに接続に失敗する問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ネストを修正 &lt;br&gt;
-.クロード/スキル&lt;br&gt;
- ディレクトリ修飾名を持つスキルが、非対話型の実行で権限プロンプトによってブロックされる&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-いくつかのサブエージェントの問題を修正しました。サブエージェントのトランスクリプトを表示すると、ツールの結果とライブ進行状況が表示されるようになりました。ターン終了中に送信されたメッセージはドロップされなくなり、実行中のサブエージェントをバックグラウンドで実行しても (ctrl+b)、最初から再起動されなくなりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-クロードエージェント&lt;br&gt;
- 労働者が失敗する &lt;br&gt;
-401 無効なベアラートークン&lt;br&gt;
- デーモンがカスタム API ゲートウェイを使用してシェルから起動されたとき &lt;br&gt;
-ANTHROPIC_BASE_URL&lt;br&gt;
- そして &lt;br&gt;
-ANTHROPIC_AUTH_TOKEN&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-圧縮が反映されない問題を修正 &lt;br&gt;
---フォールバックモデル&lt;br&gt;
-: 過負荷またはモデル可用性エラーが発生した場合、圧縮は設定されたフォールバック モデル チェーンにフォールバックするようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-キャッシュされたリクエスト構成が古いため、セッション外で資格情報が更新された後、モデルリクエストが認証エラーで失敗し続ける問題を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-で作成された固定バックグラウンド セッション &lt;br&gt;
-/bg&lt;br&gt;
- または &lt;br&gt;
-←←&lt;br&gt;
- ターン終了後、エージェントリストに永久に「作業中」と表示される&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-CLAUDE_CODE_PLUGIN_KEEP_MARKETPLACE_ON_FAILURE=1&lt;br&gt;
- マーケットプレイスの新規インストールのクローン作成を防止する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-MCP サーバーレベルの仕様を修正 (&lt;br&gt;
-mcp__server&lt;br&gt;
-、 &lt;br&gt;
-mcp__server__*&lt;br&gt;
-、 &lt;br&gt;
-mcp__*&lt;br&gt;
-) サブエージェント内 &lt;br&gt;
-許可されていないツール&lt;br&gt;
- 黙って無視される&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-vim モードの取り消しを修正しました: &lt;br&gt;
-あなた&lt;br&gt;
- 連続したコマンドを 1 つの元に戻すステップにマージするのではなく、NORMAL/VISUAL モードのコマンドを一度に 1 つずつ実行するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-カスタム URI スキームを使用したステータスライン リンクを修正しました (例: &lt;br&gt;
-vscode://&lt;br&gt;
-）クリックしても開かない &lt;br&gt;
-クロードエージェント&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-[VSCode] Esc キーを押して CJK IME 候補ウィンドウを閉じ、実行中のクロード タスクをキャンセルする問題を修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;Tool(param:value)&lt;/code&gt; syntax for permission rules to match a tool's input parameters (with &lt;code&gt;*&lt;/code&gt; wildcard), e.g. &lt;code&gt;Agent(model:opus)&lt;/code&gt; to block Opus subagents&lt;/li&gt;
-&lt;li&gt;Skills in nested &lt;code&gt;.claude/skills&lt;/code&gt; directories now load when working on files there; on a name clash, the nested skill appears as &lt;code&gt;&amp;lt;dir&amp;gt;:&amp;lt;name&amp;gt;&lt;/code&gt; so both stay available&lt;/li&gt;
-&lt;li&gt;Nested &lt;code&gt;.claude/&lt;/code&gt; directories: the agent, workflow, and output-style closest to the working directory now wins when names collide; project-scope workflow saves now target the closest existing &lt;code&gt;.claude/workflows/&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Improved auto mode: subagent spawns are now evaluated by the classifier before launch, closing a gap where a subagent could request a blocked action without review&lt;/li&gt;
-&lt;li&gt;Improved &lt;code&gt;/doctor&lt;/code&gt; with consistent flat tree layout across all sections, clearer section status icons, and highlighted command names&lt;/li&gt;
-&lt;li&gt;Improved the skill listing truncation warning to show how many skill descriptions are affected&lt;/li&gt;
-&lt;li&gt;Changed the workflow prompt keyword to use a purple shimmer highlight and trigger only on explicit phrases like "run a workflow" or "workflow:", not on any mention of the word&lt;/li&gt;
-&lt;li&gt;Improved Remote Control error messages: connection failures now show a persistent red "/rc failed" indicator in the footer, and the "not yet enabled" error now explains whether it's a gate, a check failure, stale entitlement, or org policy&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/bug&lt;/code&gt; now requires a description before submitting, and no longer uses model-refusal text as the GitHub issue title&lt;/li&gt;
-&lt;li&gt;Fixed a crash (out-of-memory) when the CLI inherits a stale websocket/OAuth file-descriptor environment variable from a parent process&lt;/li&gt;
-&lt;li&gt;Fixed Claude in Chrome silently failing to connect when the OAuth token belongs to a different account than the Claude Code login&lt;/li&gt;
-&lt;li&gt;Fixed nested &lt;code&gt;.claude/skills&lt;/code&gt; skills with directory-qualified names being blocked by permission prompts in non-interactive runs&lt;/li&gt;
-&lt;li&gt;Fixed several subagent issues: viewing a subagent's transcript now shows tool results and live progress, messages sent while it finishes its turn are no longer dropped, and backgrounding a running subagent (ctrl+b) no longer restarts it from scratch&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;claude agents&lt;/code&gt; workers failing with &lt;code&gt;401 Invalid bearer token&lt;/code&gt; when the daemon was started from a shell with a custom API gateway via &lt;code&gt;ANTHROPIC_BASE_URL&lt;/code&gt; and &lt;code&gt;ANTHROPIC_AUTH_TOKEN&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed compaction not honoring &lt;code&gt;--fallback-model&lt;/code&gt;: compaction now falls back to the configured fallback model chain on overload or model-availability errors&lt;/li&gt;
-&lt;li&gt;Fixed model requests continuing to fail with auth errors after credentials were refreshed outside the session, due to a stale cached request configuration&lt;/li&gt;
-&lt;li&gt;Fixed background sessions created with &lt;code&gt;/bg&lt;/code&gt; or &lt;code&gt;←←&lt;/code&gt; after a turn finished showing "Working" forever in the agents list&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;CLAUDE_CODE_PLUGIN_KEEP_MARKETPLACE_ON_FAILURE=1&lt;/code&gt; preventing fresh marketplace installs from cloning&lt;/li&gt;
-&lt;li&gt;Fixed MCP server-level specs (&lt;code&gt;mcp__server&lt;/code&gt;, &lt;code&gt;mcp__server__*&lt;/code&gt;, &lt;code&gt;mcp__*&lt;/code&gt;) in subagent &lt;code&gt;disallowedTools&lt;/code&gt; being silently ignored&lt;/li&gt;
-&lt;li&gt;Fixed vim mode undo: &lt;code&gt;u&lt;/code&gt; now steps through NORMAL/VISUAL-mode commands one at a time instead of merging commands in quick succession into a single undo step&lt;/li&gt;
-&lt;li&gt;Fixed statusline links with custom URI schemes (e.g. &lt;code&gt;vscode://&lt;/code&gt;) not opening when clicked in &lt;code&gt;claude agents&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;[VSCode] Fixed pressing Esc to dismiss a CJK IME candidate window canceling the running Claude task&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.178"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.179</id>
     <title>v2.1.179</title>
@@ -1143,5 +997,85 @@ CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1&lt;br&gt;
 &lt;li&gt;Improved &lt;code&gt;/add-dir&lt;/code&gt; message when the directory is already a working directory&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.193"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.195</id>
+    <title>v2.1.195</title>
+    <updated>2026-06-26T21:29:42+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+CLAUDE_CODE_DISABLE_MOUSE_CLICKS&lt;br&gt;
+ ホイールスクロールを維持したまま全画面モードでマウスのクリック/ドラッグ/ホバーを無効にするには&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ハイフンでつながれた識別子を含むフック マッチャーを修正しました (例: &lt;br&gt;
+コードレビュー担当者&lt;br&gt;
+、 &lt;br&gt;
+mcp__brave-search&lt;br&gt;
+) 誤って部分文字列が一致していましたが、完全一致するようになりました。使用する &lt;br&gt;
+mcp__brave-search__.*&lt;br&gt;
+ ハイフンでつながれた MCP サーバーのすべてのツールと一致します。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+デフォルトの入力デバイスが変更された後、長時間実行セッションで沈黙をキャプチャする macOS での音声ディクテーションを修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+スペースなしで書かれた言語 (日本語、中国語、タイ語) に対して音声ディクテーションの自動送信が起動しない問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+プロジェクトによってのみ有効になる外部プラグインを修正 &lt;br&gt;
+.claude/settings.json&lt;br&gt;
+ すべてのローダー パスで明示的なインストール同意を必要としない&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/プラグイン&lt;br&gt;
+ プラグインの場合、有効化/無効化が機能しない &lt;br&gt;
+プラグイン.json&lt;br&gt;
+ &lt;br&gt;
+名前&lt;br&gt;
+ マーケットプレイスのエントリー名とは異なります&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドジョブが消える問題を修正 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ または、新しいクロード コード バージョンで書き込まれたときにデータが失われる&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+クラッシュしたバックグラウンド タスクを再度開くと、再起動されずに最大 5 秒間空白の画面が表示される問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+制御ソケットの起動に失敗し、再起動がブロックされると、バックグラウンド エージェント デーモンが到達不能に実行される問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Linux の音声モードの改善: SoX は存在するがオーディオ キャプチャ デバイスが存在しない場合に、「マイクなし」と「SoX がインストールされていない」を区別するようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+改善されました &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 利用可能な垂直スペースを埋めるための完成したリスト。短い端末ではヘッダーがコンパクトになるため、ライブセッションが表示されたままになります&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+コンテナーの起動時のプロビジョニング チェックリストによるリモート セッションの起動の改善&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;code&gt;CLAUDE_CODE_DISABLE_MOUSE_CLICKS&lt;/code&gt; to disable mouse click/drag/hover in fullscreen mode while keeping wheel scroll&lt;/li&gt;
+&lt;li&gt;Fixed hook matchers with hyphenated identifiers (e.g. &lt;code&gt;code-reviewer&lt;/code&gt;, &lt;code&gt;mcp__brave-search&lt;/code&gt;) accidentally substring-matching — they now exact-match. Use &lt;code&gt;mcp__brave-search__.*&lt;/code&gt; to match all tools from a hyphenated MCP server.&lt;/li&gt;
+&lt;li&gt;Fixed voice dictation on macOS capturing silence in long-running sessions after the default input device changes&lt;/li&gt;
+&lt;li&gt;Fixed voice dictation auto-submit never firing for languages written without spaces (Japanese, Chinese, Thai)&lt;/li&gt;
+&lt;li&gt;Fixed external plugins enabled only by project &lt;code&gt;.claude/settings.json&lt;/code&gt; not requiring explicit install consent on every loader path&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/plugin&lt;/code&gt; Enable/Disable not working when a plugin's &lt;code&gt;plugin.json&lt;/code&gt; &lt;code&gt;name&lt;/code&gt; differs from its marketplace entry name&lt;/li&gt;
+&lt;li&gt;Fixed background jobs disappearing from &lt;code&gt;claude agents&lt;/code&gt; or losing data when written by a newer Claude Code version&lt;/li&gt;
+&lt;li&gt;Fixed reopening a crashed background task showing a blank screen for up to 5 seconds instead of its restart&lt;/li&gt;
+&lt;li&gt;Fixed background agent daemons running unreachable when the control socket fails to start, blocking restarts&lt;/li&gt;
+&lt;li&gt;Improved voice mode on Linux: now distinguishes "no microphone" from "SoX not installed" when SoX is present but no audio capture device exists&lt;/li&gt;
+&lt;li&gt;Improved &lt;code&gt;claude agents&lt;/code&gt; completed list to fill available vertical space; on short terminals the header compacts so live sessions stay visible&lt;/li&gt;
+&lt;li&gt;Improved Remote session startup with a provisioning checklist while the container starts&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.195"/>
   </entry>
 </feed>
