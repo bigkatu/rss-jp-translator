@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-27T08:06:03.604929+00:00</updated>
+  <updated>2026-06-27T10:22:16.382018+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000129509:c360a1991930e39e</id>
-    <title>Hentai Project 67 80%OFF</title>
-    <updated>2026-06-24T17:17:17.519069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai Project 67&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4940b262/products/D70010000129509/squareHeroBanner/487b0a7216d0ae054bb3724590ccfe5744d05265268393a80e676ffb84f38fee.jpg?sw=346&amp;amp;strip=false" alt="Hentai Project 67"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000129509"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000129509"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000125750:748c6251c3c812ae</id>
     <title>Hidden Pleasure: Closer and Closer 80%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-06-27T08:06:03.604929+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;時の龍環（Dragon Loop）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Happy Player&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcb9030f9/products/D70010000112446/squareHeroBanner/a9000136ac06ea2ec304d4765bd0adc037c09165cc8ea987a8c865d77bce1c32.jpg?sw=346&amp;amp;strip=false" alt="時の龍環（Dragon Loop）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112446"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000112446"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126616:ae3f4d13ec2725e7</id>
+    <title>Mori Carta 20%OFF</title>
+    <updated>2026-06-27T10:22:16.382018+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Mori Carta&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,599 円&lt;/p&gt;&lt;p&gt;メーカー: Secret Item Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8d128b6c/products/D70010000126616/squareHeroBanner/eea90288422d1f497f42abfc449758020ff8e211c16a8d5846252dde2d83fd8d.jpg?sw=346&amp;amp;strip=false" alt="Mori Carta"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126616"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126616"/>
   </entry>
 </feed>
