@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-28T14:14:56.707665+00:00</updated>
+  <updated>2026-06-28T15:41:05.087903+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -287,13 +287,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000128031"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000112446:dd05cca6f7edd4bd</id>
-    <title>時の龍環（Dragon Loop） 10%OFF</title>
-    <updated>2026-06-28T08:28:22.299192+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;時の龍環（Dragon Loop）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Happy Player&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcb9030f9/products/D70010000112446/squareHeroBanner/a9000136ac06ea2ec304d4765bd0adc037c09165cc8ea987a8c865d77bce1c32.jpg?sw=346&amp;amp;strip=false" alt="時の龍環（Dragon Loop）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112446"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000112446"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000126189:b82d38f77bddb619</id>
     <title>Hentai Puzzle Simulator 3 80%OFF</title>
     <updated>2026-06-28T08:28:22.299192+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-06-28T14:14:56.707665+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000112446:dd05cca6f7edd4bd</id>
+    <title>時の龍環（Dragon Loop） 10%OFF</title>
+    <updated>2026-06-28T15:41:05.087903+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;時の龍環（Dragon Loop）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,070 円&lt;/p&gt;&lt;p&gt;メーカー: Happy Player&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwcb9030f9/products/D70010000112446/squareHeroBanner/a9000136ac06ea2ec304d4765bd0adc037c09165cc8ea987a8c865d77bce1c32.jpg?sw=346&amp;amp;strip=false" alt="時の龍環（Dragon Loop）"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112446"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000112446"/>
   </entry>
 </feed>
