@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-29T04:59:12.076811+00:00</updated>
+  <updated>2026-06-29T09:57:42.039239+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -273,20 +273,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000110892"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000128631:71eb43192d3bacab</id>
-    <title>証拠を覚えろ。1分記憶ミステリーー消えた証拠を、脳内から探し出せー 10%OFF</title>
-    <updated>2026-06-28T08:28:22.299192+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;証拠を覚えろ。1分記憶ミステリーー消えた証拠を、脳内から探し出せー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfc1a2c74/products/D70010000128631/squareHeroBanner/5c8e9ed16013d5296b23e3c88eaa9af8b642344348449335c96208d9d235e48f.jpg?sw=346&amp;amp;strip=false" alt="証拠を覚えろ。1分記憶ミステリーー消えた証拠を、脳内から探し出せー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128631"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000128631"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000127150:caac17a692daec71</id>
-    <title>人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys) 60%OFF</title>
-    <updated>2026-06-28T08:28:22.299192+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1bfcf554/products/D70010000127150/squareHeroBanner/68cdaae21b7fb79df09b26b5a8298b4ac9dbfa5e38855dd6c16414df7230cb34.jpg?sw=346&amp;amp;strip=false" alt="人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127150"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127150"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
     <title>Urban Jungle 17%OFF</title>
     <updated>2026-06-28T19:44:24.482806+00:00</updated>
@@ -299,13 +285,6 @@
     <updated>2026-06-28T19:44:24.482806+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000122314:7281d4015892ddd6</id>
-    <title>ダークオークション Nintendo Switch 2 Edition 20%OFF</title>
-    <updated>2026-06-28T23:17:38.751359+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ダークオークション Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 4,040 円&lt;/p&gt;&lt;p&gt;メーカー: イザナギゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfef0be02/products/D70010000122314/squareHeroBanner/4787e478541dd75f3fa094449eb44774c61d9bd6412707137d92fda972309f13.jpg?sw=346&amp;amp;strip=false" alt="ダークオークション Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122314"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122314"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000123842:6c72ecd1ed476e32</id>
@@ -355,5 +334,26 @@
     <updated>2026-06-29T04:59:12.076811+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;美女たちのサマーフォトパズル 〜夏の日差しとリゾートの思い出〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5ea8779f/products/D70010000128031/squareHeroBanner/d9257b055ce5e62b25e811c6484b8b16f800243a0b33091307449c76527efd91.jpg?sw=346&amp;amp;strip=false" alt="美女たちのサマーフォトパズル 〜夏の日差しとリゾートの思い出〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128031"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000128031"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000122314:7281d4015892ddd6</id>
+    <title>ダークオークション Nintendo Switch 2 Edition 20%OFF</title>
+    <updated>2026-06-29T09:57:42.039239+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ダークオークション Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 4,040 円&lt;/p&gt;&lt;p&gt;メーカー: イザナギゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfef0be02/products/D70010000122314/squareHeroBanner/4787e478541dd75f3fa094449eb44774c61d9bd6412707137d92fda972309f13.jpg?sw=346&amp;amp;strip=false" alt="ダークオークション Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122314"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000122314"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000128631:71eb43192d3bacab</id>
+    <title>証拠を覚えろ。1分記憶ミステリーー消えた証拠を、脳内から探し出せー 10%OFF</title>
+    <updated>2026-06-29T09:57:42.039239+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;証拠を覚えろ。1分記憶ミステリーー消えた証拠を、脳内から探し出せー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfc1a2c74/products/D70010000128631/squareHeroBanner/5c8e9ed16013d5296b23e3c88eaa9af8b642344348449335c96208d9d235e48f.jpg?sw=346&amp;amp;strip=false" alt="証拠を覚えろ。1分記憶ミステリーー消えた証拠を、脳内から探し出せー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128631"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000128631"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127150:caac17a692daec71</id>
+    <title>人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys) 60%OFF</title>
+    <updated>2026-06-29T09:57:42.039239+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1bfcf554/products/D70010000127150/squareHeroBanner/68cdaae21b7fb79df09b26b5a8298b4ac9dbfa5e38855dd6c16414df7230cb34.jpg?sw=346&amp;amp;strip=false" alt="人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127150"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127150"/>
   </entry>
 </feed>

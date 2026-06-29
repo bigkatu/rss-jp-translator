@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/openai/codex/releases.atom</id>
   <title>OpenAI Codex リリース（日本語）</title>
-  <updated>2026-06-29T04:57:51.420170+00:00</updated>
+  <updated>2026-06-29T09:57:15.517046+00:00</updated>
   <link href="https://github.com/openai/codex/releases" rel="alternate"/>
   <link href="https://github.com/openai/codex/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -29,5 +29,28 @@
 &lt;h2&gt;Changelog&lt;/h2&gt;
 &lt;p&gt;Full Changelog: &lt;a class="commit-link" href="https://github.com/openai/codex/compare/rust-v0.142.2...rust-v0.142.3"&gt;&lt;tt&gt;rust-v0.142.2...rust-v0.142.3&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
     <link href="https://github.com/openai/codex/releases/tag/rust-v0.142.3"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/965415649/rust-v0.142.4</id>
+    <title>0.142.4</title>
+    <updated>2026-06-29T05:05:49+00:00</updated>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;雑用&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+このリリースでは、ユーザー向けの変更は確認されていません。&lt;br&gt;
+&lt;br&gt;
+変更履歴&lt;br&gt;
+&lt;br&gt;
+完全な変更ログ: &lt;br&gt;
+錆-v0.142.3...錆-v0.142.4&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;Chores&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No user-facing changes were identified for this release.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changelog&lt;/h2&gt;
+&lt;p&gt;Full Changelog: &lt;a class="commit-link" href="https://github.com/openai/codex/compare/rust-v0.142.3...rust-v0.142.4"&gt;&lt;tt&gt;rust-v0.142.3...rust-v0.142.4&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/openai/codex/releases/tag/rust-v0.142.4"/>
   </entry>
 </feed>

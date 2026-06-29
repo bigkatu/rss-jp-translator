@@ -418,5 +418,12 @@
     "content_en_hash": "a515f647dd68449563a278004e7c7e8a",
     "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>雑用<br>\n<br>\n• <br>\n0.142.2 以降、ユーザー向けの変更は含まれていないメンテナンスのみのパッチ リリース。<br>\n<br>\n変更履歴<br>\n<br>\n完全な変更ログ: <br>\n錆-v0.142.2...錆-v0.142.3</div></div><hr><div lang=\"en\"><h3>Original (English)</h3><h2>Chores</h2>\n<ul>\n<li>Maintenance-only patch release with no user-facing changes since 0.142.2.</li>\n</ul>\n<h2>Changelog</h2>\n<p>Full Changelog: <a class=\"commit-link\" href=\"https://github.com/openai/codex/compare/rust-v0.142.2...rust-v0.142.3\"><tt>rust-v0.142.2...rust-v0.142.3</tt></a></p></div>",
     "translated_at": "2026-06-26T22:34:58.739068+00:00"
+  },
+  "13b7c202b50820c25915": {
+    "title_en": "0.142.4",
+    "title_ja": "0.142.4",
+    "content_en_hash": "949b49a5b987b4dce666829cb3a7db27",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>雑用<br>\n<br>\n• <br>\nこのリリースでは、ユーザー向けの変更は確認されていません。<br>\n<br>\n変更履歴<br>\n<br>\n完全な変更ログ: <br>\n錆-v0.142.3...錆-v0.142.4</div></div><hr><div lang=\"en\"><h3>Original (English)</h3><h2>Chores</h2>\n<ul>\n<li>No user-facing changes were identified for this release.</li>\n</ul>\n<h2>Changelog</h2>\n<p>Full Changelog: <a class=\"commit-link\" href=\"https://github.com/openai/codex/compare/rust-v0.142.3...rust-v0.142.4\"><tt>rust-v0.142.3...rust-v0.142.4</tt></a></p></div>",
+    "translated_at": "2026-06-29T09:57:17.770076+00:00"
   }
 }
