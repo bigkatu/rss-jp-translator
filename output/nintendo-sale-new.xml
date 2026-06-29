@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-29T09:57:42.039239+00:00</updated>
+  <updated>2026-06-29T14:19:11.708706+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000125793:b904d9c92e9bd3db</id>
-    <title>Citizen Sleeper 2: Starward Vector – Nintendo Switch 2 Edition 50%OFF</title>
-    <updated>2026-06-24T17:17:17.519069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Citizen Sleeper 2: Starward Vector – Nintendo Switch 2 Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 1,400 円&lt;/p&gt;&lt;p&gt;メーカー: Fellow Traveller&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc3b5e960/products/D70010000125793/squareHeroBanner/5a78eef2541277799630a0e0b1d15f225366ba4efb25a70675118c5b099bf05c.jpg?sw=346&amp;amp;strip=false" alt="Citizen Sleeper 2: Starward Vector – Nintendo Switch 2 Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125793"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125793"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000121800:94269a43b078af07</id>
     <title>ツクールシリーズ　Arcanion: The Mekanos Invasion 10%OFF</title>
@@ -245,32 +238,11 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000123396"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000125071:803c5dd2e31e1159</id>
-    <title>イケメン・ウォッチング 次々現れる顔を覚えろ！ー見逃したら終わり、美男子の変化を記憶せよー 10%OFF</title>
-    <updated>2026-06-28T08:28:22.299192+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;イケメン・ウォッチング 次々現れる顔を覚えろ！ー見逃したら終わり、美男子の変化を記憶せよー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbe9f22e6/products/D70010000125071/squareHeroBanner/6db98ce1de2910fa03f1ac288466034e29ed3d79748b9e54918ec22ec2cec66f.jpg?sw=346&amp;amp;strip=false" alt="イケメン・ウォッチング 次々現れる顔を覚えろ！ー見逃したら終わり、美男子の変化を記憶せよー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125071"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125071"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000126676:535cb6661baf7b85</id>
     <title>Clay&amp;Cats 84%OFF</title>
     <updated>2026-06-28T08:28:22.299192+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Clay&amp;amp;Cats&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;84%OFF&lt;/p&gt;&lt;p&gt;価格: 199 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca71a191/products/D70010000126676/squareHeroBanner/433ffd515b52a772ec3f01687b941c035ec046ec7b72dccbb925b4d49613c905.jpg?sw=346&amp;amp;strip=false" alt="Clay&amp;amp;Cats"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126676"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000126676"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000128963:1f0f33b218743d04</id>
-    <title>ノイマン教授と学ぶ大人認定テストー世界基準の知識力をあなたにー 10%OFF</title>
-    <updated>2026-06-28T08:28:22.299192+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ノイマン教授と学ぶ大人認定テストー世界基準の知識力をあなたにー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfabf6e99/products/D70010000128963/squareHeroBanner/1d6077eb6ff951f80f8f281485bfbc3dcd2c4b50f680c0361b3a261710e17925.jpg?sw=346&amp;amp;strip=false" alt="ノイマン教授と学ぶ大人認定テストー世界基準の知識力をあなたにー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128963"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000128963"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000110892:1c869acf7bc9dbfe</id>
-    <title>最終回収SQUAD 10%OFF</title>
-    <updated>2026-06-28T08:28:22.299192+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;最終回収SQUAD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,350 円&lt;/p&gt;&lt;p&gt;メーカー: わくわくゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe12cb357/products/D70010000110892/squareHeroBanner/f73dc7eebb921493e796cf645e39c300ce9875aeea0fe72f3249726781d3550f.jpg?sw=346&amp;amp;strip=false" alt="最終回収SQUAD"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110892"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000110892"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
@@ -299,13 +271,6 @@
     <updated>2026-06-28T23:17:38.751359+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdb46f767/products/D70010000123848/squareHeroBanner/3cbf49eefb3cdd23969c145bed1a8c0404bad02e80a034df55e8c7a8758332d4.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123848"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123848"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000128478:8e3531c0e13f9af0</id>
-    <title>あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー 10%OFF</title>
-    <updated>2026-06-28T23:17:38.751359+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9686fb6f/products/D70010000128478/squareHeroBanner/cb9a01abb1ac3b4d527ff65f6ca6cf861a823ae81919c53264d612ea0fd1ecc3.jpg?sw=346&amp;amp;strip=false" alt="あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128478"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000128478"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000112446:dd05cca6f7edd4bd</id>
@@ -355,5 +320,40 @@
     <updated>2026-06-29T09:57:42.039239+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1bfcf554/products/D70010000127150/squareHeroBanner/68cdaae21b7fb79df09b26b5a8298b4ac9dbfa5e38855dd6c16414df7230cb34.jpg?sw=346&amp;amp;strip=false" alt="人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127150"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127150"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000128478:8e3531c0e13f9af0</id>
+    <title>あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー 10%OFF</title>
+    <updated>2026-06-29T14:19:11.708706+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9686fb6f/products/D70010000128478/squareHeroBanner/cb9a01abb1ac3b4d527ff65f6ca6cf861a823ae81919c53264d612ea0fd1ecc3.jpg?sw=346&amp;amp;strip=false" alt="あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128478"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000128478"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126834:e5ce7883a0e82f79</id>
+    <title>Beat The Champions 10%OFF</title>
+    <updated>2026-06-29T14:19:11.708706+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Beat The Champions&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,250 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw7cca58e1/products/D70010000126834/squareHeroBanner/2b82ac33f8bff523eac1acea4b1cc50ea6597e2ec06f2045e252887ac7e844bd.jpg?sw=346&amp;amp;strip=false" alt="Beat The Champions"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126834"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126834"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000128963:1f0f33b218743d04</id>
+    <title>ノイマン教授と学ぶ大人認定テストー世界基準の知識力をあなたにー 10%OFF</title>
+    <updated>2026-06-29T14:19:11.708706+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ノイマン教授と学ぶ大人認定テストー世界基準の知識力をあなたにー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfabf6e99/products/D70010000128963/squareHeroBanner/1d6077eb6ff951f80f8f281485bfbc3dcd2c4b50f680c0361b3a261710e17925.jpg?sw=346&amp;amp;strip=false" alt="ノイマン教授と学ぶ大人認定テストー世界基準の知識力をあなたにー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128963"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000128963"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125071:803c5dd2e31e1159</id>
+    <title>イケメン・ウォッチング 次々現れる顔を覚えろ！ー見逃したら終わり、美男子の変化を記憶せよー 10%OFF</title>
+    <updated>2026-06-29T14:19:11.708706+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;イケメン・ウォッチング 次々現れる顔を覚えろ！ー見逃したら終わり、美男子の変化を記憶せよー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbe9f22e6/products/D70010000125071/squareHeroBanner/6db98ce1de2910fa03f1ac288466034e29ed3d79748b9e54918ec22ec2cec66f.jpg?sw=346&amp;amp;strip=false" alt="イケメン・ウォッチング 次々現れる顔を覚えろ！ー見逃したら終わり、美男子の変化を記憶せよー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125071"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125071"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000110892:1c869acf7bc9dbfe</id>
+    <title>最終回収SQUAD 10%OFF</title>
+    <updated>2026-06-29T14:19:11.708706+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;最終回収SQUAD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,350 円&lt;/p&gt;&lt;p&gt;メーカー: わくわくゲームズ&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe12cb357/products/D70010000110892/squareHeroBanner/f73dc7eebb921493e796cf645e39c300ce9875aeea0fe72f3249726781d3550f.jpg?sw=346&amp;amp;strip=false" alt="最終回収SQUAD"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110892"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000110892"/>
   </entry>
 </feed>
