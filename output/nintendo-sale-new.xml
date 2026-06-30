@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-30T10:36:15.612940+00:00</updated>
+  <updated>2026-06-30T13:15:26.048610+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -75,13 +75,6 @@
     <updated>2026-06-25T08:31:01.274507+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Rat Protocol&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 480 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4bad2a2f/products/D70010000123263/squareHeroBanner/383660203df142a16bc3c2a4ec407e30707cce55ff0a27fe0f1d2b8deb33d02f.jpg?sw=346&amp;amp;strip=false" alt="Rat Protocol"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123263"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123263"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000119504:b31ea62648d2c087</id>
-    <title>Hentai House: Mystery Rooms 83%OFF</title>
-    <updated>2026-06-25T11:50:00.131198+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai House: Mystery Rooms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;83%OFF&lt;/p&gt;&lt;p&gt;価格: 499 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3da606b4/products/D70010000119504/squareHeroBanner/2764832732d00994c0710dd4e2e0e0511cb03e0a100b34c0810085ac6b4a65f4.jpg?sw=346&amp;amp;strip=false" alt="Hentai House: Mystery Rooms"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119504"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119504"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000123893:1f6151f8839a808e</id>
@@ -259,13 +252,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000110892"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
-    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
-    <updated>2026-06-29T17:47:45.790829+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123842:6c72ecd1ed476e32</id>
     <title>ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera) 60%OFF</title>
     <updated>2026-06-29T23:15:39.902569+00:00</updated>
@@ -355,5 +341,19 @@
     <updated>2026-06-30T10:36:15.612940+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ランサンドイッチラン Run, Sandwich, Run! &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 449 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0f005805/products/D70010000119813/squareHeroBanner/178c73722a540668dc9f27dc61344dcb3bbc825521d7263fde4cb29b640a51e5.jpg?sw=346&amp;amp;strip=false" alt="ランサンドイッチラン Run, Sandwich, Run! "&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119813"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000119813"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
+    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
+    <updated>2026-06-30T13:15:26.048610+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119504:b31ea62648d2c087</id>
+    <title>Hentai House: Mystery Rooms 83%OFF</title>
+    <updated>2026-06-30T13:15:26.048610+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai House: Mystery Rooms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;83%OFF&lt;/p&gt;&lt;p&gt;価格: 499 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3da606b4/products/D70010000119504/squareHeroBanner/2764832732d00994c0710dd4e2e0e0511cb03e0a100b34c0810085ac6b4a65f4.jpg?sw=346&amp;amp;strip=false" alt="Hentai House: Mystery Rooms"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119504"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119504"/>
   </entry>
 </feed>
