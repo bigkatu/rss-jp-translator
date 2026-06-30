@@ -2,30 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-30T06:32:40.202218+00:00</updated>
+  <updated>2026-06-30T10:36:15.612940+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000121800:94269a43b078af07</id>
-    <title>ツクールシリーズ　Arcanion: The Mekanos Invasion 10%OFF</title>
-    <updated>2026-06-24T17:17:17.519069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ツクールシリーズ　Arcanion: The Mekanos Invasion&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 1,530 円&lt;/p&gt;&lt;p&gt;メーカー: Gotcha Gotcha Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw93791499/products/D70010000121800/squareHeroBanner/b975b8d07bd778908b3968ddfea3ebcd4f14bbac567e78941338ee5832026c8c.jpg?sw=346&amp;amp;strip=false" alt="ツクールシリーズ　Arcanion: The Mekanos Invasion"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121800"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000121800"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000109784:bfd255ed8dd3de41</id>
     <title>Deer &amp; Boy 10%OFF</title>
     <updated>2026-06-24T17:17:17.519069+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Deer &amp;amp; Boy&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,250 円&lt;/p&gt;&lt;p&gt;メーカー: Plug In Digital&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6735f487/products/D70010000109784/squareHeroBanner/049c6281883f1c8e086f51920f243e10fd96e0dc8b5ce4d7638a8a2175374bcc.jpg?sw=346&amp;amp;strip=false" alt="Deer &amp;amp; Boy"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000109784"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000109784"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000110220:31d67534a636a1d2</id>
-    <title>YinYang Street Ultimate Edition 20%OFF</title>
-    <updated>2026-06-24T17:17:17.519069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;YinYang Street Ultimate Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 920 円&lt;/p&gt;&lt;p&gt;メーカー: Cube Game&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5476538c/products/D70010000110220/squareHeroBanner/0173b3164ada13b1fc136d49c0f1761d37b0a7d1a86082279748a61e5c14c5d9.jpg?sw=346&amp;amp;strip=false" alt="YinYang Street Ultimate Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110220"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000110220"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000072389:77a5407686dc0952</id>
@@ -294,13 +280,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000123848"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
-    <title>Urban Jungle 17%OFF</title>
-    <updated>2026-06-29T23:15:39.902569+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Urban Jungle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;17%OFF&lt;/p&gt;&lt;p&gt;価格: 1,162 円&lt;/p&gt;&lt;p&gt;メーカー: Assemble Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw71473b14/products/D70010000119741/squareHeroBanner/8eb6f8af71c94737ea9248227343710c6b5a06bd5a13d66b44151403b222b6e2.jpg?sw=346&amp;amp;strip=false" alt="Urban Jungle"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119741"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119741"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000128478:8e3531c0e13f9af0</id>
     <title>あなたは通用する？全世界常識チェックー大人なら知っておきたい国際常識ー 10%OFF</title>
     <updated>2026-06-29T23:15:39.902569+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-06-30T06:32:40.202218+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;美女たちのサマーフォトパズル 〜夏の日差しとリゾートの思い出〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5ea8779f/products/D70010000128031/squareHeroBanner/d9257b055ce5e62b25e811c6484b8b16f800243a0b33091307449c76527efd91.jpg?sw=346&amp;amp;strip=false" alt="美女たちのサマーフォトパズル 〜夏の日差しとリゾートの思い出〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128031"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000128031"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
+    <title>Urban Jungle 17%OFF</title>
+    <updated>2026-06-30T10:36:15.612940+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Urban Jungle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;17%OFF&lt;/p&gt;&lt;p&gt;価格: 1,162 円&lt;/p&gt;&lt;p&gt;メーカー: Assemble Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw71473b14/products/D70010000119741/squareHeroBanner/8eb6f8af71c94737ea9248227343710c6b5a06bd5a13d66b44151403b222b6e2.jpg?sw=346&amp;amp;strip=false" alt="Urban Jungle"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119741"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119741"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000110220:31d67534a636a1d2</id>
+    <title>YinYang Street Ultimate Edition 20%OFF</title>
+    <updated>2026-06-30T10:36:15.612940+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;YinYang Street Ultimate Edition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 920 円&lt;/p&gt;&lt;p&gt;メーカー: Cube Game&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw5476538c/products/D70010000110220/squareHeroBanner/0173b3164ada13b1fc136d49c0f1761d37b0a7d1a86082279748a61e5c14c5d9.jpg?sw=346&amp;amp;strip=false" alt="YinYang Street Ultimate Edition"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000110220"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000110220"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119813:97781cb225d75be4</id>
+    <title>ランサンドイッチラン Run, Sandwich, Run!  50%OFF</title>
+    <updated>2026-06-30T10:36:15.612940+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ランサンドイッチラン Run, Sandwich, Run! &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 449 円&lt;/p&gt;&lt;p&gt;メーカー: NOSTRA GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0f005805/products/D70010000119813/squareHeroBanner/178c73722a540668dc9f27dc61344dcb3bbc825521d7263fde4cb29b640a51e5.jpg?sw=346&amp;amp;strip=false" alt="ランサンドイッチラン Run, Sandwich, Run! "&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119813"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119813"/>
   </entry>
 </feed>
