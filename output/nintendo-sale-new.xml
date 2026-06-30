@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-30T13:15:26.048610+00:00</updated>
+  <updated>2026-06-30T15:42:28.138116+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -322,13 +322,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000128031"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
-    <title>Urban Jungle 17%OFF</title>
-    <updated>2026-06-30T10:36:15.612940+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Urban Jungle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;17%OFF&lt;/p&gt;&lt;p&gt;価格: 1,162 円&lt;/p&gt;&lt;p&gt;メーカー: Assemble Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw71473b14/products/D70010000119741/squareHeroBanner/8eb6f8af71c94737ea9248227343710c6b5a06bd5a13d66b44151403b222b6e2.jpg?sw=346&amp;amp;strip=false" alt="Urban Jungle"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119741"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119741"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000110220:31d67534a636a1d2</id>
     <title>YinYang Street Ultimate Edition 20%OFF</title>
     <updated>2026-06-30T10:36:15.612940+00:00</updated>
@@ -355,5 +348,12 @@
     <updated>2026-06-30T13:15:26.048610+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Hentai House: Mystery Rooms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;83%OFF&lt;/p&gt;&lt;p&gt;価格: 499 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3da606b4/products/D70010000119504/squareHeroBanner/2764832732d00994c0710dd4e2e0e0511cb03e0a100b34c0810085ac6b4a65f4.jpg?sw=346&amp;amp;strip=false" alt="Hentai House: Mystery Rooms"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119504"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000119504"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
+    <title>Urban Jungle 17%OFF</title>
+    <updated>2026-06-30T15:42:28.138116+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Urban Jungle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;17%OFF&lt;/p&gt;&lt;p&gt;価格: 1,162 円&lt;/p&gt;&lt;p&gt;メーカー: Assemble Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw71473b14/products/D70010000119741/squareHeroBanner/8eb6f8af71c94737ea9248227343710c6b5a06bd5a13d66b44151403b222b6e2.jpg?sw=346&amp;amp;strip=false" alt="Urban Jungle"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119741"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000119741"/>
   </entry>
 </feed>
