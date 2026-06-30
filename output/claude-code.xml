@@ -2,228 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-06-30T15:41:55.955750+00:00</updated>
+  <updated>2026-06-30T18:12:31.521044+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.181</id>
-    <title>v2.1.181</title>
-    <updated>2026-06-17T22:07:41+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-/config キー=値&lt;br&gt;
- プロンプトから任意の設定を行うための構文 (例: &lt;br&gt;
-/config Thinking=false&lt;br&gt;
-) — インタラクティブに動作し、 &lt;br&gt;
--p&lt;br&gt;
-、およびリモコン&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-Sandbox.allowAppleEvents&lt;br&gt;
- サンドボックスコマンドが macOS 上で Apple Event を送信できるようにするオプトイン設定&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-CLAUDE_CLIENT_PRESENCE_FILE&lt;br&gt;
- 環境変数: マシンの前にいる間モバイル プッシュ通知を抑制するには、マーカー ファイルを指定します。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-バンドルされている Bun ランタイムを 1.4 にアップグレードしました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-長い段落のストリーミングの改善: 最初の改行を待つのではなく、テキストが 1 行ずつ表示されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動再試行の改善: API 接続が思考中に切断された場合、「思考中に接続が閉じられました」と表示されるのではなく、自動的に再試行されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サブエージェント パネルを改善しました。アイドル状態のサブエージェントは 30 秒後に自動的に非表示になり、リストの上限は 5 行でスクロール ヒントが表示され、キーボード ヒントがフッターに表示されるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-MCP OAuth ブラウザ ページをクロード コードのビジュアル スタイルに合わせて改善し、成功時に自動的に閉じるようにしました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ネイティブ端末の動作に合わせて、フルスクリーン モードの URL を開くときに Cmd+クリック (macOS) / Ctrl+クリックが必要になるように変更しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-を変更しました &lt;br&gt;
-Nメモリーの改善&lt;br&gt;
- 詳細モード以外で個々のファイルをリストしないようにする行&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-カスタムで読み込まれないプロンプト キャッシュを修正しました &lt;br&gt;
-ANTHROPIC_BASE_URL&lt;br&gt;
- そしてFoundryではリクエストごとの認証トークンが毎ターン変化するため&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-書き込み/編集でネットワーク ドライブおよびクラウド同期フォルダー上に 0 バイトまたは切り捨てられたファイルが生成される問題を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-開く&lt;br&gt;
-、 &lt;br&gt;
-オサスクリプト&lt;br&gt;
-、Apple Events 資格を追加すると、macOS でブラウザベースの認証フローがエラー -600 で失敗する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-起動回帰 (2.1.169 で導入された、新しい環境での起動ごとに最大 120 ミリ秒) を修正しました。MCP サーバーが構成されていない場合、最初のプロンプトは管理対象設定のフェッチを待機しなくなりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-劣化したネットワーク上でアカウント設定の取得が遅い場合に、ブランク端末で最大 15 秒間起動がブロックされる問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-起動時のクラッシュを修正 (&lt;br&gt;
-TypeError: null のプロパティを読み取れません&lt;br&gt;
-) いつ &lt;br&gt;
-.claude.json&lt;br&gt;
- 破損した null プロジェクト エントリが含まれています&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Spotlight がインデックスの再作成でビジー状態の場合、セッション開始時に macOS TUI がフリーズする (Ctrl+C が応答しない) 問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-別のクロード コード プロセスが 30 日間のトランスクリプト クリーンアップを実行したときに、長時間実行されているアイドル セッションの履歴が失われる問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-無制限のネストされたチェーンを生成するフォアグラウンド サブエージェントを修正しました。バックグラウンド サブエージェントと同じ 5 レベルの深さ制限を尊重するようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/要約&lt;br&gt;
- 機種変更直後は前機種で会話が分岐する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サブエージェント自身の経過時間ではなく、親エージェントの経過時間を表示するサブエージェントの「思考」期間を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ネストされたエージェントでブロックされたサブエージェントが、エージェント パネルで「待機中」ではなく経過時間を表示する問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-再試行が成功した後、API 再試行インジケーター (「0 秒で再試行中・試行 N/10」) が画面上に残る問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-固定AWS &lt;br&gt;
-awsCredentialExport&lt;br&gt;
- 残りの有効期間が短い認証情報では、認証情報が 1 分ごとに更新され、次からの JSON 形式を受け入れるようになりました。 &lt;br&gt;
-aws はエクスポート認証情報を設定します&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-クロード・MCPをゲット&lt;br&gt;
-/&lt;br&gt;
-リスト&lt;br&gt;
- 見せている &lt;br&gt;
-✓ 接続済み&lt;br&gt;
- ツール/リストが失敗したとき。彼らは今示しています &lt;br&gt;
-！接続済み・ツールの取得に失敗しました&lt;br&gt;
- エラーの詳細付き&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/リモートコントロール&lt;br&gt;
- 古くなった「接続中…」行が残る。接続するとトランスクリプトで確認されるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ExitWorktree がベアの場合に「ワークツリーの状態を確認できませんでした」というメッセージが表示され、クリーンなワークツリーの削除を拒否する問題を修正しました。 &lt;br&gt;
-git&lt;br&gt;
- Windows では解決できません&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-設定変更の修正（ &lt;br&gt;
-/努力&lt;br&gt;
- または &lt;br&gt;
-/モデル&lt;br&gt;
-) ENOENT で失敗する場合 &lt;br&gt;
-~/.claude/settings.json&lt;br&gt;
- シンボリックリンクの下の相対シンボリックリンクです &lt;br&gt;
-~/.クロード&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-コンテキストリマインダーの IDE 選択行番号が 1 つずれる問題を修正しました (IntelliJ および VS Code)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ネイティブ端末の選択 (修飾子 + ドラッグ) によりクリップボードがアプリの前の選択で上書きされた後の全画面表示での Ctrl+C を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-クリップボードにテキストが含まれている場合、Ctrl+V を押すと貼り付けの代わりに「クリップボードに画像が見つかりません」と表示される問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-エージェント ディレクトリがすでに存在する場合に「EEXIST: ファイルはすでに存在します」というメッセージが表示されてエージェントの作成が失敗する問題を修正しました (Windows/OneDrive)&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-AskUserQuestion のプレビュー コンテンツがワードラップではなくダイアログの端で切り取られる問題を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-AskUserQuestion の複数選択の質問で、送信時に入力された「その他」の自由形式の回答がサイレントに削除される問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/統計&lt;br&gt;
- 「最もアクティブな日」と UTC マイナスのタイムゾーンで 1 日早い日を示す毎日のトークン チャートの日付&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-/コピー&lt;br&gt;
- Linux でのコピーオンセレクトが、Claude Code の開始後にインストールされたクリップボード ユーティリティを検出しない&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-書き込み (ファイル作成) プレビューで間違ったインデントでタブインデントされたコードのレンダリングが修正されました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ターンの途中でキューに入れられたユーザー プロンプトで、トランスクリプト内で全幅の背景ハイライトが表示されない問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-Ghostty の間違ったグリフ サイズに留まるアクティビティ スピナーのパルスを修正しました&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;/config key=value&lt;/code&gt; syntax to set any setting from the prompt (e.g. &lt;code&gt;/config thinking=false&lt;/code&gt;) — works in interactive, &lt;code&gt;-p&lt;/code&gt;, and Remote Control&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;sandbox.allowAppleEvents&lt;/code&gt; opt-in setting that lets sandboxed commands send Apple Events on macOS&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;CLAUDE_CLIENT_PRESENCE_FILE&lt;/code&gt; environment variable: point it at a marker file to suppress mobile push notifications while you're at the machine&lt;/li&gt;
-&lt;li&gt;Upgraded the bundled Bun runtime to 1.4&lt;/li&gt;
-&lt;li&gt;Improved streaming of long paragraphs: text now appears line-by-line instead of waiting for the first line break&lt;/li&gt;
-&lt;li&gt;Improved auto-retry: API connection drops mid-thinking now automatically retry instead of showing "Connection closed while thinking"&lt;/li&gt;
-&lt;li&gt;Improved the subagent panel: idle subagents auto-hide after 30s, the list caps at 5 rows with scroll hints, and keyboard hints now show in the footer&lt;/li&gt;
-&lt;li&gt;Improved the MCP OAuth browser page to match Claude Code's visual style and auto-close on success&lt;/li&gt;
-&lt;li&gt;Changed fullscreen mode URL opening to require Cmd+click (macOS) / Ctrl+click, matching native terminal behavior&lt;/li&gt;
-&lt;li&gt;Changed the &lt;code&gt;Improved N memories&lt;/code&gt; line to no longer list individual files outside verbose mode&lt;/li&gt;
-&lt;li&gt;Fixed prompt caching not reading on custom &lt;code&gt;ANTHROPIC_BASE_URL&lt;/code&gt; and on Foundry due to a per-request attestation token changing every turn&lt;/li&gt;
-&lt;li&gt;Fixed Write/Edit producing 0-byte or truncated files on network drives and cloud-synced folders&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;open&lt;/code&gt;, &lt;code&gt;osascript&lt;/code&gt;, and browser-based auth flows failing with error -600 on macOS by adding the Apple Events entitlement&lt;/li&gt;
-&lt;li&gt;Fixed a startup regression (~120ms per launch in fresh environments, introduced in 2.1.169): the first prompt no longer waits for the managed-settings fetch when no MCP servers are configured&lt;/li&gt;
-&lt;li&gt;Fixed startup blocking with a blank terminal for up to 15 seconds when the account settings fetch is slow on a degraded network&lt;/li&gt;
-&lt;li&gt;Fixed startup crash (&lt;code&gt;TypeError: Cannot read properties of null&lt;/code&gt;) when &lt;code&gt;.claude.json&lt;/code&gt; contains corrupted null project entries&lt;/li&gt;
-&lt;li&gt;Fixed macOS TUI freezing at session start (Ctrl+C unresponsive) when Spotlight is busy reindexing&lt;/li&gt;
-&lt;li&gt;Fixed long-running idle sessions losing their history when another Claude Code process ran the 30-day transcript cleanup&lt;/li&gt;
-&lt;li&gt;Fixed foreground subagents spawning unbounded nested chains; they now respect the same 5-level depth limit as background subagents&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/recap&lt;/code&gt; and conversation forks using the previous model immediately after a model switch&lt;/li&gt;
-&lt;li&gt;Fixed subagent "Thinking" duration showing the parent agent's elapsed time instead of the subagent's own&lt;/li&gt;
-&lt;li&gt;Fixed subagents blocked on a nested agent showing a ticking elapsed time instead of "waiting" in the agent panel&lt;/li&gt;
-&lt;li&gt;Fixed the API retry indicator ("Retrying in 0s · attempt N/10") staying on screen after the retry succeeded&lt;/li&gt;
-&lt;li&gt;Fixed AWS &lt;code&gt;awsCredentialExport&lt;/code&gt; credentials with a short remaining lifetime causing credential refreshes every minute, and now accepts the JSON shape from &lt;code&gt;aws configure export-credentials&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;claude mcp get&lt;/code&gt;/&lt;code&gt;list&lt;/code&gt; showing &lt;code&gt;✓ Connected&lt;/code&gt; when tools/list fails; they now show &lt;code&gt;! Connected · tools fetch failed&lt;/code&gt; with the error detail&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/remote-control&lt;/code&gt; leaving a stale "connecting…" line; it now confirms in the transcript once connected&lt;/li&gt;
-&lt;li&gt;Fixed ExitWorktree refusing to remove a clean worktree with "Could not verify worktree state" when bare &lt;code&gt;git&lt;/code&gt; cannot be resolved on Windows&lt;/li&gt;
-&lt;li&gt;Fixed settings changes (such as &lt;code&gt;/effort&lt;/code&gt; or &lt;code&gt;/model&lt;/code&gt;) failing with ENOENT when &lt;code&gt;~/.claude/settings.json&lt;/code&gt; is a relative symlink under a symlinked &lt;code&gt;~/.claude&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed IDE selection line numbers in context reminders being off by one (IntelliJ and VS Code)&lt;/li&gt;
-&lt;li&gt;Fixed Ctrl+C in fullscreen after a native terminal selection (modifier+drag) overwriting the clipboard with the app's prior selection&lt;/li&gt;
-&lt;li&gt;Fixed Ctrl+V showing "No image found in clipboard" instead of pasting when the clipboard contains text&lt;/li&gt;
-&lt;li&gt;Fixed agent creation failing with "EEXIST: file already exists" when the agents directory already exists (Windows/OneDrive)&lt;/li&gt;
-&lt;li&gt;Fixed AskUserQuestion preview content being cut off at the dialog edge instead of word-wrapping&lt;/li&gt;
-&lt;li&gt;Fixed AskUserQuestion multi-select questions silently dropping a typed "Other" free-text answer when submitting&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/stats&lt;/code&gt; "Most active day" and daily token chart dates showing one day early in UTC-negative timezones&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;/copy&lt;/code&gt; and copy-on-select on Linux not detecting a clipboard utility installed after Claude Code started&lt;/li&gt;
-&lt;li&gt;Fixed tab-indented code rendering with incorrect indentation in the Write (create-file) preview&lt;/li&gt;
-&lt;li&gt;Fixed user prompts queued mid-turn not showing a full-width background highlight in the transcript&lt;/li&gt;
-&lt;li&gt;Fixed the activity spinner's pulse dwelling on the wrong glyph size in Ghostty&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.181"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.183</id>
     <title>v2.1.183</title>
@@ -1198,5 +981,22 @@ _ファウンドリー&lt;br&gt;
 &lt;li&gt;Changed opening the agents view from a foreground session to require a single &lt;code&gt;←&lt;/code&gt; press instead of two, matching the behavior in background sessions&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.196"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.197</id>
+    <title>v2.1.197</title>
+    <updated>2026-06-30T17:56:37+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Claude Sonnet 5 の紹介: ネイティブ 1M トークン コンテキスト ウィンドウと、8 月 31 日まで Mtok あたり 2 ドル/10 ドルのプロモーション価格を備えた、Claude Code のデフォルト モデルになりました。アクセスするには、バージョン 2.1.197 に更新してください。 &lt;br&gt;
+https://www.anthropic.com/news/claude-sonnet-5&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducing Claude Sonnet 5: now the default model in Claude Code, with a native 1M-token context window and promotional pricing of $2/$10 per Mtok through August 31. Update to version 2.1.197 for access. &lt;a href="https://www.anthropic.com/news/claude-sonnet-5" rel="nofollow"&gt;https://www.anthropic.com/news/claude-sonnet-5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.197"/>
   </entry>
 </feed>

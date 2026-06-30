@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-06-30T15:42:28.138116+00:00</updated>
+  <updated>2026-06-30T18:14:13.462784+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -252,13 +252,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000110892"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123842:6c72ecd1ed476e32</id>
-    <title>ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera) 60%OFF</title>
-    <updated>2026-06-29T23:15:39.902569+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6bf64314/products/D70010000123842/squareHeroBanner/441dc3518cded495ed509f36203a8c44c3a3f9164aee08332fc17f119799056e.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123842"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123842"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123848:db6ab672f757c2e0</id>
     <title>ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera) 60%OFF</title>
     <updated>2026-06-29T23:15:39.902569+00:00</updated>
@@ -278,13 +271,6 @@
     <updated>2026-06-30T01:26:47.503398+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Kitten Island 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;81%OFF&lt;/p&gt;&lt;p&gt;価格: 199 円&lt;/p&gt;&lt;p&gt;メーカー: GAME NACIONAL&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb955cf5b/products/D70010000126786/squareHeroBanner/1e57bbaa25026893307fb1a7cd238eee29451df6d6d568c4971ce6a7d9178e76.jpg?sw=346&amp;amp;strip=false" alt="Kitten Island 2"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126786"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000126786"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000105361:257d747f7984ce8a</id>
-    <title>Love Chemistry - Sibella's Formula 20%OFF</title>
-    <updated>2026-06-30T01:26:47.503398+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Love Chemistry - Sibella's Formula&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 640 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw55394e70/products/D70010000105361/squareHeroBanner/3e58f07d6c60e260e9a42dce708375b19aa627750235b98241ec07c4dab3cd19.jpg?sw=346&amp;amp;strip=false" alt="Love Chemistry - Sibella's Formula"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000105361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000105361"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000122436:035d320a1150efb6</id>
@@ -336,13 +322,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000119813"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
-    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
-    <updated>2026-06-30T13:15:26.048610+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000119504:b31ea62648d2c087</id>
     <title>Hentai House: Mystery Rooms 83%OFF</title>
     <updated>2026-06-30T13:15:26.048610+00:00</updated>
@@ -355,5 +334,26 @@
     <updated>2026-06-30T15:42:28.138116+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Urban Jungle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;17%OFF&lt;/p&gt;&lt;p&gt;価格: 1,162 円&lt;/p&gt;&lt;p&gt;メーカー: Assemble Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw71473b14/products/D70010000119741/squareHeroBanner/8eb6f8af71c94737ea9248227343710c6b5a06bd5a13d66b44151403b222b6e2.jpg?sw=346&amp;amp;strip=false" alt="Urban Jungle"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119741"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000119741"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
+    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
+    <updated>2026-06-30T18:14:13.462784+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123842:6c72ecd1ed476e32</id>
+    <title>ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera) 60%OFF</title>
+    <updated>2026-06-30T18:14:13.462784+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6bf64314/products/D70010000123842/squareHeroBanner/441dc3518cded495ed509f36203a8c44c3a3f9164aee08332fc17f119799056e.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123842"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123842"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000105361:257d747f7984ce8a</id>
+    <title>Love Chemistry - Sibella's Formula 20%OFF</title>
+    <updated>2026-06-30T18:14:13.462784+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Love Chemistry - Sibella's Formula&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 640 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw55394e70/products/D70010000105361/squareHeroBanner/3e58f07d6c60e260e9a42dce708375b19aa627750235b98241ec07c4dab3cd19.jpg?sw=346&amp;amp;strip=false" alt="Love Chemistry - Sibella's Formula"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000105361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000105361"/>
   </entry>
 </feed>
