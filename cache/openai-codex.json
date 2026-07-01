@@ -425,5 +425,12 @@
     "content_en_hash": "949b49a5b987b4dce666829cb3a7db27",
     "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>雑用<br>\n<br>\n• <br>\nこのリリースでは、ユーザー向けの変更は確認されていません。<br>\n<br>\n変更履歴<br>\n<br>\n完全な変更ログ: <br>\n錆-v0.142.3...錆-v0.142.4</div></div><hr><div lang=\"en\"><h3>Original (English)</h3><h2>Chores</h2>\n<ul>\n<li>No user-facing changes were identified for this release.</li>\n</ul>\n<h2>Changelog</h2>\n<p>Full Changelog: <a class=\"commit-link\" href=\"https://github.com/openai/codex/compare/rust-v0.142.3...rust-v0.142.4\"><tt>rust-v0.142.3...rust-v0.142.4</tt></a></p></div>",
     "translated_at": "2026-06-29T09:57:17.770076+00:00"
+  },
+  "0a539827c274f5f7bf92": {
+    "title_en": "0.142.5",
+    "title_ja": "0.142.5",
+    "content_en_hash": "e0a263d11b9d74e6b37814a3bb0f9458",
+    "content_ja_html": "<div lang=\"ja\"><h3>日本語訳</h3><div>バグ修正<br>\n<br>\n• <br>\n完全な応答 WebSocket リクエスト ペイロードがトレース ログに書き込まれないようにしました。 (<br>\n#30771<br>\n）<br>\n<br>\n変更履歴<br>\n<br>\n完全な変更ログ: <br>\n錆-v0.142.4...錆-v0.142.5<br>\n<br>\n• <br>\n#30771<br>\n [コーデックス] バックポート WebSocket トレースをリリース/0.142 に修正 <br>\n@ディラン・ハード・オアイ</div></div><hr><div lang=\"en\"><h3>Original (English)</h3><h2>Bug Fixes</h2>\n<ul>\n<li>Prevented full Responses WebSocket request payloads from being written to trace logs. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/openai/codex/pull/30771\">#30771</a>)</li>\n</ul>\n<h2>Changelog</h2>\n<p>Full Changelog: <a class=\"commit-link\" href=\"https://github.com/openai/codex/compare/rust-v0.142.4...rust-v0.142.5\"><tt>rust-v0.142.4...rust-v0.142.5</tt></a></p>\n<ul>\n<li><a class=\"issue-link js-issue-link\" href=\"https://github.com/openai/codex/pull/30771\">#30771</a> [codex] Backport websocket trace fix to release/0.142 <a class=\"user-mention notranslate\" href=\"https://github.com/dylan-hurd-oai\">@dylan-hurd-oai</a></li>\n</ul></div>",
+    "translated_at": "2026-07-01T05:53:33.545871+00:00"
   }
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/openai/codex/releases.atom</id>
   <title>OpenAI Codex リリース（日本語）</title>
-  <updated>2026-07-01T00:20:19.936351+00:00</updated>
+  <updated>2026-07-01T05:53:31.096146+00:00</updated>
   <link href="https://github.com/openai/codex/releases" rel="alternate"/>
   <link href="https://github.com/openai/codex/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -52,5 +52,38 @@
 &lt;h2&gt;Changelog&lt;/h2&gt;
 &lt;p&gt;Full Changelog: &lt;a class="commit-link" href="https://github.com/openai/codex/compare/rust-v0.142.3...rust-v0.142.4"&gt;&lt;tt&gt;rust-v0.142.3...rust-v0.142.4&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
     <link href="https://github.com/openai/codex/releases/tag/rust-v0.142.4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/965415649/rust-v0.142.5</id>
+    <title>0.142.5</title>
+    <updated>2026-07-01T01:17:02+00:00</updated>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;バグ修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+完全な応答 WebSocket リクエスト ペイロードがトレース ログに書き込まれないようにしました。 (&lt;br&gt;
+#30771&lt;br&gt;
+）&lt;br&gt;
+&lt;br&gt;
+変更履歴&lt;br&gt;
+&lt;br&gt;
+完全な変更ログ: &lt;br&gt;
+錆-v0.142.4...錆-v0.142.5&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+#30771&lt;br&gt;
+ [コーデックス] バックポート WebSocket トレースをリリース/0.142 に修正 &lt;br&gt;
+@ディラン・ハード・オアイ&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prevented full Responses WebSocket request payloads from being written to trace logs. (&lt;a class="issue-link js-issue-link" href="https://github.com/openai/codex/pull/30771"&gt;#30771&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changelog&lt;/h2&gt;
+&lt;p&gt;Full Changelog: &lt;a class="commit-link" href="https://github.com/openai/codex/compare/rust-v0.142.4...rust-v0.142.5"&gt;&lt;tt&gt;rust-v0.142.4...rust-v0.142.5&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" href="https://github.com/openai/codex/pull/30771"&gt;#30771&lt;/a&gt; [codex] Backport websocket trace fix to release/0.142 &lt;a class="user-mention notranslate" href="https://github.com/dylan-hurd-oai"&gt;@dylan-hurd-oai&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/openai/codex/releases/tag/rust-v0.142.5"/>
   </entry>
 </feed>

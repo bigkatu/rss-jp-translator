@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-07-01T00:20:44.459138+00:00</updated>
+  <updated>2026-07-01T05:53:57.564238+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -231,34 +231,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000119504"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
-    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
-    <updated>2026-06-30T18:14:13.462784+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123842:6c72ecd1ed476e32</id>
-    <title>ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera) 60%OFF</title>
-    <updated>2026-06-30T18:14:13.462784+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6bf64314/products/D70010000123842/squareHeroBanner/441dc3518cded495ed509f36203a8c44c3a3f9164aee08332fc17f119799056e.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123842"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123842"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000105361:257d747f7984ce8a</id>
-    <title>Love Chemistry - Sibella's Formula 20%OFF</title>
-    <updated>2026-06-30T18:14:13.462784+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Love Chemistry - Sibella's Formula&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 640 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw55394e70/products/D70010000105361/squareHeroBanner/3e58f07d6c60e260e9a42dce708375b19aa627750235b98241ec07c4dab3cd19.jpg?sw=346&amp;amp;strip=false" alt="Love Chemistry - Sibella's Formula"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000105361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000105361"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000126616:ae3f4d13ec2725e7</id>
-    <title>Mori Carta 20%OFF</title>
-    <updated>2026-06-30T22:39:09.185923+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Mori Carta&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,599 円&lt;/p&gt;&lt;p&gt;メーカー: Secret Item Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8d128b6c/products/D70010000126616/squareHeroBanner/eea90288422d1f497f42abfc449758020ff8e211c16a8d5846252dde2d83fd8d.jpg?sw=346&amp;amp;strip=false" alt="Mori Carta"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126616"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126616"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123848:db6ab672f757c2e0</id>
     <title>ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera) 60%OFF</title>
     <updated>2026-06-30T22:39:09.185923+00:00</updated>
@@ -355,5 +327,33 @@
     <updated>2026-07-01T00:20:44.459138+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;NAMCO LEGENDARY Mountains&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: ビサイド&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa74c43f3/products/D70010000127979/squareHeroBanner/c99ae7829ef4236e39c3b0cad122295db8a849d3ad87ed4d2fdbb6973c8864be.jpg?sw=346&amp;amp;strip=false" alt="NAMCO LEGENDARY Mountains"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127979"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127979"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126616:ae3f4d13ec2725e7</id>
+    <title>Mori Carta 20%OFF</title>
+    <updated>2026-07-01T05:53:57.564238+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Mori Carta&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,599 円&lt;/p&gt;&lt;p&gt;メーカー: Secret Item Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8d128b6c/products/D70010000126616/squareHeroBanner/eea90288422d1f497f42abfc449758020ff8e211c16a8d5846252dde2d83fd8d.jpg?sw=346&amp;amp;strip=false" alt="Mori Carta"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126616"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126616"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
+    <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
+    <updated>2026-07-01T05:53:57.564238+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca75adc2/products/D70010000127448/squareHeroBanner/3293889b672b33f9f321a69f84d6b66f0f76267bf5430e6298eaf05e39035578.jpg?sw=346&amp;amp;strip=false" alt="ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127448"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127448"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123842:6c72ecd1ed476e32</id>
+    <title>ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera) 60%OFF</title>
+    <updated>2026-07-01T05:53:57.564238+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6bf64314/products/D70010000123842/squareHeroBanner/441dc3518cded495ed509f36203a8c44c3a3f9164aee08332fc17f119799056e.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーガールズ：カメラの裏の恋 (Youtuber Girls: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123842"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123842"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000105361:257d747f7984ce8a</id>
+    <title>Love Chemistry - Sibella's Formula 20%OFF</title>
+    <updated>2026-07-01T05:53:57.564238+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Love Chemistry - Sibella's Formula&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 640 円&lt;/p&gt;&lt;p&gt;メーカー: eastasiasoft&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw55394e70/products/D70010000105361/squareHeroBanner/3e58f07d6c60e260e9a42dce708375b19aa627750235b98241ec07c4dab3cd19.jpg?sw=346&amp;amp;strip=false" alt="Love Chemistry - Sibella's Formula"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000105361"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000105361"/>
   </entry>
 </feed>
