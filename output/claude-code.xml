@@ -2,121 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://github.com/anthropics/claude-code/releases.atom</id>
   <title>Claude Code リリース（日本語）</title>
-  <updated>2026-07-01T20:16:12.811515+00:00</updated>
+  <updated>2026-07-01T22:39:06.883354+00:00</updated>
   <link href="https://github.com/anthropics/claude-code/releases" rel="alternate"/>
   <link href="https://github.com/anthropics/claude-code/releases.atom" rel="via"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>日本語訳版</subtitle>
-  <entry>
-    <id>tag:github.com,2008:Repository/937253475/v2.1.183</id>
-    <title>v2.1.183</title>
-    <updated>2026-06-19T01:20:50+00:00</updated>
-    <author>
-      <name>ashwin-ant</name>
-    </author>
-    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-自動モードの安全性の向上: 破壊的な git コマンド (&lt;br&gt;
-gitリセット --ハード&lt;br&gt;
-、 &lt;br&gt;
-git チェックアウト -- 。&lt;br&gt;
-、 &lt;br&gt;
-git clean -fd&lt;br&gt;
-、 &lt;br&gt;
-git スタッシュドロップ&lt;br&gt;
-）ローカル作業の破棄を要求しなかった場合、ブロックされるようになりました。 &lt;br&gt;
-git commit --amend&lt;br&gt;
- このセッションでエージェントによってコミットが行われなかった場合、ブロックされます。 &lt;br&gt;
-テラフォームの破壊&lt;br&gt;
-/&lt;br&gt;
-プルミを破壊する&lt;br&gt;
-/&lt;br&gt;
-CDK を破壊する&lt;br&gt;
- 特定のスタックを要求しない限りブロックされます&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-要求されたモデルが非推奨であるか、新しいモデルに自動的に更新される場合の警告を追加し、印刷モードの標準エラー出力に表示されます (&lt;br&gt;
--p&lt;br&gt;
-)、エージェント フロントマターに設定されたモデルもカバーされるようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-attribution.sessionURL&lt;br&gt;
- Web および Remote Control セッションのコミットおよび PR から claude.ai セッション リンクを省略する設定&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-追加されました &lt;br&gt;
-/config --help&lt;br&gt;
- 利用可能なすべての短縮キーをリストするには &lt;br&gt;
-/config キー=値&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-変更されました &lt;br&gt;
-/config&lt;br&gt;
- 動作の切り替え: Enter キーと Space キーの両方で選択した設定が変更され、Esc キーを押すと元に戻すのではなく保存して閉じるようになりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ロゴの下の起動時の「セットアップの問題」行を削除 — 実行 &lt;br&gt;
-/ドクター&lt;br&gt;
- 構成の問題を確認するか、使用するには &lt;br&gt;
---デバッグ&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-修正済み &lt;br&gt;
-Thinking.disabled.display: 余分な入力は許可されません&lt;br&gt;
- 影響を受ける構成のサブエージェントの生成とセッション タイトルの生成で 400 エラーが発生する&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-サブエージェントで空の結果を返す WebSearch を修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ネイティブ カーソルを有効にして vim モードで履歴をナビゲートした後、ターミナル カーソルがプロンプトの上に取り残される問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-ネストされたサブエージェントの負荷が高い場合の Windows ターミナルでのフルスクリーン TUI の破損 (画面中央のステータスライン、重複したスピナー行、マージされたテキスト) を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-モデルが思考ブロックのみを返した場合に、目に見える出力が表示されずにターンが静かに完了する問題を修正しました。クロードは一度再プロンプトを表示するようになりました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-複数のプラグインが有効になっているときにスラッシュコマンドのオートコンプリートで複数回表示されるユーザーレベルのスキルを修正しました&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-認証を必要とする MCP サーバーがヘッドレス/SDK モードのモデルに認証スタブ ツールを公開する問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-シェルの rc ファイルの初期化が遅い場合に tmux チームメイト ペインが起動に失敗し、エージェントの生成中に入力されたキーストロークがリーダー プロンプトではなく新しい tmux ペインに漏れる問題を修正しました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-チームメイトがターンを終了したときにチームメイトが殺されることによって開始されたバックグラウンドタスクを修正&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-スケジュールされたタスクと Webhook トリガーの配信がキーボード入力として扱われる問題を修正しました。タスク通知として分類されるようになり、保留中のアクションを承認したり、自動モードでセッション タイトルを設定したりすることができなくなりました。&lt;br&gt;
-&lt;br&gt;
-• &lt;br&gt;
-各応答の下に「Ran N PostToolUse フック」タイミング ラインを表示するフォーカス モードを修正しました。&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Improved auto mode safety: destructive git commands (&lt;code&gt;git reset --hard&lt;/code&gt;, &lt;code&gt;git checkout -- .&lt;/code&gt;, &lt;code&gt;git clean -fd&lt;/code&gt;, &lt;code&gt;git stash drop&lt;/code&gt;) are now blocked when you didn't ask to discard local work, &lt;code&gt;git commit --amend&lt;/code&gt; is blocked when the commit wasn't made by the agent this session, and &lt;code&gt;terraform destroy&lt;/code&gt;/&lt;code&gt;pulumi destroy&lt;/code&gt;/&lt;code&gt;cdk destroy&lt;/code&gt; are blocked unless you asked for the specific stack&lt;/li&gt;
-&lt;li&gt;Added a warning when the requested model is deprecated or automatically updated to a newer model, shown on stderr in print mode (&lt;code&gt;-p&lt;/code&gt;) and now also covering models set in agent frontmatter&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;attribution.sessionUrl&lt;/code&gt; setting to omit the claude.ai session link from commits and PRs in web and Remote Control sessions&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;/config --help&lt;/code&gt; to list all available shorthand keys for &lt;code&gt;/config key=value&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Changed &lt;code&gt;/config&lt;/code&gt; toggle behavior: Enter and Space both change the selected setting, and Esc now saves and closes instead of reverting&lt;/li&gt;
-&lt;li&gt;Removed the startup "setup issues" line under the logo — run &lt;code&gt;/doctor&lt;/code&gt; to see configuration issues or use &lt;code&gt;--debug&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;thinking.disabled.display: Extra inputs are not permitted&lt;/code&gt; 400 errors on subagent spawns and session-title generation for affected configurations&lt;/li&gt;
-&lt;li&gt;Fixed WebSearch returning empty results in subagents&lt;/li&gt;
-&lt;li&gt;Fixed the terminal cursor being stranded above the prompt after navigating history in vim mode with the native cursor enabled&lt;/li&gt;
-&lt;li&gt;Fixed fullscreen TUI corruption (statusline mid-screen, duplicated spinner rows, merged text) in Windows Terminal under heavy nested-subagent load&lt;/li&gt;
-&lt;li&gt;Fixed turns silently completing with no visible output when the model returned only a thinking block; Claude now re-prompts once&lt;/li&gt;
-&lt;li&gt;Fixed user-level skills appearing multiple times in slash-command autocomplete when multiple plugins are enabled&lt;/li&gt;
-&lt;li&gt;Fixed MCP servers requiring authentication exposing auth-stub tools to the model in headless/SDK mode&lt;/li&gt;
-&lt;li&gt;Fixed tmux teammate panes failing to launch when the shell has slow rc-file initialization, and keystrokes typed during agent spawn leaking into the new tmux pane instead of the leader prompt&lt;/li&gt;
-&lt;li&gt;Fixed background tasks started by a teammate being killed when the teammate finishes a turn&lt;/li&gt;
-&lt;li&gt;Fixed scheduled task and webhook trigger deliveries being treated as keyboard input; they now classify as task notifications and can no longer approve a pending action or set the session title in auto mode&lt;/li&gt;
-&lt;li&gt;Fixed focus mode showing "Ran N PostToolUse hooks" timing lines under each response&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.183"/>
-  </entry>
   <entry>
     <id>tag:github.com,2008:Repository/937253475/v2.1.185</id>
     <title>v2.1.185</title>
@@ -998,5 +888,184 @@ https://www.anthropic.com/news/claude-sonnet-5&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;li&gt;Introducing Claude Sonnet 5: now the default model in Claude Code, with a native 1M-token context window and promotional pricing of $2/$10 per Mtok through August 31. Update to version 2.1.197 for access. &lt;a href="https://www.anthropic.com/news/claude-sonnet-5" rel="nofollow"&gt;https://www.anthropic.com/news/claude-sonnet-5&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
     <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.197"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/937253475/v2.1.198</id>
+    <title>v2.1.198</title>
+    <updated>2026-07-01T20:45:36+00:00</updated>
+    <author>
+      <name>ashwin-ant</name>
+    </author>
+    <content type="html">&lt;div lang="ja"&gt;&lt;h3&gt;日本語訳&lt;/h3&gt;&lt;div&gt;何が変わったのか&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Chrome のクロードが一般公開されました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンドエージェント通知を追加しました &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ — 入力または終了が必要なセッションは、 &lt;br&gt;
+お知らせ&lt;br&gt;
+ フック (&lt;br&gt;
+エージェントのニーズの入力&lt;br&gt;
+ / &lt;br&gt;
+エージェント_完了&lt;br&gt;
+）&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+追加されました &lt;br&gt;
+/dataviz&lt;br&gt;
+ 実行可能なカラーパレットバリデーターを使用したチャートとダッシュボードのデザインガイダンスのスキル&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ゲートウェイ: AWS 上の Claude Platform (anthropicAws) を上流プロバイダーとして追加しました。モデルが見つからない応答によりフェイルオーバー チェーンが前進するようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+バックグラウンド エージェントの起動元 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ ワークツリーでのコード作業が終了したら、立ち止まって質問するのではなく、ドラフト PR をコミット、プッシュ、オープンするようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+組み込みの Explore エージェントは、haiku で実行されるのではなく、メイン セッションのモデル (opus に制限される) を継承するようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サブエージェントとコンテキストの圧縮がセッションの拡張思考構成を継承するようになり、委任されたタスクの出力品質が向上します。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ターンを中止する応答途中での短時間のネットワーク ドロップを修正しました。ECONNRESET のような一時的なエラーは、失敗するのではなくバックオフで再試行されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サンドボックス化されたプロセスが同じネットワーク ホストに繰り返しアクセスする場合の過剰なバックグラウンド分類子リクエストを修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Web、デスクトップ、および VS Code タスク パネルのバックグラウンド タスクが、終了後またはセッションの再開後に「実行中」のままになる問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェント チームの修正: API エラーで死亡したチームメイトはリードに「失敗」を報告し、スタックしたチームメイトにメッセージを送信するとすぐに再試行するよう復帰します。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+を修正しました &lt;br&gt;
+/diff&lt;br&gt;
+ ブランチを切り替えたりセッション外でコミットするとパネルが更新されない&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+フルスクリーン モードでレンダリングすると、マークダウン テーブルがオーバーフローし、右側の境界線が折り返される問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+STS トークンの有効期限が切れると、AWS 上の Claude Platform と Mantle セッションが「Please run /login」でデッドエンドになる問題を修正 — &lt;br&gt;
+aws認証更新&lt;br&gt;
+ 自動的に実行されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ローカル ネットワーク資格を宣言することで、macOS バックグラウンド エージェント セッションにおけるローカル ネットワーク ホストの「ホストへのルートがない」問題を修正しました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/デスクトップ&lt;br&gt;
+ ワークツリーに出入りすると「作業ディレクトリを決定できません」というメッセージが表示されて失敗する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+エージェント ビューが開いている間、macOS 上でバックグラウンド エージェントが約 52 秒ごとに「再接続中…」と繰り返し表示される問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+固定プレス &lt;br&gt;
+←&lt;br&gt;
+ 内側 &lt;br&gt;
+クロード &amp;lt;id&amp;gt; を添付します&lt;br&gt;
+ エージェント ビューを開く代わりにシェルを終了する&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+クロード --bg&lt;br&gt;
+ と組み合わせると、接続できないセッションがサイレントに作成されます。 &lt;br&gt;
+--print&lt;br&gt;
+/&lt;br&gt;
+-p&lt;br&gt;
+;競合するフラグは前もって拒否されるようになりました&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+SDK およびデスクトップ アプリ セッションでフェーズ カウンターが正しいままであるにもかかわらず、リストから最も古いエージェントが削除されるワークフローの進行状況ビューを修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+.クロード/ルール/&lt;br&gt;
+ シンボリックリンクされたパス経由でターゲットファイルに到達すると、条件付きルールがロードされない&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+macOS のワープで Cmd キーを押しながらクリックしても全画面モードで URL が開かない問題を修正&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+全画面モードでダブルクリックして単語を選択すると、スキームを含む URL 全体が選択されるように修正されました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+セッションがプラン モードで開始されたときに、プラン モードで読み取り専用ツールの呼び出しが自動的に許可されない問題を修正しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+修正済み &lt;br&gt;
+/ブランチ&lt;br&gt;
+ 最初の実際のプロンプトではなく、圧縮の概要からデフォルトのフォーク名を取得します。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+フォーカス モードの改善: ターン内に起動されたサブエージェントがアクティビティの概要に表示され、完了したバックグラウンド通知が 1 つのカウントにまとめられるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+ハイライト.js 11 にアップグレードすることで、コード ブロック、差分、ファイル プレビューにおける構文ハイライトの精度が向上しました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+Mac から SSH 経由で接続した場合、キーボード ショートカット ヒントに alt/super ではなく opt/cmd が表示されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+API 再試行 UX の改善: 2 回目の試行後にエラーの理由が表示され、API が過負荷になった場合にスピナー チップの代わりにステータス ページのリンクが表示されるようになりました。&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+/ログイン&lt;br&gt;
+ からサインイン ダイアログが開きます。 &lt;br&gt;
+クロードエージェント&lt;br&gt;
+ 利用できないと言う代わりに表示してください&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+サブエージェントは、サブエージェントを起動したエージェントからのメッセージを通常のタスクの指示として扱うようになりました。エージェントのメッセージは依然としてユーザーの承認として扱われません&lt;br&gt;
+&lt;br&gt;
+• &lt;br&gt;
+を削除しました &lt;br&gt;
+/エージェント&lt;br&gt;
+ ウィザード;クロードにサブエージェントの作成または管理、または編集を依頼します。 &lt;br&gt;
+.claude/エージェント/&lt;br&gt;
+ 直接&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;div lang="en"&gt;&lt;h3&gt;Original (English)&lt;/h3&gt;&lt;h2&gt;What's changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Claude in Chrome is now generally available&lt;/li&gt;
+&lt;li&gt;Added background agent notifications in &lt;code&gt;claude agents&lt;/code&gt; — sessions that need input or finish now fire the &lt;code&gt;Notification&lt;/code&gt; hook (&lt;code&gt;agent_needs_input&lt;/code&gt; / &lt;code&gt;agent_completed&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Added &lt;code&gt;/dataviz&lt;/code&gt; skill for chart and dashboard design guidance with a runnable color-palette validator&lt;/li&gt;
+&lt;li&gt;Gateway: added Claude Platform on AWS (anthropicAws) as an upstream provider; model-not-found responses now advance the failover chain&lt;/li&gt;
+&lt;li&gt;Background agents launched from &lt;code&gt;claude agents&lt;/code&gt; now commit, push, and open a draft PR when they finish code work in a worktree, instead of stopping to ask&lt;/li&gt;
+&lt;li&gt;The built-in Explore agent now inherits the main session's model (capped at opus) instead of running on haiku&lt;/li&gt;
+&lt;li&gt;Subagents and context compaction now inherit the session's extended thinking configuration, improving output quality on delegated tasks&lt;/li&gt;
+&lt;li&gt;Fixed brief network drops mid-response aborting the turn — transient errors like ECONNRESET now retry with backoff instead of failing&lt;/li&gt;
+&lt;li&gt;Fixed excessive background classifier requests when sandboxed processes repeatedly accessed the same network host&lt;/li&gt;
+&lt;li&gt;Fixed background tasks in web, desktop, and VS Code task panels getting stuck on "Running" after they finish or after resuming a session&lt;/li&gt;
+&lt;li&gt;Fixed agent teams: a teammate that dies on an API error now reports "failed" to the lead, and messaging a stuck teammate wakes it to retry immediately&lt;/li&gt;
+&lt;li&gt;Fixed the &lt;code&gt;/diff&lt;/code&gt; panel not refreshing when you switch branches or commit outside the session&lt;/li&gt;
+&lt;li&gt;Fixed markdown tables overflowing and wrapping their right border when rendered in fullscreen mode&lt;/li&gt;
+&lt;li&gt;Fixed Claude Platform on AWS and Mantle sessions dead-ending with "Please run /login" when the STS token expires — &lt;code&gt;awsAuthRefresh&lt;/code&gt; now runs automatically&lt;/li&gt;
+&lt;li&gt;Fixed "no route to host" for local-network hosts in macOS background agent sessions by declaring Local Network entitlements&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/desktop&lt;/code&gt; failing with "Cannot determine working directory" after entering and exiting a worktree&lt;/li&gt;
+&lt;li&gt;Fixed background agents repeatedly showing "Reconnecting…" every ~52 seconds on macOS while the agents view was open&lt;/li&gt;
+&lt;li&gt;Fixed pressing &lt;code&gt;←&lt;/code&gt; inside &lt;code&gt;claude attach &amp;lt;id&amp;gt;&lt;/code&gt; exiting to the shell instead of opening the agent view&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;claude --bg&lt;/code&gt; silently creating an unattachable session when combined with &lt;code&gt;--print&lt;/code&gt;/&lt;code&gt;-p&lt;/code&gt;; the conflicting flags are now rejected up front&lt;/li&gt;
+&lt;li&gt;Fixed the workflow progress view dropping the earliest agents from the list while the phase counter stayed correct in SDK and desktop-app sessions&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;.claude/rules/&lt;/code&gt; conditional rules not loading when the target file is reached via a symlinked path&lt;/li&gt;
+&lt;li&gt;Fixed Cmd+click not opening URLs in fullscreen mode in Warp on macOS&lt;/li&gt;
+&lt;li&gt;Fixed double-click word selection in fullscreen mode to select the entire URL including the scheme&lt;/li&gt;
+&lt;li&gt;Fixed plan mode not auto-allowing read-only tool calls when a session starts in plan mode&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;/branch&lt;/code&gt; deriving its default fork name from the compaction summary instead of the first real prompt&lt;/li&gt;
+&lt;li&gt;Improved focus mode: subagents launched in a turn now appear in its activity summary, and completed background notifications fold into a single count&lt;/li&gt;
+&lt;li&gt;Improved syntax highlighting accuracy in code blocks, diffs, and file previews by upgrading to highlight.js 11&lt;/li&gt;
+&lt;li&gt;Keyboard shortcut hints now show opt/cmd instead of alt/super when connected from a Mac over SSH&lt;/li&gt;
+&lt;li&gt;Improved API retry UX: the error reason is now shown after the second attempt, and a status page link replaces the spinner tip when the API is overloaded&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/login&lt;/code&gt; now opens the sign-in dialog from the &lt;code&gt;claude agents&lt;/code&gt; view instead of saying it isn't available&lt;/li&gt;
+&lt;li&gt;Subagents now treat messages from the agent that launched them as normal task direction; an agent's message is still never treated as the user's approval&lt;/li&gt;
+&lt;li&gt;Removed the &lt;code&gt;/agents&lt;/code&gt; wizard; ask Claude to create or manage subagents, or edit &lt;code&gt;.claude/agents/&lt;/code&gt; directly&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.198"/>
   </entry>
 </feed>
