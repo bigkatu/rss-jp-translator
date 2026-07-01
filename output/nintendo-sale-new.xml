@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-07-01T10:11:15.784752+00:00</updated>
+  <updated>2026-07-01T12:47:02.539412+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000125292:48594917fb74280b</id>
-    <title>かわいいアニメ：魔法少女の世界 (Kawaii Anime: Cute Girls Magic World) 60%OFF</title>
-    <updated>2026-06-24T17:17:17.519069+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;かわいいアニメ：魔法少女の世界 (Kawaii Anime: Cute Girls Magic World)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw67d69213/products/D70010000125292/squareHeroBanner/ec508ecac4c8772965213b29ccfa3898e69cc17c0639f0d7b15b13dd0d3fe368.jpg?sw=346&amp;amp;strip=false" alt="かわいいアニメ：魔法少女の世界 (Kawaii Anime: Cute Girls Magic World)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125292"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125292"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000122163:3d882670833b2b0e</id>
     <title>My Cozy Workspace 30%OFF</title>
@@ -259,13 +252,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000127979"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000126616:ae3f4d13ec2725e7</id>
-    <title>Mori Carta 20%OFF</title>
-    <updated>2026-07-01T05:53:57.564238+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Mori Carta&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,599 円&lt;/p&gt;&lt;p&gt;メーカー: Secret Item Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8d128b6c/products/D70010000126616/squareHeroBanner/eea90288422d1f497f42abfc449758020ff8e211c16a8d5846252dde2d83fd8d.jpg?sw=346&amp;amp;strip=false" alt="Mori Carta"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126616"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000126616"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
     <title>ことばパスポート: おでかけ日本語クイズ 〜日常で使う日本の言葉〜 10%OFF</title>
     <updated>2026-07-01T05:53:57.564238+00:00</updated>
@@ -355,5 +341,19 @@
     <updated>2026-07-01T10:11:15.784752+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw1bfcf554/products/D70010000127150/squareHeroBanner/68cdaae21b7fb79df09b26b5a8298b4ac9dbfa5e38855dd6c16414df7230cb34.jpg?sw=346&amp;amp;strip=false" alt="人魚キャッチ：美少年に変身 (Mermaid Catch: Transform Sirens into Anime Boys)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127150"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127150"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123989:84127b52b7460870</id>
+    <title>The Last of Touch 96%OFF</title>
+    <updated>2026-07-01T12:47:02.539412+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;The Last of Touch&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;96%OFF&lt;/p&gt;&lt;p&gt;価格: 100 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwbae8e344/products/D70010000123989/squareHeroBanner/bda56f91c47cc4042c4ff4df62748ce03a7cb199854d80466c90281263ecd397.jpg?sw=346&amp;amp;strip=false" alt="The Last of Touch"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123989"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123989"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126616:ae3f4d13ec2725e7</id>
+    <title>Mori Carta 20%OFF</title>
+    <updated>2026-07-01T12:47:02.539412+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Mori Carta&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 1,599 円&lt;/p&gt;&lt;p&gt;メーカー: Secret Item Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw8d128b6c/products/D70010000126616/squareHeroBanner/eea90288422d1f497f42abfc449758020ff8e211c16a8d5846252dde2d83fd8d.jpg?sw=346&amp;amp;strip=false" alt="Mori Carta"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126616"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126616"/>
   </entry>
 </feed>
