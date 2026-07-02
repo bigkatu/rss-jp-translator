@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-07-02T00:20:50.679438+00:00</updated>
+  <updated>2026-07-02T05:09:38.123817+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000119504:b31ea62648d2c087</id>
-    <title>Hentai House: Mystery Rooms 83%OFF</title>
-    <updated>2026-06-30T13:15:26.048610+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai House: Mystery Rooms&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;83%OFF&lt;/p&gt;&lt;p&gt;価格: 499 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3da606b4/products/D70010000119504/squareHeroBanner/2764832732d00994c0710dd4e2e0e0511cb03e0a100b34c0810085ac6b4a65f4.jpg?sw=346&amp;amp;strip=false" alt="Hentai House: Mystery Rooms"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119504"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119504"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000123848:db6ab672f757c2e0</id>
     <title>ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera) 60%OFF</title>
@@ -355,5 +348,12 @@
     <updated>2026-07-02T00:20:50.679438+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;NAMCO LEGENDARY Mountains&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: ビサイド&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa74c43f3/products/D70010000127979/squareHeroBanner/c99ae7829ef4236e39c3b0cad122295db8a849d3ad87ed4d2fdbb6973c8864be.jpg?sw=346&amp;amp;strip=false" alt="NAMCO LEGENDARY Mountains"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127979"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000127979"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125357:e8448ab784d17c91</id>
+    <title>塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures) 50%OFF</title>
+    <updated>2026-07-02T05:09:38.123817+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 589 円&lt;/p&gt;&lt;p&gt;メーカー: Error300 Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9b8ea188/products/D70010000125357/squareHeroBanner/40615694ffc444adb6b4f60b5977e9433d4c9ee1ad9a38b8763784c80f76c95f.jpg?sw=346&amp;amp;strip=false" alt="塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125357"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125357"/>
   </entry>
 </feed>
