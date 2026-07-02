@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-07-02T08:24:27.882196+00:00</updated>
+  <updated>2026-07-02T11:43:04.756762+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000122653:fbf04b80aefae7b4</id>
-    <title>釣って！世界の魚つり 27%OFF</title>
-    <updated>2026-07-01T00:20:44.459138+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;釣って！世界の魚つり&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;27%OFF&lt;/p&gt;&lt;p&gt;価格: 930 円&lt;/p&gt;&lt;p&gt;メーカー: SAT-BOX&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw91eac77c/products/D70010000122653/squareHeroBanner/9fbc6a8ddb585fbe83201d2940650255b66be1c791a34cfa725a0981baf3ff8c.jpg?sw=346&amp;amp;strip=false" alt="釣って！世界の魚つり"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000122653"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000122653"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000122436:035d320a1150efb6</id>
     <title>アフロディーテ進化武器サバイバー：ギリシャ神々 vs 天国 (Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven) 60%OFF</title>
@@ -336,13 +329,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000127979"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000125357:e8448ab784d17c91</id>
-    <title>塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures) 50%OFF</title>
-    <updated>2026-07-02T05:09:38.123817+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 589 円&lt;/p&gt;&lt;p&gt;メーカー: Error300 Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9b8ea188/products/D70010000125357/squareHeroBanner/40615694ffc444adb6b4f60b5977e9433d4c9ee1ad9a38b8763784c80f76c95f.jpg?sw=346&amp;amp;strip=false" alt="塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125357"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125357"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000123396:463da2fae9dad59c</id>
     <title>Inversion: The Single Path 30%OFF</title>
     <updated>2026-07-02T08:24:27.882196+00:00</updated>
@@ -355,5 +341,19 @@
     <updated>2026-07-02T08:24:27.882196+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;ムーンライト・ピークス -ヴァンパイアのゴシックライフ-&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 4,581 円&lt;/p&gt;&lt;p&gt;メーカー: クラウディッドレパードエンタテインメント&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw799f228f/products/D70010000123376/squareHeroBanner/68bc3b7158f2da8c9a033254a6afc3b9e63037fb5df5c9a4ee7467d616f42a9d.jpg?sw=346&amp;amp;strip=false" alt="ムーンライト・ピークス -ヴァンパイアのゴシックライフ-"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123376"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000123376"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125357:e8448ab784d17c91</id>
+    <title>塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures) 50%OFF</title>
+    <updated>2026-07-02T11:43:04.756762+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 589 円&lt;/p&gt;&lt;p&gt;メーカー: Error300 Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9b8ea188/products/D70010000125357/squareHeroBanner/40615694ffc444adb6b4f60b5977e9433d4c9ee1ad9a38b8763784c80f76c95f.jpg?sw=346&amp;amp;strip=false" alt="塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125357"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125357"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
+    <title>フェアリーテールファイターズ 10%OFF</title>
+    <updated>2026-07-02T11:43:04.756762+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;フェアリーテールファイターズ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 360 円&lt;/p&gt;&lt;p&gt;メーカー: HUNTERS&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw95b8a674/products/D70010000120729/squareHeroBanner/8e57ac9cd9604711547a1c2a4d6faca9ce08219614b96147d94962427b9f404f.jpg?sw=346&amp;amp;strip=false" alt="フェアリーテールファイターズ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000120729"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000120729"/>
   </entry>
 </feed>
