@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-07-02T05:09:38.123817+00:00</updated>
+  <updated>2026-07-02T08:24:27.882196+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000123848:db6ab672f757c2e0</id>
-    <title>ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera) 60%OFF</title>
-    <updated>2026-06-30T22:39:09.185923+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,396 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdb46f767/products/D70010000123848/squareHeroBanner/3cbf49eefb3cdd23969c145bed1a8c0404bad02e80a034df55e8c7a8758332d4.jpg?sw=346&amp;amp;strip=false" alt="ユーチューバーボーイズ：カメラの裏の恋 (Youtuber Boys: Love Behind the Camera)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123848"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123848"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000119741:919f6ed25d5ac382</id>
-    <title>Urban Jungle 17%OFF</title>
-    <updated>2026-06-30T22:39:09.185923+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Urban Jungle&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;17%OFF&lt;/p&gt;&lt;p&gt;価格: 1,162 円&lt;/p&gt;&lt;p&gt;メーカー: Assemble Entertainment&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw71473b14/products/D70010000119741/squareHeroBanner/8eb6f8af71c94737ea9248227343710c6b5a06bd5a13d66b44151403b222b6e2.jpg?sw=346&amp;amp;strip=false" alt="Urban Jungle"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000119741"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000119741"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000122653:fbf04b80aefae7b4</id>
     <title>釣って！世界の魚つり 27%OFF</title>
@@ -355,5 +341,19 @@
     <updated>2026-07-02T05:09:38.123817+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 589 円&lt;/p&gt;&lt;p&gt;メーカー: Error300 Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9b8ea188/products/D70010000125357/squareHeroBanner/40615694ffc444adb6b4f60b5977e9433d4c9ee1ad9a38b8763784c80f76c95f.jpg?sw=346&amp;amp;strip=false" alt="塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125357"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000125357"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123396:463da2fae9dad59c</id>
+    <title>Inversion: The Single Path 30%OFF</title>
+    <updated>2026-07-02T08:24:27.882196+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Inversion: The Single Path&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;30%OFF&lt;/p&gt;&lt;p&gt;価格: 980 円&lt;/p&gt;&lt;p&gt;メーカー: CGI LAB GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwaa3fbccc/products/D70010000123396/squareHeroBanner/776f30e69ca115d98f63b0b04f417996321afa142b97439f6b8b63c1b26a071c.jpg?sw=346&amp;amp;strip=false" alt="Inversion: The Single Path"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123396"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123396"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123376:5f95f3a00b07257a</id>
+    <title>ムーンライト・ピークス -ヴァンパイアのゴシックライフ- 15%OFF</title>
+    <updated>2026-07-02T08:24:27.882196+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ムーンライト・ピークス -ヴァンパイアのゴシックライフ-&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 4,581 円&lt;/p&gt;&lt;p&gt;メーカー: クラウディッドレパードエンタテインメント&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw799f228f/products/D70010000123376/squareHeroBanner/68bc3b7158f2da8c9a033254a6afc3b9e63037fb5df5c9a4ee7467d616f42a9d.jpg?sw=346&amp;amp;strip=false" alt="ムーンライト・ピークス -ヴァンパイアのゴシックライフ-"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123376"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123376"/>
   </entry>
 </feed>
