@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-07-02T14:27:35.716279+00:00</updated>
+  <updated>2026-07-02T17:01:06.089850+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
-  <entry>
-    <id>nintendo-sale:D70010000128955:802188571e6dec41</id>
-    <title>当たりすぎて怖い…この画像でわかるあなたの本音ー隠された感情を、あなたは見抜けるかー 10%OFF</title>
-    <updated>2026-07-01T00:20:44.459138+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;当たりすぎて怖い…この画像でわかるあなたの本音ー隠された感情を、あなたは見抜けるかー&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 378 円&lt;/p&gt;&lt;p&gt;メーカー: TT&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe5cc6530/products/D70010000128955/squareHeroBanner/2a85eb9e54d0ec86ae812d7b34b746d15179f72ef9f45c64e982bd7927e3f7fa.jpg?sw=346&amp;amp;strip=false" alt="当たりすぎて怖い…この画像でわかるあなたの本音ー隠された感情を、あなたは見抜けるかー"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000128955"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000128955"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000123209:a0553e6af38809ef</id>
-    <title>Strays POV Tales 33%OFF</title>
-    <updated>2026-07-01T00:20:44.459138+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Strays POV Tales&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;33%OFF&lt;/p&gt;&lt;p&gt;価格: 1,580 円&lt;/p&gt;&lt;p&gt;メーカー: CGI GERMANY DESIGN&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw22fa4a27/products/D70010000123209/squareHeroBanner/524c19b03c83beff33e0083bbe5a2adff05bd609a0b6a9927e8e26771d8662bb.jpg?sw=346&amp;amp;strip=false" alt="Strays POV Tales"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123209"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123209"/>
-  </entry>
   <entry>
     <id>nintendo-sale:D70010000117943:7793c326475b8d8d</id>
     <title>夢物語の街 20%OFF</title>
@@ -238,13 +224,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000129491"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000130122:713264a399080a1f</id>
-    <title>身近な科学クイズ 100のふしぎ 10%OFF</title>
-    <updated>2026-07-01T18:15:47.571224+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;身近な科学クイズ 100のふしぎ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfc1a5d6b/products/D70010000130122/squareHeroBanner/46893f7e00d622274847cdd6e5e0eaa6bb3b36f402e4dcdfc3d9088899cfa63c.jpg?sw=346&amp;amp;strip=false" alt="身近な科学クイズ 100のふしぎ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000130122"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000130122"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000129201:aafa3289c39e13e0</id>
     <title>5秒で決めろ。犯人は誰だー隠された感情を、あなたは見抜けるかー 10%OFF</title>
     <updated>2026-07-01T18:15:47.571224+00:00</updated>
@@ -322,20 +301,6 @@
     <link href="https://store-jp.nintendo.com/item/software/D70010000123396"/>
   </entry>
   <entry>
-    <id>nintendo-sale:D70010000123376:5f95f3a00b07257a</id>
-    <title>ムーンライト・ピークス -ヴァンパイアのゴシックライフ- 15%OFF</title>
-    <updated>2026-07-02T08:24:27.882196+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;ムーンライト・ピークス -ヴァンパイアのゴシックライフ-&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 4,581 円&lt;/p&gt;&lt;p&gt;メーカー: クラウディッドレパードエンタテインメント&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw799f228f/products/D70010000123376/squareHeroBanner/68bc3b7158f2da8c9a033254a6afc3b9e63037fb5df5c9a4ee7467d616f42a9d.jpg?sw=346&amp;amp;strip=false" alt="ムーンライト・ピークス -ヴァンパイアのゴシックライフ-"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123376"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000123376"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000125357:e8448ab784d17c91</id>
-    <title>塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures) 50%OFF</title>
-    <updated>2026-07-02T11:43:04.756762+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 589 円&lt;/p&gt;&lt;p&gt;メーカー: Error300 Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9b8ea188/products/D70010000125357/squareHeroBanner/40615694ffc444adb6b4f60b5977e9433d4c9ee1ad9a38b8763784c80f76c95f.jpg?sw=346&amp;amp;strip=false" alt="塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125357"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000125357"/>
-  </entry>
-  <entry>
     <id>nintendo-sale:D70010000120729:7e65146116948c93</id>
     <title>フェアリーテールファイターズ 10%OFF</title>
     <updated>2026-07-02T11:43:04.756762+00:00</updated>
@@ -355,5 +320,40 @@
     <updated>2026-07-02T14:27:35.716279+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Clay&amp;amp;Cats&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;84%OFF&lt;/p&gt;&lt;p&gt;価格: 199 円&lt;/p&gt;&lt;p&gt;メーカー: REDDEER.GAMES&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwca71a191/products/D70010000126676/squareHeroBanner/433ffd515b52a772ec3f01687b941c035ec046ec7b72dccbb925b4d49613c905.jpg?sw=346&amp;amp;strip=false" alt="Clay&amp;amp;Cats"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126676"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000126676"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000126189:b82d38f77bddb619</id>
+    <title>Hentai Puzzle Simulator 3 80%OFF</title>
+    <updated>2026-07-02T17:01:06.089850+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Hentai Puzzle Simulator 3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;80%OFF&lt;/p&gt;&lt;p&gt;価格: 599 円&lt;/p&gt;&lt;p&gt;メーカー: 17Studio&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw76277242/products/D70010000126189/squareHeroBanner/e0244ecd57c109aed6e1eb351177c043ce7528ee04e1cae6bfeb65d14bd43253.jpg?sw=346&amp;amp;strip=false" alt="Hentai Puzzle Simulator 3"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000126189"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000126189"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000125357:e8448ab784d17c91</id>
+    <title>塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures) 50%OFF</title>
+    <updated>2026-07-02T17:01:06.089850+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;50%OFF&lt;/p&gt;&lt;p&gt;価格: 589 円&lt;/p&gt;&lt;p&gt;メーカー: Error300 Games&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw9b8ea188/products/D70010000125357/squareHeroBanner/40615694ffc444adb6b4f60b5977e9433d4c9ee1ad9a38b8763784c80f76c95f.jpg?sw=346&amp;amp;strip=false" alt="塗り絵の 達人 ドット絵ドリーマー: ミニチュア (Pixel Cross Stitch Color by Number: Miniatures)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000125357"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000125357"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000130122:713264a399080a1f</id>
+    <title>身近な科学クイズ 100のふしぎ 10%OFF</title>
+    <updated>2026-07-02T17:01:06.089850+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;身近な科学クイズ 100のふしぎ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 880 円&lt;/p&gt;&lt;p&gt;メーカー: MASK&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwfc1a5d6b/products/D70010000130122/squareHeroBanner/46893f7e00d622274847cdd6e5e0eaa6bb3b36f402e4dcdfc3d9088899cfa63c.jpg?sw=346&amp;amp;strip=false" alt="身近な科学クイズ 100のふしぎ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000130122"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000130122"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000121929:f1ef77d5a86f6e0f</id>
+    <title>東京ワルキューレ 10%OFF</title>
+    <updated>2026-07-02T17:01:06.089850+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;東京ワルキューレ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,682 円&lt;/p&gt;&lt;p&gt;メーカー: qureate&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa80c38eb/products/D70010000121929/squareHeroBanner/203b1386d7bf92d8712a46754cb0b4703ac2afe7af95f414a15a084aa88ec619.jpg?sw=346&amp;amp;strip=false" alt="東京ワルキューレ"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121929"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000121929"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000123376:5f95f3a00b07257a</id>
+    <title>ムーンライト・ピークス -ヴァンパイアのゴシックライフ- 15%OFF</title>
+    <updated>2026-07-02T17:01:06.089850+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;ムーンライト・ピークス -ヴァンパイアのゴシックライフ-&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;15%OFF&lt;/p&gt;&lt;p&gt;価格: 4,581 円&lt;/p&gt;&lt;p&gt;メーカー: クラウディッドレパードエンタテインメント&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw799f228f/products/D70010000123376/squareHeroBanner/68bc3b7158f2da8c9a033254a6afc3b9e63037fb5df5c9a4ee7467d616f42a9d.jpg?sw=346&amp;amp;strip=false" alt="ムーンライト・ピークス -ヴァンパイアのゴシックライフ-"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000123376"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000123376"/>
   </entry>
 </feed>
