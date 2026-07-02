@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1</id>
   <title>My Nintendo Store セール新着差分</title>
-  <updated>2026-07-01T22:39:40.913580+00:00</updated>
+  <updated>2026-07-02T00:20:50.679438+00:00</updated>
   <link href="https://store-jp.nintendo.com/list/software/?isSale=true&amp;softType=TITLE&amp;srule=new-arrival&amp;page=1" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>My Nintendo Store セール中ソフトの新着・割引変更</subtitle>
@@ -96,13 +96,6 @@
     <updated>2026-07-01T00:20:44.459138+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;東京ヤクザアイドル：反逆美少女の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Girl)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;60%OFF&lt;/p&gt;&lt;p&gt;価格: 1,596 円&lt;/p&gt;&lt;p&gt;メーカー: Red Fables&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw40f434f6/products/D70010000121659/squareHeroBanner/e2f04974ead2a71c61e62b3fc09ca31329eb54d705a635f157b1dd50f71ddab2.jpg?sw=346&amp;amp;strip=false" alt="東京ヤクザアイドル：反逆美少女の心を救え (Tokyo Yakuza Idols: Save the Heart of a Rebel Girl)"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000121659"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000121659"/>
-  </entry>
-  <entry>
-    <id>nintendo-sale:D70010000127979:63039be0f461eb0a</id>
-    <title>NAMCO LEGENDARY Mountains 10%OFF</title>
-    <updated>2026-07-01T00:20:44.459138+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;NAMCO LEGENDARY Mountains&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: ビサイド&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa74c43f3/products/D70010000127979/squareHeroBanner/c99ae7829ef4236e39c3b0cad122295db8a849d3ad87ed4d2fdbb6973c8864be.jpg?sw=346&amp;amp;strip=false" alt="NAMCO LEGENDARY Mountains"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127979"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://store-jp.nintendo.com/item/software/D70010000127979"/>
   </entry>
   <entry>
     <id>nintendo-sale:D70010000127448:c70c31cf873f7522</id>
@@ -355,5 +348,12 @@
     <updated>2026-07-01T18:15:47.571224+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;COTTOn ROCK WITH YOU　-ORIENTAL NIGHT DREAMS- &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;20%OFF&lt;/p&gt;&lt;p&gt;価格: 5,104 円&lt;/p&gt;&lt;p&gt;メーカー: サクセス&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwae791c2d/products/D70010000112653/squareHeroBanner/8a9896ecc2be96b6c3de717bfa69b6a6b88ed2784826273e8a8f22ffe31fd336.jpg?sw=346&amp;amp;strip=false" alt="COTTOn ROCK WITH YOU　-ORIENTAL NIGHT DREAMS- "&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000112653"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://store-jp.nintendo.com/item/software/D70010000112653"/>
+  </entry>
+  <entry>
+    <id>nintendo-sale:D70010000127979:63039be0f461eb0a</id>
+    <title>NAMCO LEGENDARY Mountains 10%OFF</title>
+    <updated>2026-07-02T00:20:50.679438+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;NAMCO LEGENDARY Mountains&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;10%OFF&lt;/p&gt;&lt;p&gt;価格: 2,232 円&lt;/p&gt;&lt;p&gt;メーカー: ビサイド&lt;/p&gt;&lt;p&gt;ダウンロード版&lt;/p&gt;&lt;p&gt;&lt;img src="https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa74c43f3/products/D70010000127979/squareHeroBanner/c99ae7829ef4236e39c3b0cad122295db8a849d3ad87ed4d2fdbb6973c8864be.jpg?sw=346&amp;amp;strip=false" alt="NAMCO LEGENDARY Mountains"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://store-jp.nintendo.com/item/software/D70010000127979"&gt;My Nintendo Storeで開く&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://store-jp.nintendo.com/item/software/D70010000127979"/>
   </entry>
 </feed>
